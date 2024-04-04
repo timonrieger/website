@@ -1,0 +1,24 @@
+{% extends "layout.html"%}
+
+{% from "bootstrap5/form.html" import render_form %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <div class="my-5 py-5">
+        <h1>Timon's Project Hub</h1>
+        <p class="lead" style="margin: 20px">Explore all my projects. Feel free to try them out!</p>
+        <p class="lead">
+          <a href="{{ url_for('browse_projects') }}" class="btn btn-lg btn-light fw-bold border-white bg-white">Explore</a>
+        </p>
+    </div>
+    <div class="my-5">
+    {% if get_flashed_messages() %}
+        {% for message in get_flashed_messages() %}
+            <h5 class="flash mb-4" style="color: #0275d8">{{ message }}</h5>
+        {% endfor %}
+    {% else %}
+        {{ render_form(form, button_map={"submit": "primary"}) }}
+    {% endif %}
+    </div>
+{% endblock %}
