@@ -56,8 +56,30 @@ def home():
             newsletter_subscriber = NewsletterSubscribers(email=form.email.data)
             db.session.add(newsletter_subscriber)
             db.session.commit()
-            flash("Successfully subscribed.")
+
     return render_template("index.html", form=form)
+
+@app.route("/confirm/<email>")
+def confirm_users(email):
+    token = request.args.get("token")
+    form = request.args.get("form")
+    if mail_manager.check_token(token):
+        if form == "newsletter":
+            member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == email)).scalar()
+            member.confirmed = 1
+            db.session.commit()
+            flash("Successfully subscribed.")
+            return redirect(url_for("home"))
+        elif form == "ans":
+            member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == email)).scalar()
+            member.confirmed = 1
+            db.session.commit()
+            flash("Success. You are now an Air Nomad ✈️")
+            return redirect(url_for("air_nomad_society"))
+    else:
+        flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
+        return redirect(url_for("home"))
+
 
 @app.route("/projects")
 def browse_projects():
@@ -105,7 +127,6 @@ def air_nomad_society():
                 )
                 db.session.add(new_member)
                 db.session.commit()
-                flash("Success. You are now an Air Nomad ✈️")
 
     return render_template("AirNomad.html", form=form)
 
