@@ -52,8 +52,10 @@ def home():
         already_subscriber = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == form.email.data)).scalar()
         if already_subscriber:
             flash("You have subscribed already.")
-        if not already_subscriber:
-            newsletter_subscriber = NewsletterSubscribers(email=form.email.data)
+        else:
+            mail_manager.send_confirmation_link(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter")
+            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
+            newsletter_subscriber = NewsletterSubs(email=form.email.data)
             db.session.add(newsletter_subscriber)
             db.session.commit()
 
@@ -115,6 +117,8 @@ def air_nomad_society():
             if form.update.data:
                 flash("You aren't a member yet. Join first.")
             elif form.join.data:
+                mail_manager.send_confirmation_link(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans")
+                flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
                 new_member = AirNomads(
                     username=form.username.data,
                     email=form.email.data,
