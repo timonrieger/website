@@ -1,4 +1,4 @@
-from flask import Flask, render_template, url_for, flash, redirect
+from flask import Flask, render_template, url_for, flash, redirect, request
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy import Integer, String, Boolean
@@ -15,6 +15,8 @@ npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").jso
 app = Flask(__name__)
 app.secret_key = FLASK_SECRET_KEY
 bootstrap = Bootstrap5(app)
+
+mail_manager = MailManagaer()
 
 class Base(DeclarativeBase):
     __abstract__ = True
