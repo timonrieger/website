@@ -17,11 +17,12 @@ app.secret_key = FLASK_SECRET_KEY
 bootstrap = Bootstrap5(app)
 
 class Base(DeclarativeBase):
-    pass
+    __abstract__ = True
 
-app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///project_webpage.db"
-db = SQLAlchemy(model_class=Base)
-db.init_app(app)
+    confirmed: Mapped[int] = mapped_column(Integer, default=0)
+
+app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///portfolio-website.db"
+db = SQLAlchemy(app, model_class=Base)
 
 class AirNomads(db.Model):
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
