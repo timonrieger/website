@@ -10,7 +10,7 @@ from secret_keys import FLASK_SECRET_KEY, GMAIL_EMAIL, GMAIL_PASSWORD, ANS_EMAIL
 from mail_manager import MailManagaer
 
 # website content storage using npoint
-data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
+npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
 
 app = Flask(__name__)
 app.secret_key = FLASK_SECRET_KEY
@@ -35,7 +35,7 @@ class AirNomads(db.Model):
     max_nights: Mapped[int] = mapped_column(Integer)
     travel_countries: Mapped[str] = mapped_column(String)
 
-class NewsletterSubscribers(db.Model):
+class NewsletterSubs(db.Model):
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
     email: Mapped[str] = mapped_column(String, unique=True)
 
@@ -47,7 +47,7 @@ with app.app_context():
 def home():
     form = NewsletterForm()
     if form.validate_on_submit():
-        already_subscriber = db.session.execute(db.Select(NewsletterSubscribers).where(NewsletterSubscribers.email == form.email.data)).scalar()
+        already_subscriber = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == form.email.data)).scalar()
         if already_subscriber:
             flash("You have subscribed already.")
         if not already_subscriber:
@@ -59,13 +59,12 @@ def home():
 
 @app.route("/projects")
 def browse_projects():
-    return render_template("projects.html", all_projects=data["projects"])
+    return render_template("projects.html", all_projects=npoint_data["projects"])
 
 @app.route("/contact", methods=["POST", "GET"])
 def contact():
     form = ContactForm()
     if form.validate_on_submit():
-        form.message(style="height: 200px")
         return render_template("contact.html", form=form, form_submitted=True)
     return render_template("contact.html", form=form)
 
