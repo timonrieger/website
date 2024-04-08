@@ -80,7 +80,10 @@ def confirm_users(email):
             return redirect(url_for("air_nomad_society"))
     else:
         flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
-        return redirect(url_for("home"))
+        if form == "newsletter":
+            return redirect(url_for("home"))
+        elif form == "ans":
+            return redirect(url_for("air_nomad_society"))
 
 
 @app.route("/projects")
