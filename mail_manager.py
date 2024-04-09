@@ -23,7 +23,8 @@ class MailManagaer():
         #write the email
         message = (f"Subject: Account Confirmation Link\n\n"
                    f"Hello,\n\n"
-                   f"Thank you for signing up! To complete your registration, please click the link below:\n\n{confirmation_link}\n\n"
+                   f"Thank you for signing up! To complete your registration, please click the link below:\n\n{confirmation_link}\n"
+                   f"This link will remain valid for 10 minutes.\n\n"
                    f"If you did not request this registration or have any questions, please ignore this message.\n\n"
                    f"Best regards,\n\nTimon Rieger")
 
