@@ -2,7 +2,7 @@ from flask import Flask, render_template, url_for, flash, redirect, request
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy import Integer, String, Boolean
-from forms import AirNomadSocietySubscribe, NewsletterForm, ContactForm, FlashbackPlaylists
+from forms import AirNomadSocietyForm, NewsletterForm, ContactForm, FlashbackPlaylistsForm
 import requests
 from flask_bootstrap import Bootstrap5
 from FlashbackPlaylists.spotify import PlaylistGenerator
@@ -53,37 +53,41 @@ def home():
         if already_subscriber:
             flash("You have subscribed already.")
         else:
-            mail_manager.send_confirmation_link(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter")
-            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
             newsletter_subscriber = NewsletterSubs(email=form.email.data)
             db.session.add(newsletter_subscriber)
             db.session.commit()
+            mail_manager.send_confirmation_link(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter", db, NewsletterSubs, AirNomads)
+            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
 
     return render_template("index.html", form=form)
 
-@app.route("/confirm/<email>")
-def confirm_users(email):
+@app.route("/confirm")
+def confirm_users():
     token = request.args.get("token")
     form = request.args.get("form")
-    if mail_manager.check_token(token):
-        if form == "newsletter":
-            member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == email)).scalar()
+    id = request.args.get("id")
+    if form == "newsletter":
+        member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.id == id)).scalar()
+        if mail_manager.check_token(token):
             member.confirmed = 1
-            db.session.commit()
             flash("Successfully subscribed.")
-            return redirect(url_for("home"))
-        elif form == "ans":
-            member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == email)).scalar()
-            member.confirmed = 1
+        else:
+            db.session.delete(member)
             db.session.commit()
+            flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
+        return redirect(url_for("home"))
+
+    elif form == "ans":
+        member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
+        if mail_manager.check_token(token):
+            member.confirmed = 1
             flash("Success. You are now an Air Nomad ✈️")
-            return redirect(url_for("air_nomad_society"))
-    else:
-        flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
-        if form == "newsletter":
-            return redirect(url_for("home"))
-        elif form == "ans":
-            return redirect(url_for("air_nomad_society"))
+        else:
+            db.session.delete(member)
+            db.session.commit()
+            flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
+        return redirect(url_for("air_nomad_society"))
+
 
 
 @app.route("/projects")
@@ -99,7 +103,7 @@ def contact():
 
 @app.route("/air-nomad-society", methods=["POST", "GET"])
 def air_nomad_society():
-    form = AirNomadSocietySubscribe()
+    form = AirNomadSocietyForm()
     if form.validate_on_submit():
         already_member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == form.email.data)).scalar()
         favorite_countries = ",".join([country for country in form.favorite_countries.data])
@@ -120,8 +124,6 @@ def air_nomad_society():
             if form.update.data:
                 flash("You aren't a member yet. Join first.")
             elif form.join.data:
-                mail_manager.send_confirmation_link(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans")
-                flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
                 new_member = AirNomads(
                     username=form.username.data,
                     email=form.email.data,
@@ -134,12 +136,14 @@ def air_nomad_society():
                 )
                 db.session.add(new_member)
                 db.session.commit()
+                mail_manager.send_confirmation_link(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads)
+                flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
 
     return render_template("AirNomad.html", form=form)
 
 @app.route("/flashback-playlists", methods=["POST", "GET"])
 def flashback_playlists():
-    form = FlashbackPlaylists()
+    form = FlashbackPlaylistsForm()
     if form.validate_on_submit():
         date_input = str(form.date_input.data)
         year = int(date_input.split("-")[0])
@@ -151,7 +155,7 @@ def flashback_playlists():
             return render_template("FlashbackPlaylists.html", form_submitted=True, link=playlist_link, title=form.title.data, form=form)
         else:
             flash("Please enter a date that is later than 1900.")
-            form = FlashbackPlaylists(
+            form = FlashbackPlaylistsForm(
                 title=form.title.data,
                 description=form.description.data
             )
