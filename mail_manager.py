@@ -34,4 +34,14 @@ class MailManagaer():
                 server.sendmail(email, to_email, message)
 
     def check_token(self, token):
-        return token == self.confirmation_token
+        print(self.tokens)
+        print(time.time())
+        if token in self.tokens:
+            creation_time = self.tokens[token]
+            current_time = time.time()
+            # Check if token was created within the last ten minutes
+            if current_time - creation_time <= 600:
+                return True
+            else:
+                del self.tokens[token]  # Remove expired token
+        return False
