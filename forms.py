@@ -9,7 +9,7 @@ TEXT_AREA_STYLE = "width: 40%; height: 100px; margin: auto; display: block"
 SELECT_MULTIPLE_STYLE = "width: 40%; height: 150px; margin: auto; display: block"
 SUBMIT_STYLE = "margin-bottom: 10px"
 
-class AirNomadSocietySubscribe(FlaskForm):
+class AirNomadSocietyForm(FlaskForm):
     departure_choices = [f"{city["city"]} | {city["code"]}" for city in requests.get(url=TRAVEL_DATA).json()["cities"]]
     currency_choices = requests.get(url=TRAVEL_DATA).json()["currencies"]
     country_choices = [country["country"] for country in requests.get(url=TRAVEL_DATA).json()["countries"]]
@@ -34,7 +34,7 @@ class NewsletterForm(FlaskForm):
     email = StringField(label="Email", render_kw={"style": f"{STRING_FIELD_STYLE}; f{SUBMIT_STYLE}"}, validators=[DataRequired(), Email()])
     submit = SubmitField(label="Stay updated")
 
-class FlashbackPlaylists(FlaskForm):
+class FlashbackPlaylistsForm(FlaskForm):
     date_input = DateField(label="Date", render_kw={"style": f"{STRING_FIELD_STYLE}"}, validators=[DataRequired()])
     title = StringField(label="Playlist Title", render_kw={"style": f"{STRING_FIELD_STYLE}"}, validators=[DataRequired()])
     description = TextAreaField(label="Playlist Description", render_kw={"style": f"{TEXT_AREA_STYLE}; {SUBMIT_STYLE}"}, validators=[DataRequired(), Length(max=300, message="Maximum 300 characters.")])
