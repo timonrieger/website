@@ -1,4 +1,4 @@
-import secrets, string, smtplib
+import secrets, string, smtplib, time
 
 class MailManagaer():
 
@@ -6,7 +6,7 @@ class MailManagaer():
         self.tokens = {}
 
 
-    def send_confirmation_link(self, to_email, email, email_password, form):
+    def send_confirmation_link(self, user_mail, my_mail, email_password, form, db, NewsletterSubs, AirNomads):
         """Send a confirmation link to the specified email."""
         # Generate a random token
         characters = string.ascii_letters + string.digits
@@ -31,8 +31,9 @@ class MailManagaer():
         # Send the email
         with smtplib.SMTP("smtp.gmail.com", port=587) as server:
                 server.starttls()
-                server.login(email, email_password)
-                server.sendmail(email, to_email, message)
+                server.login(my_mail, email_password)
+                server.sendmail(my_mail, user_mail, message)
+
 
     def check_token(self, token):
         print(self.tokens)
