@@ -3,15 +3,24 @@ import secrets, string, smtplib
 class MailManagaer():
 
     def __init__(self):
-        self.confirmation_token = ""
+        self.tokens = {}
 
 
     def send_confirmation_link(self, to_email, email, email_password, form):
         """Send a confirmation link to the specified email."""
         # Generate a random token
         characters = string.ascii_letters + string.digits
-        self.confirmation_token = ''.join(secrets.choice(characters) for i in range(20))
-        confirmation_link = f"http://127.0.0.1:5000/confirm/{to_email}?token={self.confirmation_token}&form={form}"
+        token = ''.join(secrets.choice(characters) for i in range(20))
+        self.tokens[token] = time.time()
+        # get user id
+        if form == "newsletter":
+            member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == user_mail)).scalar()
+        elif form == "ans":
+            member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == user_mail)).scalar()
+        user_id = member.id
+        # create the link
+        confirmation_link = f"http://127.0.0.1:5000/confirm?id={user_id}&token={token}&form={form}"
+        #write the email
         message = (f"Subject: Account Confirmation Link\n\n"
                    f"Hello,\n\n"
                    f"Thank you for signing up! To complete your registration, please click the link below:\n\n{confirmation_link}\n\n"
