@@ -1,7 +1,7 @@
 import json, smtplib, requests
 from secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
-
-# import email.mime.text
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 BITLY_ACCESS_TOKEN = "#"
 BITLY_ENDPOINT = "https://api-ssl.bitly.com/v4/shorten"
@@ -50,6 +50,26 @@ class NotificationManager:
         except smtplib.SMTPRecipientsRefused:
             print("You provided an invalid email adress.")
 
+    def send_weekly_email(self, to_address):
+        with open('../templates/weekly_mail.html', 'r', encoding="utf-8") as email:
+            html_string = email.read()
+
+        # Create a multipart message
+        msg = MIMEMultipart()
+        msg['From'] = ANS_EMAIL
+        msg['To'] = to_address
+        msg['Subject'] = "Weekly Flight Deals!"
+
+        # Attach HTML content to the email
+        html_part = MIMEText(html_string, 'html')
+        msg.attach(html_part)
+        try:
+            with smtplib.SMTP_SSL(host="smtp.gmail.com") as connection:
+                connection.login(user=ANS_EMAIL, password=ANS_MAIL_PASSWORD)
+                connection.send_message(msg)
+        except smtplib.SMTPRecipientsRefused:
+            print("You provided an invalid email address.")
+
 ############### these ways did not work until now #############
 
         ############ parse the link via html, might work when i know more about html ###############
@@ -83,3 +103,6 @@ class NotificationManager:
 #api_url = f"http://tinyurl.com/api-create.php?url={encoded_link}"
 #response = requests.get(api_url)
 #print(response.text)
+
+# mail = NotificationManager()
+# mail.send_weekly_email("timonriegerx@gmail.com")
