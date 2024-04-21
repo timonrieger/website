@@ -22,9 +22,8 @@ for user in data_manager.user_data:
         while item in user["dreamPlaces"]:
             selected_gems[index] = random.choice(data_manager.destination_data)
             item = selected_gems[index]
-    message = f"Hey {user["username"]}!\n\n"
-    dream_places = "🌟 Your Favorite Destinations 🌟\n\n"
-    gem_places = "💎 Discover Hidden Gems 💎\n\n"
+    dream_places = []
+    gem_places = []
 
     for destination in data_manager.destination_data:
         # reloading_requests += 1
@@ -45,14 +44,21 @@ for user in data_manager.user_data:
                 continue
 
             elif flight.departure_city[0] != flight.arrival_city[0]:
-                dream_places += (
-                    f"✈️ Only {flight.price[0]}{flight.currency} to fly from "
-                    f"{flight.departure_city[0]} ({flight.departure_iata_code[0]}) to "
-                    f"{flight.arrival_city[0]} ({flight.arrival_iata_code[0]}), {flight.arrival_country}, "
-                    f"from {flight.from_date[0]} to {flight.to_date[0]}.")
-                if flight.stop_overs[0] > 0:
-                    dream_places += f" Flight has {flight.stop_overs[0]} stop over in {flight.via_city}."
-                dream_places += "\n\n"
+                dream_places.append(
+                    {
+                        "price": flight.price[0],
+                        "currency": flight.currency,
+                        "dep_city": flight.departure_city[0],
+                        "dep_code": flight.departure_iata_code[0],
+                        "arr_city": flight.arrival_city[0],
+                        "arr_code": flight.arrival_iata_code[0],
+                        "arr_country": flight.arrival_country,
+                        "from_dt": flight.from_date[0],
+                        "to_dt": flight.to_date[0],
+                        "link": flight.link,
+                        "stop_over": flight.via_city
+                    }
+                )
 
     for destination in selected_gems:
         flight = flight_search.check_flight(
@@ -68,17 +74,23 @@ for user in data_manager.user_data:
             continue
 
         elif flight.departure_city[0] != flight.arrival_city[0]:
-            gem_places += (
-                f"✈️ Only {flight.price[0]}{flight.currency} to fly from "
-                f"{flight.departure_city[0]} ({flight.departure_iata_code[0]}) to "
-                f"{flight.arrival_city[0]} ({flight.arrival_iata_code[0]}), {flight.arrival_country}, "
-                f"from {flight.from_date[0]} to {flight.to_date[0]}.")
-            if flight.stop_overs[0] > 0:
-                gem_places += f" Flight has {flight.stop_overs[0]} stop over in {flight.via_city}."
-            gem_places += "\n\n"
+            gem_places.append(
+                {
+                    "price": flight.price[0],
+                    "currency": flight.currency,
+                    "dep_city": flight.departure_city[0],
+                    "dep_code": flight.departure_iata_code[0],
+                    "arr_city": flight.arrival_city[0],
+                    "arr_code": flight.arrival_iata_code[0],
+                    "arr_country": flight.arrival_country,
+                    "from_dt": flight.from_date[0],
+                    "to_dt": flight.to_date[0],
+                    "link": flight.link,
+                    "stop_over": flight.via_city
+                }
+            )
 
-    message += f"{dream_places}\n\n\n{gem_places}\n\n\nHappy Travels!"
-    notification_manager.send_emails(to_adress=user["email"], message=message)
+    notification_manager.send_weekly_email(to_address=user["email"], dream_flights=dream_places, random_flights=gem_places, username=user['username'])
 
     print(f"Code Run Time was: {time.time() - start_time} seconds.")
 
