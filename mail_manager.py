@@ -36,8 +36,6 @@ class MailManagaer():
 
 
     def check_token(self, token):
-        print(self.tokens)
-        print(time.time())
         if token in self.tokens:
             creation_time = self.tokens[token]
             current_time = time.time()

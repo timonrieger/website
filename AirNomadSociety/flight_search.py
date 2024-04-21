@@ -86,6 +86,7 @@ class FlightSearch:
                     arrival_country=data["countryTo"]["name"],
                     from_date=datetime.fromtimestamp(data["route"][0]["dTime"]).strftime("%d.%m.%Y"),
                     to_date=datetime.fromtimestamp(data["route"][1]["aTime"]).strftime("%d.%m.%Y"),
+                    via_city=False,
                     link=data["deep_link"],
                     currency=currency,
                     distance=data["distance"]
