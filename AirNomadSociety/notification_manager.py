@@ -80,15 +80,17 @@ class NotificationManager:
             html_string = email_file.read()
             email_file.close()
         # Attach HTML content to the email
-        html_part = MIMEText(html_string, 'html')
+        html_part = MIMEText(html_string, 'html', 'utf-8')  # Specify charset
         msg.attach(html_part)
-        try:
-            with smtplib.SMTP_SSL(host="smtp.gmail.com") as connection:
-                connection.login(user=ANS_EMAIL, password=ANS_MAIL_PASSWORD)
-                connection.send_message(msg)
-                connection.close()
-        except smtplib.SMTPRecipientsRefused:
-            print("You provided an invalid email address.")
+
+        # Set content-transfer-encoding explicitly to base64
+        html_part.set_param('charset', 'utf-8')
+        html_part.set_param('Content-Transfer-Encoding', 'base64')
+
+        with smtplib.SMTP_SSL(host="smtp.gmail.com") as connection:
+            connection.login(user=ANS_EMAIL, password=ANS_MAIL_PASSWORD)
+            connection.send_message(msg)
+            connection.close()
 
         # clear unique html file
         with open('../templates/weekly_ans_email/user_mail.html', "w") as email_file:
