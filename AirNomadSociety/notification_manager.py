@@ -86,6 +86,7 @@ class NotificationManager:
             with smtplib.SMTP_SSL(host="smtp.gmail.com") as connection:
                 connection.login(user=ANS_EMAIL, password=ANS_MAIL_PASSWORD)
                 connection.send_message(msg)
+                connection.close()
         except smtplib.SMTPRecipientsRefused:
             print("You provided an invalid email address.")
 
