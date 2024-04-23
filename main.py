@@ -22,6 +22,7 @@ class Base(DeclarativeBase):
     __abstract__ = True
 
     confirmed: Mapped[int] = mapped_column(Integer, default=0)
+    token: Mapped[str] = mapped_column(String, unique=True)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///portfolio-website.db"
 db = SQLAlchemy(app, model_class=Base)
@@ -53,7 +54,7 @@ def home():
         if already_subscriber:
             flash("You have subscribed already.")
         else:
-            newsletter_subscriber = NewsletterSubs(email=form.email.data)
+            newsletter_subscriber = NewsletterSubs(email=form.email.data, token=mail_manager.generate_token(expire=False))
             db.session.add(newsletter_subscriber)
             db.session.commit()
             mail_manager.send_confirmation_link(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter", db, NewsletterSubs, AirNomads)
@@ -88,6 +89,26 @@ def confirm_users():
         db.session.commit()
         return redirect(url_for("air_nomad_society"))
 
+@app.route("/unsubscribe")
+def unsubscribe_users():
+    token = request.args.get("token")
+    form = request.args.get("form")
+    id = request.args.get("id")
+    if form == "newsletter":
+        member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.id == id)).scalar()
+        if member.token == token:
+            db.session.delete(member)
+            db.session.commit()
+            flash(f"Successfully unsubscribed with {member.email}.")
+        return redirect(url_for("home"))
+
+    elif form == "ans":
+        member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
+        if member.token == token:
+            db.session.delete(member)
+            db.session.commit()
+            flash(f"Successfully unsubscribed with {member.email}.")
+        return redirect(url_for("air_nomad_society"))
 
 
 @app.route("/projects")
@@ -132,7 +153,8 @@ def air_nomad_society():
                     currency=form.currency.data,
                     min_nights=form.min_nights.data,
                     max_nights=form.max_nights.data,
-                    travel_countries=favorite_countries
+                    travel_countries=favorite_countries,
+                    token=mail_manager.generate_token(expire=False)
                 )
                 db.session.add(new_member)
                 db.session.commit()
