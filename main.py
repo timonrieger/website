@@ -7,7 +7,7 @@ import requests
 from flask_bootstrap import Bootstrap5
 from FlashbackPlaylists.spotify import PlaylistGenerator
 from secret_keys import FLASK_SECRET_KEY, GMAIL_EMAIL, GMAIL_PASSWORD, ANS_EMAIL, ANS_MAIL_PASSWORD
-from mail_manager import MailManagaer
+from mail_manager import MailManager
 
 # website content storage using npoint
 npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
@@ -16,7 +16,7 @@ app = Flask(__name__)
 app.secret_key = FLASK_SECRET_KEY
 bootstrap = Bootstrap5(app)
 
-mail_manager = MailManagaer()
+mail_manager = MailManager()
 
 class Base(DeclarativeBase):
     __abstract__ = True
@@ -57,7 +57,7 @@ def home():
             newsletter_subscriber = NewsletterSubs(email=form.email.data, token=mail_manager.generate_token(expire=False))
             db.session.add(newsletter_subscriber)
             db.session.commit()
-            mail_manager.send_confirmation_link(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter", db, NewsletterSubs, AirNomads)
+            mail_manager.send_confirmation_email(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter", db, NewsletterSubs, AirNomads)
             flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
 
     return render_template("index.html", form=form)
@@ -69,7 +69,7 @@ def confirm_users():
     id = request.args.get("id")
     if form == "newsletter":
         member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.id == id)).scalar()
-        if mail_manager.check_token(token):
+        if mail_manager.check_expiring_token(token, 600):
             member.confirmed = 1
             flash("Successfully subscribed.")
         else:
@@ -80,7 +80,7 @@ def confirm_users():
 
     elif form == "ans":
         member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
-        if mail_manager.check_token(token):
+        if mail_manager.check_expiring_token(token, 600):
             member.confirmed = 1
             flash("Success. You are now an Air Nomad ✈️")
         else:
@@ -158,7 +158,7 @@ def air_nomad_society():
                 )
                 db.session.add(new_member)
                 db.session.commit()
-                mail_manager.send_confirmation_link(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads)
+                mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads)
                 flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
 
     return render_template("AirNomad.html", form=form)

@@ -75,11 +75,12 @@ class NotificationManager:
 
         # Attach HTML content to the email
         html_part = MIMEText(html_string, 'html', 'utf-8')  # Specify charset
-        msg.attach(html_part)
 
         # Set content-transfer-encoding explicitly to base64
         html_part.set_param('charset', 'utf-8')
         html_part.set_param('Content-Transfer-Encoding', 'base64')
+
+        msg.attach(html_part)
 
         with smtplib.SMTP_SSL(host="smtp.gmail.com") as connection:
             connection.login(user=ANS_EMAIL, password=ANS_MAIL_PASSWORD)

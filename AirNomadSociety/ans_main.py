@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-import random, time
+import random
 
 from data_manager import DataManager
 from flight_search import FlightSearch
@@ -10,7 +10,6 @@ flight_search = FlightSearch()
 notification_manager = NotificationManager()
 
 data_manager.get_user_data()
-
 data_manager.get_destination_data()
 
 for user in data_manager.user_data:
@@ -87,4 +86,4 @@ for user in data_manager.user_data:
                 }
             )
 
-    notification_manager.send_weekly_email(to_address=user["email"], dream_flights=dream_places, random_flights=gem_places, username=user['username'])
+    notification_manager.send_weekly_email(user=user, dream_flights=dream_places, random_flights=gem_places)
