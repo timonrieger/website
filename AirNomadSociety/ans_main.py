@@ -46,7 +46,7 @@ for user in data_manager.user_data:
             elif flight.departure_city[0] != flight.arrival_city[0]:
                 dream_places.append(
                     {
-                        "price": flight.price[0],
+                        "price": int(float(flight.price[0])),
                         "currency": flight.currency,
                         "dep_city": flight.departure_city[0],
                         "dep_code": flight.departure_iata_code[0],
@@ -76,7 +76,7 @@ for user in data_manager.user_data:
         elif flight.departure_city[0] != flight.arrival_city[0]:
             gem_places.append(
                 {
-                    "price": flight.price[0],
+                    "price": int(float(flight.price[0])),
                     "currency": flight.currency,
                     "dep_city": flight.departure_city[0],
                     "dep_code": flight.departure_iata_code[0],
