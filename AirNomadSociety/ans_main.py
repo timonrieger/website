@@ -9,9 +9,6 @@ data_manager = DataManager()
 flight_search = FlightSearch()
 notification_manager = NotificationManager()
 
-# reloading_requests = 0
-start_time = time.time()
-
 data_manager.get_user_data()
 
 data_manager.get_destination_data()
@@ -91,6 +88,3 @@ for user in data_manager.user_data:
             )
 
     notification_manager.send_weekly_email(to_address=user["email"], dream_flights=dream_places, random_flights=gem_places, username=user['username'])
-
-    print(f"Code Run Time was: {time.time() - start_time} seconds.")
-

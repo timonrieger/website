@@ -3,12 +3,6 @@ from secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-BITLY_ACCESS_TOKEN = "#"
-BITLY_ENDPOINT = "https://api-ssl.bitly.com/v4/shorten"
-
-ALERTZY_ACCOUNT_KEY = "#"
-
-TINYURL_ENDPOINT = "#"
 
 class NotificationManager:
     #This class is responsible for sending notifications with the deal flight details.
@@ -78,7 +72,7 @@ class NotificationManager:
         # Read HTML file
         with open('../templates/weekly_ans_email/user_mail.html', 'r', encoding="utf-8") as email_file:
             html_string = email_file.read()
-            email_file.close()
+
         # Attach HTML content to the email
         html_part = MIMEText(html_string, 'html', 'utf-8')  # Specify charset
         msg.attach(html_part)
@@ -94,6 +88,4 @@ class NotificationManager:
 
         # clear unique html file
         with open('../templates/weekly_ans_email/user_mail.html', "w") as email_file:
-          email_file.write("")
-
-        # <br>via <strong>{flight['stop_over']}
+            email_file.write("")
