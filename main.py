@@ -73,8 +73,8 @@ def confirm_users():
             flash("Successfully subscribed.")
         else:
             db.session.delete(member)
-            db.session.commit()
             flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
+        db.session.commit()
         return redirect(url_for("home"))
 
     elif form == "ans":
@@ -84,8 +84,8 @@ def confirm_users():
             flash("Success. You are now an Air Nomad ✈️")
         else:
             db.session.delete(member)
-            db.session.commit()
             flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
+        db.session.commit()
         return redirect(url_for("air_nomad_society"))
 
 
