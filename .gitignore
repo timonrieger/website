@@ -5,6 +5,8 @@ instance
 .DS_Store
 .idea
 AirNomadSociety/bulk_import_iata_codes.py
+AirNomadSociety/tester.py
+AirNomadSociety/runner.py
 
 
 # Byte-compiled / optimized / DLL files
