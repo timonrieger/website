@@ -98,21 +98,18 @@ def confirm_users():
 def unsubscribe_users():
     token = request.args.get("token")
     form = request.args.get("form")
-    id = request.args.get("id")
     if form == "newsletter":
-        member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.id == id)).scalar()
-        if member.token == token:
-            db.session.delete(member)
-            db.session.commit()
-            flash(f"Successfully unsubscribed with {member.email}.")
+        member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.token == token)).scalar()
+        db.session.delete(member)
+        db.session.commit()
+        flash(f"Successfully unsubscribed with {member.email}.")
         return redirect(url_for("home"))
 
     elif form == "ans":
-        member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
-        if member.token == token:
-            db.session.delete(member)
-            db.session.commit()
-            flash(f"Successfully unsubscribed with {member.email}.")
+        member = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
+        db.session.delete(member)
+        db.session.commit()
+        flash(f"Successfully unsubscribed with {member.email}.")
         return redirect(url_for("air_nomad_society"))
 
 
