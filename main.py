@@ -8,12 +8,17 @@ from flask_bootstrap import Bootstrap5
 from FlashbackPlaylists.spotify import PlaylistGenerator
 from secret_keys import FLASK_SECRET_KEY, GMAIL_EMAIL, GMAIL_PASSWORD, ANS_EMAIL, ANS_MAIL_PASSWORD
 from mail_manager import MailManager
+from flask_wtf.csrf import CSRFProtect
 
 # website content storage using npoint
 npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
 
 app = Flask(__name__)
 app.secret_key = FLASK_SECRET_KEY
+
+csrf = CSRFProtect()
+csrf.init_app(app)
+
 bootstrap = Bootstrap5(app)
 
 mail_manager = MailManager()
