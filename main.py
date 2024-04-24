@@ -163,6 +163,19 @@ def air_nomad_society():
                 mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads)
                 flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
 
+    token = request.args.get("token")
+    if token:
+        user = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
+        form = AirNomadSocietyForm(
+            username=user.username,
+            email=user.email,
+            departure_city=f"{user.departure_city} | {user.departure_iata}",
+            currency=user.currency,
+            min_nights=user.min_nights,
+            max_nights=user.max_nights,
+            favorite_countries=[country.replace(",", "") for country in user.travel_countries.split(",")]
+        )
+
     return render_template("AirNomad.html", form=form)
 
 @app.route("/flashback-playlists", methods=["POST", "GET"])
