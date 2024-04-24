@@ -15,7 +15,7 @@ data_manager.get_destination_data()
 for user in data_manager.user_data:
     selected_gems = random.sample(data_manager.destination_data, 5)
     for index, item in enumerate(selected_gems):
-        while item in user["dreamPlaces"]:
+        while item['country'] in user["dreamPlaces"]:
             selected_gems[index] = random.choice(data_manager.destination_data)
             item = selected_gems[index]
     dream_places = []
