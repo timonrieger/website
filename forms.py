@@ -6,7 +6,7 @@ import requests
 
 STRING_FIELD_STYLE = "width: 40%; height: 30px; margin: auto; display: block"
 TEXT_AREA_STYLE = "width: 40%; height: 100px; margin: auto; display: block"
-SELECT_MULTIPLE_STYLE = "width: 40%; height: 150px; margin: auto; display: block"
+SELECT_MULTIPLE_STYLE = "width: 40%; height: 200px; margin: auto; display: block"
 SUBMIT_STYLE = "margin-bottom: 10px"
 
 class AirNomadSocietyForm(FlaskForm):
