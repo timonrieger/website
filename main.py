@@ -173,7 +173,8 @@ def flashback_playlists():
         day = date_input.split("-")[2]
         if year >= 1900:
             playlist_date = f"{year}-{month}-{day}"
-            playlist_link = PlaylistGenerator.generate_playlist(date=playlist_date, title=form.title.data, description=form.description.data)
+            description = f"{form.description.data}\nCreated by https://www.example.com"
+            playlist_link = PlaylistGenerator.generate_playlist(date=playlist_date, title=form.title.data, description=description)
             return render_template("FlashbackPlaylists.html", form_submitted=True, link=playlist_link, title=form.title.data, form=form)
         else:
             flash("Please enter a date that is later than 1900.")
