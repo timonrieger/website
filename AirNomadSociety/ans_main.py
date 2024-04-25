@@ -31,7 +31,7 @@ for user in data_manager.user_data:
                 departure_iata_code=user["departureIata"],
                 arrival_iata_code=destination["code"],
                 from_time=datetime.now() + timedelta(days=1),
-                to_time=datetime.now() + timedelta(days=180),
+                to_time=datetime.now() + timedelta(days=182),
                 min_nights=user["nightsFrom"],
                 max_nights=user["nightsTo"],
                 currency=user["currency"].upper()
@@ -61,7 +61,7 @@ for user in data_manager.user_data:
             departure_iata_code=user["departureIata"],
             arrival_iata_code=destination["code"],
             from_time=datetime.now() + timedelta(days=1),
-            to_time=datetime.now() + timedelta(days=180),
+            to_time=datetime.now() + timedelta(days=182),
             min_nights=user["nightsFrom"],
             max_nights=user["nightsTo"],
             currency=user["currency"].upper()
