@@ -57,7 +57,7 @@ def home():
     if form.validate_on_submit():
         already_subscriber = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == form.email.data)).scalar()
         if already_subscriber:
-            flash("You have subscribed already.")
+            flash("You are already subscribed.")
         else:
             newsletter_subscriber = NewsletterSubs(email=form.email.data, token=mail_manager.generate_token(expire=False))
             db.session.add(newsletter_subscriber)
@@ -74,25 +74,31 @@ def confirm_users():
     id = request.args.get("id")
     if form == "newsletter":
         member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.id == id)).scalar()
-        if mail_manager.check_expiring_token(token, 600):
+        if member and member.confirmed == 1:
+            flash("You have already confirmed your subscription. Stay tuned!")
+        elif mail_manager.check_expiring_token(token, 600):
             member.confirmed = 1
             flash("Successfully subscribed.")
         else:
             db.session.delete(member)
-            flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
+            flash("Invalid confirmation token. Please fill in the form again.")
         db.session.commit()
         return redirect(url_for("home"))
 
     elif form == "ans":
         member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
-        if mail_manager.check_expiring_token(token, 600):
+        if member and member.confirmed == 1:
+            flash("You have already confirmed your subscription. Sit back and relax!")
+            return redirect(url_for("air_nomad_society", id=id))
+        elif mail_manager.check_expiring_token(token, 600):
             member.confirmed = 1
-            flash("Success. You are now an Air Nomad ✈️")
+            db.session.commit()
+            flash("Success! You are now an Air Nomad ✈️. Feel free to update your profile as needed.")
+            return redirect(url_for("air_nomad_society", id=id))
         else:
-            db.session.delete(member)
-            flash("Invalid confirmation token. Please refresh the page and fill in the form again.")
-        db.session.commit()
-        return redirect(url_for("air_nomad_society"))
+            flash("Invalid confirmation token. Please resubmit the form and click the link in the email within 10 minutes.")
+            return redirect(url_for("air_nomad_society", id=id, unsubscribe=True))
+
 
 @app.route("/unsubscribe")
 def unsubscribe_users():
@@ -107,10 +113,12 @@ def unsubscribe_users():
 
     elif form == "ans":
         member = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
-        db.session.delete(member)
-        db.session.commit()
-        flash(f"Successfully unsubscribed with {member.email}.")
-        return redirect(url_for("air_nomad_society"))
+        if member:
+            flash(f"Successfully unsubscribed with {member.email}. To resubscribe, simply fill out the form again.")
+            return redirect(url_for("air_nomad_society", token=token, unsubscribe=True))
+        if not member:
+            flash("You are already unsubscribed.")
+            return redirect(url_for("air_nomad_society"))
 
 
 @app.route("/projects")
