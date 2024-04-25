@@ -23,7 +23,7 @@ class DataManager:
         self.user_data = [{"token": user.token, "id": user.id, "username": user.username, "email": user.email,
                            "departureCity": user.departure_city, "departureIata": user.departure_iata,
                            "currency": user.currency, "nightsFrom": user.min_nights, "nightsTo": user.max_nights,
-                           "dreamPlaces": user.travel_countries.split(",")} for user in user_data]
+                           "dreamPlaces": user.travel_countries.split(",")} for user in user_data if user.confirmed == 1]
         return self.user_data
 
     def get_destination_data(self):
