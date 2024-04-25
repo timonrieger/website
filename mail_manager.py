@@ -35,9 +35,9 @@ class MailManager():
             if current_time - creation_time <= valid_time:
                 return True
             else:
-                del self.tokens[token]  # Remove expired token
+                del self.tokens[token]
             return False
-        return False  # Token does not exist
+        return False
 
 
     def send_confirmation_email(self,user_mail, my_mail, email_password, form, db, NewsletterSubs, AirNomads, username=""):

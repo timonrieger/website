@@ -121,16 +121,6 @@ def unsubscribe_users():
             return redirect(url_for("air_nomad_society"))
 
 
-@app.route("/projects")
-def browse_projects():
-    return render_template("projects.html", all_projects=npoint_data["projects"])
-
-@app.route("/contact", methods=["POST", "GET"])
-def contact():
-    form = ContactForm()
-    if form.validate_on_submit():
-        return render_template("contact.html", form=form, form_submitted=True)
-    return render_template("contact.html", form=form)
 
 @app.route("/air-nomad-society", methods=["POST", "GET"])
 def air_nomad_society():
