@@ -14,10 +14,16 @@ data_manager.get_destination_data()
 
 for user in data_manager.user_data:
     selected_gems = random.sample(data_manager.destination_data, 5)
+    added_new_item = False
     for index, item in enumerate(selected_gems):
         while item['country'] in user["dreamPlaces"]:
-            selected_gems[index] = random.choice(data_manager.destination_data)
-            item = selected_gems[index]
+            new_item = random.choice(data_manager.destination_data)
+            if new_item['country'] not in [item['country'] for item in selected_gems]:
+                selected_gems[index] = new_item
+                added_new_item = True
+                break  # Exit the inner while loop
+        if added_new_item:
+            break  # Exit the outer for loop if a new item was added
     dream_places = []
     gem_places = []
 
