@@ -40,15 +40,15 @@ class MailManager():
         return False  # Token does not exist
 
 
-    def send_confirmation_email(self, user_mail, my_mail, email_password, form, db, NewsletterSubs, AirNomads):
+    def send_confirmation_email(self,user_mail, my_mail, email_password, form, db, NewsletterSubs, AirNomads, username=""):
         """Send a confirmation link to the specified email."""
         token = self.generate_token(expire=True)
         user_id = self.get_user_id(user_mail, form, db, NewsletterSubs, AirNomads)
         confirmation_link = f"http://127.0.0.1:5000/confirm?id={user_id}&token={token}&form={form}"
         message = (f"Subject: Account Confirmation Link\n\n"
-                   f"Hello,\n\n"
+                   f"Hello {username},\n\n"
                    f"Thank you for signing up! To complete your registration, please click the link below within the next 10 minutes:\n\n"
-                   f"{confirmation_link}\n"
+                   f"{confirmation_link}\n\n"
                    f"If you did not request this registration or have any questions, please ignore this message.\n\n"
                    f"Best regards,\n\nTimon Rieger")
         self.send_basic_emails(my_mail, email_password, user_mail, message)
