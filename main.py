@@ -126,7 +126,35 @@ def contact():
 
 @app.route("/air-nomad-society", methods=["POST", "GET"])
 def air_nomad_society():
+    token = request.args.get("token")
+    id = request.args.get("id")
     form = AirNomadSocietyForm()
+    # update user profile or delete user
+    if token or id:
+        unsubscribe = request.args.get("unsubscribe")
+        if token:
+            member = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
+        elif id:
+            member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
+        else:
+            member = None
+
+        if not member and not unsubscribe:
+            flash("You are not a member anymore. Subscribe again to update your profile.")
+        elif member:
+            form = AirNomadSocietyForm(
+                username=member.username,
+                email=member.email,
+                departure_city=f"{member.departure_city} | {member.departure_iata}",
+                currency=member.currency,
+                min_nights=member.min_nights,
+                max_nights=member.max_nights,
+                favorite_countries=[country.replace(",", "") for country in member.travel_countries.split(",")]
+            )
+            if unsubscribe:
+                db.session.delete(member)
+                db.session.commit()
+
     if form.validate_on_submit():
         already_member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == form.email.data)).scalar()
         favorite_countries = ",".join([country for country in form.favorite_countries.data])
@@ -160,21 +188,9 @@ def air_nomad_society():
                 )
                 db.session.add(new_member)
                 db.session.commit()
-                mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads)
+                mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads, username=form.username.data)
                 flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
 
-    token = request.args.get("token")
-    if token:
-        user = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
-        form = AirNomadSocietyForm(
-            username=user.username,
-            email=user.email,
-            departure_city=f"{user.departure_city} | {user.departure_iata}",
-            currency=user.currency,
-            min_nights=user.min_nights,
-            max_nights=user.max_nights,
-            favorite_countries=[country.replace(",", "") for country in user.travel_countries.split(",")]
-        )
 
     return render_template("AirNomad.html", form=form)
 
@@ -199,6 +215,18 @@ def flashback_playlists():
             )
             return render_template("FlashbackPlaylists.html", form=form)
     return render_template("FlashbackPlaylists.html", form=form)
+
+
+@app.route("/projects")
+def browse_projects():
+    return render_template("projects.html", all_projects=npoint_data["projects"])
+
+@app.route("/contact", methods=["POST", "GET"])
+def contact():
+    form = ContactForm()
+    if form.validate_on_submit():
+        return render_template("contact.html", form=form, form_submitted=True)
+    return render_template("contact.html", form=form)
 
 if __name__ == "__main__":
     app.run(debug=True)
