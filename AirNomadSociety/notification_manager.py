@@ -1,8 +1,9 @@
-import json, smtplib, requests
-from secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
+import json, smtplib, requests, os
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
+ANS_EMAIL = os.environ.get("ANS_EMAIL")
+ANS_MAIL_PASSWORD = os.environ.get("ANS_MAIL_PASSWORD")
 
 class NotificationManager:
     #This class is responsible for sending notifications with the deal flight details.

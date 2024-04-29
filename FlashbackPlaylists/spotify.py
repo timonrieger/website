@@ -3,9 +3,9 @@ import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import os
-from secret_keys import SPOTIFY_SECRET, SPOTIFY_CLIENT_ID
 
-
+SPOTIFY_SECRET = os.environ.get("SPOTIFY_SECRET")
+SPOTIFY_CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
 class PlaylistGenerator:
 
     def generate_playlist(date, title, description):

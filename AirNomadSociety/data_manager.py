@@ -1,9 +1,9 @@
 import requests, os
-from secret_keys import SHEETY_BEARER
 from main import app, db, AirNomads
-from secret_keys import TRAVEL_DATA
 
 SHEETY_ALL_ENDPOINT = "https://api.sheety.co/e2e4da57cedbf59fa0d734324f84fc00/flightDeals"
+TRAVEL_DATA = os.environ.get("TRAVEL_DATA")
+SHEETY_BEARER = os.environ.get("SHEETY_BEARER")
 
 HEADER = {
     "Authorization": f"Bearer {SHEETY_BEARER}"
