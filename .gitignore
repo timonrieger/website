@@ -1,10 +1,8 @@
-secret_keys.py
-FlashbackPlaylists/.cache
+#secret_keys.py
+#FlashbackPlaylists/.cache
 todo.txt
-instance
 .DS_Store
 .idea
-AirNomadSociety/bulk_import_iata_codes.py
 AirNomadSociety/tester.py
 AirNomadSociety/runner.py
 
