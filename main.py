@@ -8,7 +8,6 @@ from flask_bootstrap import Bootstrap5
 from FlashbackPlaylists.spotify import PlaylistGenerator
 from mail_manager import MailManager
 from flask_wtf.csrf import CSRFProtect
-from markupsafe import Markup
 
 # website content storage using npoint
 npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
