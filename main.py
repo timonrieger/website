@@ -13,7 +13,7 @@ from flask_wtf.csrf import CSRFProtect
 npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
 
 app = Flask(__name__)
-app.secret_key = os.environ.get("FLASK_SECRET_KEY")
+app.secret_key = os.urandom(20)
 
 csrf = CSRFProtect()
 csrf.init_app(app)
@@ -22,7 +22,6 @@ GMAIL_EMAIL = os.environ.get("GMAIL_EMAIL")
 GMAIL_PASSWORD = os.environ.get("GMAIL_PASSWORD")
 ANS_EMAIL = os.environ.get("ANS_EMAIL")
 ANS_MAIL_PASSWORD = os.environ.get("ANS_MAIL_PASSWORD")
-
 
 bootstrap = Bootstrap5(app)
 
@@ -232,4 +231,4 @@ def contact():
     return render_template("contact.html", form=form)
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
