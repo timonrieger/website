@@ -2,7 +2,7 @@ import requests, os
 from main import app, db, AirNomads
 
 SHEETY_ALL_ENDPOINT = "https://api.sheety.co/e2e4da57cedbf59fa0d734324f84fc00/flightDeals"
-TRAVEL_DATA = f"{os.environ.get("TRAVEL_DATA")}"
+TRAVEL_DATA = "https://api.npoint.io/9e625c836edf8e4047a8"
 SHEETY_BEARER = os.environ.get("SHEETY_BEARER")
 
 HEADER = {

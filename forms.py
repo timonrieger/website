@@ -8,7 +8,7 @@ TEXT_AREA_STYLE = "width: 40%; height: 100px; margin: auto; display: block"
 SELECT_MULTIPLE_STYLE = "width: 40%; height: 200px; margin: auto; display: block"
 SUBMIT_STYLE = "margin-bottom: 10px"
 
-TRAVEL_DATA = f"{os.environ.get("TRAVEL_DATA")}"
+TRAVEL_DATA = "https://api.npoint.io/9e625c836edf8e4047a8"
 
 class ValidateMaxNightsGreaterThanMin:
     def __init__(self, message=None):
