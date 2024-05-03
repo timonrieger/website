@@ -24,7 +24,7 @@ class ValidateMaxNightsGreaterThanMin:
 
 
 class AirNomadSocietyForm(FlaskForm):
-    departure_choices = [f"{city["city"]} | {city["code"]}" for city in requests.get(url=NPOINT).json()["cities"]]
+    departure_choices = [f"{city['city']} | {city['code']}" for city in requests.get(url=NPOINT).json()['cities']]
     currency_choices = requests.get(url=NPOINT).json()["currencies"]
     country_choices = [country["country"] for country in requests.get(url=NPOINT).json()["countries"]]
 
