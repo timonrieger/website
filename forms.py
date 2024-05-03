@@ -1,8 +1,9 @@
 from flask_wtf import FlaskForm
 from wtforms.validators import DataRequired, Email, Length, NumberRange, ValidationError
 from wtforms import StringField, SelectField, IntegerField, SelectMultipleField, SubmitField, TextAreaField, DateField
-from secret_keys import TRAVEL_DATA
 import requests
+
+NPOINT = "https://api.npoint.io/9e625c836edf8e4047a8"
 
 STRING_FIELD_STYLE = "width: 40%; height: 33px; margin: auto; display: block"
 TEXT_AREA_STYLE = "width: 40%; height: 100px; margin: auto; display: block"
