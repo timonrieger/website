@@ -1,14 +1,13 @@
 from flask_wtf import FlaskForm
 from wtforms.validators import DataRequired, Email, Length, NumberRange, ValidationError
 from wtforms import StringField, SelectField, IntegerField, SelectMultipleField, SubmitField, TextAreaField, DateField
-import requests, os
+from secret_keys import TRAVEL_DATA
+import requests
 
 STRING_FIELD_STYLE = "width: 40%; height: 33px; margin: auto; display: block"
 TEXT_AREA_STYLE = "width: 40%; height: 100px; margin: auto; display: block"
 SELECT_MULTIPLE_STYLE = "width: 40%; height: 200px; margin: auto; display: block"
 SUBMIT_STYLE = "margin-bottom: 10px"
-
-TRAVEL_DATA = os.environ.get("TRAVEL_DATA")
 
 class ValidateMaxNightsGreaterThanMin:
     def __init__(self, message=None):
