@@ -47,7 +47,7 @@ class FlightSearch:
                         repeat = False
                         return None
                     else:
-                        time.sleep(30)
+                        time.sleep(10)
                         continue
 
                 else:
@@ -74,7 +74,7 @@ class FlightSearch:
                     repeat = False
                     return None
                 else:
-                    time.sleep(30)
+                    time.sleep(10)
                     continue
             else:
                 flight_data = FlightData(

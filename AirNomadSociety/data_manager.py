@@ -1,13 +1,7 @@
 import requests, os
-from secret_keys import SHEETY_BEARER
 from main import app, db, AirNomads
-from secret_keys import TRAVEL_DATA
 
-SHEETY_ALL_ENDPOINT = "https://api.sheety.co/e2e4da57cedbf59fa0d734324f84fc00/flightDeals"
-
-HEADER = {
-    "Authorization": f"Bearer {SHEETY_BEARER}"
-}
+NPOINT = "https://api.npoint.io/9e625c836edf8e4047a8"
 
 class DataManager:
     # This class is responsible for talking to the Google Sheet and the Database.
@@ -27,18 +21,9 @@ class DataManager:
         return self.user_data
 
     def get_destination_data(self):
-        self.destination_data = requests.get(url=TRAVEL_DATA).json()["countries"]
+        self.destination_data = requests.get(url=NPOINT).json()["countries"]
         return self.destination_data
 
     def get_images(self):
         self.image_data = requests.get(url=NPOINT).json()["images"]
         return self.image_data
-
-########## test if sheety is usable ################
-
-# response = requests.get(url=f"{SHEETY_ALL_ENDPOINT}/users", headers=HEADER)
-# if response.status_code != 200:
-#     print(response.text)
-#     exit()
-# else:
-#     print(response.json())

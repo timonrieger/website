@@ -1,11 +1,14 @@
-import json, smtplib, requests
+import json, smtplib, requests, random
 from secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from data_manager import DataManager
+
 
 
 class NotificationManager:
     #This class is responsible for sending notifications with the deal flight details.
+
 
     def send_emails(self, to_adress, message):
         try:
@@ -16,7 +19,7 @@ class NotificationManager:
                     to_addrs=to_adress,
                     msg=f"Subject: New Low Price Flights!\n\n{message}".encode("UTF-8"))
         except smtplib.SMTPRecipientsRefused:
-            print("You provided an invalid email adress.")
+            print("You provided an invalid email address.")
 
     def send_weekly_email(self, user, dream_flights, random_flights, image_data):
         with open('../templates/weekly_ans_email/start.html', 'r', encoding="utf-8") as start_file:
