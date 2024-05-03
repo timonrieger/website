@@ -5,6 +5,7 @@ todo.txt
 .idea
 AirNomadSociety/tester.py
 AirNomadSociety/runner.py
+AirNomadSociety/unsplash.py
 
 
 # Byte-compiled / optimized / DLL files
