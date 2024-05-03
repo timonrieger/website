@@ -15,7 +15,7 @@ class DataManager:
     def __init__(self):
         self.destination_data = {}
         self.user_data = {}
-
+        self.image_data = {}
 
     def get_user_data(self):
         with app.app_context():
@@ -30,6 +30,9 @@ class DataManager:
         self.destination_data = requests.get(url=TRAVEL_DATA).json()["countries"]
         return self.destination_data
 
+    def get_images(self):
+        self.image_data = requests.get(url=NPOINT).json()["images"]
+        return self.image_data
 
 ########## test if sheety is usable ################
 

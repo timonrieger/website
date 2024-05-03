@@ -11,6 +11,7 @@ notification_manager = NotificationManager()
 
 data_manager.get_user_data()
 data_manager.get_destination_data()
+data_manager.get_images()
 
 for user in data_manager.user_data:
     selected_gems = random.sample(data_manager.destination_data, 5)
@@ -92,4 +93,4 @@ for user in data_manager.user_data:
                 }
             )
 
-    notification_manager.send_weekly_email(user=user, dream_flights=dream_places, random_flights=gem_places)
+    notification_manager.send_weekly_email(user=user, dream_flights=dream_places, random_flights=gem_places, image_data=data_manager.image_data)
