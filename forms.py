@@ -36,7 +36,7 @@ class AirNomadSocietyForm(FlaskForm):
     max_nights = IntegerField(label="Maximum Nights", validators=[DataRequired(), NumberRange(max=180, message="Set to 180 or lower."), ValidateMaxNightsGreaterThanMin()], render_kw={"style": f"{STRING_FIELD_STYLE}"})
     favorite_countries = SelectMultipleField(label="Favorite destinations", choices=country_choices, validators=[DataRequired()], render_kw={"style": f"{SELECT_MULTIPLE_STYLE}; f{SUBMIT_STYLE}"})
     join = SubmitField(label="Join Air Nomad Society")
-    update = SubmitField(label="Update Preferences", render_kw={"style": "margin: 10px"})
+    update = SubmitField(label="Update Preferences")
 
 class ContactForm(FlaskForm):
     name = StringField(label="Name", render_kw={"style": f"{STRING_FIELD_STYLE}"}, validators=[DataRequired()])
