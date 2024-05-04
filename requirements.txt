@@ -1,9 +1,9 @@
 Flask==3.0.3
 flask_sqlalchemy==3.1.1
-SQLAlchemy==2.0.24
-WTForms==3.0.1
+SQLAlchemy==2.0.29
+WTForms==3.1.2
 Flask_WTF==1.2.1
-Werkzeug==3.0.1
+Werkzeug==3.0.2
 Requests==2.31.0
 Bootstrap_Flask==2.2.0
 gunicorn==22.0.0
