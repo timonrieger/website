@@ -192,7 +192,7 @@ def air_nomad_society():
 
     return render_template("AirNomad.html", form=form)
 
-@app.route("/projects/air-nomad-society/exampleEmail")
+@app.route("/projects/air-nomad-society/example-email")
 def ans_example_email():
     return render_template("ans_example_email.html")
 
