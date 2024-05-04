@@ -15,6 +15,9 @@
     <button type="button" class="btn btn-light mb-5" data-bs-toggle="modal" data-bs-target="#helpModal">
       Help
     </button>
+    <button type="button" class="btn btn-secondary mb-5" data-bs-toggle="modal" data-bs-target="#helpModal">
+      <a href="{{ url_for('ans_example_email') }}" style="text-decoration:none; color: white">Example Email</a>
+    </button>
     <!-- Modal -->
     <div class="modal fade" id="helpModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">

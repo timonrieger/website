@@ -122,7 +122,7 @@ def unsubscribe_users():
 
 
 
-@app.route("/air-nomad-society", methods=["POST", "GET"])
+@app.route("/projects/air-nomad-society", methods=["POST", "GET"])
 def air_nomad_society():
     token = request.args.get("token")
     id = request.args.get("id")
@@ -192,7 +192,11 @@ def air_nomad_society():
 
     return render_template("AirNomad.html", form=form)
 
-@app.route("/flashback-playlists", methods=["POST", "GET"])
+@app.route("/projects/air-nomad-society/exampleEmail")
+def ans_example_email():
+    return render_template("ans_example_email.html")
+
+@app.route("/projects/flashback-playlists", methods=["POST", "GET"])
 def flashback_playlists():
     form = FlashbackPlaylistsForm()
     if form.validate_on_submit():
