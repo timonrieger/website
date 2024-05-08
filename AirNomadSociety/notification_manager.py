@@ -2,7 +2,7 @@ import sys
 import os
 
 # getting the name of the directory
-# where the this file is present.
+# where this file is present.
 current = os.path.dirname(os.path.realpath(__file__))
 
 # Getting the parent directory name
@@ -33,11 +33,11 @@ class NotificationManager:
             print("You provided an invalid email address.")
 
     def send_weekly_email(self, user, dream_flights, random_flights, image_data):
-        with open('../templates/weekly_ans_email/start.html', 'r', encoding="utf-8") as start_file:
+        with open('templates/weekly_ans_email/start.html', 'r', encoding="utf-8") as start_file:
             start_html = start_file.read()
             start_file.close()
 
-        with open('../templates/weekly_ans_email/user_mail.html', 'a', encoding="utf-8") as email_file:
+        with open('templates/weekly_ans_email/user_mail.html', 'a', encoding="utf-8") as email_file:
             ## start
             email_file.write(start_html)
             ## add username
@@ -113,7 +113,7 @@ class NotificationManager:
         msg['To'] = user["email"]
         msg['Subject'] = "Weekly Flight Deals!"
         # Read HTML file
-        with open('../templates/weekly_ans_email/user_mail.html', 'r', encoding="utf-8") as email_file:
+        with open('templates/weekly_ans_email/user_mail.html', 'r', encoding="utf-8") as email_file:
             html_string = email_file.read()
 
         # Attach HTML content to the email
@@ -131,5 +131,5 @@ class NotificationManager:
             connection.close()
 
         # clear unique html file
-        with open('../templates/weekly_ans_email/user_mail.html', "w") as email_file:
+        with open('templates/weekly_ans_email/user_mail.html', "w") as email_file:
             email_file.write("")
