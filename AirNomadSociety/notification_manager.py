@@ -1,5 +1,20 @@
+import sys
+import os
+
+# getting the name of the directory
+# where the this file is present.
+current = os.path.dirname(os.path.realpath(__file__))
+
+# Getting the parent directory name
+# where the current directory is present.
+parent = os.path.dirname(current)
+
+# adding the parent directory to
+# the sys.path.
+sys.path.append(parent)
+
 import smtplib, random
-from ..secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
+from secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
