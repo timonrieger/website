@@ -230,5 +230,16 @@ def contact():
         return render_template("contact.html", form=form, form_submitted=True)
     return render_template("contact.html", form=form)
 
+@app.route("/feedback", methods=["POST", "GET"])
+def feedback():
+    return redirect("https://forms.gle/UBVPuGtojkDaagCF6")
+
+
+@app.errorhandler(404)
+# inbuilt function which takes error as parameter
+def not_found(e):
+    # defining function
+    return render_template("404.html")
+
 if __name__ == "__main__":
     app.run(debug=False)
