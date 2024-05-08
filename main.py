@@ -1,9 +1,9 @@
 from flask import Flask, render_template, url_for, flash, redirect, request
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
-from sqlalchemy import Integer, String, Boolean
+from sqlalchemy import Integer, String
 from forms import AirNomadSocietyForm, NewsletterForm, ContactForm, FlashbackPlaylistsForm
-import requests
+import requests, os
 from flask_bootstrap import Bootstrap5
 from FlashbackPlaylists.spotify import PlaylistGenerator
 from secret_keys import FLASK_SECRET_KEY, GMAIL_EMAIL, GMAIL_PASSWORD, ANS_EMAIL, ANS_MAIL_PASSWORD
@@ -29,7 +29,7 @@ class Base(DeclarativeBase):
     confirmed: Mapped[int] = mapped_column(Integer, default=0)
     token: Mapped[str] = mapped_column(String, unique=True)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///portfolio-website.db"
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get("DB_URI", "sqlite:///personal-website.db")
 db = SQLAlchemy(app, model_class=Base)
 
 class AirNomads(db.Model):
