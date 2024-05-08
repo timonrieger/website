@@ -1,14 +1,10 @@
-import json, smtplib, requests, random
-from secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
+import smtplib, random
+from ..secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from data_manager import DataManager
-
-
 
 class NotificationManager:
     #This class is responsible for sending notifications with the deal flight details.
-
 
     def send_emails(self, to_adress, message):
         try:

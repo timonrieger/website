@@ -1,5 +1,5 @@
 import requests, os
-from main import app, db, AirNomads
+from ..main import app, db, AirNomads
 
 NPOINT = "https://api.npoint.io/9e625c836edf8e4047a8"
 

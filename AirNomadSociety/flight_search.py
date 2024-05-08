@@ -1,7 +1,7 @@
 from datetime import datetime
-from secret_keys import TEQUILA_API_KEY
+from ..secret_keys import TEQUILA_API_KEY
 import requests, time
-from flight_data import FlightData
+from .flight_data import FlightData
 
 TEQUILA_ENDPOINT = "https://api.tequila.kiwi.com"
 
