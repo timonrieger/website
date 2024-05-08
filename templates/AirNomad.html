@@ -47,13 +47,17 @@
                       <summary><u>How often will I receive flight deal emails?</u></summary>
                       <p>Emails are sent <b>once a week</b> containing deals for your favorite destinations.</p>
                     </details>
-                    <details>
-                      <summary><u>Will I get flight deals for destinations not in my favorite countries?</u></summary>
-                      <p>Yes, you'll still receive flight deals for destinations outside your favorite countries, the so-called secret gems.</p>
+                      <details>
+                        <summary><u>What does "Favorite Destinations" mean?</u></summary>
+                        <p>If you mark certain countries as favorites, you'll receive flight deals for them in every weekly email.</p>
                     </details>
                     <details>
-                      <summary><u>How far ahead do the flight deals cover? Are they for specific dates?</u></summary>
-                      <p>Flight deals typically cover the next <b>180 days</b> into the future.</p>
+                        <summary><u>Will I get flight deals for non-favorite destinations?</u></summary>
+                        <p>Yes, you'll still receive flight deals for destinations outside your favorite countries. These will be selected randomly.</p>
+                    </details>
+                    <details>
+                      <summary><u>How far ahead do the flight deals cover?</u></summary>
+                      <p>Flight deals cover the next <b>180 days</b> into the future.</p>
                     </details>
                     <details>
                       <summary><u>What's Next After Joining?</u></summary>
@@ -61,7 +65,7 @@
                     </details>
                     <details>
                       <summary><u>How can I give feedback to improve the flight deal service?</u></summary>
-                      <p>Provide feedback <a href="https://forms.gle/UBVPuGtojkDaagCF6" class="links">here</a>.</p>
+                      <p>Provide feedback <a href="{{ url_for('feedback') }}" class="links">here</a>.</p>
                     </details>
                 </div>
             </div>
@@ -73,7 +77,7 @@
                   <li>Choose your departure city or the nearest major city.</li>
                   <li>Select your preferred currency.</li>
                   <li>Specify the minimum and maximum number of nights per location.</li>
-                  <li>Choose your favorite countries (use <code>cmd</code> or <code>ctrl</code>).</li>
+                  <li>Choose several favorite countries (use <code>cmd</code> or <code>ctrl</code>).</li>
                   <li>Click "Join Air Nomad Society" to complete the process.</li>
                 </ol>
             </div>
