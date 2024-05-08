@@ -41,7 +41,7 @@ class NotificationManager:
             ## start
             email_file.write(start_html)
             ## add username
-            email_file.write(f'<span class="tinyMce-placeholder">Hi {user['username']}!</span>')
+            email_file.write(f"<span class='tinyMce-placeholder'>Hi {user['username']}!</span>")
 
             ## dream flights title
             email_file.write('''</h1> </td> </tr> </table> <div class="spacer_block block-3" style="height:80px;line-height:80px;font-size:1px;">&#8202;</div> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table>'''
