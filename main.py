@@ -120,9 +120,12 @@ def unsubscribe_users():
             flash("You are already unsubscribed.", category="error")
             return redirect(url_for("ans_subscribe"))
 
-
-@app.route("/projects/air-nomad-society", methods=["POST", "GET"])
+@app.route("/projects/air-nomad-society")
 def air_nomad_society():
+    return render_template("AirNomad.html")
+
+@app.route("/projects/air-nomad-society/subscribe", methods=["POST", "GET"])
+def ans_subscribe():
     token = request.args.get("token")
     id = request.args.get("id")
     form = AirNomadSocietyForm()
