@@ -155,11 +155,15 @@ def ans_subscribe():
                 db.session.delete(member)
                 db.session.commit()
 
+        return render_template("ans_subscribe.html", form=form, update=True, hide_form=True)
+
     if form.validate_on_submit():
         already_member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == form.email.data)).scalar()
         favorite_countries = ",".join([country for country in form.favorite_countries.data])
         if already_member:
-            if form.update.data:
+            if already_member.confirmed == 0:
+                flash("Please check your inbox for an email from Air Nomad Society and click the link provided before proceeding.", "error")
+            else:
                 already_member.username = form.username.data
                 already_member.departure_city = form.departure_city.data.split(" | ")[0]
                 already_member.departure_iata = form.departure_city.data.split(" | ")[1]
@@ -168,31 +172,28 @@ def ans_subscribe():
                 already_member.max_nights = form.max_nights.data
                 already_member.travel_countries = favorite_countries
                 db.session.commit()
-                flash("Your preferences were changed successfully.")
-            elif form.join.data:
-                flash("You are already a member. Update instead.")
+                flash("Your preferences were changed successfully.", category="success")
+                return render_template("ans_subscribe.html", form=form, update=True)
         if not already_member:
-            if form.update.data:
-                flash("You aren't a member yet. Join first.")
-            elif form.join.data:
-                new_member = AirNomads(
-                    username=form.username.data,
-                    email=form.email.data,
-                    departure_city=form.departure_city.data.split(" | ")[0],
-                    departure_iata=form.departure_city.data.split(" | ")[1],
-                    currency=form.currency.data,
-                    min_nights=form.min_nights.data,
-                    max_nights=form.max_nights.data,
-                    travel_countries=favorite_countries,
-                    token=mail_manager.generate_token(expire=False)
-                )
-                db.session.add(new_member)
-                db.session.commit()
-                mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads, username=form.username.data)
-                flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
+            new_member = AirNomads(
+                username=form.username.data,
+                email=form.email.data,
+                departure_city=form.departure_city.data.split(" | ")[0],
+                departure_iata=form.departure_city.data.split(" | ")[1],
+                currency=form.currency.data,
+                min_nights=form.min_nights.data,
+                max_nights=form.max_nights.data,
+                travel_countries=favorite_countries,
+                token=mail_manager.generate_token(expire=False)
+            )
+            db.session.add(new_member)
+            db.session.commit()
+            mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads, username=form.username.data)
+            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
 
+        return render_template("ans_subscribe.html", form=form, hide_form=True)
 
-    return render_template("AirNomad.html", form=form)
+    return render_template("ans_subscribe.html", form=form)
 
 @app.route("/projects/air-nomad-society/example-email")
 def ans_example_email():
