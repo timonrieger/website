@@ -18,9 +18,21 @@
     </div>
     <div class="my-5">
     {% if get_flashed_messages() %}
-        {% for message in get_flashed_messages() %}
-            <h5 class="flash mb-4" style="color: #0275d8">{{ message }}</h5>
-        {% endfor %}
+            {% for category, message in get_flashed_messages(with_categories=true) %}
+                {% if category == 'success' %}
+                    <div class="alert alert-success flash my-4" role="alert">
+                        <h5>{{ message }}</h5>
+                    </div>
+                {% elif category == 'error' %}
+                    <div class="alert alert-danger flash my-4" role="alert">
+                         <h5>{{ message }}</h5>
+                    </div>
+                {% else %}
+                    <div class="alert alert-light flash my-4" role="alert">
+                         <h5>{{ message }}</h5>
+                    </div>
+                {% endif %}
+            {% endfor %}
     {% else %}
         {{ render_form(form, button_map={"submit": "primary"}) }}
     {% endif %}
