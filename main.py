@@ -57,13 +57,13 @@ def home():
     if form.validate_on_submit():
         already_subscriber = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == form.email.data)).scalar()
         if already_subscriber:
-            flash("You are already subscribed.")
+            flash("You are already subscribed.", category="error")
         else:
             newsletter_subscriber = NewsletterSubs(email=form.email.data, token=mail_manager.generate_token(expire=False))
             db.session.add(newsletter_subscriber)
             db.session.commit()
             mail_manager.send_confirmation_email(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter", db, NewsletterSubs, AirNomads)
-            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.")
+            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
 
     return render_template("index.html", form=form)
 
@@ -75,29 +75,29 @@ def confirm_users():
     if form == "newsletter":
         member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.id == id)).scalar()
         if member and member.confirmed == 1:
-            flash("You have already confirmed your subscription. Stay tuned!")
+            flash("You have already confirmed your subscription. Stay tuned!", category="error")
         elif mail_manager.check_expiring_token(token, 600):
             member.confirmed = 1
-            flash("Successfully subscribed.")
+            flash("Successfully subscribed.", category="success")
         else:
             db.session.delete(member)
-            flash("Invalid confirmation token. Please fill in the form again.")
+            flash("Invalid confirmation token. Please fill in the form again.", category="error")
         db.session.commit()
         return redirect(url_for("home"))
 
     elif form == "ans":
         member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
         if member and member.confirmed == 1:
-            flash("You have already confirmed your subscription. Sit back and relax!")
-            return redirect(url_for("air_nomad_society", id=id))
+            flash("You have already confirmed your subscription. Sit back and relax!", category="error")
+            return redirect(url_for("ans_subscribe", id=id))
         elif mail_manager.check_expiring_token(token, 600):
             member.confirmed = 1
             db.session.commit()
-            flash("Success! You are now an Air Nomad ✈️. Feel free to update your profile as needed.")
-            return redirect(url_for("air_nomad_society", id=id))
+            flash("Success! You are now an Air Nomad ✈️.", category="success")
+            return redirect(url_for("ans_subscribe", id=id))
         else:
-            flash("Invalid confirmation token. Please resubmit the form and click the link in the email within 10 minutes.")
-            return redirect(url_for("air_nomad_society", id=id, unsubscribe=True))
+            flash("Invalid confirmation token. Please resubmit the form and click the link in the email within 10 minutes.", category="error")
+            return redirect(url_for("ans_subscribe", id=id, unsubscribe=True))
 
 
 @app.route("/unsubscribe")
@@ -108,18 +108,17 @@ def unsubscribe_users():
         member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.token == token)).scalar()
         db.session.delete(member)
         db.session.commit()
-        flash(f"Successfully unsubscribed with {member.email}.")
+        flash(f"Successfully unsubscribed with {member.email}.", category="success")
         return redirect(url_for("home"))
 
     elif form == "ans":
         member = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
         if member:
-            flash(f"Successfully unsubscribed with {member.email}. To resubscribe, simply fill out the form again.")
-            return redirect(url_for("air_nomad_society", token=token, unsubscribe=True))
+            flash(f"Successfully unsubscribed with {member.email}.", category="success")
+            return redirect(url_for("ans_subscribe", token=token, unsubscribe=True))
         if not member:
-            flash("You are already unsubscribed.")
-            return redirect(url_for("air_nomad_society"))
-
+            flash("You are already unsubscribed.", category="error")
+            return redirect(url_for("ans_subscribe"))
 
 
 @app.route("/projects/air-nomad-society", methods=["POST", "GET"])
@@ -138,7 +137,7 @@ def air_nomad_society():
             member = None
 
         if not member and not unsubscribe:
-            flash("You are not a member anymore. Subscribe again to update your profile.")
+            flash("You are not a member anymore. Subscribe again to update your profile.", category="error")
         elif member:
             form = AirNomadSocietyForm(
                 username=member.username,
@@ -210,7 +209,7 @@ def flashback_playlists():
             playlist_link = PlaylistGenerator.generate_playlist(date=playlist_date, title=form.title.data, description=description)
             return render_template("FlashbackPlaylists.html", form_submitted=True, link=playlist_link, title=form.title.data, form=form)
         else:
-            flash("Please enter a date that is later than 1900.")
+            flash("Please enter a date that is later than 1900.", category="error")
             form = FlashbackPlaylistsForm(
                 title=form.title.data,
                 description=form.description.data
