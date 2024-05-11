@@ -166,7 +166,7 @@ def ans_subscribe():
         return render_template("ans_subscribe.html", form=form, hide_form=True)
 
     # Determine the member based on token or id
-    if token or id:
+    elif token or id:
         member = None
         if token:
             member = db.session.query(AirNomads).filter_by(token=token).scalar()
