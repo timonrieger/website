@@ -37,12 +37,14 @@
             <li class="py-1">Select multiple favorite countries (use <code>cmd</code> on Mac or <code>ctrl</code> on Windows while clicking).</li>
         </div>
     {% endif %}
-    {% if not hide_form %}
+    {% if show_form %}
     <form method="post">
         {{ form.hidden_tag() }}
         <dl>
             {{ render_field(form.username) }}
-            {{ render_field(form.email) }}
+            {% if not update %}
+                {{ render_field(form.email) }}
+            {% endif %}
             {{ render_field(form.departure_city) }}
             {{ render_field(form.currency) }}
             {{ render_field(form.min_nights) }}
