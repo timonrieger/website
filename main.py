@@ -212,7 +212,10 @@ def ans_subscribe():
             flash("Your profile is ready for updates. Please make any changes as needed.", category="success")
             return render_template("ans_subscribe.html", form=form, show_form=True, update=True)
 
-    return render_template("ans_subscribe.html", form=form)
+        else:
+            return render_template("ans_subscribe.html", form=form)
+
+    return render_template("ans_subscribe.html", form=form, show_form=True)
 
 
 @app.route("/projects/air-nomad-society/example-email")
