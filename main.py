@@ -129,7 +129,7 @@ def ans_subscribe():
     unsubscribe = request.args.get("unsubscribe")
     form = AirNomadSocietyForm()
 
-    if form.validate_on_submit():
+    if form.validate_on_submit() and request.method == 'POST':
         already_member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == form.email.data)).scalar()
         favorite_countries = ",".join([country for country in form.favorite_countries.data])
         if already_member:
@@ -165,7 +165,6 @@ def ans_subscribe():
 
         return render_template("ans_subscribe.html", form=form, hide_form=True)
 
-    # Determine the member based on token or id
     elif token or id:
         member = None
         if token:
