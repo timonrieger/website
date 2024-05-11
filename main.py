@@ -96,7 +96,6 @@ def confirm_users():
             flash("Success! You are now an Air Nomad ✈️.", category="success")
             return redirect(url_for("ans_subscribe", id=id))
         else:
-            flash("Invalid confirmation token. Please resubmit the form and click the link in the email within 10 minutes.", category="error")
             return redirect(url_for("ans_subscribe", id=id, unsubscribe=True))
 
 
@@ -114,7 +113,6 @@ def unsubscribe_users():
     elif form == "ans":
         member = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
         if member:
-            flash(f"Successfully unsubscribed with {member.email}.", category="success")
             return redirect(url_for("ans_subscribe", token=token, unsubscribe=True))
         if not member:
             flash("You are already unsubscribed.", category="error")
@@ -128,34 +126,8 @@ def air_nomad_society():
 def ans_subscribe():
     token = request.args.get("token")
     id = request.args.get("id")
+    unsubscribe = request.args.get("unsubscribe")
     form = AirNomadSocietyForm()
-    # update user profile or delete user
-    if token or id:
-        unsubscribe = request.args.get("unsubscribe")
-        if token:
-            member = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
-        elif id:
-            member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
-        else:
-            member = None
-
-        if not member and not unsubscribe:
-            flash("You are not a member anymore. Subscribe again to update your profile.", category="error")
-        elif member:
-            form = AirNomadSocietyForm(
-                username=member.username,
-                email=member.email,
-                departure_city=f"{member.departure_city} | {member.departure_iata}",
-                currency=member.currency,
-                min_nights=member.min_nights,
-                max_nights=member.max_nights,
-                favorite_countries=[country.replace(",", "") for country in member.travel_countries.split(",")]
-            )
-            if unsubscribe:
-                db.session.delete(member)
-                db.session.commit()
-
-        return render_template("ans_subscribe.html", form=form, update=True, hide_form=True)
 
     if form.validate_on_submit():
         already_member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == form.email.data)).scalar()
@@ -193,7 +165,55 @@ def ans_subscribe():
 
         return render_template("ans_subscribe.html", form=form, hide_form=True)
 
+    # Determine the member based on token or id
+    if token or id:
+        member = None
+        if token:
+            member = db.session.query(AirNomads).filter_by(token=token).scalar()
+        elif id:
+            member = db.session.query(AirNomads).filter_by(id=id).scalar()
+
+
+        if not member:
+            flash("No member found. Please subscribe to become a member.", category="error")
+            return render_template("ans_subscribe.html", form=form, show_form=True)
+
+        elif member and unsubscribe:
+            form = AirNomadSocietyForm(
+                username=member.username,
+                email=member.email,
+                departure_city=f"{member.departure_city} | {member.departure_iata}",
+                currency=member.currency,
+                min_nights=member.min_nights,
+                max_nights=member.max_nights,
+                favorite_countries=[country.strip() for country in member.travel_countries.split(",")]
+            )
+            if token: #user clicked unsubscribe link in email
+                flash(f"You have successfully unsubscribed with {member.email}.", category="success")
+                flash("Unsubscribed by mistake? To resubscribe, simply submit the form again.")
+            elif id: #user clicked confirmation link too late
+                flash("Invalid confirmation token. Please resubmit the form and click the link in the email within 10 minutes.", category="error")
+            db.session.delete(member)
+            db.session.commit()
+
+            return render_template("ans_subscribe.html", form=form, show_form=True)
+
+
+        elif member and token and not unsubscribe: #user clicked update link in email
+            form = AirNomadSocietyForm(
+                username=member.username,
+                email=member.email,
+                departure_city=f"{member.departure_city} | {member.departure_iata}",
+                currency=member.currency,
+                min_nights=member.min_nights,
+                max_nights=member.max_nights,
+                favorite_countries=[country.strip() for country in member.travel_countries.split(",")]
+            )
+            flash("Your profile is ready for updates. Please make any changes as needed.", category="success")
+            return render_template("ans_subscribe.html", form=form, show_form=True, update=True)
+
     return render_template("ans_subscribe.html", form=form)
+
 
 @app.route("/projects/air-nomad-society/example-email")
 def ans_example_email():
