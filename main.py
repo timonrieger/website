@@ -69,14 +69,14 @@ def home():
 
 @app.route("/confirm")
 def confirm_users():
-    token = request.args.get("token")
+    confirm_token = request.args.get("token")
     form = request.args.get("form")
     id = request.args.get("id")
     if form == "newsletter":
         member = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.id == id)).scalar()
         if member and member.confirmed == 1:
             flash("You have already confirmed your subscription. Stay tuned!", category="error")
-        elif mail_manager.check_expiring_token(token, 600):
+        elif mail_manager.check_expiring_token(confirm_token, 600):
             member.confirmed = 1
             flash("Successfully subscribed.", category="success")
         else:
@@ -90,7 +90,7 @@ def confirm_users():
         if member and member.confirmed == 1:
             flash("You have already confirmed your subscription. Sit back and relax!", category="error")
             return redirect(url_for("ans_subscribe", id=id))
-        elif mail_manager.check_expiring_token(token, 600):
+        elif mail_manager.check_expiring_token(confirm_token, 600):
             member.confirmed = 1
             db.session.commit()
             flash("Success! You are now an Air Nomad ✈️.", category="success")
@@ -129,43 +129,7 @@ def ans_subscribe():
     unsubscribe = request.args.get("unsubscribe")
     form = AirNomadSocietyForm()
 
-    if form.validate_on_submit() and request.method == 'POST':
-        already_member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == form.email.data)).scalar()
-        favorite_countries = ",".join([country for country in form.favorite_countries.data])
-        if already_member:
-            if already_member.confirmed == 0:
-                flash("Please check your inbox for an email from Air Nomad Society and click the link provided before proceeding.", "error")
-            else:
-                already_member.username = form.username.data
-                already_member.departure_city = form.departure_city.data.split(" | ")[0]
-                already_member.departure_iata = form.departure_city.data.split(" | ")[1]
-                already_member.currency = form.currency.data
-                already_member.min_nights = form.min_nights.data
-                already_member.max_nights = form.max_nights.data
-                already_member.travel_countries = favorite_countries
-                db.session.commit()
-                flash("Your preferences were changed successfully.", category="success")
-                return render_template("ans_subscribe.html", form=form, update=True)
-        if not already_member:
-            new_member = AirNomads(
-                username=form.username.data,
-                email=form.email.data,
-                departure_city=form.departure_city.data.split(" | ")[0],
-                departure_iata=form.departure_city.data.split(" | ")[1],
-                currency=form.currency.data,
-                min_nights=form.min_nights.data,
-                max_nights=form.max_nights.data,
-                travel_countries=favorite_countries,
-                token=mail_manager.generate_token(expire=False)
-            )
-            db.session.add(new_member)
-            db.session.commit()
-            mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads, username=form.username.data)
-            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
-
-        return render_template("ans_subscribe.html", form=form, hide_form=True)
-
-    elif token or id:
+    if token or id:
         member = None
         if token:
             member = db.session.query(AirNomads).filter_by(token=token).scalar()
@@ -213,6 +177,42 @@ def ans_subscribe():
 
         else:
             return render_template("ans_subscribe.html", form=form)
+
+    if form.validate_on_submit() and request.method == 'POST':
+        already_member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == form.email.data)).scalar()
+        favorite_countries = ",".join([country for country in form.favorite_countries.data])
+        if already_member:
+            if already_member.confirmed == 0:
+                flash("Please check your inbox for an email from Air Nomad Society and click the link provided before proceeding.", "error")
+            else:
+                already_member.username = form.username.data
+                already_member.departure_city = form.departure_city.data.split(" | ")[0]
+                already_member.departure_iata = form.departure_city.data.split(" | ")[1]
+                already_member.currency = form.currency.data
+                already_member.min_nights = form.min_nights.data
+                already_member.max_nights = form.max_nights.data
+                already_member.travel_countries = favorite_countries
+                db.session.commit()
+                flash("Your preferences were changed successfully.", category="success")
+                return render_template("ans_subscribe.html", form=form, update=True)
+        if not already_member:
+            new_member = AirNomads(
+                username=form.username.data,
+                email=form.email.data,
+                departure_city=form.departure_city.data.split(" | ")[0],
+                departure_iata=form.departure_city.data.split(" | ")[1],
+                currency=form.currency.data,
+                min_nights=form.min_nights.data,
+                max_nights=form.max_nights.data,
+                travel_countries=favorite_countries,
+                token=mail_manager.generate_token(expire=False)
+            )
+            db.session.add(new_member)
+            db.session.commit()
+            mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads, username=form.username.data)
+            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
+
+        return render_template("ans_subscribe.html", form=form, show_form=True)
 
     return render_template("ans_subscribe.html", form=form, show_form=True)
 
