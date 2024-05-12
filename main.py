@@ -56,8 +56,10 @@ def home():
     form = NewsletterForm()
     if form.validate_on_submit():
         already_subscriber = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == form.email.data)).scalar()
-        if already_subscriber:
+        if already_subscriber and already_subscriber.confirmed == 1:
             flash("You are already subscribed.", category="error")
+        elif already_subscriber and already_subscriber.confirmed == 0:
+            flash("Please check your inbox and click the confirmation link.", "error")
         else:
             newsletter_subscriber = NewsletterSubs(email=form.email.data, token=mail_manager.generate_token(expire=False))
             db.session.add(newsletter_subscriber)
@@ -267,4 +269,4 @@ def not_found(e):
     return render_template("404.html")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
