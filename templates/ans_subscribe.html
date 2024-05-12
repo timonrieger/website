@@ -42,7 +42,10 @@
         {{ form.hidden_tag() }}
         <dl>
             {{ render_field(form.username) }}
-            {% if not update %}
+            <!-- Always include the email field, but hide it when updating -->
+            {% if update %}
+                <input type="hidden" name="email" value="{{ form.email.data }}">
+            {% else %}
                 {{ render_field(form.email) }}
             {% endif %}
             {{ render_field(form.departure_city) }}

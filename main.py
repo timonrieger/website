@@ -129,7 +129,7 @@ def ans_subscribe():
     unsubscribe = request.args.get("unsubscribe")
     form = AirNomadSocietyForm()
 
-    if token or id:
+    if (token or id) and request.method == "GET":
         member = None
         if token:
             member = db.session.query(AirNomads).filter_by(token=token).scalar()
@@ -212,7 +212,7 @@ def ans_subscribe():
             mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads, username=form.username.data)
             flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
 
-        return render_template("ans_subscribe.html", form=form, show_form=True)
+        return render_template("ans_subscribe.html", form=form)
 
     return render_template("ans_subscribe.html", form=form, show_form=True)
 
@@ -267,4 +267,4 @@ def not_found(e):
     return render_template("404.html")
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
