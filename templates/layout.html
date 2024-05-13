@@ -54,18 +54,17 @@
         <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="{{ url_for('home') }}"><strong>Home</strong></a>
+              <a class="nav-link active" aria-current="page" href="{{ url_for('me') }}"><strong>Me</strong></a>
             </li>
             <li class="nav-item">
               <a class="nav-link active px-5" aria-current="page" href="{{ url_for('browse_projects') }}"><strong>Projects</strong></a>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle active" role="button" data-bs-toggle="dropdown" aria-expanded="false"><strong>More</strong></a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item disabled" href="#">About</a></li>
                 <li><a class="dropdown-item" href="{{ url_for('contact') }}">Contact</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="{{ url_for('feedback') }}">Feedback</a></li>
-                <li><a class="dropdown-item" href="https://www.paypal.me/TimonRieger?locale.x=en_DE">Donate</a></li>
+                <li><a class="dropdown-item" href="https://www.paypal.me/TimonRieger?locale.x=en_DE">Support Me</a></li>
               </ul>
             </li>
           </ul>

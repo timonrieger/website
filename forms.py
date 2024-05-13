@@ -45,7 +45,7 @@ class ContactForm(FlaskForm):
     submit = SubmitField(label="Send")
 
 class NewsletterForm(FlaskForm):
-    email = StringField(label="Email", render_kw={"style": f"{STRING_FIELD_STYLE}; f{SUBMIT_STYLE}"}, validators=[DataRequired(), Email()])
+    email = StringField(label="", validators=[DataRequired(), Email()], render_kw={"placeholder": "Email address"})
     submit = SubmitField(label="Stay updated")
 
 class FlashbackPlaylistsForm(FlaskForm):

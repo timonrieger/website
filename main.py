@@ -52,7 +52,7 @@ with app.app_context():
 
 
 @app.route("/", methods=["POST", "GET"])
-def home():
+def me():
     form = NewsletterForm()
     if form.validate_on_submit():
         already_subscriber = db.session.execute(db.Select(NewsletterSubs).where(NewsletterSubs.email == form.email.data)).scalar()
@@ -67,7 +67,7 @@ def home():
             mail_manager.send_confirmation_email(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter", db, NewsletterSubs, AirNomads)
             flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
 
-    return render_template("index.html", form=form)
+    return render_template("me.html", form=form, all_interests=npoint_data["interests"])
 
 @app.route("/confirm")
 def confirm_users():
@@ -85,7 +85,7 @@ def confirm_users():
             db.session.delete(member)
             flash("Invalid confirmation token. Please fill in the form again.", category="error")
         db.session.commit()
-        return redirect(url_for("home"))
+        return redirect(url_for("me"))
 
     elif form == "ans":
         member = db.session.execute(db.Select(AirNomads).where(AirNomads.id == id)).scalar()
@@ -110,7 +110,7 @@ def unsubscribe_users():
         db.session.delete(member)
         db.session.commit()
         flash(f"Successfully unsubscribed with {member.email}.", category="success")
-        return redirect(url_for("home"))
+        return redirect(url_for("me"))
 
     elif form == "ans":
         member = db.session.execute(db.Select(AirNomads).where(AirNomads.token == token)).scalar()
