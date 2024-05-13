@@ -261,6 +261,10 @@ def contact():
 def feedback():
     return redirect("https://forms.gle/UBVPuGtojkDaagCF6")
 
+@app.route("/donate", methods=["POST", "GET"])
+def donate():
+    return redirect("https://www.paypal.me/TimonRieger?locale.x=en_DE")
+
 
 @app.errorhandler(404)
 # inbuilt function which takes error as parameter
