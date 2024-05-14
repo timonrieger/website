@@ -64,8 +64,11 @@ def me():
             newsletter_subscriber = NewsletterSubs(email=form.email.data, token=mail_manager.generate_token(expire=False))
             db.session.add(newsletter_subscriber)
             db.session.commit()
-            mail_manager.send_confirmation_email(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter", db, NewsletterSubs, AirNomads)
-            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
+            sent = mail_manager.send_confirmation_email(form.email.data, GMAIL_EMAIL, GMAIL_PASSWORD, "newsletter", db, NewsletterSubs, AirNomads)
+            if sent:
+                flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
+            if not sent:
+                flash(f"Confirmation email could not be sent. To solve the issue send me an ", category="not_sent")
 
     return render_template("me.html", form=form, all_interests=npoint_data["interests"])
 
@@ -211,8 +214,12 @@ def ans_subscribe():
             )
             db.session.add(new_member)
             db.session.commit()
-            mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads, username=form.username.data)
-            flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.", category="success")
+            sent = mail_manager.send_confirmation_email(form.email.data, ANS_EMAIL, ANS_MAIL_PASSWORD, "ans", db, NewsletterSubs, AirNomads, username=form.username.data)
+            if sent:
+                flash(f"Confirmation email sent to {form.email.data}. Check your inbox and click the link.",
+                      category="success")
+            if not sent:
+                flash(f"Confirmation email could not be sent. To solve the issue send me an ", category="not_sent")
 
         return render_template("ans_subscribe.html", form=form)
 

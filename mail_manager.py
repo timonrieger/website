@@ -21,10 +21,14 @@ class MailManager():
         return user_id
 
     def send_basic_emails(self, my_mail, email_password, user_mail, message):
-        with smtplib.SMTP("smtp.gmail.com", port=587) as server:
+        try:
+            with smtplib.SMTP("smtp.gmail.com", port=587) as server:
                 server.starttls()
                 server.login(my_mail, email_password)
                 server.sendmail(my_mail, user_mail, message)
+            return True
+        except Exception:
+            return False
 
     def check_expiring_token(self, token, valid_time):
         """Check if a token is valid within the specified time."""
@@ -51,4 +55,4 @@ class MailManager():
                    f"{confirmation_link}\n\n"
                    f"If you did not request this registration or have any questions, please ignore this message.\n\n"
                    f"Best regards,\n\nTimon Rieger")
-        self.send_basic_emails(my_mail, email_password, user_mail, message)
+        return self.send_basic_emails(my_mail, email_password, user_mail, message)
