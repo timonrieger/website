@@ -6,9 +6,14 @@ from forms import AirNomadSocietyForm, NewsletterForm, ContactForm, FlashbackPla
 import requests, os
 from flask_bootstrap import Bootstrap5
 from FlashbackPlaylists.spotify import PlaylistGenerator
-from secrets import FLASK_SECRET_KEY, GMAIL_EMAIL, GMAIL_PASSWORD, ANS_EMAIL, ANS_MAIL_PASSWORD
 from mail_manager import MailManager
 from flask_wtf.csrf import CSRFProtect
+
+FLASK_SECRET_KEY = os.environ.get("FLASK_SECRET_KEY")
+GMAIL_EMAIL = os.environ.get("GMAIL_EMAIL")
+GMAIL_PASSWORD = os.environ.get("GMAIL_PASSWORD")
+ANS_EMAIL = os.environ.get("ANS_EMAIL")
+ANS_MAIL_PASSWORD = os.environ.get("ANS_MAIL_PASSWORD")
 
 # website content storage using npoint
 npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
