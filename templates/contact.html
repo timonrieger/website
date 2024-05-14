@@ -10,8 +10,22 @@
 
 {% block content %}
     <div class="">
-        {% if form_submitted == True %}
-            <h2>Message successfully sent ➣</h2>
+        {% if get_flashed_messages() %}
+            {% for category, message in get_flashed_messages(with_categories=true) %}
+                {% if category == 'success' %}
+                    <div class="alert alert-success flash my-4" role="alert">
+                        <h5>{{ message }}</h5>
+                    </div>
+                {% elif category == 'not_sent' %}
+                    <div class="alert alert-danger flash my-4" role="alert">
+                        <h5>{{ message }} <a href="mailto:timonriegerx@gmail.com?subject=Message by {{ form.name.data }} from your Website&body={{ form.message.data }}" class="alert-link">email</a>.</h5>
+                    </div>
+                {% else %}
+                    <div class="alert alert-light flash my-4" role="alert">
+                         <h5>{{ message }}</h5>
+                    </div>
+                {% endif %}
+            {% endfor %}
         {% else %}
             <h1 class="display-5">Contact Me</h1>
             <p class="lead py-4">Want to say hello? I'd love to hear from you!</p>

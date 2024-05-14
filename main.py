@@ -261,7 +261,16 @@ def browse_projects():
 def contact():
     form = ContactForm()
     if form.validate_on_submit():
-        return render_template("contact.html", form=form, form_submitted=True)
+        message = (f"Subject: Message by {form.name.data} from your Website\n\n"
+                   f"Hello Timon,\n\n"
+                   f"My name is {form.name.data}. You can contact me at {form.email.data}\n\n"
+                   f"{form.message.data}\n\n")
+        sent = mail_manager.send_basic_emails(GMAIL_EMAIL, GMAIL_PASSWORD, GMAIL_EMAIL, message)
+        if sent:
+            flash("Message successfully sent.", "success")
+        elif not sent:
+            flash("Message could not be sent. Try again later or send me an ", "not_sent")
+
     return render_template("contact.html", form=form)
 
 @app.route("/feedback", methods=["POST", "GET"])
