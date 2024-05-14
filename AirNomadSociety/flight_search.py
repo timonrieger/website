@@ -14,7 +14,7 @@ parent = os.path.dirname(current)
 sys.path.append(parent)
 
 from datetime import datetime
-from secret_keys import TEQUILA_API_KEY
+from secrets import TEQUILA_API_KEY
 import requests, time
 from flight_data import FlightData
 

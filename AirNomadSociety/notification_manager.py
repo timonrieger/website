@@ -13,7 +13,7 @@ parent = os.path.dirname(current)
 sys.path.append(parent)
 
 import smtplib, random
-from secret_keys import ANS_EMAIL, ANS_MAIL_PASSWORD
+from secrets import ANS_EMAIL, ANS_MAIL_PASSWORD
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 

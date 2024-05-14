@@ -6,7 +6,7 @@ from forms import AirNomadSocietyForm, NewsletterForm, ContactForm, FlashbackPla
 import requests, os
 from flask_bootstrap import Bootstrap5
 from FlashbackPlaylists.spotify import PlaylistGenerator
-from secret_keys import FLASK_SECRET_KEY, GMAIL_EMAIL, GMAIL_PASSWORD, ANS_EMAIL, ANS_MAIL_PASSWORD
+from secrets import FLASK_SECRET_KEY, GMAIL_EMAIL, GMAIL_PASSWORD, ANS_EMAIL, ANS_MAIL_PASSWORD
 from mail_manager import MailManager
 from flask_wtf.csrf import CSRFProtect
 
