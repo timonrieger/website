@@ -21,7 +21,6 @@
         <p class="lead my-5">life time learner, work time developer, free time hustler</p>
         <a href="{{ url_for('browse_projects') }}" class="btn btn-outline-light btn-lg px-4">Projects</a>
         <a href="#interests" class="btn btn-outline-light btn-lg px-4">Interests</a>
-        <a href="{{ url_for('contact') }}" class="btn btn-outline-light btn-lg px-4">Contact</a>
         {% if get_flashed_messages() %}
           {% for category, message in get_flashed_messages(with_categories=true) %}
               {% if category == 'success' %}
