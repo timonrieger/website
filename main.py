@@ -1,4 +1,4 @@
-from flask import Flask, render_template, url_for, flash, redirect, request
+from flask import Flask, render_template, url_for, flash, redirect, request, send_from_directory
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy import Integer, String
@@ -282,9 +282,9 @@ def contact():
 def feedback():
     return redirect("https://forms.gle/UBVPuGtojkDaagCF6")
 
-@app.route("/donate", methods=["POST", "GET"])
-def donate():
-    return redirect("https://www.paypal.me/TimonRieger?locale.x=en_DE")
+@app.route('/robots.txt')
+def static_from_root():
+    return send_from_directory(app.static_folder, request.path[1:])
 
 
 @app.errorhandler(404)
