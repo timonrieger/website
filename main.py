@@ -278,14 +278,9 @@ def contact():
 
     return render_template("contact.html", form=form)
 
-@app.route("/feedback", methods=["POST", "GET"])
-def feedback():
-    return redirect("https://forms.gle/UBVPuGtojkDaagCF6")
-
 @app.route('/robots.txt')
 def static_from_root():
     return send_from_directory(app.static_folder, request.path[1:])
-
 
 @app.errorhandler(404)
 # inbuilt function which takes error as parameter
