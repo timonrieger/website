@@ -286,7 +286,12 @@ def static_from_root():
 # inbuilt function which takes error as parameter
 def not_found(e):
     # defining function
-    return render_template("404.html")
+    return render_template("404.html"), 404
+@app.after_request
+def add_header(response):
+    response.headers['X-Frame-Options'] = 'DENY'
+    return response
+
 
 if __name__ == "__main__":
     app.run(debug=False)
