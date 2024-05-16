@@ -21,10 +21,13 @@
                 <image height="100%" width="100%" href="{{ project.img }}" preserveAspectRatio="xMidYMid slice" opacity="0.5"></image>
                 <text x="10%" y="50%" fill="#eceeef" dy=".3em" font-size="25px">{{ project.name }}</text>
               </svg>
-              <div class="card-body text-start">
-                <h6 class="highlight">{{ project.category }}</h6>
-                <p class="card-text py-1">{{ project.description }}</p>
-              </div>
+                <div class="card-body text-start">
+                    <div class="row">
+                      <h6 class="highlight highlight-thick col-5">{{ project.category }}</h6>
+                        <span class="highlight col-7 text-end">{{ project.tags }}</span>
+                    </div>
+                    <p class="card-text py-1">{{ project.description }}</p>
+                </div>
             </div>
           </a>
 
