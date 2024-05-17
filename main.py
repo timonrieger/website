@@ -276,7 +276,8 @@ def contact():
         elif not sent:
             flash("Message could not be sent. Try again later or send me an ", "not_sent")
 
-    return render_template("contact.html", form=form)
+    #return render_template("contact.html", form=form)
+    return redirect("mailto:timon@riegerx.de")
 
 @app.route('/robots.txt')
 def static_from_root():
@@ -287,6 +288,7 @@ def static_from_root():
 def not_found(e):
     # defining function
     return render_template("404.html"), 404
+
 @app.after_request
 def add_header(response):
     response.headers['Strict-Transport-Security'] = 'max-age=31536000; includeSubDomains; preload'
