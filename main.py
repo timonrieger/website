@@ -277,7 +277,7 @@ def contact():
             flash("Message could not be sent. Try again later or send me an ", "not_sent")
 
     #return render_template("contact.html", form=form)
-    return redirect("mailto:timon@riegerx.de")
+    return redirect(f"mailto:{os.environ.get("OFF_EMAIL")}")
 
 @app.route('/robots.txt')
 def static_from_root():
