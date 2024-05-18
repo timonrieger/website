@@ -8,6 +8,7 @@ from flask_bootstrap import Bootstrap5
 from FlashbackPlaylists.spotify import PlaylistGenerator
 from mail_manager import MailManager
 from flask_wtf.csrf import CSRFProtect
+from PIL import Image, ExifTags
 
 FLASK_SECRET_KEY = os.environ.get("FLASK_SECRET_KEY")
 GMAIL_EMAIL = os.environ.get("GMAIL_EMAIL")
@@ -263,6 +264,60 @@ def flashback_playlists():
 def browse_projects():
     return render_template("projects.html", all_projects=npoint_data["projects"])
 
+def get_exif_data(image_path):
+    image = Image.open(image_path)
+    exif_data = image._getexif()
+    if exif_data is not None:
+        exif = {
+            ExifTags.TAGS.get(tag): value
+            for tag, value in exif_data.items()
+            if tag in ExifTags.TAGS
+        }
+        return exif
+    else:
+        return None
+
+def get_exposure_info(exif):
+    aperture = exif.get("FNumber")
+    shutter_speed = exif.get("ExposureTime")
+    iso = exif.get("ISOSpeedRatings")
+    if aperture and shutter_speed and iso:
+        aperture_value = aperture.numerator / aperture.denominator
+        shutter_speed_value = round((shutter_speed.numerator / shutter_speed.denominator), 4)
+        exposure_info = f"(f{aperture_value} | {shutter_speed_value}s | ISO {iso})"
+        return exposure_info
+    return None
+
+def get_camera_full_name(exif):
+    make = exif.get("Make", "").strip()
+    model = exif.get("Model", "").strip()
+    if make and model:
+        return f"{make} {model}"
+    elif model:
+        return model
+    else:
+        return "Unknown Camera"
+
+@app.route("/projects/photography")
+def photography():
+    photos_dir = 'static/images/photography'
+    all_photos = []
+
+    for filename in os.listdir(photos_dir):
+        if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
+            image_path = os.path.join(photos_dir, filename)
+            exif = get_exif_data(image_path)
+            exposure_info = get_exposure_info(exif) if exif else ""
+            camera_full_name = get_camera_full_name(exif) if exif else "Unknown Camera"
+            photo_info = {
+                "filename": filename,
+                "camera": camera_full_name,
+                "exposure": exposure_info
+            }
+            all_photos.append(photo_info)
+
+    return render_template("Photography.html", all_photos=all_photos)
+
 @app.route("/contact", methods=["POST", "GET"])
 def contact():
     form = ContactForm()
@@ -300,4 +355,4 @@ def add_header(response):
 
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
