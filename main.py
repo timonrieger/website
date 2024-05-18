@@ -14,6 +14,7 @@ GMAIL_EMAIL = os.environ.get("GMAIL_EMAIL")
 GMAIL_PASSWORD = os.environ.get("GMAIL_PASSWORD")
 ANS_EMAIL = os.environ.get("ANS_EMAIL")
 ANS_MAIL_PASSWORD = os.environ.get("ANS_MAIL_PASSWORD")
+PRV_EMAIL = os.environ.get("PRV_EMAIL")
 
 # website content storage using npoint
 npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
@@ -277,7 +278,7 @@ def contact():
             flash("Message could not be sent. Try again later or send me an ", "not_sent")
 
     #return render_template("contact.html", form=form)
-    return redirect(f"mailto:{os.environ.get("OFF_EMAIL")}")
+    return redirect(f'mailto:{PRV_EMAIL}')
 
 @app.route('/robots.txt')
 def static_from_root():
