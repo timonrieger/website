@@ -1,0 +1,48 @@
+{% extends "layout.html"%}
+
+{% from "bootstrap5/form.html" import render_form %}
+
+{% block title %}Photography | Timon Rieger{% endblock %}
+
+{% block description %}
+    XXXXXXXXXX
+{% endblock %}
+
+{% block styles %}
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="../static/assets/css/main.css" />
+	<noscript><link rel="stylesheet" href="../static/assets/css/noscript.css" /></noscript>
+{% endblock %}
+
+{% block content %}
+
+	<div class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+				<div id="main">
+					{% for photo in all_photos %}
+						<article class="thumb">
+							<a href="../static/images/photography/{{ photo.filename }}" class="image">
+								<img src="../static/images/photography/{{ photo.filename }}" alt="" loading="lazy"/>
+							</a>
+							<p>{{ photo.camera }} {{ photo.exposure }}</p>
+						</article>
+					{% endfor %}
+				</div>
+			</div>
+
+		<!-- Scripts -->
+			<script src="../static/assets/js/jquery.min.js"></script>
+			<script src="../static/assets/js/jquery.poptrox.min.js"></script>
+			<script src="../static/assets/js/browser.min.js"></script>
+			<script src="../static/assets/js/breakpoints.min.js"></script>
+			<script src="../static/assets/js/util.js"></script>
+			<script src="../static/assets/js/main.js"></script>
+
+	</div>
+
+
+{% endblock %}
