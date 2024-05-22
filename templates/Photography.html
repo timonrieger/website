@@ -28,7 +28,7 @@
 							<a href="../static/images/photography/{{ photo.filename }}" class="image">
 								<img src="../static/images/photography/{{ photo.filename }}" alt="" loading="lazy"/>
 							</a>
-							<p>#{{ all_photos.index(photo) + 1 }} {{ photo.camera }} {{ photo.exposure }}</p>
+							<p>#{{ loop.index }} of {{ all_photos|length }}{{ photo.camera }}{{ photo.exposure }}</p>
 						</article>
 					{% endfor %}
 				</div>

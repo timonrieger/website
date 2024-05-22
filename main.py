@@ -284,37 +284,37 @@ def get_exposure_info(exif):
     if aperture and shutter_speed and iso:
         aperture_value = aperture.numerator / aperture.denominator
         shutter_speed_value = round((shutter_speed.numerator / shutter_speed.denominator), 4)
-        exposure_info = f"(f{aperture_value} | {shutter_speed_value}s | ISO {iso})"
+        exposure_info = f" | f{aperture_value} | {shutter_speed_value}s | ISO {iso}"
         return exposure_info
-    return None
+    return ""
 
-def get_camera_full_name(exif):
-    make = exif.get("Make", "").strip()
+def get_camera_info(exif):
+    lens = exif.get("LensModel")
     model = exif.get("Model", "").strip()
-    if make and model:
-        return f"{make} {model}"
-    elif model:
-        return model
-    else:
-        return "Unknown Camera"
+    if model and lens:
+        return f" | {lens} | {model}"
+    return ""
 
 @app.route("/projects/photography")
 def photography():
     photos_dir = 'static/images/photography'
     all_photos = []
 
-    for filename in os.listdir(photos_dir):
+    filenames = sorted(os.listdir(photos_dir))
+
+    for filename in filenames:
         if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
             image_path = os.path.join(photos_dir, filename)
             exif = get_exif_data(image_path)
-            exposure_info = get_exposure_info(exif) if exif else ""
-            camera_full_name = get_camera_full_name(exif) if exif else "Unknown Camera"
+            exposure_info = get_exposure_info(exif) if exif else None
+            camera_info = get_camera_info(exif) if exif else None
             photo_info = {
                 "filename": filename,
-                "camera": camera_full_name,
+                "camera": camera_info,
                 "exposure": exposure_info
             }
             all_photos.append(photo_info)
+    print(all_photos)
 
     return render_template("Photography.html", all_photos=all_photos)
 
