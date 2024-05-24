@@ -1,4 +1,5 @@
 from flask import Flask, render_template, url_for, flash, redirect, request, send_from_directory
+from flask_caching import Cache
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy import Integer, String
@@ -27,6 +28,9 @@ app.secret_key = FLASK_SECRET_KEY
 
 csrf = CSRFProtect()
 csrf.init_app(app)
+
+cache = Cache(config={'CACHE_TYPE': 'SimpleCache'})
+cache.init_app(app)
 
 bootstrap = Bootstrap5(app)
 
@@ -298,6 +302,7 @@ def get_camera_info(exif):
     return ""
 
 @app.route("/projects/photography")
+@cache.cached(timeout=3600)
 def photography():
     photos_dir = 'static/images/photography'
     all_photos = []
