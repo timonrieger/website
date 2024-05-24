@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+
+{% from "bootstrap5/form.html" import render_field %}
+
+{% block title %}About Me | Timon Rieger{% endblock %}
+
+{% block description %}
+    Timon Rieger is a passionate Software Developer, Entrepreneur, and Artist. Explore him and his work here.
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+      <div class="row">
+        <!-- Column for latest book reads -->
+        <div class="col-md-6">
+          <h2>Latest Reads</h2>
+          <ul class="list-group">
+            {% for book in latest %}
+              <li class="list-group-item">{{ book.title }} | {{ book.author }} | {{ book.date.year }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <!-- Column for most favorite books -->
+        <div class="col-md-6">
+          <h2>All Time Favorite</h2>
+          <ul class="list-group">
+            {% for book in best %}
+              <li class="list-group-item">{{ book.title }} | {{ book.author }} | {{ book.date.year }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <p class="pt-5">The book data is retrieved once a day automatically from my <a href="https://readwise.io/i/timon41" class="links" title="Readwise">Readwise</a> account.</p>
+    </div>
+{% endblock %}

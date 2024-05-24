@@ -9,6 +9,7 @@ from FlashbackPlaylists.spotify import PlaylistGenerator
 from mail_manager import MailManager
 from flask_wtf.csrf import CSRFProtect
 from PIL import Image, ExifTags
+from readwise import Readwise
 
 FLASK_SECRET_KEY = os.environ.get("FLASK_SECRET_KEY")
 GMAIL_EMAIL = os.environ.get("GMAIL_EMAIL")
@@ -16,6 +17,7 @@ GMAIL_PASSWORD = os.environ.get("GMAIL_PASSWORD")
 ANS_EMAIL = os.environ.get("ANS_EMAIL")
 ANS_MAIL_PASSWORD = os.environ.get("ANS_MAIL_PASSWORD")
 PRV_EMAIL = os.environ.get("PRV_EMAIL")
+READWISE_KEY = os.environ.get("READWISE_KEY")
 
 # website content storage using npoint
 npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
@@ -317,6 +319,26 @@ def photography():
     print(all_photos)
 
     return render_template("Photography.html", all_photos=all_photos)
+
+@app.route("/books")
+@cache.cached(timeout=3600)
+def books():
+    client = Readwise(READWISE_KEY)
+    books = client.get_books(category='books')
+    book_list = [
+        {
+            "title": book.title,
+            "author": book.author.split(",")[0].split(" and")[0].split(" &")[0],
+            "date": book.updated,
+            "highlights": book.num_highlights
+        }
+        for book in books
+        if book.title != "Quick Passages" and book.num_highlights > 1
+    ]
+    latest_reads = sorted(book_list, key=lambda x: x['date'], reverse=True)[:5]
+    best_reads = sorted(book_list, key=lambda x: x['highlights'], reverse=True)[:5]
+
+    return render_template("books.html", latest=latest_reads, best=best_reads)
 
 @app.route("/contact", methods=["POST", "GET"])
 def contact():
