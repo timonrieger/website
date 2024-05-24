@@ -65,7 +65,12 @@
             <div class="col d-flex align-items-start hover-grow">
                 <div>
                     <h3 class="fw-bold mb-1 fs-4 text-body-emphasis">{{ interest.title }}</h3>
-                    <p>{{ interest.text }}</p>
+
+                    {% if interest.link %}
+                        <p>{{ interest.text }} <a class="links" href="{{ interest.link }}" title="Send me an email">more</a></p>
+                    {% else %}
+                        <p>{{ interest.text }}</p>
+                    {% endif %}
                 </div>
               </div>
         {% endfor %}
