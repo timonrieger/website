@@ -9,10 +9,10 @@
 {% block content %}
     <div class="container">
       <h1 class="display-5">My Readwise Book Library</h1>
-      <p class="lead my-4 pb-4">The book data is updated once a day automatically from my <a href="https://readwise.io/i/timon41" class="links" title="Readwise">Readwise</a> account.</p>
+      <p class="lead my-4">The book data is updated once a day automatically from my <a href="https://readwise.io/i/timon41" class="links" title="Readwise">Readwise</a> account.</p>
       <div class="row">
         <!-- Column for latest book reads -->
-        <div class="col-md-6">
+        <div class="col-md-6 pt-4">
           <h3>Latest Reads</h3>
           <ul class="list-group">
             {% for book in latest %}
@@ -21,7 +21,7 @@
           </ul>
         </div>
         <!-- Column for most favorite books -->
-        <div class="col-md-6">
+        <div class="col-md-6 pt-4">
           <h3>All Time Favorites</h3>
           <ul class="list-group">
             {% for book in best %}
