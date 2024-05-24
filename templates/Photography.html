@@ -5,7 +5,7 @@
 {% block title %}Photography | Timon Rieger{% endblock %}
 
 {% block description %}
-    Take a look into my collection of photographs and their camera settings.
+    Browse my photography portfolio to discover unique moments and the camera settings used for each.
 {% endblock %}
 
 {% block styles %}
@@ -15,6 +15,10 @@
 {% endblock %}
 
 {% block content %}
+	<div class="container">
+		<h1 class="display-5" style="text-transform: lowercase">Photos from around the world</h1>
+		<p class="lead my-4 pb-3">The camera settings of each photo are retrieved automatically from my camera.</p>
+	</div>
 
 	<div class="is-preload">
 
@@ -32,7 +36,6 @@
 						</article>
 					{% endfor %}
 				</div>
-				<p class="pt-5">The photo information is retrieved automatically from my camera.</p>
 			</div>
 
 		<!-- Scripts -->
