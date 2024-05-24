@@ -321,7 +321,6 @@ def photography():
                 "exposure": exposure_info
             }
             all_photos.append(photo_info)
-    print(all_photos)
 
     return render_template("Photography.html", all_photos=all_photos)
 
