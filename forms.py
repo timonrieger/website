@@ -51,5 +51,5 @@ class NewsletterForm(FlaskForm):
 class FlashbackPlaylistsForm(FlaskForm):
     date_input = DateField(label="Date", render_kw={"style": f"{STRING_FIELD_STYLE}"}, validators=[DataRequired()])
     title = StringField(label="Playlist Title", render_kw={"style": f"{STRING_FIELD_STYLE}"}, validators=[DataRequired()])
-    description = TextAreaField(label="Playlist Description", render_kw={"style": f"{TEXT_AREA_STYLE}; {SUBMIT_STYLE}"}, validators=[DataRequired(), Length(max=250, message="Maximum 250 characters.")])
-    submit = SubmitField(label="Service under review :(", render_kw={"id": "generateBtn", "disabled": "disabled"})
+    description = TextAreaField(label="Playlist Description", render_kw={"style": f"{TEXT_AREA_STYLE}; {SUBMIT_STYLE}"}, validators=[DataRequired(), Length(max=230, message="Maximum 230 characters.")])
+    submit = SubmitField(label="Generate Playlist", render_kw={"id": "generateBtn"})
