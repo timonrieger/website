@@ -62,12 +62,12 @@
   <div class="container px-4 py-5" id="interests">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4 py-5">
         {% for interest in all_interests %}
-            <div class="col d-flex align-items-start hover-grow">
+            <div class="col d-flex align-items-start">
                 <div>
                     <h3 class="fw-bold mb-1 fs-4 text-body-emphasis">{{ interest.title }}</h3>
 
                     {% if interest.link %}
-                        <p>{{ interest.text }} <a class="links" href="{{ interest.link }}" title="Send me an email">more</a></p>
+                        <p>{{ interest.text }} <a class="links" href="{{ interest.link }}" title="{{ interest.title }}">more</a></p>
                     {% else %}
                         <p>{{ interest.text }}</p>
                     {% endif %}
