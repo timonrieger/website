@@ -48,7 +48,7 @@ class MailManager():
         """Send a confirmation link to the specified email."""
         token = self.generate_token(expire=True)
         user_id = self.get_user_id(user_mail, form, db, NewsletterSubs, AirNomads)
-        confirmation_link = f"https://www.timonrieger.com/confirm?id={user_id}&token={token}&form={form}"
+        confirmation_link = f"https://www.timonrieger.de/confirm?id={user_id}&token={token}&form={form}"
         message = (f"Subject: Account Confirmation Link\n\n"
                    f"Hello {username},\n\n"
                    f"Thank you for signing up! To complete your registration, please click the link below within the next 10 minutes:\n\n"
