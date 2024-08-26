@@ -279,7 +279,7 @@ def get_camera_info(exif):
         return f" | {lens} | {model} | {lens_mm}mm"
     return ""
 
-@app.route("/projects/photography")
+@app.route("/photography")
 @cache.cached(timeout=3600)
 def photography():
     photos_dir = 'static/images/photography'
