@@ -3,10 +3,9 @@ from flask_caching import Cache
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy import Integer, String
-from forms import AirNomadSocietyForm, NewsletterForm, ContactForm, FlashbackPlaylistsForm
+from forms import AirNomadSocietyForm, NewsletterForm, ContactForm
 import requests, os
 from flask_bootstrap import Bootstrap5
-from FlashbackPlaylists.spotify import PlaylistGenerator
 from mail_manager import MailManager
 from flask_wtf.csrf import CSRFProtect
 from PIL import Image, ExifTags
@@ -242,30 +241,6 @@ def ans_subscribe():
 @app.route("/projects/air-nomad-society/example-email")
 def ans_example_email():
     return render_template("ans_example_email.html")
-
-@app.route("/projects/flashback-playlists", methods=["POST", "GET"])
-def flashback_playlists():
-    form = FlashbackPlaylistsForm()
-    if form.validate_on_submit():
-        date_input = str(form.date_input.data)
-        year = int(date_input.split("-")[0])
-        month = date_input.split("-")[1]
-        day = date_input.split("-")[2]
-        if year >= 1900:
-            playlist_date = f"{year}-{month}-{day}"
-            description = f"{form.description.data} | Created with https://timonrieger.de/projects/flashback-playlists"
-            pg = PlaylistGenerator()
-            playlist_link = pg.generate_playlist(date=playlist_date, title=form.title.data, description=description)
-            return render_template("FlashbackPlaylists.html", form_submitted=True, link=playlist_link, title=form.title.data, form=form)
-        else:
-            flash("Please enter a date that is later than 1900.", category="error")
-            form = FlashbackPlaylistsForm(
-                title=form.title.data,
-                description=form.description.data
-            )
-            return render_template("FlashbackPlaylists.html", form=form)
-    return render_template("FlashbackPlaylists.html", form=form)
-
 
 @app.route("/projects")
 def browse_projects():
