@@ -10,6 +10,7 @@ from mail_manager import MailManager
 from flask_wtf.csrf import CSRFProtect
 from PIL import Image, ExifTags
 from readwise import Readwise
+from fractions import Fraction
 
 FLASK_SECRET_KEY = os.environ.get("FLASK_SECRET_KEY")
 GMAIL_EMAIL = os.environ.get("GMAIL_EMAIL")
@@ -265,7 +266,7 @@ def get_exposure_info(exif):
     iso = exif.get("ISOSpeedRatings")
     if aperture and shutter_speed and iso:
         aperture_value = aperture.numerator / aperture.denominator
-        shutter_speed_value = round((shutter_speed.numerator / shutter_speed.denominator), 4)
+        shutter_speed_value = Fraction(shutter_speed).limit_denominator()
         exposure_info = f" | f{aperture_value} | {shutter_speed_value}s | ISO {iso}"
         return exposure_info
     return ""
@@ -273,8 +274,9 @@ def get_exposure_info(exif):
 def get_camera_info(exif):
     lens = exif.get("LensModel")
     model = exif.get("Model", "").strip()
+    lens_mm = round(exif.get("FocalLength"), 0)
     if model and lens:
-        return f" | {lens} | {model}"
+        return f" | {lens} | {model} | {lens_mm}mm"
     return ""
 
 @app.route("/projects/photography")
@@ -283,7 +285,7 @@ def photography():
     photos_dir = 'static/images/photography'
     all_photos = []
 
-    filenames = sorted(os.listdir(photos_dir))
+    filenames = sorted(os.listdir(photos_dir), key=lambda x: int(x.split(".")[0]), reverse=True)
 
     for filename in filenames:
         if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
