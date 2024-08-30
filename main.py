@@ -313,8 +313,8 @@ def books():
     book_list = [
         {
             "title": book.title,
-            "author": book.author.split(",")[0].split(" and")[0].split(" &")[0],
-            "date": book.updated,
+            "author": book.author.split(",")[0].split(" and")[0].split(" und")[0].split(" &")[0],
+            "date": book.last_highlight_at if book.last_highlight_at else book.updated,
             "highlights": book.num_highlights
         }
         for book in books

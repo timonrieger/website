@@ -18,7 +18,7 @@
           <h3>Latest Reads</h3>
           <ul class="list-group">
             {% for book in latest %}
-              <li class="list-group-item">{{ book.title }} | {{ book.author }} | {{ book.date.year }}</li>
+              <li class="list-group-item">{{ book.title }} | {{ book.author }} | {{ book.date.month }}/{{ book.date.year }}</li>
             {% endfor %}
           </ul>
         </div>
@@ -27,7 +27,7 @@
           <h3>All Time Favorites</h3>
           <ul class="list-group">
             {% for book in best %}
-              <li class="list-group-item">{{ book.title }} | {{ book.author }} | {{ book.date.year }}</li>
+              <li class="list-group-item">{{ book.title }} | {{ book.author }} | {{ book.date.month }}/{{ book.date.year }}</li>
             {% endfor %}
           </ul>
         </div>
