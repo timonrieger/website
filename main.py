@@ -285,7 +285,7 @@ def photography():
     photos_dir = 'static/images/photography'
     all_photos = []
 
-    filenames = sorted(os.listdir(photos_dir), key=lambda x: int(x.split(".")[0]), reverse=True)
+    filenames = os.listdir(photos_dir)
 
     for filename in filenames:
         if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
@@ -296,9 +296,12 @@ def photography():
             photo_info = {
                 "filename": filename,
                 "camera": camera_info,
-                "exposure": exposure_info
+                "exposure": exposure_info,
+                "date": exif['DateTimeOriginal']
             }
             all_photos.append(photo_info)
+
+    all_photos = sorted(all_photos, key=lambda x: x["date"], reverse=True)
 
     return render_template("Photography.html", all_photos=all_photos)
 
