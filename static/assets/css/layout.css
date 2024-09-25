@@ -1,0 +1,70 @@
+.hover-grow {
+    transition: transform 0.4s ease-in-out;
+}
+
+.hover-grow:hover {
+    transform: scale(1.06);
+}
+#faq button, #pricing button {
+    font-size: 18px;
+}
+#faq .answer {
+    width: 100%
+}
+.hide-button {
+    display: none;
+}
+.alert {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.highlight {
+    color: #ffe772;
+}
+.highlight-thick {
+    font-weight: bold
+}
+.links {
+    color: #ffe772;
+    text-decoration: none;
+}
+.links:hover {
+    color: #ffe772;
+    text-decoration: underline;
+}
+
+#photo-gallery-container {
+  white-space: nowrap;
+  width: 100vw;
+}
+
+#photo-gallery {
+    --side-margin: 1vh;
+    display: inline-block;
+    max-width: 100vw;
+    width: max-content;
+}
+
+.photo-link {
+    display: inline-block;
+    width: 10vh;
+    height: 10vh;
+    margin: 0 var(--side-margin);
+    border-radius: 5px;
+    box-shadow: 0 12.5px 12.5px rgba(0, 0, 0, .15);
+    overflow: hidden;
+    position: relative;
+    transition: transform .2s;
+}
+
+.photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 0;
+}

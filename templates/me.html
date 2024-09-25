@@ -9,9 +9,19 @@
 {% endblock %}
 
 {% block content %}
-    <br>
+<br>
+<div id="photo-gallery-container">
+    <div id="photo-gallery">
+        {% for photo in photo_gallery %}
+            <a href="{{ url_for('photography')}}" class="photo-link hover-grow">
+                <img class="photo" src="../static/images/photography/{{ photo.filename }}" alt="" loading="lazy"/>
+            </a>
+        {% endfor %}
+    </div>
+</div>
+
   <!-- Intro -->
-  <div class="container col-xxl-8 px-4 py-5">
+<div class="container col-xxl-8 px-4 py-5">
     <div class="row justify-content-center g-5 py-5">
       <div class="col-10 col-sm-8 col-lg-6">
         <img src="static/images/me.jpg" class="rounded-circle hover-grow" width="100%" alt="Avatar">
@@ -19,7 +29,7 @@
       <div class="col-lg-6">
         <h1 class="display-5 fw-bold text-body-emphasis lh-1">Hey there, I'm Timon!</h1>
         <p class="lead my-5">life time learner, work time developer, free time hustler</p>
-        <a href="{{ url_for('browse_projects') }}" class="btn btn-outline-light btn-lg px-4">Projects</a>
+        <a href="{{ url_for('projects') }}" class="btn btn-outline-light btn-lg px-4">Projects</a>
         {% if get_flashed_messages() %}
           {% for category, message in get_flashed_messages(with_categories=true) %}
               {% if category == 'success' %}
@@ -32,7 +42,7 @@
                   </div>
             {% elif category == 'not_sent' %}
                   <div class="alert alert-danger flash mt-5" role="alert">
-                     <h5>{{ message }} <a href="mailto:timonriegerx@gmail.com?subject=Newsletter - Confirm me please&body=The confirmation email could not be sent, therefore please confirm me manually with {{ form.email.data }}." class="alert-link">email</a>.</h5>
+                     <h5>{{ message }} <a href="mailto:timonriegerx@gmail.com?subject=Newsletter - Confirm me please&body=The confirmation email could not be sent. Please confirm me manually with {{ form.email.data }}." class="alert-link">email</a>.</h5>
                   </div>
               {% else %}
                   <div class="alert alert-light flash mt-5" role="alert">
@@ -59,7 +69,7 @@
   </div>
 
   <!-- Hobbies -->
-  <div class="container px-4 py-5" id="interests">
+<div class="container px-4 py-5" id="interests">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4 py-5">
         {% for interest in all_interests %}
             <div class="col d-flex align-items-start">
@@ -78,8 +88,10 @@
   </div>
 
 <!-- Support Me -->
-    <div class="container px-4" id="support">
-        <p class="py-2" style="text-align: justify; line-height: 1.8;">Open-source development demands significant time and effort. Your support means the world to me as it keeps me motivated and enables me to invest more time into these projects. If you appreciate my work, I would be grateful if you could share my projects or give contribution through a <a class="links" href="https://www.paypal.com/paypalme/TimonRieger?locale.x=en_DE" title="Support me">tip</a>.</p>
+<div class="container px-4" id="support">
+    <p class="py-2" style="text-align: justify; line-height: 1.8;">Open-source development demands significant time and effort. Your support means the world to me as it keeps me motivated and enables me to invest more time into these projects. If you appreciate my work, I would be grateful if you could share my projects or give contribution through a <a class="links" href="https://www.paypal.com/paypalme/TimonRieger?locale.x=en_DE" title="Support me">tip</a>.</p>
 </div>
+
+<script src="../static/assets/js/photo-gallery.js"></script>
 
 {% endblock %}

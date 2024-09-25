@@ -6,11 +6,9 @@ from sqlalchemy import Integer, String
 from forms import AirNomadSocietyForm, NewsletterForm, ContactForm
 import requests, os
 from flask_bootstrap import Bootstrap5
-from mail_manager import MailManager
+import utils
 from flask_wtf.csrf import CSRFProtect
-from PIL import Image, ExifTags
 from readwise import Readwise
-from fractions import Fraction
 
 FLASK_SECRET_KEY = os.environ.get("FLASK_SECRET_KEY")
 GMAIL_EMAIL = os.environ.get("GMAIL_EMAIL")
@@ -29,12 +27,12 @@ app.secret_key = FLASK_SECRET_KEY
 csrf = CSRFProtect()
 csrf.init_app(app)
 
-cache = Cache(config={'CACHE_TYPE': 'SimpleCache'})
+cache = Cache(config={'CACHE_TYPE': 'SimpleCache', "CACHE_DEFAULT_TIMEOUT": 600})
 cache.init_app(app)
 
 bootstrap = Bootstrap5(app)
 
-mail_manager = MailManager()
+mail_manager = utils.MailManager()
 
 class Base(DeclarativeBase):
     __abstract__ = True
@@ -83,7 +81,9 @@ def me():
             if not sent:
                 flash(f"Confirmation email could not be sent. To solve the issue send me an ", category="not_sent")
 
-    return render_template("me.html", form=form, all_interests=npoint_data["interests"])
+    all_photos = sorted(utils.build_photo_list(), key=lambda x: x["date"], reverse=True)
+
+    return render_template("me.html", form=form, all_interests=npoint_data["interests"], photo_gallery=all_photos)
 
 @app.route("/confirm")
 def confirm_users():
@@ -244,69 +244,15 @@ def ans_example_email():
     return render_template("ans_example_email.html")
 
 @app.route("/projects")
-def browse_projects():
+def projects():
     return render_template("projects.html", all_projects=npoint_data["projects"])
 
-def get_exif_data(image_path):
-    image = Image.open(image_path)
-    exif_data = image._getexif()
-    if exif_data is not None:
-        exif = {
-            ExifTags.TAGS.get(tag): value
-            for tag, value in exif_data.items()
-            if tag in ExifTags.TAGS
-        }
-        return exif
-    else:
-        return None
-
-def get_exposure_info(exif):
-    aperture = exif.get("FNumber")
-    shutter_speed = exif.get("ExposureTime")
-    iso = exif.get("ISOSpeedRatings")
-    if aperture and shutter_speed and iso:
-        aperture_value = aperture.numerator / aperture.denominator
-        shutter_speed_value = Fraction(shutter_speed).limit_denominator()
-        exposure_info = f" | f{aperture_value} | {shutter_speed_value}s | ISO {iso}"
-        return exposure_info
-    return ""
-
-def get_camera_info(exif):
-    lens = exif.get("LensModel")
-    model = exif.get("Model", "").strip()
-    lens_mm = round(exif.get("FocalLength"), 0)
-    if model and lens:
-        return f" | {lens} | {model} | {lens_mm}mm"
-    return ""
-
 @app.route("/photography")
-@cache.cached(timeout=3600)
 def photography():
-    photos_dir = 'static/images/photography'
-    all_photos = []
-
-    filenames = os.listdir(photos_dir)
-
-    for filename in filenames:
-        if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
-            image_path = os.path.join(photos_dir, filename)
-            exif = get_exif_data(image_path)
-            exposure_info = get_exposure_info(exif) if exif else None
-            camera_info = get_camera_info(exif) if exif else None
-            photo_info = {
-                "filename": filename,
-                "camera": camera_info,
-                "exposure": exposure_info,
-                "date": exif['DateTimeOriginal']
-            }
-            all_photos.append(photo_info)
-
-    all_photos = sorted(all_photos, key=lambda x: x["date"], reverse=True)
-
+    all_photos = sorted(utils.build_photo_list(), key=lambda x: x["date"], reverse=True)
     return render_template("Photography.html", all_photos=all_photos)
 
 @app.route("/books")
-@cache.cached(timeout=3600)
 def books():
     client = Readwise(READWISE_KEY)
     books = client.get_books(category='books')
@@ -362,4 +308,4 @@ def add_header(response):
 
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True, port=7777)
