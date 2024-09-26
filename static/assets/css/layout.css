@@ -38,6 +38,7 @@
 #photo-gallery-container {
   white-space: nowrap;
   width: 100vw;
+  overflow: hidden;
 }
 
 #photo-gallery {
