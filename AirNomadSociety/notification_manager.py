@@ -15,19 +15,17 @@ sys.path.append(parent)
 import smtplib, random
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-
-ANS_EMAIL = os.environ.get("ANS_EMAIL")
-ANS_MAIL_PASSWORD = os.environ.get("ANS_MAIL_PASSWORD")
+from constants import ANS_EMAIL, ANS_MAIL_PASSWORD
 
 class NotificationManager:
     #This class is responsible for sending notifications with the deal flight details.
 
     def send_weekly_email(self, user, dream_flights, random_flights, image_data):
-        with open('templates/weekly_ans_email/start.html', 'r', encoding="utf-8") as start_file:
+        with open('templates/ans/start.html', 'r', encoding="utf-8") as start_file:
             start_html = start_file.read()
             start_file.close()
 
-        with open('templates/weekly_ans_email/user_mail.html', 'a', encoding="utf-8") as email_file:
+        with open('templates/ans/send_email.html', 'a', encoding="utf-8") as email_file:
             ## start
             email_file.write(start_html)
             ## add username
@@ -99,7 +97,7 @@ class NotificationManager:
         msg['To'] = user["email"]
         msg['Subject'] = "Weekly Flight Deals!"
         # Read HTML file
-        with open('templates/weekly_ans_email/user_mail.html', 'r', encoding="utf-8") as email_file:
+        with open('templates/ans/send_email.html', 'r', encoding="utf-8") as email_file:
             html_string = email_file.read()
 
         # Attach HTML content to the email
@@ -117,5 +115,5 @@ class NotificationManager:
             connection.close()
 
         # clear unique html file
-        with open('templates/weekly_ans_email/user_mail.html', "w") as email_file:
+        with open('templates/ans/send_email.html', "w") as email_file:
             email_file.write("")

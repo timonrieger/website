@@ -7,33 +7,46 @@
 {% endblock %}
 
 {% block content %}
-    <div class="album bg-body-primary">
-    <div class="container">
-      
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+<div class="album bg-body-primary">
+  <div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
       {% for project in all_projects %}
-        <div class="col">
-          <a href="{{ project.url }}" style="text-decoration: none">
-            <div class="card shadow-sm hover-grow">
-              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>{{ project.name }}</title>
-                <rect width="100%" height="100%" fill="#55595c"></rect>
-                <image height="100%" width="100%" href="https://timonrieger.de/static/images/projects/{{ project.img }}" preserveAspectRatio="xMidYMid slice" opacity="0.5"></image>
-                <text x="10%" y="50%" fill="#eceeef" dy=".3em" font-size="25px">{{ project.name }}</text>
-              </svg>
-                <div class="card-body text-start">
-                    <div class="row">
-                      <h6 class="highlight highlight-thick col-5">{{ project.category }}</h6>
-                        <span class="highlight col-7 text-end">{{ project.tags }}</span>
-                    </div>
-                    <p class="card-text py-1">{{ project.description }}</p>
-                </div>
+      <div class="col">
+        <a href="{{ project.url }}" style="text-decoration: none">
+          <div class="card shadow-sm hover-grow">
+            <svg
+              class="bd-placeholder-img card-img-top"
+              width="100%"
+              height="225"
+              xmlns="http://www.w3.org/2000/svg"
+              role="img"
+              aria-label="Placeholder: Thumbnail"
+              preserveAspectRatio="xMidYMid slice"
+              focusable="false"
+            >
+              <rect width="100%" height="100%" fill="#55595c"></rect>
+              <image
+                height="100%"
+                width="100%"
+                href="http://timonrieger.de/static/images/projects/{{ project.img }}"
+                preserveAspectRatio="xMidYMid slice"
+                opacity="0"
+              ></image>
+            </svg>
+            <div class="card-body text-start">
+              <div class="row">
+                <h6 class="highlight highlight-thick col-5">
+                  {{ project.category }}
+                </h6>
+                <span class="highlight col-7 text-end">{{ project.tags }}</span>
+              </div>
+              <p class="card-text py-1">{{ project.description }}</p>
             </div>
-          </a>
-
-        </div>
-      {% endfor %}
+          </div>
+        </a>
       </div>
+      {% endfor %}
     </div>
-    </div>
+  </div>
+</div>
 {% endblock %}

@@ -2,8 +2,7 @@ from flask_wtf import FlaskForm
 from wtforms.validators import DataRequired, Email, Length, NumberRange, ValidationError
 from wtforms import StringField, SelectField, IntegerField, SelectMultipleField, SubmitField, TextAreaField, DateField
 import requests
-
-NPOINT = "https://api.npoint.io/9e625c836edf8e4047a8"
+from constants import NPOINT_ANS
 
 STRING_FIELD_STYLE = "width: 40%; height: 33px; margin: auto; display: block"
 TEXT_AREA_STYLE = "width: 40%; height: 100px; margin: auto; display: block"
@@ -24,9 +23,9 @@ class ValidateMaxNightsGreaterThanMin:
 
 
 class AirNomadSocietyForm(FlaskForm):
-    departure_choices = [f"{city['city']} | {city['code']}" for city in requests.get(url=NPOINT).json()['cities']]
-    currency_choices = requests.get(url=NPOINT).json()["currencies"]
-    country_choices = [country["country"] for country in requests.get(url=NPOINT).json()["countries"]]
+    departure_choices = [f"{city['city']} | {city['code']}" for city in requests.get(url=NPOINT_ANS).json()['cities']]
+    currency_choices = requests.get(url=NPOINT_ANS).json()["currencies"]
+    country_choices = [country["country"] for country in requests.get(url=NPOINT_ANS).json()["countries"]]
 
     username = StringField(label="Username", validators=[DataRequired(), Length(min=3, max=20, message="Set a username within 3 - 8 characters.")], render_kw={"style": f"{STRING_FIELD_STYLE}"})
     email = StringField(label="Email", validators=[DataRequired(), Email()], render_kw={"style": f"{STRING_FIELD_STYLE}"})
@@ -37,12 +36,7 @@ class AirNomadSocietyForm(FlaskForm):
     favorite_countries = SelectMultipleField(label="Favorite destinations", choices=country_choices, validators=[DataRequired()], render_kw={"style": f"{SELECT_MULTIPLE_STYLE}; f{SUBMIT_STYLE}"})
     join = SubmitField(label="Join Air Nomad Society")
     update = SubmitField(label="Update Preferences")
-
-class ContactForm(FlaskForm):
-    name = StringField(label="Name", render_kw={"style": f"{STRING_FIELD_STYLE}"}, validators=[DataRequired()])
-    email = StringField(label="Email", render_kw={"style": f"{STRING_FIELD_STYLE}"}, validators=[DataRequired(), Email()])
-    message = TextAreaField(label="Message", render_kw={"style": f"{STRING_FIELD_STYLE}; height: 150px; f{SUBMIT_STYLE}"}, validators=[DataRequired()])
-    submit = SubmitField(label="Send")
+    
 
 class NewsletterForm(FlaskForm):
     email = StringField(label="", validators=[DataRequired(), Email()], render_kw={"placeholder": "Email address"})

@@ -14,8 +14,7 @@ parent = os.path.dirname(current)
 sys.path.append(parent)
 
 from main import app, db, AirNomads
-
-NPOINT = "https://api.npoint.io/9e625c836edf8e4047a8"
+from constants import NPOINT_ANS
 
 class DataManager:
     # This class is responsible for talking to the Google Sheet and the Database.
@@ -35,9 +34,9 @@ class DataManager:
         return self.user_data
 
     def get_destination_data(self):
-        self.destination_data = requests.get(url=NPOINT).json()["countries"]
+        self.destination_data = requests.get(url=NPOINT_ANS).json()["countries"]
         return self.destination_data
 
     def get_images(self):
-        self.image_data = requests.get(url=NPOINT).json()["images"]
+        self.image_data = requests.get(url=NPOINT_ANS).json()["images"]
         return self.image_data

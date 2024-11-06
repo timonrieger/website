@@ -3,23 +3,17 @@ from flask_caching import Cache
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy import Integer, String
-from forms import AirNomadSocietyForm, NewsletterForm, ContactForm
-import requests, os
+from forms import AirNomadSocietyForm, NewsletterForm
+import requests
 from flask_bootstrap import Bootstrap5
 import utils
 from flask_wtf.csrf import CSRFProtect
 from readwise import Readwise
+from constants import FLASK_SECRET_KEY, GMAIL_EMAIL, GMAIL_PASSWORD, PRV_EMAIL, READWISE_KEY, ANS_EMAIL, ANS_MAIL_PASSWORD, NPOINT_ME, DB_URI
 
-FLASK_SECRET_KEY = os.environ.get("FLASK_SECRET_KEY")
-GMAIL_EMAIL = os.environ.get("GMAIL_EMAIL")
-GMAIL_PASSWORD = os.environ.get("GMAIL_PASSWORD")
-ANS_EMAIL = os.environ.get("ANS_EMAIL")
-ANS_MAIL_PASSWORD = os.environ.get("ANS_MAIL_PASSWORD")
-PRV_EMAIL = os.environ.get("PRV_EMAIL")
-READWISE_KEY = os.environ.get("READWISE_KEY")
 
 # website content storage using npoint
-npoint_data = requests.get(url="https://api.npoint.io/498c13e5c27e87434a9f").json()
+npoint_data = requests.get(url=NPOINT_ME).json()
 
 app = Flask(__name__)
 app.secret_key = FLASK_SECRET_KEY
@@ -40,7 +34,7 @@ class Base(DeclarativeBase):
     confirmed: Mapped[int] = mapped_column(Integer, default=0)
     token: Mapped[str] = mapped_column(String, unique=True)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get("DB_URI", "sqlite:///personal-website.db")
+app.config['SQLALCHEMY_DATABASE_URI'] = DB_URI
 db = SQLAlchemy(app, model_class=Base)
 
 class AirNomads(db.Model):
@@ -138,7 +132,7 @@ def unsubscribe_users():
 
 @app.route("/projects/air-nomad-society")
 def air_nomad_society():
-    return render_template("AirNomad.html")
+    return render_template("ans/ans.html")
 
 @app.route("/projects/air-nomad-society/subscribe", methods=["POST", "GET"])
 def ans_subscribe():
@@ -157,7 +151,7 @@ def ans_subscribe():
 
         if not member:
             flash("No member found. Please subscribe to become a member.", category="error")
-            return render_template("ans_subscribe.html", form=form, show_form=True)
+            return render_template("ans/subscribe.html", form=form, show_form=True)
 
         elif member and unsubscribe:
             form = AirNomadSocietyForm(
@@ -177,7 +171,7 @@ def ans_subscribe():
             db.session.delete(member)
             db.session.commit()
 
-            return render_template("ans_subscribe.html", form=form, show_form=True)
+            return render_template("ans/subscribe.html", form=form, show_form=True)
 
 
         elif member and token and not unsubscribe: #user clicked update link in email
@@ -191,10 +185,10 @@ def ans_subscribe():
                 favorite_countries=[country.strip() for country in member.travel_countries.split(",")]
             )
             flash("Your profile is ready for updates. Please make any changes as needed.", category="success")
-            return render_template("ans_subscribe.html", form=form, show_form=True, update=True)
+            return render_template("ans/subscribe.html", form=form, show_form=True, update=True)
 
         else:
-            return render_template("ans_subscribe.html", form=form)
+            return render_template("ans/subscribe.html", form=form)
 
     if form.validate_on_submit() and request.method == 'POST':
         already_member = db.session.execute(db.Select(AirNomads).where(AirNomads.email == form.email.data)).scalar()
@@ -212,7 +206,7 @@ def ans_subscribe():
                 already_member.travel_countries = favorite_countries
                 db.session.commit()
                 flash("Your preferences were changed successfully.", category="success")
-                return render_template("ans_subscribe.html", form=form, update=True)
+                return render_template("ans/subscribe.html", form=form, update=True)
         if not already_member:
             new_member = AirNomads(
                 username=form.username.data,
@@ -234,14 +228,14 @@ def ans_subscribe():
             if not sent:
                 flash(f"Confirmation email could not be sent. To solve the issue send me an ", category="not_sent")
 
-        return render_template("ans_subscribe.html", form=form)
+        return render_template("ans/subscribe.html", form=form)
 
-    return render_template("ans_subscribe.html", form=form, show_form=True)
+    return render_template("ans/subscribe.html", form=form, show_form=True)
 
 
 @app.route("/projects/air-nomad-society/example-email")
 def ans_example_email():
-    return render_template("ans_example_email.html")
+    return render_template("ans/example_email.html")
 
 @app.route("/projects")
 def projects():
@@ -250,7 +244,7 @@ def projects():
 @app.route("/photography")
 def photography():
     all_photos = sorted(utils.build_photo_list(), key=lambda x: x["date"], reverse=True)
-    return render_template("Photography.html", all_photos=all_photos)
+    return render_template("photography.html", all_photos=all_photos)
 
 @app.route("/books")
 def books():
@@ -273,19 +267,6 @@ def books():
 
 @app.route("/contact", methods=["POST", "GET"])
 def contact():
-    form = ContactForm()
-    if form.validate_on_submit():
-        message = (f"Subject: Message by {form.name.data} from your Website\n\n"
-                   f"Hello Timon,\n\n"
-                   f"My name is {form.name.data}. You can contact me at {form.email.data}\n\n"
-                   f"{form.message.data}\n\n")
-        sent = mail_manager.send_basic_emails(GMAIL_EMAIL, GMAIL_PASSWORD, GMAIL_EMAIL, message)
-        if sent:
-            flash("Message successfully sent.", "success")
-        elif not sent:
-            flash("Message could not be sent. Try again later or send me an ", "not_sent")
-
-    #return render_template("contact.html", form=form)
     return redirect(f'mailto:{PRV_EMAIL}')
 
 @app.route('/robots.txt')
@@ -308,4 +289,4 @@ def add_header(response):
 
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True, port=5001)

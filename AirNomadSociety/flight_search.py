@@ -16,9 +16,7 @@ sys.path.append(parent)
 from datetime import datetime
 import requests, time
 from flight_data import FlightData
-
-TEQUILA_ENDPOINT = "https://api.tequila.kiwi.com"
-TEQUILA_API_KEY = os.environ.get("TEQUILA_API_KEY")
+from constants import TEQUILA_API_KEY, TEQUILA_ENDPOINT
 
 class FlightSearch:
     # This class is responsible for talking to the Flight Search API.
