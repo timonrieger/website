@@ -14,31 +14,37 @@
       <div class="col">
         <a href="{{ project.url }}" style="text-decoration: none">
           <div class="card shadow-sm hover-grow">
-            <svg
-              class="bd-placeholder-img card-img-top"
-              width="100%"
-              height="225"
-              xmlns="http://www.w3.org/2000/svg"
-              role="img"
-              aria-label="Placeholder: Thumbnail"
-              preserveAspectRatio="xMidYMid slice"
-              focusable="false"
-            >
-              <rect width="100%" height="100%" fill="#55595c"></rect>
-              <image
-                height="100%"
-                width="100%"
-                href="https://timonrieger.de/static/images/projects/{{ project.img }}"
+            <div class="svg-container">
+              <svg
+                class="responsive-svg"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                aria-label="Placeholder: Thumbnail"
                 preserveAspectRatio="xMidYMid slice"
-                opacity="0"
-              ></image>
-            </svg>
+                focusable="false"
+              >
+                <rect width="100%" height="100%" fill="#55595c"></rect>
+                <image
+                  width="100%"
+                  height="100%"
+                  href="https://timonrieger.de/static/images/projects/{{ project.img }}"
+                  preserveAspectRatio="xMidYMid slice"
+                  opacity="0.8"
+                ></image>
+              </svg>
+            </div>
             <div class="card-body text-start">
               <div class="row">
                 <h6 class="highlight highlight-thick col-5">
+                  {{ project.name }}
+                </h6>
+                <span class="highlight col-7 text-end">{{ project.date }}</span>
+              </div>
+              <div class="row">
+                <h6 class="col-5">
                   {{ project.category }}
                 </h6>
-                <span class="highlight col-7 text-end">{{ project.tags }}</span>
+                <span class="col-7 text-end">{{ project.tags }}</span>
               </div>
               <p class="card-text py-1">{{ project.description }}</p>
             </div>

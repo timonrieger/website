@@ -69,3 +69,13 @@
     position: relative;
     z-index: 0;
 }
+
+.svg-container {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
+  
+  .responsive-svg {
+    width: 100%;
+    height: 100%;
+  }
