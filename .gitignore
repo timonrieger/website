@@ -1,7 +1,7 @@
 todo.txt
 .DS_Store
 .idea
-AirNomadSociety/unsplash.py
+src/unsplash.py
 
 
 # Byte-compiled / optimized / DLL files
