@@ -1,91 +1,84 @@
-{% extends "layout.html" %}
-
-{% from "bootstrap5/form.html" import render_field %}
-
-{% block title %}About Me | Timon Rieger{% endblock %}
-
-{% block description %}
-    Timon Rieger is a passionate Software Developer, Entrepreneur, and Artist. Explore him and his work here.
-{% endblock %}
-
-{% block content %}
-<br>
+{% extends "layout.html" %} {% from "bootstrap5/form.html" import render_field
+%} {% block title %}About Me | Timon Rieger{% endblock %} {% block description
+%} Timon Rieger is a passionate Software Developer, Entrepreneur, and Artist.
+Explore him and his work here. {% endblock %} {% block content %}
+<br />
 <div id="photo-gallery-container">
-    <div id="photo-gallery">
-        {% for photo in photo_gallery %}
-            <a href="{{ url_for('photography')}}" class="photo-link hover-grow">
-                <img class="photo" src="../static/images/photography/{{ photo.filename }}" alt="" loading="lazy"/>
-            </a>
-        {% endfor %}
-    </div>
+  <div id="photo-gallery">
+    {% for photo in photo_gallery %}
+    <a href="{{ url_for('photography')}}" class="photo-link hover-grow">
+      <img
+        class="photo"
+        src="../static/images/photography/{{ photo.filename }}"
+        alt=""
+        loading="lazy"
+      />
+    </a>
+    {% endfor %}
+  </div>
 </div>
 
-  <!-- Intro -->
+<!-- Intro -->
 <div class="container col-xxl-8 px-4 py-5">
-    <div class="row justify-content-center g-5 py-5">
-      <div class="col-10 col-sm-8 col-lg-6">
-        <img src="static/images/me.jpg" class="rounded-circle hover-grow" width="100%" alt="Avatar">
-      </div>
-      <div class="col-lg-6">
-        <h1 class="display-5 fw-bold text-body-emphasis lh-1">Hey there, I'm Timon!</h1>
-        <p class="lead my-5">life time learner, work time developer, free time hustler</p>
-        <a href="{{ url_for('projects') }}" class="btn btn-outline-light btn-lg px-4">Projects</a>
-        {% if get_flashed_messages() %}
-          {% for category, message in get_flashed_messages(with_categories=true) %}
-              {% if category == 'success' %}
-                  <div class="alert alert-success flash mt-5" role="alert">
-                      <h5>{{ message }}</h5>
-                  </div>
-              {% elif category == 'error' %}
-                  <div class="alert alert-danger flash mt-5" role="alert">
-                       <h5>{{ message }}</h5>
-                  </div>
-            {% elif category == 'not_sent' %}
-                  <div class="alert alert-danger flash mt-5" role="alert">
-                     <h5>{{ message }} <a href="mailto:timonriegerx@gmail.com?subject=Newsletter - Confirm me please&body=The confirmation email could not be sent. Please confirm me manually with {{ form.email.data }}." class="alert-link">email</a>.</h5>
-                  </div>
-              {% else %}
-                  <div class="alert alert-light flash mt-5" role="alert">
-                       <h5>{{ message }}</h5>
-                  </div>
-              {% endif %}
-          {% endfor %}
-      {% else %}
-          <form method="post">
-            <div class="mt-5 p-2 p-md-3 border rounded-3 bg-body-tertiary" style="width: 75%; margin: 0 auto;">
-                <div class="form-floating mb-3">
-                  {{ form.hidden_tag() }}
-                  {{ render_field(form.email) }}
-                </div>
-                <div class="form-floating mb-3">
-                  {{ render_field(form.submit, button_map={"submit": "light"}) }}
-                </div>
-                <small class="text-body-secondary">Only very occasional updates. Nothing else.</small>
-            </div>
-          </form>
-      {% endif %}
-      </div>
+  <div class="row g-5 py-5 align-items-center">
+    <div class="col-10 col-sm-8 col-lg-6 d-flex justify-content-center">
+      <img
+        src="static/images/me.jpg"
+        class="rounded-circle hover-grow"
+        width="50%"
+        alt="Avatar"
+      />
+    </div>
+    <div
+      class="col-lg-6 d-flex flex-column align-items-center"
+    >
+      <h1
+        class="display-5 fw-bold text-body-emphasis lh-1 text-center"
+      >
+        Hey there, I'm Timon!
+      </h1>
+      <p class="lead my-5 text-center">
+        life time learner, work time developer, free time hustler
+      </p>
+      <a
+        href="{{ url_for('projects') }}"
+        class="btn btn-outline-light btn-lg px-4"
+        >Projects</a
+      >
     </div>
   </div>
+</div>
 
-  <!-- Hobbies -->
-<div class="container px-4 py-5" id="interests">
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4 py-5">
-        {% for interest in all_interests %}
-            <div class="col d-flex align-items-start">
-                <div>
-                    <h3 class="fw-bold mb-1 fs-4 text-body-emphasis">{{ interest.title }}</h3>
+<!-- Hobbies -->
+<div class="container" id="interests">
+  <div
+    class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4 py-5"
+  >
+    {% for interest in all_interests %}
+    <div class="col d-flex align-items-start">
+      <div>
+        <h3 class="fw-bold mb-1 fs-4 text-body-emphasis">
+          {{ interest.title }}
+        </h3>
 
-                    {% if interest.link %}
-                        <p>{{ interest.text }} <a class="links" href="{{ interest.link }}" title="{{ interest.title }}">more</a></p>
-                    {% else %}
-                        <p>{{ interest.text }}</p>
-                    {% endif %}
-                </div>
-              </div>
-        {% endfor %}
+        {% if interest.link %}
+        <p>
+          {{ interest.text }}
+          <a
+            class="links"
+            href="{{ interest.link }}"
+            title="{{ interest.title }}"
+            >more</a
+          >
+        </p>
+        {% else %}
+        <p>{{ interest.text }}</p>
+        {% endif %}
+      </div>
     </div>
+    {% endfor %}
   </div>
+</div>
 
 <script src="../static/assets/js/photo-gallery.js"></script>
 

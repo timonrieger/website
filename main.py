@@ -64,7 +64,7 @@ def books():
     return render_template("books.html", latest=latest_reads, best=best_reads)
 
 
-@app.route("/contact", methods=["POST", "GET"])
+@app.route("/contact", methods=["GET"])
 def contact():
     return redirect(f'mailto:{PRV_EMAIL}')
 
