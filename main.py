@@ -1,9 +1,8 @@
-from flask import Flask, render_template, flash, redirect, request, send_from_directory
+from flask import Flask, render_template, redirect, request, send_from_directory
 from flask_caching import Cache
 import requests
 from flask_bootstrap import Bootstrap5
 import utils
-from flask_wtf.csrf import CSRFProtect
 from readwise import Readwise
 from constants import PRV_EMAIL, READWISE_KEY, NPOINT
 import os
@@ -14,17 +13,10 @@ npoint_data = requests.get(url=NPOINT).json()
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_KEY")
 
-csrf = CSRFProtect()
-csrf.init_app(app)
-
 cache = Cache(config={'CACHE_TYPE': 'SimpleCache', "CACHE_DEFAULT_TIMEOUT": 600})
 cache.init_app(app)
 
 bootstrap = Bootstrap5(app)
-
-mail_manager = utils.MailManager()
-
-
 
 @app.route("/", methods=["POST", "GET"])
 def me():

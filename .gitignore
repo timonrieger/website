@@ -1,8 +1,6 @@
-todo.txt
 .DS_Store
 .idea
 src/unsplash.py
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
