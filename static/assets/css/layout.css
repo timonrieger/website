@@ -3,7 +3,7 @@
 }
 
 .hover-grow:hover {
-    transform: scale(1.06);
+    transform: scale(1.04);
 }
 #faq button, #pricing button {
     font-size: 18px;
