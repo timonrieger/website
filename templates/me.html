@@ -25,23 +25,17 @@
 <div class="container col-xxl-8 px-4 py-5">
   <div class="row g-5 py-5 align-items-center">
     <div class="col-10 col-sm-8 col-lg-6 d-flex justify-content-center">
-      <img
-        src="static/images/me.jpg"
-        class="rounded-circle hover-grow"
-        width="50%"
-        alt="Avatar"
-      />
-    </div>
-    <div
-      class="col-lg-6 d-flex flex-column align-items-center"
-    >
       <h1
         class="display-5 fw-bold text-body-emphasis lh-1 text-center"
       >
         Hey there, I'm Timon!
       </h1>
-      <p class="lead my-5 text-center">
-        life time learner, work time developer, free time hustler
+    </div>
+    <div
+      class="col-lg-6 d-flex flex-column align-items-center"
+    >
+      <p class="lead text-center">
+        life time learner, work time dev, free time hustler
       </p>
       <a
         href="{{ url_for('projects') }}"
@@ -55,7 +49,7 @@
 <!-- Hobbies -->
 <div class="container" id="interests">
   <div
-    class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4 py-5"
+    class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4"
   >
     {% for interest in all_interests %}
     <div class="col d-flex align-items-start">
