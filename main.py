@@ -4,14 +4,14 @@ import requests
 from flask_bootstrap import Bootstrap5
 import utils
 from readwise import Readwise
-from constants import PRV_EMAIL, READWISE_KEY, NPOINT
+from constants import CONTACT_EMAIL, READWISE_KEY, NPOINT
 import os
 
 # website content storage using npoint
 npoint_data = requests.get(url=NPOINT).json()
 
 app = Flask(__name__)
-app.secret_key = os.getenv("FLASK_KEY")
+app.secret_key = os.getenv("SECRET_KEY")
 
 cache = Cache(config={'CACHE_TYPE': 'SimpleCache', "CACHE_DEFAULT_TIMEOUT": 600})
 cache.init_app(app)
@@ -58,7 +58,7 @@ def books():
 
 @app.route("/contact", methods=["GET"])
 def contact():
-    return redirect(f'mailto:{PRV_EMAIL}')
+    return redirect(f'mailto:{CONTACT_EMAIL}')
 
 
 @app.route('/robots.txt')
