@@ -13,3 +13,4 @@ SOCIALS = {
     "twitter": "https://x.com/timonrieger",
     "email": f"mailto:{CONTACT_EMAIL}"
 }
+STATUS_PAGE="https://stats.uptimerobot.com/nrF9tU3KtX"

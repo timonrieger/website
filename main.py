@@ -4,7 +4,7 @@ import requests
 from flask_bootstrap import Bootstrap5
 import utils
 from readwise import Readwise
-from constants import READWISE_KEY, NPOINT, SOCIALS
+from constants import READWISE_KEY, NPOINT, SOCIALS, STATUS_PAGE
 import os
 
 # website content storage using npoint
@@ -56,9 +56,14 @@ def books():
     return render_template("books.html", latest=latest_reads, best=best_reads)
 
 
-@app.route("/contact/<social>", methods=["GET"])
+@app.route("/contact/<social>")
 def contact(social):
     return redirect(SOCIALS[social])
+
+
+@app.route("/status")
+def status():
+    return redirect(STATUS_PAGE)
 
 
 @app.route('/robots.txt')
