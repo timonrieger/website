@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "name": "Ressource Library",
+      "description": "A public database for storing various ressources, tools, websites, or articles for future reference.",
+      "category": "Web App",
+      "tags": "Database",
+      "date": "November 2024",
+      "github": "https://github.com/timonrieger/ressource-library",
+      "url": "https://library.timonrieger.de",
+      "img": "library.png"
+    },
+    {
+      "name": "Crypticorn",
+      "description": "Full-Stack Developer for Crypticorn. Maximise Your Crypto Trading Profits with AI Price Predictions.",
+      "category": "Startup",
+      "tags": "Crypto",
+      "date": "July 2024",
+      "url": "https://crypticorn.com",
+      "img": "crypticorn.png"
+    },
+    {
+      "name": "Air Nomad Society",
+      "description": "Get the best flight deals directly in your inbox, fully automated, just one email per week.",
+      "category": "Newsletter",
+      "tags": "Travel",
+      "date": "April 2024",
+      "url": "https://ans.timonrieger.de",
+      "img": "ans.png"
+    },
+    {
+      "name": "Brain Snippets",
+      "description": "Read my latest blog post, where I share personal ideas, thoughts and conclusions.",
+      "category": "Blog",
+      "tags": "Writing",
+      "date": "April 2024",
+      "url": "https://blog.timonrieger.de",
+      "img": "blog.png"
+    },
+    {
+      "name": "Filmhub",
+      "description": "Track your favorite movies, rate and review them and share with your friends.",
+      "category": "Web App",
+      "tags": "Film",
+      "date": "October 2024",
+      "github": "https://github.com/timonrieger/filmhub",
+      "url": "https://filmhub.timonrieger.de",
+      "img": "filmhub.png"
+    },
+    {
+      "name": "Human Coaches",
+      "description": "Nachhilfe, Lerncoaching und Human Design für erfolgreiches Lernen und persö￶nliches Wachstum.",
+      "category": "Company",
+      "tags": "Education",
+      "date": "January 2022",
+      "url": "https://humancoaches.de/",
+      "img": "humancoaches.png"
+    }
+  ],
+  "interests": [
+    {
+      "title": "Investing",
+      "text": "Buy and Hold ETFs. Pick Stocks. Hodl Crypto. Part-time Trader.",
+      "link": "https://www.finanzfluss.de/user/portfolios/foMTOFypvm/"
+    },
+    {
+      "title": "Music",
+      "text": "Playing piano and mixing House music. Search for @Sounds Like House.",
+      "link": "https://open.spotify.com/artist/15GsOe41GMRA2JthgYP2IB"
+    },
+    {
+      "title": "Reading",
+      "text": "The older the problem the older the solution. Mainly reading old stuff.",
+      "link": "/books"
+    },
+    {
+      "title": "Sport",
+      "text": "Calisthenics for shape. Jogging for health. Skiing, tennis, biking for fun."
+    },
+    {
+      "title": "Open Source",
+      "text": "Passionate about open-source, privacy-focused and censorship-free applications."
+    },
+    {
+      "title": "Photography",
+      "text": "Hobby photographer. Powered by Olympus.",
+      "link": "/photography"
+    }
+  ]
+}
