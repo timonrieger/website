@@ -14,4 +14,4 @@ SOCIALS = {
     "email": f"mailto:{CONTACT_EMAIL}"
 }
 STATUS_PAGE="https://stats.uptimerobot.com/nrF9tU3KtX"
-BLOG_URL = "blog.timonrieger.de"
+BLOG_URL = "https://blog.timonrieger.de"
