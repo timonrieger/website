@@ -9,9 +9,9 @@ READWISE_KEY = os.getenv("READWISE_KEY")
 SOCIALS = {
     "linkedin": "https://www.linkedin.com/in/timon-rieger",
     "github": "https://github.com/timonrieger",
-    "instagram": "https://instagram.com/timon_rgx",
     "twitter": "https://x.com/timonrieger",
-    "email": f"mailto:{CONTACT_EMAIL}"
+    "email": f"mailto:{CONTACT_EMAIL}",
 }
-STATUS_PAGE="https://stats.uptimerobot.com/nrF9tU3KtX"
+STATUS_PAGE = "https://stats.uptimerobot.com/nrF9tU3KtX"
 BLOG_URL = "https://blog.timonrieger.de"
+SECRET_KEY = os.getenv("SECRET_KEY")

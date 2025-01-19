@@ -1,10 +1,7 @@
-{% extends "layout.html" %} 
-
-{% block title %}About Me | Timon Rieger{% endblock %} 
-
-{% block description%} Timon Rieger is a passionate Software Developer, Entrepreneur, and Artist. Explore him and his work here. {% endblock %} 
-
-{% block content %}
+{% extends "layout.html" %} {% block title %}About Me | Timon Rieger{% endblock
+%} {% block description%} Hi, I'm Timon. Here I share the muses I'm pursuing in
+my life and projects I'm currently working on or have worked on in the past. {%
+endblock %} {% block content %}
 <br />
 <div id="photo-gallery-container">
   <div id="photo-gallery">
@@ -25,15 +22,11 @@
 <div class="container col-xxl-8 px-4 py-4">
   <div class="row g-5 py-5 align-items-center">
     <div class="col-10 col-sm-8 col-lg-6 d-flex justify-content-center">
-      <h1
-        class="display-5 fw-bold text-body-emphasis lh-1 text-center"
-      >
+      <h1 class="display-5 fw-bold text-body-emphasis lh-1 text-center">
         Hey there, I'm Timon!
       </h1>
     </div>
-    <div
-      class="col-lg-6 d-flex flex-column align-items-center"
-    >
+    <div class="col-lg-6 d-flex flex-column align-items-center">
       <p class="lead text-center">
         life time learner, work time dev, free time philo
       </p>
@@ -48,9 +41,7 @@
 
 <!-- Hobbies -->
 <div class="container" id="interests">
-  <div
-    class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4"
-  >
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4">
     {% for interest in all_interests %}
     <div class="col d-flex align-items-start">
       <div>

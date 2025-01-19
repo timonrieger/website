@@ -1,53 +1,69 @@
-{% extends "layout.html" %}
+{% extends "layout.html" %} {% block title %}Photography | Timon Rieger{%
+endblock %} {% block description %} Check out my photography portfolio to see my
+latest work and the camera settings used for each photo. {% endblock %} {% block
+styles %}
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, user-scalable=no"
+/>
+<link rel="stylesheet" href="../static/assets/css/main.css" />
+<noscript
+  ><link rel="stylesheet" href="../static/assets/css/noscript.css"
+/></noscript>
+<link rel="stylesheet" href="../static/assets/css/noscript.css" />
+{% endblock %} {% block content %}
+<div class="container">
+  <h1 class="display-5">Photos from around the world</h1>
+  <p class="lead mt-4 pb-3">
+    The camera settings of each photo are retrieved automatically from my
+    camera.<br />
+    If you are interested in using one of my photos in original quality,
+    <a
+      class="links"
+      href="{{ url_for('contact', social='email') }}"
+      title="Send me an email"
+      >reach out</a
+    >.
+  </p>
+  <sup
+    >To optimize web performance, images are reduced in quality by up to 20%,
+    saving over 40% file size.</sup
+  >
+</div>
 
-{% block title %}Photography | Timon Rieger{% endblock %}
+<div class="is-preload">
+  <!-- Wrapper -->
+  <div id="wrapper">
+    <!-- Main -->
+    <div id="main">
+      {% for photo in all_photos %}
+      <article class="thumb">
+        <a
+          href="../static/images/photography/{{ photo.filename }}"
+          class="image"
+        >
+          <img
+            src="../static/images/photography/{{ photo.filename }}"
+            alt=""
+            loading="lazy"
+          />
+        </a>
+        <p>
+          #{{ loop.index }} of {{ all_photos|length }}{{ photo.camera }}{{
+          photo.exposure }}
+        </p>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
 
-{% block description %}
-    Check out my photography portfolio to discover unique moments and the camera settings used for each.
-{% endblock %}
-
-{% block styles %}
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<link rel="stylesheet" href="../static/assets/css/main.css" />
-	<noscript><link rel="stylesheet" href="../static/assets/css/noscript.css" /></noscript>
-	<link rel="stylesheet" href="../static/assets/css/noscript.css" />
-{% endblock %}
-
-{% block content %}
-	<div class="container">
-		<h1 class="display-5">Photos from around the world</h1>
-		<p class="lead mt-4 pb-3">The camera settings of each photo are retrieved automatically from my camera.<br>
-		If you are interested in using one of my photos in original quality, <a class="links" href="{{ url_for('contact', social='email') }}" title="Send me an email">reach out</a>.</p>
-		<sup>To optimize web performance, images are reduced in quality by up to 20%, saving over 40% file size.</sup>
-	</div>
-
-	<div class="is-preload">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Main -->
-				<div id="main">
-					{% for photo in all_photos %}
-						<article class="thumb">
-							<a href="../static/images/photography/{{ photo.filename }}" class="image">
-								<img src="../static/images/photography/{{ photo.filename }}" alt="" loading="lazy"/>
-							</a>
-							<p>#{{ loop.index }} of {{ all_photos|length }}{{ photo.camera }}{{ photo.exposure }}</p>
-						</article>
-					{% endfor %}
-				</div>
-			</div>
-
-		<!-- Scripts -->
-			<script async src="../static/assets/js/jquery.min.js"></script>
-			<script async src="../static/assets/js/jquery.poptrox.min.js"></script>
-			<script async src="../static/assets/js/browser.min.js"></script>
-			<script async src="../static/assets/js/breakpoints.min.js"></script>
-			<script async src="../static/assets/js/util.js"></script>
-			<script async src="../static/assets/js/main.js"></script>
-
-	</div>
-
+  <!-- Scripts -->
+  <script async src="../static/assets/js/jquery.min.js"></script>
+  <script async src="../static/assets/js/jquery.poptrox.min.js"></script>
+  <script async src="../static/assets/js/browser.min.js"></script>
+  <script async src="../static/assets/js/breakpoints.min.js"></script>
+  <script async src="../static/assets/js/util.js"></script>
+  <script async src="../static/assets/js/main.js"></script>
+</div>
 
 {% endblock %}

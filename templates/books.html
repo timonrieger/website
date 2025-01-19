@@ -1,36 +1,49 @@
-{% extends "layout.html" %}
-
-{% block title %}Books | Timon Rieger{% endblock %}
-
-{% block description %}
-  Are you a book lover, too? Discover my current reads and all-time favorites based on my Readwise Library.
-{% endblock %}
-
-{% block content %}
-    <div class="container">
-      <h1 class="display-5">My Readwise Book Library</h1>
-      <p class="lead my-4">The book data is synced from my <a href="https://readwise.io/i/timon41" class="links" title="Readwise">Readwise</a> account.<br>
-                            You can <a href="https://readwise.io/@timonrieger" class="links" title="Reading Broadcast">subscribe</a> to my reading highlights, too.
-      </p>
-      <div class="row">
-        <!-- Column for latest book reads -->
-        <div class="col-md-6 pt-4">
-          <h3>Latest Reads</h3>
-          <ul class="list-group">
-            {% for book in latest %}
-              <li class="list-group-item">{{ book.title }} | {{ book.author }} | {{ book.date.month }}/{{ book.date.year }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        <!-- Column for most favorite books -->
-        <div class="col-md-6 pt-4">
-          <h3>All Time Favorites</h3>
-          <ul class="list-group">
-            {% for book in best %}
-              <li class="list-group-item">{{ book.title }} | {{ book.author }} | {{ book.date.month }}/{{ book.date.year }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
+{% extends "layout.html" %} {% block title %}Books | Timon Rieger{% endblock %}
+{% block description %} I love reading. I mainly read non-fiction and try to
+understand concepts about the world. You can find my current reads and my
+favorite books in my Readwise library. {% endblock %} {% block content %}
+<div class="container">
+  <h1 class="display-5">My Readwise Book Library</h1>
+  <p class="lead my-4">
+    The book data is synced from my
+    <a href="https://readwise.io/i/timon41" class="links" title="Readwise"
+      >Readwise</a
+    >
+    account.<br />
+    You can
+    <a
+      href="https://readwise.io/@timonrieger"
+      class="links"
+      title="Reading Broadcast"
+      >subscribe</a
+    >
+    to my reading highlights, too.
+  </p>
+  <div class="row">
+    <!-- Column for latest book reads -->
+    <div class="col-md-6 pt-4">
+      <h3>Latest Reads</h3>
+      <ul class="list-group">
+        {% for book in latest %}
+        <li class="list-group-item">
+          {{ book.title }} | {{ book.author }} | {{ book.date.month }}/{{
+          book.date.year }}
+        </li>
+        {% endfor %}
+      </ul>
     </div>
+    <!-- Column for most favorite books -->
+    <div class="col-md-6 pt-4">
+      <h3>All Time Favorites</h3>
+      <ul class="list-group">
+        {% for book in best %}
+        <li class="list-group-item">
+          {{ book.title }} | {{ book.author }} | {{ book.date.month }}/{{
+          book.date.year }}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
 {% endblock %}

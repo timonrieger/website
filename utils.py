@@ -2,7 +2,7 @@ import os
 from PIL import Image, ExifTags
 from fractions import Fraction
 
-PHOTOS_DIR = 'static/images/photography'
+PHOTOS_DIR = "static/images/photography"
 
 
 def get_exif_data(image_path):
@@ -18,6 +18,7 @@ def get_exif_data(image_path):
     else:
         return None
 
+
 def get_exposure_info(exif):
     aperture = exif.get("FNumber")
     shutter_speed = exif.get("ExposureTime")
@@ -29,6 +30,7 @@ def get_exposure_info(exif):
         return exposure_info
     return ""
 
+
 def get_camera_info(exif):
     lens = exif.get("LensModel")
     model = exif.get("Model", "").strip()
@@ -37,10 +39,11 @@ def get_camera_info(exif):
         return f" | {lens} | {model} | {lens_mm}mm"
     return ""
 
+
 def build_photo_list():
     all_photos = []
     for filename in os.listdir(PHOTOS_DIR):
-        if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
+        if filename.lower().endswith((".png", ".jpg", ".jpeg")):
             image_path = os.path.join(PHOTOS_DIR, filename)
             exif = get_exif_data(image_path)
             exposure_info = get_exposure_info(exif) if exif else None
@@ -49,8 +52,7 @@ def build_photo_list():
                 "filename": filename,
                 "camera": camera_info,
                 "exposure": exposure_info,
-                "date": exif['DateTimeOriginal']
+                "date": exif["DateTimeOriginal"],
             }
             all_photos.append(photo_info)
     return all_photos
-

@@ -1,11 +1,7 @@
-{% extends "layout.html" %}
-
-{% block title %}All Projects | Timon Rieger{% endblock %}
-
-{% block description %}
-    Explore a collection of projects on Timon Rieger's project hub. Discover software, photography, and more.
-{% endblock %}
-
+{% extends "layout.html" %} {% block title %}All Projects | Timon Rieger{%
+endblock %} {% block description %} Here you will find all the projects I am
+currently working on or have been involved in. Most of them have to do with
+programming, but you might also find other creative things there. {% endblock %}
 {% block content %}
 <div class="album bg-body-primary">
   <div class="container">
@@ -34,16 +30,14 @@
               </svg>
             </div>
             <div class="card-body text-start">
-                <div class="row">
+              <div class="row">
                 <h6 class="highlight highlight-thick col-5 text-nowrap">
                   {{ project.name }}
                 </h6>
                 <span class="highlight col-7 text-end">{{ project.date }}</span>
-                </div>
+              </div>
               <div class="row">
-                <h6 class="col-5">
-                  {{ project.category }}
-                </h6>
+                <h6 class="col-5">{{ project.category }}</h6>
                 <span class="col-7 text-end">{{ project.tags }}</span>
               </div>
               <p class="card-text py-1">{{ project.description }}</p>

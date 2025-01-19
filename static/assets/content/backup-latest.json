@@ -1,14 +1,14 @@
 {
   "projects": [
     {
-      "name": "Ressource Library",
-      "description": "A public database for storing various ressources, tools, websites, or articles for future reference.",
+      "name": "Arkivr",
+      "description": "A public archiving app for various resources, websites or articles, organised in a single place.",
       "category": "Web App",
       "tags": "Database",
       "date": "November 2024",
-      "github": "https://github.com/timonrieger/ressource-library",
-      "url": "https://library.timonrieger.de",
-      "img": "library.png"
+      "github": "https://github.com/timonrieger/archivr",
+      "url": "https://arkivr.timonrieger.de",
+      "img": "arkivr.png"
     },
     {
       "name": "Crypticorn",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Human Coaches",
-      "description": "Nachhilfe, Lerncoaching und Human Design für erfolgreiches Lernen und persö￶nliches Wachstum.",
+      "description": "Nachhilfe, Lerncoaching und Human Design für erfolgreiches Lernen und persönliches Wachstum.",
       "category": "Company",
       "tags": "Education",
       "date": "January 2022",
@@ -60,12 +60,12 @@
   "interests": [
     {
       "title": "Investing",
-      "text": "Buy and Hold ETFs. Pick Stocks. Hodl Crypto. Part-time Trader."
+      "text": "Buy and Hold ETFs. Pick Stocks. Hodl Crypto. Part-time Trader.",
+      "link": "https://www.finanzfluss.de/user/portfolios/foMTOFypvm/"
     },
     {
       "title": "Music",
-      "text": "Playing piano and mixing House music. Search for @Sounds Like House.",
-      "link": "https://open.spotify.com/artist/15GsOe41GMRA2JthgYP2IB"
+      "text": "Playing piano by ear and casually mixing House music."
     },
     {
       "title": "Reading",
@@ -78,7 +78,7 @@
     },
     {
       "title": "Open Source",
-      "text": "Passionate about open-source, privacy-focused and censorship-free applications."
+      "text": "Passionate about open-source and privacy-focused applications."
     },
     {
       "title": "Photography",
