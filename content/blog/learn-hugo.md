@@ -80,5 +80,3 @@ QR Code Web
 
 QR Code Tel
 {{< qr text="tel:+12065550101" />}}
-
-

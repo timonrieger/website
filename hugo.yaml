@@ -15,7 +15,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: ["blog"]
 
 minify:
   disableXML: true
@@ -37,15 +37,18 @@ languages:
         - name: Projects
           url: projects/
           weight: 2
+        - name: Blog
+          url: blog/
+          weight: 3
         - name: Tags
           url: tags/
-          weight: 3
+          weight: 4
         - name: Search
           url: search/
-          weight: 4
+          weight: 5
         - name: Archive
           url: archive/
-          weight: 5
+          weight: 6
 
   # de:
   #   languageName: "Deutsch"
@@ -103,7 +106,7 @@ params:
 
   defaultTheme: dark
   disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   disableSpecial1stPost: true
   displayFullLangName: false
@@ -112,11 +115,10 @@ params:
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
-  ShowPageNums: true
+  ShowPageNums: false
   ShowToc: true
   comments: true
   hideSummary: false
-  ShowPostNavLinks: true
   titleCaseStyle: 'none'
   CapitalizeListTitles: false
 
@@ -124,16 +126,16 @@ params:
 
   profileMode:
     enabled: false  
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
+    title: Timon Rieger
+    # imageUrl: "#"
+    # imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: archive
-        url: archive
-      - name: Tags
-        url: tags
+      - name: Blog
+        url: blog/
+      - name: Projects
+        url: projects/
 
   homeInfoParams:
     Title: "whoami"
