@@ -1,0 +1,22 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>
+    {{ .Title }}
+  </h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+
+<ul class="gallery">
+    {{ range .Resources.ByType "image" }}
+    <li>
+        <img src="{{ .RelPermalink }}" alt="{{ .Name }}">
+    </li>
+    {{ end }}
+</ul>
+
+{{- end }}{{/* end main */}}
