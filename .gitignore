@@ -123,4 +123,5 @@ Thumbs.db
 !.gitignore
 !.nvmrc
 !.phpcs.xml.dist
-!.github
+!.github/public
+!.gitlab-ci.yml
