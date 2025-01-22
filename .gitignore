@@ -52,6 +52,7 @@
 
 # custom
 *.pyc
+public
 
 # ignore all files starting with . or ~
 .*
@@ -123,5 +124,5 @@ Thumbs.db
 !.gitignore
 !.nvmrc
 !.phpcs.xml.dist
-!.github/public
+!.github
 !.gitlab-ci.yml
