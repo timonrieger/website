@@ -52,7 +52,6 @@
 
 # custom
 *.pyc
-public
 
 # ignore all files starting with . or ~
 .*

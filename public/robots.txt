@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://timonrieger.de/sitemap.xml
