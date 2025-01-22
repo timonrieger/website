@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Backtest on timonrieger.de</title>
-    <link>https://timonrieger.de/tags/backtest/</link>
+    <link>https://website-slsg.onrender.com/tags/backtest/</link>
     <description>Recent content in Backtest on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
-      <url>https://timonrieger.de/images/papermod-cover.png</url>
-      <link>https://timonrieger.de/images/papermod-cover.png</link>
+      <url>https://website-slsg.onrender.com/images/papermod-cover.png</url>
+      <link>https://website-slsg.onrender.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://timonrieger.de/tags/backtest/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://website-slsg.onrender.com/tags/backtest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Betting Strategy (2)</title>
-      <link>https://timonrieger.de/blog/8-building-a-betting-strategy-2/</link>
+      <link>https://website-slsg.onrender.com/blog/8-building-a-betting-strategy-2/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://timonrieger.de/blog/8-building-a-betting-strategy-2/</guid>
+      <guid>https://website-slsg.onrender.com/blog/8-building-a-betting-strategy-2/</guid>
       <description>Simulating an Over 0.5 Goals Strategy with Parameter Tuning</description>
     </item>
     <item>
       <title>Backtesting Crypto Trading Signals</title>
-      <link>https://timonrieger.de/blog/5-backtesting-crypto-trading-signals/</link>
+      <link>https://website-slsg.onrender.com/blog/5-backtesting-crypto-trading-signals/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://timonrieger.de/blog/5-backtesting-crypto-trading-signals/</guid>
+      <guid>https://website-slsg.onrender.com/blog/5-backtesting-crypto-trading-signals/</guid>
       <description>Evaluating the Performance of a Telegram Crypto Signals Channel with Python</description>
     </item>
   </channel>
