@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:64016/blog/</loc>
     <lastmod>2025-01-20T12:48:11+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:64016/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:64016/about/</loc>
     <lastmod>2025-01-19T13:11:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/backtest/</loc>
+    <loc>http://localhost:64016/tags/backtest/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/8-building-a-betting-strategy-2/</loc>
+    <loc>http://localhost:64016/blog/8-building-a-betting-strategy-2/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-analysis/</loc>
+    <loc>http://localhost:64016/tags/data-analysis/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:64016/tags/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/7-a-crypto-bullrun-strategy-for-maximizing-profits/</loc>
+    <loc>http://localhost:64016/blog/7-a-crypto-bullrun-strategy-for-maximizing-profits/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/crypto/</loc>
+    <loc>http://localhost:64016/tags/crypto/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/6-building-a-betting-strategy-1/</loc>
+    <loc>http://localhost:64016/blog/6-building-a-betting-strategy-1/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/5-backtesting-crypto-trading-signals/</loc>
+    <loc>http://localhost:64016/blog/5-backtesting-crypto-trading-signals/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-life-and-emotions/</loc>
+    <loc>http://localhost:64016/about-life-and-emotions/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/book/</loc>
+    <loc>http://localhost:64016/tags/book/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <loc>http://localhost:64016/tags/philosophy/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/air-nomad-society/</loc>
+    <loc>http://localhost:64016/air-nomad-society/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:64016/projects/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-life-and-ethics/</loc>
+    <loc>http://localhost:64016/about-life-and-ethics/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-life-and-death/</loc>
+    <loc>http://localhost:64016/about-life-and-death/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/1-analyzing-75-years-of-lego/</loc>
+    <loc>http://localhost:64016/blog/1-analyzing-75-years-of-lego/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>http://localhost:64016/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:64016/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/photos/</loc>
+    <loc>http://localhost:64016/photos/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:64016/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://localhost:64016/series/</loc>
   </url>
 </urlset>
