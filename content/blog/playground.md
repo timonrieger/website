@@ -1,7 +1,7 @@
 ---
 date: '2025-01-20T12:48:11+01:00'
 draft: true
-title: 'Learn Hugo'
+title: 'Playground'
 tags: []
 summary: ''
 params:
@@ -62,6 +62,9 @@ Image with options
   caption="Zion National Park"
   class="ma0 w-75"
 >}}
+
+Embed Music
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;overflow:hidden;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/de/playlist/movee/pl.u-PDb4zlAtLvW6Kyd?l=en"></iframe>
 
 X Post
 {{< x user="SanDiegoZoo" id="1453110110599868418" >}}

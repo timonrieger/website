@@ -6,6 +6,8 @@ tags: ['data-analysis', 'backtest']
 title: 'Building a Betting Strategy (2)'
 summary: 'Simulating an Over 0.5 Goals Strategy with Parameter Tuning'
 ---
+
+
 Welcome back to the second part of this series! It has been some time and the teams are already deep into the Bundesliga season. Nevertheless, I don't want to withhold my results from you. In the previous post, we explored Bundesliga data spanning 14 seasons to analyze patterns in match outcomes, scoring times, and odds evolution. With a basic understanding of these statistics, we now shift focus to simulations.
 
 

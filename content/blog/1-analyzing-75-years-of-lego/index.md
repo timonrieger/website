@@ -49,7 +49,7 @@ What is the average number of pieces in a LEGO set?
 ---------------------------------------------------
 
 
-![](/images14.png)
+![](images/average-number-of-pieces.png)
 
 
 This graph illustrates the complexity of LEGO sets over time by showcasing the average number of pieces in each set for a given year. The overarching trend reveals an increase in set complexity over the years. Initially, builders contended with constructing sets containing around 50 pieces, a figure that has quadrupled since. Particularly notable is the surge in complexity during the early 2000s, where sets nearly doubled in piece count compared to preceding years. The grey line represents a 5\-year moving average, serving as a trend line to elucidate long\-term patterns in set complexity.
@@ -59,7 +59,7 @@ Which LEGO set has the highest piece count?
 -------------------------------------------
 
 
-![](/images15.png)
+![highest-piece-count](images/highest-piece-count.png)
 
 
 Our graph highlights the LEGO set with the highest piece count. Each bar represents a different LEGO set, with its length reflecting the number of pieces in the set. It's noteworthy that all of these sets were released after 2015, reaffirming the trend of growing complexity in LEGO designs.
@@ -69,7 +69,7 @@ What LEGO theme has the highest number of sets?
 -----------------------------------------------
 
 
-![](/images16.png)
+![highest-number-of-sets](images/highest-number-of-sets.png)
 
 
 Our graph visually depicts the distribution of LEGO sets across various themes, revealing which theme boasts the highest number of sets. Each bar represents a different theme, with the height of the bar indicating the number of sets within that theme.
@@ -79,13 +79,13 @@ What is the most common LEGO color?
 -----------------------------------
 
 
-![](/images17.png)
+![most-common-color](images/most-common-color.png)
 
 
 The bar chart visually illustrates the popularity of the top 10 LEGO colors, highlighting their frequency of use. For instance, black comprises 18% of all existing LEGO parts, red 7% and tan 3%. These 10 colors, out of a total of 267, are the most commonly utilized by designers.
 
 
-*The data presented in this blog post is sourced directly from The LEGO Group provided by [Rebrickable](https://www.rebrickable.com/downloads/). The graphics and visualizations showcased herein are created by Timon Rieger, with all rights reserved. Data is up to date with end of 2023\.*
+*The data presented in this post is sourced directly from The LEGO Group provided by [Rebrickable](https://www.rebrickable.com/downloads/). The graphics and visualizations showcased herein are mine, with all rights reserved. Data is up to date with end of 2023\.*
 
 
 

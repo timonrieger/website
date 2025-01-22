@@ -1,6 +1,6 @@
 baseURL: https://timonrieger.de/
 languageCode: en-us
-copyright: "© Timon Rieger"
+copyright: "© [Timon Rieger](mailto:contact@timonrieger.de)"
 title: timonrieger.de
 theme: ["PaperMod"]
 pagination:
@@ -114,13 +114,14 @@ params:
   disableSpecial1stPost: true
   displayFullLangName: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: false
   ShowToc: true
   comments: true
+  CommentsCusdisID: 583eab3c-3c36-42f4-9ad7-95af382f96c7
   hideSummary: false
   titleCaseStyle: 'none'
   CapitalizeListTitles: false
@@ -220,5 +221,3 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
-  disqus:
-    shortname: timon-rieger
