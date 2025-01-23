@@ -3,7 +3,6 @@ date: '2024-05-20'
 lastmod: '2025-01-22'
 draft: false
 title: 'Air Nomad Society'
-enableGitInfo: true
 url: 'air-nomad-society'
 summary: 'Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.'
 cover:
@@ -26,7 +25,7 @@ While this service is still running, I am no longer actively developing it.
 ## Tech Stack
 
 - Backend/server made with [Flask](https://flask.palletsprojects.com/en/stable/)
-- Frontend made with [Jinja](https://jinja.palletsprojects.com/en/stable/) templating in Flask
+- Frontend made with [Jinja](https://jinja.palletsprojects.com/en/stable/)
 - Data by [Kiwi Flights API](https://tequila.kiwi.com/)
 - Hosted on [Vercel](https://vercel.com)
 - Cron job via [Render](https://render.com)
