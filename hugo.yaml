@@ -120,11 +120,11 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: false
   ShowToc: true
-  comments: true
-  CommentsCusdisID: 583eab3c-3c36-42f4-9ad7-95af382f96c7
+  comments: false
   hideSummary: false
-  titleCaseStyle: 'none'
   CapitalizeListTitles: false
+
+  DateFormat: 'Jan 02, 2006'
 
   images: ["images/papermod-cover.png"]
 
@@ -154,7 +154,7 @@ params:
       url: "https://x.com/timonrieger"
 
   editPost:
-    URL: "https://github.com/timonrieger/website/tree/main/content"
+    URL: "https://github.com/timonrieger/website/tree/hugo/content"
     Text: "Edit" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -201,6 +201,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+hooks:
+  newContent: 'python3 scripts/books.py'
 
 privacy:
 

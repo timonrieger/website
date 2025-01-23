@@ -50,6 +50,7 @@ Dropdown Details
  - This is a **bold** word.
 {{< /details >}}
 
+
 Image
 ![Image 1](/images/2.png)
 
@@ -64,7 +65,7 @@ Image with options
 >}}
 
 Embed Music
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;overflow:hidden;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/de/playlist/movee/pl.u-PDb4zlAtLvW6Kyd?l=en"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;overflow:hidden;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts" src="https://embed.music.apple.com/de/playlist/movee/pl.u-PDb4zlAtLvW6Kyd?l=en"></iframe>
 
 X Post
 {{< x user="SanDiegoZoo" id="1453110110599868418" >}}
