@@ -3,7 +3,7 @@ from datetime import datetime
 
 FILE = "content/reads.md"
 
-DATE_FORMAT = '%b, %y'
+DATE_FORMAT = "%b, %y"
 
 BOOKS = "books"
 ARTICLES = "articles"
@@ -22,16 +22,18 @@ def get_data(category):
             .split(" &")[0],
             "date": item.last_highlight_at if item.last_highlight_at else item.updated,
             "highlights": item.num_highlights,
+            "url": item.source_url,
         }
         for item in response
-        if item.title != "Quick Passages" and item.num_highlights > 1
+        if item.title != "Quick Passages"
+        and (item.num_highlights > 1 or category != BOOKS)
     ]
     last_10 = sorted(item_list, key=lambda x: x["date"], reverse=True)[:10]
-    most_highlighted = sorted(item_list, key=lambda x: x["highlights"], reverse=True)[:5]
+    most_highlighted = sorted(item_list, key=lambda x: x["highlights"], reverse=True)[
+        :5
+    ]
+    return {category: [most_highlighted, last_10]}
 
-    return {
-        category: [most_highlighted, last_10]
-    }
 
 def gen_markdown(data):
     new_content = ""
@@ -40,13 +42,23 @@ def gen_markdown(data):
         new_content += f"\n\n## {category.capitalize()}"
         new_content += "\n\n### Most Highlighted\n\n"
         new_content += "\n".join(
-            [f"- _{item['title']}_ by {item['author']} ({item['date'].strftime(DATE_FORMAT)})" for item in lists[0]]
+            [
+                f"- [_{item['title']}_]({item['url']}) by {item['author']} ({item['date'].strftime(DATE_FORMAT)})"
+                if item['url']
+                else f"- _{item['title']}_ by {item['author']} ({item['date'].strftime(DATE_FORMAT)})"
+                for item in lists[0]
+            ]
         )
         new_content += "\n\n### Latest Ten\n\n"
         new_content += "\n".join(
-            [f"- _{item['title']}_ by {item['author']} ({item['date'].strftime(DATE_FORMAT)})" for item in lists[1]]
+            [
+                f"- [_{item['title']}_]({item['url']}) by {item['author']} ({item['date'].strftime(DATE_FORMAT)})"
+                if item['url']
+                else f"- _{item['title']}_ by {item['author']} ({item['date'].strftime(DATE_FORMAT)})"
+                for item in lists[1]
+            ]
         )
-    
+
     return new_content
 
 

@@ -1,10 +1,9 @@
-
 ---
 date: '2024-05-15T00:00:00'
 draft: False
 tags: ['philosophy', 'book']
 title: 'About Life and Ethics'
-url: 'about-life-and-ethics'
+url: 'blog/about-life-and-ethics'
 ---
 
 The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part [life and death](/blog/about-life-and-death) below I'll continue with quotes regarding [life and ethics](/blog/about-life-and-ethics). The next and final post about the book will be about [life and emotions](/blog/about-life-and-emotions).
