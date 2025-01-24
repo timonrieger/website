@@ -1,6 +1,6 @@
 ---
-date: '2025-01-23T13:35:44+01:00'
-lastmod: '2025-01-23T16:06:01.473564'
+date: '2023-12-15T13:35:44+01:00'
+lastmod: '2025-01-24T10:07:08.695368'
 draft: true
 tags: []
 title: 'Reads'
@@ -35,21 +35,21 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Most Highlighted
 
-- _Everything's Changing - Life Update_ by Ali Abdaal (Dec, 23)
-- _Inversion: The Crucial Thinking Skill Nobody Ever Taught You_ by James Clear (Jan, 24)
-- _101 Additional Advices_ by Kevin Kelly (May, 24)
-- _Crony Beliefs_ by meltingasphalt.com (Mar, 24)
-- _12 Rules for Learning Foreign Languages in Record Time — The Only Post You'll Ever Need_ by Tim Ferriss (Dec, 23)
+- [_Everything's Changing - Life Update_](http://www.youtube.com/watch?v=XtOshDbMGkA) by Ali Abdaal (Dec, 23)
+- [_Inversion: The Crucial Thinking Skill Nobody Ever Taught You_](https://click.convertkit-mail4.com/8kuopxzlw8t3u900rkfpbzn2l999/l2hehmho4ln0lpt6/aHR0cHM6Ly9qYW1lc2NsZWFyLmNvbS9pbnZlcnNpb24=) by James Clear (Jan, 24)
+- [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May, 24)
+- [_Crony Beliefs_](https://meltingasphalt.com/crony-beliefs/) by meltingasphalt.com (Mar, 24)
+- [_12 Rules for Learning Foreign Languages in Record Time — The Only Post You'll Ever Need_](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) by Tim Ferriss (Dec, 23)
 
 ### Latest Ten
 
-- _Erfolgreich-Wissenschaftlich-Investieren-2.Auflage_ by readwise.io (Jun, 24)
-- _101 Additional Advices_ by Kevin Kelly (May, 24)
-- _Crony Beliefs_ by meltingasphalt.com (Mar, 24)
-- _Inversion: The Crucial Thinking Skill Nobody Ever Taught You_ by James Clear (Jan, 24)
-- _For a More Creative Brain Follow These 5 Steps_ by James Clear (Jan, 24)
-- _Forget About Setting Goals. Focus on This Instead._ by James Clear (Jan, 24)
-- _The Ultimate Productivity Hack Is Saying No_ by James Clear (Jan, 24)
-- _The Top 5 Reasons to Be a Jack of All Trades_ by Tim Ferriss (Jan, 24)
-- _6 Easy Ways to Roll Your ‘R’_ by Benny Lewis (Dec, 23)
-- _12 Rules for Learning Foreign Languages in Record Time — The Only Post You'll Ever Need_ by Tim Ferriss (Dec, 23)
+- [_Issue #664: Django vs FastAPI, Interacting With Python, Data Cleaning, and More_](https://pycoders.com/issues/664) by PyCoder’s Weekly (Jan, 25)
+- [_e-fellows.net Community_](https://www.community.e-fellows.net/qanda/thread/view/id/5684650?utm_campaign=nlco0325&utm_medium=em&utm_source=nl) by e-fellows.net (Jan, 25)
+- [_Import Highlights | Readwise_](https://readwise.io/welcome/sync) by readwise.io (Jan, 25)
+- [_Trading the Mean Reversion Curve_](https://substack.com/@quantitativo/p-147005114) by Substack (Sep, 24)
+- [_Erfolgreich-Wissenschaftlich-Investieren-2.Auflage_](https://readwise.io/reader/document_raw_content/49480928) by readwise.io (Jun, 24)
+- [_Jerry Seinfeld | Duke's 2024 Commencement Address_](https://www.youtube.com/watch?v=76QV2SrSqgo&t=170s) by Duke University (May, 24)
+- [_Die Längste Beziehung Und Wie Sie Uns Prägt_](https://www.e-fellows.net/leben/wie-uns-die-beziehung-zu-unseren-geschwistern-praegt?utm_content=Stipendiat&utm_campaign=nl_stme1924&utm_medium=em&utm_source=nl) by e-fellows.net (May, 24)
+- [_Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit_](https://www.youtube.com/watch?v=cEg8cOx7UZk) by Stanford Institute for Economic Policy Research (SIEPR) (May, 24)
+- [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May, 24)
+- [_Crony Beliefs_](https://meltingasphalt.com/crony-beliefs/) by meltingasphalt.com (Mar, 24)

@@ -1,5 +1,5 @@
 ---
-date: '2025-01-23T13:10:27+01:00'
+date: '2024-04-29T13:10:27+01:00'
 lastmod: '2025-01-24T13:10:27+01:00'
 draft: false
 tags: []
@@ -9,11 +9,14 @@ summary: ''
 ---
 
 ## TL;DR
-Hello, I'm Timon. I'm a...
+Hey, I'm Timon. I'm a...
 
 - ...life time learner by default
 - ...work time software engineer or let's say tinkerer 
 - ...free time self-announced philosopher (does thinking count already?)
+
+You will find me either [working on projects](/projects ), [writing](/blog), [photographing](/photos) and occasionally [tweeting](https://twitter.com/timonrieger).
+While you might find me on other platforms, I am not active there.
 
 {{% comment %}}
 ## Principles
@@ -25,28 +28,31 @@ Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-pyt
 3. emotions are power
 4. silence is unvaluable
 5. presence is 
-6. 
-
-## Rules
-
-1. ~~enjoy what you do~~ do what you enjoy 
-2. ~~preach others~~ preach yourself
 
 {{% /comment %}}
 
-## Interests
+## Current Areas of Interest
 
 
 ### Software
 
+I originally started with [Python](https://python.org/) and developed several web applications with [Flask](https://flask.palletsprojects.com/en/stable/). 
+Although I really appreciate its simplicity and extensibility as a well-established micro web framework, it has its limitations.
+Therefore, for my next project, I am turning to more flexible and advanced frameworks, 
+such as [Litestar](https://litestar.dev/) for the backend and [Svelte](https://svelte.dev/) for the frontend.
+
+I am currently learning about servers, Linux and self-hosting. For both interest and privacy reasons, I want to maintain control over my data and be completely independent. 
+This is very unfamiliar territory for me, so there is a lot to learn there.
+I'll probably start with an old laptop or/and a [Rasperry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/), install Linux and try to get some Docker apps running.
+
 
 ### Reading
 
-I mainly read older books via my Kindle according to the motto: _The older the problem, the older the solution_.
+I mainly read older books via my Kindle true to the motto: _The older the problem, the older the solution_.
 
 As for shorter reads, I read [random personal blogs](https://indieblog.page/) and a mix of programming, lifestyle and subreddit feeds via [my RSS reader](https://readwise.io/read).
 
-You can find an aggregated list of my current reads on [my reads page](/reads).
+You can find a list of my readings [here](/reads).
 
 Although I generally don't consume visual content such as movies, entertainment, news programs and (even) sports (somehow I don't miss it), I do enjoy watching some channels on [Freetube](https://freetubeapp.io/) (local youtube client).
 
@@ -58,11 +64,8 @@ For me, music is one of the most beautiful things in the world. I love listening
 Next to listening, I play the piano and occasionally have AI mix a few [house tracks](https://open.spotify.com/artist/15GsOe41GMRA2JthgYP2IB).
 
 My current favorites are:
-- Gladiator soundtrack esp. _Earth_, _The Battle_, _Honor Him_ and _Now We Are Free_ (instantly hooked after watching Gladiator II)
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;overflow:hidden;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts" src="https://embed.music.apple.com/de/album/gladiator-soundtrack-from-the-motion-picture/1440563157"></iframe>
+- [_Gladiator_](https://music.apple.com/de/album/gladiator-soundtrack-from-the-motion-picture/1440563157) soundtrack esp. _Earth_, _The Battle_, _Honor Him_ and _Now We Are Free_ (instantly hooked after watching Gladiator II)
 
-- _2s n 3s_ (remix of [Rather Be](https://music.apple.com/de/album/rather-be-feat-jess-glynne/742117623?i=742117652&l=en-GB) which I really like as a warmup song in the gym)
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;overflow:hidden;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts" src="https://embed.music.apple.com/de/album/2s-n-3s/1779800598?i=1779801204"></iframe>
+- [_2s n 3s_](https://music.apple.com/de/album/2s-n-3s/1779800598?i=1779801204) (remix of [_Rather Be_](https://music.apple.com/de/album/rather-be-feat-jess-glynne/742117623?i=742117652&l=en-GB) which I really like as a warmup song in the gym)
 
-- _In Memoriam_ by the young russian artist Kirill Richter
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;overflow:hidden;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts" src="https://embed.music.apple.com/de/album/in-memoriam/1480248207?i=1480248232"></iframe>
+- [_In Memoriam_](https://music.apple.com/de/album/in-memoriam/1480248207?i=1480248232) by the young russian artist Kirill Richter

@@ -3,7 +3,7 @@ date: '2024-05-14T00:00:00'
 draft: False
 tags: ['philosophy', 'book']
 title: 'About Life and Death'
-url: 'about-life-and-death'
+url: 'blog/about-life-and-death'
 ---
 
 
