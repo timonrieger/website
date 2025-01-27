@@ -16,45 +16,50 @@
     <atom:link href="https://website-slsg.onrender.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Betting Strategy (2)</title>
-      <link>https://website-slsg.onrender.com/blog/8-building-a-betting-strategy-2/</link>
+      <link>https://website-slsg.onrender.com/blog/building-a-betting-strategy-2/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/blog/8-building-a-betting-strategy-2/</guid>
-      <description>Simulating an Over 0.5 Goals Strategy with Parameter Tuning</description>
+      <guid>https://website-slsg.onrender.com/blog/building-a-betting-strategy-2/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don&amp;rsquo;t want to deprive you of my findings of simulating the strategy. In the &lt;a href=&#34;https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/&#34;&gt;first post&lt;/a&gt;, we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.&lt;/p&gt;
+&lt;h2 id=&#34;our-strategy&#34;&gt;Our Strategy&lt;/h2&gt;
+&lt;p&gt;The strategy I will be backtesting today will be betting on over 0.5 goals in the 30th minute if until then no goal has been scored. At the time of writing the odds with these conditions average at around 1.2. The odds are crucial to the profitability of this strategy, so keep that in mind. I will walk you through my analysis and thoughts when writing the code for it. You can find the unfortunately unorganized notebook and the data for this study on &lt;a href=&#34;https://github.com/timonrieger/website/tree/hugo/assets/content/building-a-betting-strategy.zip&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A Crypto Bullrun Strategy for Maximizing Profits</title>
-      <link>https://website-slsg.onrender.com/blog/7-a-crypto-bullrun-strategy-for-maximizing-profits/</link>
+      <title>Maximize Crypto Profits with This Bullrun Strategy</title>
+      <link>https://website-slsg.onrender.com/blog/maximize-crypto-profits-with-this-bullrun-strategy/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/blog/7-a-crypto-bullrun-strategy-for-maximizing-profits/</guid>
-      <description>Leveraging the ColinTalksCrypto Bitcoin Bullrun Index (CBBI) to Optimize Gains in Crypto Bullruns</description>
+      <guid>https://website-slsg.onrender.com/blog/maximize-crypto-profits-with-this-bullrun-strategy/</guid>
+      <description>&lt;p&gt;This blog post deals with trading the crypto bullruns in the most optimal way to secure profits using the CBB Index. This strategy would have easily outperformed holding bitcoin, as we would have sold at each cycle top and reinvested everything in the bear market. I will use this plan for altcoins as well, as they are highly correlated with bitcoin, making it difficult to predict the exact top for each coin. This approach may limit maximum profits, but it helps to secure them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Betting Strategy (1)</title>
-      <link>https://website-slsg.onrender.com/blog/6-building-a-betting-strategy-1/</link>
+      <link>https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/blog/6-building-a-betting-strategy-1/</guid>
-      <description>Using 14 Bundesliga Seasons for Developing a Profitable Betting Strategy</description>
+      <guid>https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/</guid>
+      <description>&lt;p&gt;The European Football Championship is in full swing and, fittingly, I had the idea to develop a betting strategy for the upcoming Bundesliga season. Let´s analyze some historical data and develop a thesis. We will be using data from &lt;a href=&#34;https://www.openligadb.de/&#34;&gt;OpenLigaDB&lt;/a&gt; from 2009/10 to 2023/24 and explore statistics like the distribution of match outcomes, results by winning team, and scoring times.&lt;/p&gt;
+&lt;p&gt;In this post, the data is processed and visualized using Python, Plotly and Matplotlib. Our aim is to uncover trends and patterns that will be useful for a follow-up post on value betting strategies, focusing specifically on bets on more than 0.5 goals.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Backtesting Crypto Trading Signals</title>
+      <title>Backtesting a Crypto Trading Signals Group</title>
       <link>https://website-slsg.onrender.com/blog/5-backtesting-crypto-trading-signals/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://website-slsg.onrender.com/blog/5-backtesting-crypto-trading-signals/</guid>
-      <description>Evaluating the Performance of a Telegram Crypto Signals Channel with Python</description>
+      <description>&lt;p&gt;If you&amp;rsquo;re into finance-related content on YouTube, you&amp;rsquo;ve probably seen all these ads where someone is making 20k a month with their crypto signals and that you should definitely join their Telegram group too. Although 99.9% of these groups are definitely scams and don&amp;rsquo;t work at all, I wanted to review how a select group has performed in the past. Note that this is not a public group, but a paid group that I will be backtesting. I got access to this group through my work colleague whose company has access to this group.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Life and Emotions</title>
       <link>https://website-slsg.onrender.com/blog/about-life-and-emotions/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://website-slsg.onrender.com/blog/about-life-and-emotions/</guid>
-      <description>Life wisdom by Marcus Aurelius (Part 3)</description>
+      <description>&lt;p&gt;Learning about emotions and how to control them has been one of the best decisions I&amp;rsquo;ve made in recent years. The last post about Marcus Aurelius&amp;rsquo; meditations might plant some seeds for you in this regard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Life and Ethics</title>
       <link>https://website-slsg.onrender.com/blog/about-life-and-ethics/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <guid>https://website-slsg.onrender.com/blog/about-life-and-ethics/</guid>
-      <description>&lt;p&gt;The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;. The next and final post about the book will be about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;The next and final post about the book will be about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.&lt;/p&gt;</description>
     </item>
     <item>
@@ -62,16 +67,20 @@
       <link>https://website-slsg.onrender.com/blog/about-life-and-death/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       <guid>https://website-slsg.onrender.com/blog/about-life-and-death/</guid>
-      <description>&lt;p&gt;While reading the Meditations of Marcus Aurelius, I saved some passages using &lt;a href=&#34;https://readwise.io/i/timon41&#34;&gt;Readwise&lt;/a&gt;* that I would like to add.
-I have grouped the quotes according to the topic. You are reading about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; and there is &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt; and &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;, too.&lt;/p&gt;
+      <description>&lt;p&gt;While reading the Meditations of Marcus Aurelius, I saved some passages using &lt;a href=&#34;https://readwise.io/i/timon41&#34;&gt;Readwise&lt;/a&gt;* that I would like to share here.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;I have grouped the quotes according to the topic. You are reading about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; and there is &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt; and &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;, too.&lt;/p&gt;
 &lt;p&gt;As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analyzing 75 Years of LEGO</title>
-      <link>https://website-slsg.onrender.com/blog/1-analyzing-75-years-of-lego/</link>
+      <link>https://website-slsg.onrender.com/blog/analyzing-75-years-of-lego/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/blog/1-analyzing-75-years-of-lego/</guid>
-      <description>Analyzing Piece Counts, Themes, and Color Usage in the LEGO Universe</description>
+      <guid>https://website-slsg.onrender.com/blog/analyzing-75-years-of-lego/</guid>
+      <description>&lt;h2 id=&#34;about-lego&#34;&gt;About Lego&lt;/h2&gt;
+&lt;p&gt;LEGO is a globally recognized brand of construction toys, known for its interlocking plastic bricks. The name &amp;ldquo;LEGO&amp;rdquo; comes from the Danish words &amp;ldquo;leg godt,&amp;rdquo; meaning &amp;ldquo;play well.&amp;rdquo; LEGO bricks are designed to be versatile and can be assembled and connected in countless ways, allowing children and adults alike to build various structures, vehicles, and imaginative creations.&lt;/p&gt;
+&lt;h2 id=&#34;history-of-lego&#34;&gt;History of Lego&lt;/h2&gt;
+&lt;p&gt;Founded by Ole Kirk Christiansen in 1932, the LEGO Group initially crafted wooden toys in Denmark. With a humble start making wooden ducks and yo-yos, the company transitioned to plastic toys in 1947, setting the stage for its iconic future.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

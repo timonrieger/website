@@ -15,11 +15,45 @@
     <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://website-slsg.onrender.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Arkivr</title>
+      <link>https://website-slsg.onrender.com/projects/arkivr/</link>
+      <pubDate>Mon, 25 Nov 2024 16:28:47 +0100</pubDate>
+      <guid>https://website-slsg.onrender.com/projects/arkivr/</guid>
+      <description>&lt;p&gt;Arkivr is an archiving software as a self-hostable web server that allows you to store and organize resources such as links, files and more for easy retrieval.&lt;/p&gt;
+&lt;p&gt;You can see my instance &lt;a href=&#34;https://arkivr.timonrieger.de&#34;&gt;here&lt;/a&gt; and the source code on &lt;a href=&#34;https://github.com/timonrieger/arkivr&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
+&lt;p&gt;My colleagues and I have been saving interesting websites, documents and general learning resources in a Discord chat for months. It&amp;rsquo;s easy to add the links or files there, but finding a particular resource was cumbersome. So I quickly set up a minimal version with a simple Flask server and have been using it daily ever since. I really like the concept and my first implementation, so I&amp;rsquo;m thinking about scaling it from a &lt;a href=&#34;https://medium.com/swlh/spa-mpa-or-a-hybrid-42fdf6b3415c&#34;&gt;multi-page to a single-page application&lt;/a&gt;, adding self-hosting capability with Docker, support files and much more functionality.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Air Nomad Society</title>
       <link>https://website-slsg.onrender.com/air-nomad-society/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>https://website-slsg.onrender.com/air-nomad-society/</guid>
-      <description>Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.</description>
+      <description>&lt;p&gt;Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.&lt;/p&gt;
+&lt;p&gt;You can signup &lt;a href=&#34;https://ans.timonrieger.de&#34;&gt;here&lt;/a&gt; and view the source code on &lt;a href=&#34;https://github.com/timonrieger/air-nomad-society&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
+&lt;p&gt;The reason for building this email service originally came from Dr. Angela Yu&amp;rsquo;s &lt;a href=&#34;https://www.udemy.com/course/100-days-of-code/&#34;&gt;100 Days of Code Bootcamp&lt;/a&gt;, which basically started my whole journey into the world of software and programming. I think on day 35 of that course we started developing this flight service. The idea behind it was that you have a Google Sheet as a database replacement (back then we hadn&amp;rsquo;t talked about/learned how to interact with databases programmatically) and you get the countries listed in the file and you search for the best flights to those places and save the price back.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crypticorn</title>
+      <link>https://website-slsg.onrender.com/projects/crypticorn/</link>
+      <pubDate>Mon, 03 Jun 2024 16:36:59 +0100</pubDate>
+      <guid>https://website-slsg.onrender.com/projects/crypticorn/</guid>
+      <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Filmhub</title>
+      <link>https://website-slsg.onrender.com/projects/filmhub/</link>
+      <pubDate>Sat, 12 Oct 2024 16:42:00 +0100</pubDate>
+      <guid>https://website-slsg.onrender.com/projects/filmhub/</guid>
+      <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Human Coaches</title>
+      <link>https://website-slsg.onrender.com/projects/human-coaches/</link>
+      <pubDate>Sat, 01 Jan 2022 16:42:36 +0100</pubDate>
+      <guid>https://website-slsg.onrender.com/projects/human-coaches/</guid>
+      <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

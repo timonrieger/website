@@ -51,15 +51,17 @@
     {{- end }}
   </header>
 
-  {{- if .Content }}
+
     <ul class="gallery">
-      {{ range .Resources.ByType "image" }}
-      <li>
-          <img src="{{ .RelPermalink }}" alt="{{ .Name }}">
-      </li>
+      {{ $images := .Resources.ByType "image"}}
+      {{ $sorted_images := sort $images "Exif.Date" "desc" }}
+      {{- range $index, $image := $sorted_images }}
+        {{ $image := $image.Resize "x400" }}
+        <li>
+            <img src="{{ $image.RelPermalink }}" alt="{{ .Name }}">
+        </li>
       {{ end }}
   </ul>
-  {{- end }}
 
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
