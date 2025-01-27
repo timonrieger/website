@@ -54,12 +54,12 @@ As for shorter reads, I read [random personal blogs](https://indieblog.page/) an
 
 You can find a list of my readings [here](/reads).
 
-Although I generally don't consume visual content such as movies, entertainment, news programs and (even) sports (somehow I don't miss it), I do enjoy watching some channels on [Freetube](https://freetubeapp.io/) (local youtube client).
+Although I generally don't consume visual content such as movies, entertainment, news programs and (even) sports (somehow I don't miss it), I do enjoy watching some channels on [Freetube](https://freetubeapp.io/).
 
 
 ### Music
 
-For me, music is one of the most beautiful things in the world. I love listening to music at work and during sports, but never when I'm outside and wherever possible without headphones. Firstly, I don't like the passive, disinterested, isolated posture of wearing headphones and secondly, they just never fit me.
+I love listening to music at work and during sports, but never when I'm outside and wherever possible without headphones. Firstly, I don't like the passive, disinterested, isolated posture of wearing headphones and secondly, they just never fit me.
 
 Next to listening, I play the piano and occasionally have AI mix a few [house tracks](https://open.spotify.com/artist/15GsOe41GMRA2JthgYP2IB).
 

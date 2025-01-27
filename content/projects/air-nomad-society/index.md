@@ -4,9 +4,9 @@ lastmod: '2025-01-22'
 draft: false
 title: 'Air Nomad Society'
 url: 'air-nomad-society'
-summary: 'Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.'
 cover:
-  image: "cover.png"
+  image: "images/cover.png"
+weight: 3
 ---
 
 Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.

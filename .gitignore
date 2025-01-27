@@ -104,7 +104,7 @@ Thumbs.db
 *.jar
 *.rar
 *.tar
-*.zip
+# *.zip
 
 # ignore private/secret files
 *.der

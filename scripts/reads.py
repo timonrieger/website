@@ -1,4 +1,4 @@
-from scripts import client
+from scripts import readwise_client
 from datetime import datetime
 
 FILE = "content/reads.md"
@@ -12,7 +12,7 @@ PODCASTS = "podcasts"
 
 
 def get_data(category):
-    response = client.get_books(category=category)
+    response = readwise_client.get_books(category=category)
     item_list = [
         {
             "title": item.title,

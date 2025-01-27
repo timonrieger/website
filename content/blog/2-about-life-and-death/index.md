@@ -6,8 +6,10 @@ title: 'About Life and Death'
 url: 'blog/about-life-and-death'
 ---
 
+While reading the Meditations of Marcus Aurelius, I saved some passages using [Readwise](https://readwise.io/i/timon41)* that I would like to share here.
 
-While reading the Meditations of Marcus Aurelius, I saved some passages using [Readwise](https://readwise.io/i/timon41)* that I would like to add.
+<!-- more -->
+
 I have grouped the quotes according to the topic. You are reading about [life and death](/blog/about-life-and-death) and there is [life and emotions](/blog/about-life-and-emotions) and [life and ethics](/blog/about-life-and-ethics), too.
 
 As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless. 

@@ -3,7 +3,7 @@ date: '2024-04-05T00:00:00'
 draft: False
 tags: ['data-analysis']
 title: 'Analyzing 75 Years of LEGO'
-summary: 'Analyzing Piece Counts, Themes, and Color Usage in the LEGO Universe'
+url: 'blog/analyzing-75-years-of-lego'
 ---
 
 About Lego
@@ -38,9 +38,7 @@ In the 2010s and beyond, LEGO experienced a renaissance, fueled by innovative ne
 How many LEGO sets have been released each year?
 ------------------------------------------------
 
-
-### 
-
+![sets-per-year](images/sets-per-year.png)
 
 This graph illustrates the annual release of LEGO sets over time. Initially, the number of sets released per year was modest, with fewer than 10 sets in the early years. However, this figure surged to over 800 sets in 2019, reaching a cumulative amount of close to 16,000 sets. Interestingly, there are noticeable fluctuations over time. In the early 2000s, the number of new sets decreased by approximately 30%, persisting until 2006 when a reversal occurred. This decline can be attributed to the company's financial challenges and subsequent restructuring efforts during this time.
 
@@ -48,9 +46,7 @@ This graph illustrates the annual release of LEGO sets over time. Initially, the
 What is the average number of pieces in a LEGO set?
 ---------------------------------------------------
 
-
-![](images/average-number-of-pieces.png)
-
+![average-number-of-pieces](images/average-number-of-pieces.png)
 
 This graph illustrates the complexity of LEGO sets over time by showcasing the average number of pieces in each set for a given year. The overarching trend reveals an increase in set complexity over the years. Initially, builders contended with constructing sets containing around 50 pieces, a figure that has quadrupled since. Particularly notable is the surge in complexity during the early 2000s, where sets nearly doubled in piece count compared to preceding years. The grey line represents a 5\-year moving average, serving as a trend line to elucidate long\-term patterns in set complexity.
 

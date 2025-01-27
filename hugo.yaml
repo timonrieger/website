@@ -5,7 +5,7 @@ title: timonrieger.de
 theme: ["PaperMod"]
 pagination:
   disableAliases: false
-  pagerSize: 5
+  pagerSize: 10
   path: page
 
 enableInlineShortcodes: true
@@ -16,6 +16,12 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["blog"]
+
+imaging:
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 100
+  resampleFilter: box
 
 minify:
   disableXML: true
@@ -121,7 +127,6 @@ params:
   ShowPageNums: false
   ShowToc: true
   comments: false
-  hideSummary: false
   CapitalizeListTitles: false
 
   DateFormat: 'Jan 02, 2006'

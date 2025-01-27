@@ -4,4 +4,4 @@ import os
 
 dotenv.load_dotenv()
 token = os.getenv("READWISE_KEY")
-client = Readwise(token=token)
+readwise_client = Readwise(token=token)

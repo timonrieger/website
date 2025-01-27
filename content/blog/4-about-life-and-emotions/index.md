@@ -4,19 +4,17 @@ draft: False
 tags: ['philosophy', 'book']
 title: 'About Life and Emotions'
 url: 'blog/about-life-and-emotions'
-summary: 'Life wisdom by Marcus Aurelius (Part 3)'
 ---
 
-**Who is Marcus Aurelius?**
----------------------------
+Learning about emotions and how to control them has been one of the best decisions I've made in recent years. The last post about Marcus Aurelius' meditations might plant some seeds for you in this regard.
 
+<!--more-->
 
 As a Roman emperor and Stoic, Marcus Aurelius is known for his profound thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature offer timeless insights that are relevant in the modern world. This blog post takes a closer look at some of his most important quotes and their relevance to our lives today.
 
 
 **7 quotes about life and emotions**
 ------------------------------------
-
 
 
 > Do you want to? then listen to this: Do not get upset and always stay with yourself. If someone has transgressed against you, he has transgressed against himself. If something sad has happened to you: it was destined for you from the beginning; everything that happens is destiny. And all in all: life is short.

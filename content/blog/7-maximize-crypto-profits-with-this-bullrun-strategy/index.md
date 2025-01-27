@@ -3,30 +3,17 @@
 date: '2024-08-13T00:00:00'
 draft: False
 tags: ['crypto']
-title: 'A Crypto Bullrun Strategy for Maximizing Profits'
-summary: 'Leveraging the ColinTalksCrypto Bitcoin Bullrun Index (CBBI) to Optimize Gains in Crypto Bullruns'
+title: 'Maximize Crypto Profits with This Bullrun Strategy'
+url: 'blog/maximize-crypto-profits-with-this-bullrun-strategy'
 ---
-This blog post will deal with trading the crypto bullruns in the most optimal way to secure profits and not miss the jump\-off. This strategy would have easily outperformed holding bitcoin, as we would have sold at each cycle top and reinvested everything in the bear market. I will use this plan for altcoins as well, as they are highly correlated with bitcoin, making it difficult to predict the exact top for each coin. This approach may limit maximum profits, but it helps to secure them.
 
+This blog post deals with trading the crypto bullruns in the most optimal way to secure profits using the CBB Index. This strategy would have easily outperformed holding bitcoin, as we would have sold at each cycle top and reinvested everything in the bear market. I will use this plan for altcoins as well, as they are highly correlated with bitcoin, making it difficult to predict the exact top for each coin. This approach may limit maximum profits, but it helps to secure them.
 
 This strategy is based on the ColinTalksCrypto Bitcoin Bullrun Index (CBBI). The CBBI is a Bitcoin index that utilizes advanced, real\-time analysis of 9 metrics to help us understand what stage of the Bitcoin bull run and bear market cycles we are in. The confidence score indicates whether we are approaching the top/bottom of a blow\-off Bitcoin cycle. The CBBI algorithm and website are 100% open source. This makes CBBI different from other Bitcoin price indexes. I would highly suggest, having a look into the [CBBI](https://colintalkscrypto.com/cbbi/) yourself.
 
+![](/images/cbbi.png)
 
- 
-
-
-![](/images/10.png)
-
-
- 
-
-
-Strategy Guidelines
--------------------
-
-
- 
-
+## Strategy Logic
 
 * **Buying:**
 	+ Begin accumulation if CBBI is below 10\.
@@ -39,15 +26,7 @@ Strategy Guidelines
 	+ Sell the remaining 40% on the 7th consecutive day that CBBI remains above 95, with the selling price being at least 10% higher than your last sell.
 
 
- 
-
-
-Historical Performance Summary
-------------------------------
-
-
- 
-
+## Historical Performance
 
 * **2013:**
 	+ **Buy:** DCA at $2\.50 over a 1\-month accumulation
