@@ -408,3 +408,31 @@ img.in-text {
     display: inline;
     margin: auto;
 }
+
+.post-related {
+    margin: 24px 0;
+}
+
+.post-related h3 {
+    margin-bottom: 10px;
+}
+
+.post-related ul {
+    list-style: none;
+    padding: 0;
+}
+
+.post-related li {
+    margin-top: 5px;
+}
+
+.post-related a {
+    color: var(--content);
+    box-shadow: 0 1px 0;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+.post-related a:hover {
+    color: var(--primary);
+}

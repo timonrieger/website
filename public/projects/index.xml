@@ -2,33 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on timonrieger.de</title>
-    <link>https://website-slsg.onrender.com/projects/</link>
+    <link>http://localhost:55359/projects/</link>
     <description>Recent content in Projects on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
-      <url>https://website-slsg.onrender.com/images/papermod-cover.png</url>
-      <link>https://website-slsg.onrender.com/images/papermod-cover.png</link>
+      <url>http://localhost:55359/images/papermod-cover.png</url>
+      <link>http://localhost:55359/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.141.0</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://website-slsg.onrender.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2025 16:35:02 +0100</lastBuildDate>
+    <atom:link href="http://localhost:55359/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
-      <link>https://website-slsg.onrender.com/projects/arkivr/</link>
+      <link>http://localhost:55359/projects/arkivr/</link>
       <pubDate>Mon, 25 Nov 2024 16:28:47 +0100</pubDate>
-      <guid>https://website-slsg.onrender.com/projects/arkivr/</guid>
+      <guid>http://localhost:55359/projects/arkivr/</guid>
       <description>&lt;p&gt;Arkivr is an archiving software as a self-hostable web server that allows you to store and organize resources such as links, files and more for easy retrieval.&lt;/p&gt;
 &lt;p&gt;You can see my instance &lt;a href=&#34;https://arkivr.timonrieger.de&#34;&gt;here&lt;/a&gt; and the source code on &lt;a href=&#34;https://github.com/timonrieger/arkivr&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
 &lt;p&gt;My colleagues and I have been saving interesting websites, documents and general learning resources in a Discord chat for months. It&amp;rsquo;s easy to add the links or files there, but finding a particular resource was cumbersome. So I quickly set up a minimal version with a simple Flask server and have been using it daily ever since. I really like the concept and my first implementation, so I&amp;rsquo;m thinking about scaling it from a &lt;a href=&#34;https://medium.com/swlh/spa-mpa-or-a-hybrid-42fdf6b3415c&#34;&gt;multi-page to a single-page application&lt;/a&gt;, adding self-hosting capability with Docker, support files and much more functionality.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Blog Boiler Templates</title>
+      <link>http://localhost:55359/projects/blog-boiler-templates/</link>
+      <pubDate>Sat, 25 Jan 2025 16:35:02 +0100</pubDate>
+      <guid>http://localhost:55359/projects/blog-boiler-templates/</guid>
+      <description>&lt;p&gt;Blog Boiler is a set of two templates to get started with a free, easy and predesigned blog template that will help you get started blogging in minutes.&lt;/p&gt;
+&lt;p&gt;Before I switched my blog to Hugo I had been using the Pro template myself. You can find more detailed information about usage on Github, &lt;a href=&#34;https://github.com/timonrieger/blog-boiler-pro&#34;&gt;Pro&lt;/a&gt; and &lt;a href=&#34;https://github.com/timonrieger/blog-boiler-lite&#34;&gt;Lite&lt;/a&gt; version&lt;/p&gt;
+&lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Backend/server made with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Frontend made with &lt;a href=&#34;https://jinja.palletsprojects.com/en/stable/&#34;&gt;Jinja&lt;/a&gt; and &lt;a href=&#34;https://startbootstrap.com/theme/clean-blog&#34;&gt;Start Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Air Nomad Society</title>
-      <link>https://website-slsg.onrender.com/air-nomad-society/</link>
+      <link>http://localhost:55359/air-nomad-society/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/air-nomad-society/</guid>
+      <guid>http://localhost:55359/air-nomad-society/</guid>
       <description>&lt;p&gt;Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.&lt;/p&gt;
 &lt;p&gt;You can signup &lt;a href=&#34;https://ans.timonrieger.de&#34;&gt;here&lt;/a&gt; and view the source code on &lt;a href=&#34;https://github.com/timonrieger/air-nomad-society&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
@@ -36,23 +51,23 @@
     </item>
     <item>
       <title>Crypticorn</title>
-      <link>https://website-slsg.onrender.com/projects/crypticorn/</link>
+      <link>http://localhost:55359/projects/crypticorn/</link>
       <pubDate>Mon, 03 Jun 2024 16:36:59 +0100</pubDate>
-      <guid>https://website-slsg.onrender.com/projects/crypticorn/</guid>
+      <guid>http://localhost:55359/projects/crypticorn/</guid>
       <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Filmhub</title>
-      <link>https://website-slsg.onrender.com/projects/filmhub/</link>
+      <link>http://localhost:55359/projects/filmhub/</link>
       <pubDate>Sat, 12 Oct 2024 16:42:00 +0100</pubDate>
-      <guid>https://website-slsg.onrender.com/projects/filmhub/</guid>
+      <guid>http://localhost:55359/projects/filmhub/</guid>
       <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Human Coaches</title>
-      <link>https://website-slsg.onrender.com/projects/human-coaches/</link>
+      <link>http://localhost:55359/projects/human-coaches/</link>
       <pubDate>Sat, 01 Jan 2022 16:42:36 +0100</pubDate>
-      <guid>https://website-slsg.onrender.com/projects/human-coaches/</guid>
+      <guid>http://localhost:55359/projects/human-coaches/</guid>
       <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
     </item>
   </channel>

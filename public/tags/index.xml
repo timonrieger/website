@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on timonrieger.de</title>
-    <link>https://website-slsg.onrender.com/tags/</link>
+    <link>http://localhost:55359/tags/</link>
     <description>Recent content in Tags on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
-      <url>https://website-slsg.onrender.com/images/papermod-cover.png</url>
-      <link>https://website-slsg.onrender.com/images/papermod-cover.png</link>
+      <url>http://localhost:55359/images/papermod-cover.png</url>
+      <link>http://localhost:55359/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.141.0</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://website-slsg.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55359/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backtest</title>
-      <link>https://website-slsg.onrender.com/tags/backtest/</link>
+      <link>http://localhost:55359/tags/backtest/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/backtest/</guid>
+      <guid>http://localhost:55359/tags/backtest/</guid>
       <description></description>
     </item>
     <item>
       <title>Data-Analysis</title>
-      <link>https://website-slsg.onrender.com/tags/data-analysis/</link>
+      <link>http://localhost:55359/tags/data-analysis/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/data-analysis/</guid>
+      <guid>http://localhost:55359/tags/data-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Crypto</title>
-      <link>https://website-slsg.onrender.com/tags/crypto/</link>
+      <link>http://localhost:55359/tags/crypto/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/crypto/</guid>
+      <guid>http://localhost:55359/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
       <title>Book</title>
-      <link>https://website-slsg.onrender.com/tags/book/</link>
+      <link>http://localhost:55359/tags/book/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/book/</guid>
+      <guid>http://localhost:55359/tags/book/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>https://website-slsg.onrender.com/tags/philosophy/</link>
+      <link>http://localhost:55359/tags/philosophy/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/philosophy/</guid>
+      <guid>http://localhost:55359/tags/philosophy/</guid>
       <description></description>
     </item>
   </channel>
