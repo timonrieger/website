@@ -1,6 +1,6 @@
 ---
 date: '2023-12-15T13:35:44+01:00'
-lastmod: '2025-01-24T23:53:20.559417'
+lastmod: '2025-02-05T19:17:05.012710'
 draft: true
 tags: []
 title: 'Reads'
@@ -38,11 +38,14 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 - [_Everything's Changing - Life Update_](http://www.youtube.com/watch?v=XtOshDbMGkA) by Ali Abdaal (Dec, 23)
 - [_Inversion: The Crucial Thinking Skill Nobody Ever Taught You_](https://click.convertkit-mail4.com/8kuopxzlw8t3u900rkfpbzn2l999/l2hehmho4ln0lpt6/aHR0cHM6Ly9qYW1lc2NsZWFyLmNvbS9pbnZlcnNpb24=) by James Clear (Jan, 24)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May, 24)
+- [_Introduction to a Self Managed Life_](https://wiki.futo.org/wiki/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software#Preface) by FUTO Software (Feb, 25)
 - [_Crony Beliefs_](https://meltingasphalt.com/crony-beliefs/) by meltingasphalt.com (Mar, 24)
-- [_12 Rules for Learning Foreign Languages in Record Time — The Only Post You'll Ever Need_](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) by Tim Ferriss (Dec, 23)
 
 ### Latest Ten
 
+- [_You’re Not Gross and Sad for Getting Older. Here’s How to Think About Aging Instead_](https://www.latimes.com/lifestyle/story/2023-12-12/how-to-embrace-getting-older-without-your-inner-ageist) by Deborah Netburn (Feb, 25)
+- [_Introduction to a Self Managed Life_](https://wiki.futo.org/wiki/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software#Preface) by FUTO Software (Feb, 25)
+- [_3-2-1: On what it takes to be consistent, how to make a bad situation worse, and noticing small joys_](https://jamesclear.com/3-2-1/january-23-2025) by James Clear - 3-2-1 Thursday Newsletter (Jan, 25)
 - [_Issue #664: Django vs FastAPI, Interacting With Python, Data Cleaning, and More_](https://pycoders.com/issues/664) by PyCoder’s Weekly (Jan, 25)
 - [_e-fellows.net Community_](https://www.community.e-fellows.net/qanda/thread/view/id/5684650?utm_campaign=nlco0325&utm_medium=em&utm_source=nl) by e-fellows.net (Jan, 25)
 - [_Import Highlights | Readwise_](https://readwise.io/welcome/sync) by readwise.io (Jan, 25)
@@ -50,6 +53,3 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 - [_Erfolgreich-Wissenschaftlich-Investieren-2.Auflage_](https://readwise.io/reader/document_raw_content/49480928) by readwise.io (Jun, 24)
 - [_Jerry Seinfeld | Duke's 2024 Commencement Address_](https://www.youtube.com/watch?v=76QV2SrSqgo&t=170s) by Duke University (May, 24)
 - [_Die Längste Beziehung Und Wie Sie Uns Prägt_](https://www.e-fellows.net/leben/wie-uns-die-beziehung-zu-unseren-geschwistern-praegt?utm_content=Stipendiat&utm_campaign=nl_stme1924&utm_medium=em&utm_source=nl) by e-fellows.net (May, 24)
-- [_Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit_](https://www.youtube.com/watch?v=cEg8cOx7UZk) by Stanford Institute for Economic Policy Research (SIEPR) (May, 24)
-- [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May, 24)
-- [_Crony Beliefs_](https://meltingasphalt.com/crony-beliefs/) by meltingasphalt.com (Mar, 24)
