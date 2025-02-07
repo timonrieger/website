@@ -1,6 +1,6 @@
 ---
 date: '2023-12-15T13:35:44+01:00'
-lastmod: '2025-02-05T19:17:05.012710'
+lastmod: '2025-02-08T00:05:05.457393'
 draft: true
 tags: []
 title: 'Reads'
@@ -36,13 +36,14 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 ### Most Highlighted
 
 - [_Everything's Changing - Life Update_](http://www.youtube.com/watch?v=XtOshDbMGkA) by Ali Abdaal (Dec, 23)
+- [_The Most Powerful Life Hacks I've Found_](https://www.sahilbloom.com/newsletter/the-most-powerful-life-hacks-ive-found) by sahilbloom.com (Feb, 25)
 - [_Inversion: The Crucial Thinking Skill Nobody Ever Taught You_](https://click.convertkit-mail4.com/8kuopxzlw8t3u900rkfpbzn2l999/l2hehmho4ln0lpt6/aHR0cHM6Ly9qYW1lc2NsZWFyLmNvbS9pbnZlcnNpb24=) by James Clear (Jan, 24)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May, 24)
 - [_Introduction to a Self Managed Life_](https://wiki.futo.org/wiki/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software#Preface) by FUTO Software (Feb, 25)
-- [_Crony Beliefs_](https://meltingasphalt.com/crony-beliefs/) by meltingasphalt.com (Mar, 24)
 
 ### Latest Ten
 
+- [_The Most Powerful Life Hacks I've Found_](https://www.sahilbloom.com/newsletter/the-most-powerful-life-hacks-ive-found) by sahilbloom.com (Feb, 25)
 - [_You’re Not Gross and Sad for Getting Older. Here’s How to Think About Aging Instead_](https://www.latimes.com/lifestyle/story/2023-12-12/how-to-embrace-getting-older-without-your-inner-ageist) by Deborah Netburn (Feb, 25)
 - [_Introduction to a Self Managed Life_](https://wiki.futo.org/wiki/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software#Preface) by FUTO Software (Feb, 25)
 - [_3-2-1: On what it takes to be consistent, how to make a bad situation worse, and noticing small joys_](https://jamesclear.com/3-2-1/january-23-2025) by James Clear - 3-2-1 Thursday Newsletter (Jan, 25)
@@ -52,4 +53,3 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 - [_Trading the Mean Reversion Curve_](https://substack.com/@quantitativo/p-147005114) by Substack (Sep, 24)
 - [_Erfolgreich-Wissenschaftlich-Investieren-2.Auflage_](https://readwise.io/reader/document_raw_content/49480928) by readwise.io (Jun, 24)
 - [_Jerry Seinfeld | Duke's 2024 Commencement Address_](https://www.youtube.com/watch?v=76QV2SrSqgo&t=170s) by Duke University (May, 24)
-- [_Die Längste Beziehung Und Wie Sie Uns Prägt_](https://www.e-fellows.net/leben/wie-uns-die-beziehung-zu-unseren-geschwistern-praegt?utm_content=Stipendiat&utm_campaign=nl_stme1924&utm_medium=em&utm_source=nl) by e-fellows.net (May, 24)

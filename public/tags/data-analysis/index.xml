@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Data-Analysis on timonrieger.de</title>
-    <link>http://localhost:55359/tags/data-analysis/</link>
+    <link>https://website-slsg.onrender.com/tags/data-analysis/</link>
     <description>Recent content in Data-Analysis on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
-      <url>http://localhost:55359/images/papermod-cover.png</url>
-      <link>http://localhost:55359/images/papermod-cover.png</link>
+      <url>https://website-slsg.onrender.com/images/papermod-cover.png</url>
+      <link>https://website-slsg.onrender.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55359/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://website-slsg.onrender.com/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Betting Strategy (2)</title>
-      <link>http://localhost:55359/blog/building-a-betting-strategy-2/</link>
+      <link>https://website-slsg.onrender.com/blog/building-a-betting-strategy-2/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/building-a-betting-strategy-2/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don&amp;rsquo;t want to deprive you of my findings of simulating the strategy. In the &lt;a href=&#34;http://localhost:55359/blog/building-a-betting-strategy-1/&#34;&gt;first post&lt;/a&gt;, we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.&lt;/p&gt;
+      <guid>https://website-slsg.onrender.com/blog/building-a-betting-strategy-2/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don&amp;rsquo;t want to deprive you of my findings of simulating the strategy. In the &lt;a href=&#34;https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/&#34;&gt;first post&lt;/a&gt;, we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.&lt;/p&gt;
 &lt;h2 id=&#34;our-strategy&#34;&gt;Our Strategy&lt;/h2&gt;
 &lt;p&gt;The strategy I will be backtesting today will be betting on over 0.5 goals in the 30th minute if until then no goal has been scored. At the time of writing the odds with these conditions average at around 1.2. The odds are crucial to the profitability of this strategy, so keep that in mind. I will walk you through my analysis and thoughts when writing the code for it. You can find the unfortunately unorganized notebook and the data for this study on &lt;a href=&#34;https://github.com/timonrieger/website/tree/hugo/assets/content/building-a-betting-strategy.zip&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Betting Strategy (1)</title>
-      <link>http://localhost:55359/blog/building-a-betting-strategy-1/</link>
+      <link>https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/building-a-betting-strategy-1/</guid>
+      <guid>https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/</guid>
       <description>&lt;p&gt;The European Football Championship is in full swing and, fittingly, I had the idea to develop a betting strategy for the upcoming Bundesliga season. Let´s analyze some historical data and develop a thesis. We will be using data from &lt;a href=&#34;https://www.openligadb.de/&#34;&gt;OpenLigaDB&lt;/a&gt; from 2009/10 to 2023/24 and explore statistics like the distribution of match outcomes, results by winning team, and scoring times.&lt;/p&gt;
 &lt;p&gt;In this post, the data is processed and visualized using Python, Plotly and Matplotlib. Our aim is to uncover trends and patterns that will be useful for a follow-up post on value betting strategies, focusing specifically on bets on more than 0.5 goals.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analyzing 75 Years of LEGO</title>
-      <link>http://localhost:55359/blog/analyzing-75-years-of-lego/</link>
+      <link>https://website-slsg.onrender.com/blog/analyzing-75-years-of-lego/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/analyzing-75-years-of-lego/</guid>
+      <guid>https://website-slsg.onrender.com/blog/analyzing-75-years-of-lego/</guid>
       <description>&lt;h2 id=&#34;about-lego&#34;&gt;About Lego&lt;/h2&gt;
 &lt;p&gt;LEGO is a globally recognized brand of construction toys, known for its interlocking plastic bricks. The name &amp;ldquo;LEGO&amp;rdquo; comes from the Danish words &amp;ldquo;leg godt,&amp;rdquo; meaning &amp;ldquo;play well.&amp;rdquo; LEGO bricks are designed to be versatile and can be assembled and connected in countless ways, allowing children and adults alike to build various structures, vehicles, and imaginative creations.&lt;/p&gt;
 &lt;h2 id=&#34;history-of-lego&#34;&gt;History of Lego&lt;/h2&gt;

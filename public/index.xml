@@ -2,48 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>timonrieger.de</title>
-    <link>http://localhost:55359/</link>
+    <link>https://website-slsg.onrender.com/</link>
     <description>Recent content on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
-      <url>http://localhost:55359/images/papermod-cover.png</url>
-      <link>http://localhost:55359/images/papermod-cover.png</link>
+      <url>https://website-slsg.onrender.com/images/papermod-cover.png</url>
+      <link>https://website-slsg.onrender.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 19:17:05 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55359/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jan 2025 13:10:27 +0100</lastBuildDate>
+    <atom:link href="https://website-slsg.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
-      <link>http://localhost:55359/projects/arkivr/</link>
+      <link>https://website-slsg.onrender.com/projects/arkivr/</link>
       <pubDate>Mon, 25 Nov 2024 16:28:47 +0100</pubDate>
-      <guid>http://localhost:55359/projects/arkivr/</guid>
+      <guid>https://website-slsg.onrender.com/projects/arkivr/</guid>
       <description>&lt;p&gt;Arkivr is an archiving software as a self-hostable web server that allows you to store and organize resources such as links, files and more for easy retrieval.&lt;/p&gt;
 &lt;p&gt;You can see my instance &lt;a href=&#34;https://arkivr.timonrieger.de&#34;&gt;here&lt;/a&gt; and the source code on &lt;a href=&#34;https://github.com/timonrieger/arkivr&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
 &lt;p&gt;My colleagues and I have been saving interesting websites, documents and general learning resources in a Discord chat for months. It&amp;rsquo;s easy to add the links or files there, but finding a particular resource was cumbersome. So I quickly set up a minimal version with a simple Flask server and have been using it daily ever since. I really like the concept and my first implementation, so I&amp;rsquo;m thinking about scaling it from a &lt;a href=&#34;https://medium.com/swlh/spa-mpa-or-a-hybrid-42fdf6b3415c&#34;&gt;multi-page to a single-page application&lt;/a&gt;, adding self-hosting capability with Docker, support files and much more functionality.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blog Boiler Templates</title>
-      <link>http://localhost:55359/projects/blog-boiler-templates/</link>
-      <pubDate>Sat, 25 Jan 2025 16:35:02 +0100</pubDate>
-      <guid>http://localhost:55359/projects/blog-boiler-templates/</guid>
-      <description>&lt;p&gt;Blog Boiler is a set of two templates to get started with a free, easy and predesigned blog template that will help you get started blogging in minutes.&lt;/p&gt;
-&lt;p&gt;Before I switched my blog to Hugo I had been using the Pro template myself. You can find more detailed information about usage on Github, &lt;a href=&#34;https://github.com/timonrieger/blog-boiler-pro&#34;&gt;Pro&lt;/a&gt; and &lt;a href=&#34;https://github.com/timonrieger/blog-boiler-lite&#34;&gt;Lite&lt;/a&gt; version&lt;/p&gt;
-&lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
-&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
-&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Backend/server made with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Frontend made with &lt;a href=&#34;https://jinja.palletsprojects.com/en/stable/&#34;&gt;Jinja&lt;/a&gt; and &lt;a href=&#34;https://startbootstrap.com/theme/clean-blog&#34;&gt;Start Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Air Nomad Society</title>
-      <link>http://localhost:55359/air-nomad-society/</link>
+      <link>https://website-slsg.onrender.com/air-nomad-society/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/air-nomad-society/</guid>
+      <guid>https://website-slsg.onrender.com/air-nomad-society/</guid>
       <description>&lt;p&gt;Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.&lt;/p&gt;
 &lt;p&gt;You can signup &lt;a href=&#34;https://ans.timonrieger.de&#34;&gt;here&lt;/a&gt; and view the source code on &lt;a href=&#34;https://github.com/timonrieger/air-nomad-society&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
@@ -51,138 +36,81 @@
     </item>
     <item>
       <title>Crypticorn</title>
-      <link>http://localhost:55359/projects/crypticorn/</link>
+      <link>https://website-slsg.onrender.com/projects/crypticorn/</link>
       <pubDate>Mon, 03 Jun 2024 16:36:59 +0100</pubDate>
-      <guid>http://localhost:55359/projects/crypticorn/</guid>
+      <guid>https://website-slsg.onrender.com/projects/crypticorn/</guid>
       <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Playground</title>
-      <link>http://localhost:55359/blog/playground/</link>
-      <pubDate>Mon, 20 Jan 2025 12:48:11 +0100</pubDate>
-      <guid>http://localhost:55359/blog/playground/</guid>
-      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
-&lt;p&gt;For applied syntax view &lt;a href=&#34;https://adityatelange.github.io/hugo-PaperMod/posts/&#34;&gt;PaperMod demo page&lt;/a&gt;&lt;/p&gt;
-&lt;!-- more --&gt;
-&lt;p&gt;To leverage this website even more, you could add &lt;a href=&#34;https://discourse.gohugo.io/t/handling-taxonomies-like-a-boss-update/7719&#34;&gt;taxonomies&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The following is a example page, which is useful for testing the &lt;a href=&#34;https://gohugo.io/shortcodes/&#34;&gt;Hugo Shortcodes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Defining parameters&lt;/p&gt;
-&lt;p&gt;We found a red shirt. It is large size.&lt;/p&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;p&gt;see &lt;a href=&#34;https://gohugo.io/content-management/cross-references/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;shortcodes&#34;&gt;Shortcodes&lt;/h2&gt;
-&lt;p&gt;see &lt;a href=&#34;https://gohugo.io/shortcodes/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Code block
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;n&#34;&gt;A&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;bunch&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;code&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;here&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Hidden comment&lt;/p&gt;
-&lt;p&gt;Dropdown Details
-
-&lt;details&gt;
-  &lt;summary&gt;See the details&lt;/summary&gt;
-  &lt;ul&gt;
-&lt;li&gt;This is a &lt;strong&gt;bold&lt;/strong&gt; word.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;/p&gt;
-&lt;p&gt;Image
-&lt;img alt=&#34;Image 1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:55359/images/2.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Image with options
-&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;a href=&#34;https://www.nps.gov/zion/index.htm&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:55359/images/1.png&#34;
-         alt=&#34;A photograph of Zion National Park&#34; width=&#34;50%&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;Zion National Park&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Social Media, Gen Z and Happiness</title>
-      <link>http://localhost:55359/blog/about-social-media-gen-z-and-happiness/</link>
-      <pubDate>Sun, 19 Jan 2025 16:05:08 +0000</pubDate>
-      <guid>http://localhost:55359/blog/about-social-media-gen-z-and-happiness/</guid>
-      <description>&lt;p&gt;some text&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Open Book Exams are Completely Underrated</title>
-      <link>http://localhost:55359/blog/why-open-book-exams-are-completely-underrated/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/why-open-book-exams-are-completely-underrated/</guid>
-      <description>asdf</description>
-    </item>
-    <item>
-      <title>How to Stay Calm in This World</title>
-      <link>http://localhost:55359/blog/how-to-stay-calm-in-this-world/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/how-to-stay-calm-in-this-world/</guid>
-      <description>My Strategies for Inner Silence and Happiness</description>
-    </item>
-    <item>
       <title>Building a Betting Strategy (2)</title>
-      <link>http://localhost:55359/blog/building-a-betting-strategy-2/</link>
+      <link>https://website-slsg.onrender.com/blog/building-a-betting-strategy-2/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/building-a-betting-strategy-2/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don&amp;rsquo;t want to deprive you of my findings of simulating the strategy. In the &lt;a href=&#34;http://localhost:55359/blog/building-a-betting-strategy-1/&#34;&gt;first post&lt;/a&gt;, we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.&lt;/p&gt;
+      <guid>https://website-slsg.onrender.com/blog/building-a-betting-strategy-2/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don&amp;rsquo;t want to deprive you of my findings of simulating the strategy. In the &lt;a href=&#34;https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/&#34;&gt;first post&lt;/a&gt;, we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.&lt;/p&gt;
 &lt;h2 id=&#34;our-strategy&#34;&gt;Our Strategy&lt;/h2&gt;
 &lt;p&gt;The strategy I will be backtesting today will be betting on over 0.5 goals in the 30th minute if until then no goal has been scored. At the time of writing the odds with these conditions average at around 1.2. The odds are crucial to the profitability of this strategy, so keep that in mind. I will walk you through my analysis and thoughts when writing the code for it. You can find the unfortunately unorganized notebook and the data for this study on &lt;a href=&#34;https://github.com/timonrieger/website/tree/hugo/assets/content/building-a-betting-strategy.zip&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Filmhub</title>
-      <link>http://localhost:55359/projects/filmhub/</link>
+      <link>https://website-slsg.onrender.com/projects/filmhub/</link>
       <pubDate>Sat, 12 Oct 2024 16:42:00 +0100</pubDate>
-      <guid>http://localhost:55359/projects/filmhub/</guid>
+      <guid>https://website-slsg.onrender.com/projects/filmhub/</guid>
       <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maximize Crypto Profits with This Bullrun Strategy</title>
-      <link>http://localhost:55359/blog/maximize-crypto-profits-with-this-bullrun-strategy/</link>
+      <link>https://website-slsg.onrender.com/blog/maximize-crypto-profits-with-this-bullrun-strategy/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/maximize-crypto-profits-with-this-bullrun-strategy/</guid>
+      <guid>https://website-slsg.onrender.com/blog/maximize-crypto-profits-with-this-bullrun-strategy/</guid>
       <description>&lt;p&gt;This blog post deals with trading the crypto bullruns in the most optimal way to secure profits using the CBB Index. This strategy would have easily outperformed holding bitcoin, as we would have sold at each cycle top and reinvested everything in the bear market. I will use this plan for altcoins as well, as they are highly correlated with bitcoin, making it difficult to predict the exact top for each coin. This approach may limit maximum profits, but it helps to secure them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Betting Strategy (1)</title>
-      <link>http://localhost:55359/blog/building-a-betting-strategy-1/</link>
+      <link>https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/building-a-betting-strategy-1/</guid>
+      <guid>https://website-slsg.onrender.com/blog/building-a-betting-strategy-1/</guid>
       <description>&lt;p&gt;The European Football Championship is in full swing and, fittingly, I had the idea to develop a betting strategy for the upcoming Bundesliga season. Let´s analyze some historical data and develop a thesis. We will be using data from &lt;a href=&#34;https://www.openligadb.de/&#34;&gt;OpenLigaDB&lt;/a&gt; from 2009/10 to 2023/24 and explore statistics like the distribution of match outcomes, results by winning team, and scoring times.&lt;/p&gt;
 &lt;p&gt;In this post, the data is processed and visualized using Python, Plotly and Matplotlib. Our aim is to uncover trends and patterns that will be useful for a follow-up post on value betting strategies, focusing specifically on bets on more than 0.5 goals.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backtesting a Crypto Trading Signals Group</title>
-      <link>http://localhost:55359/blog/5-backtesting-crypto-trading-signals/</link>
+      <link>https://website-slsg.onrender.com/blog/5-backtesting-crypto-trading-signals/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/5-backtesting-crypto-trading-signals/</guid>
+      <guid>https://website-slsg.onrender.com/blog/5-backtesting-crypto-trading-signals/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re into finance-related content on YouTube, you&amp;rsquo;ve probably seen all these ads where someone is making 20k a month with their crypto signals and that you should definitely join their Telegram group too. Although 99.9% of these groups are definitely scams and don&amp;rsquo;t work at all, I wanted to review how a select group has performed in the past. Note that this is not a public group, but a paid group that I will be backtesting. I got access to this group through my work colleague whose company has access to this group.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Life and Emotions</title>
-      <link>http://localhost:55359/blog/about-life-and-emotions/</link>
+      <link>https://website-slsg.onrender.com/blog/about-life-and-emotions/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/about-life-and-emotions/</guid>
+      <guid>https://website-slsg.onrender.com/blog/about-life-and-emotions/</guid>
       <description>&lt;p&gt;Learning about emotions and how to control them has been one of the best decisions I&amp;rsquo;ve made in recent years. The last post about Marcus Aurelius&amp;rsquo; meditations might plant some seeds for you in this regard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Life and Ethics</title>
-      <link>http://localhost:55359/blog/about-life-and-ethics/</link>
+      <link>https://website-slsg.onrender.com/blog/about-life-and-ethics/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/about-life-and-ethics/</guid>
-      <description>&lt;p&gt;The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part &lt;a href=&#34;http://localhost:55359/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;http://localhost:55359/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://website-slsg.onrender.com/blog/about-life-and-ethics/</guid>
+      <description>&lt;p&gt;The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- more --&gt;
-&lt;p&gt;The next and final post about the book will be about &lt;a href=&#34;http://localhost:55359/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The next and final post about the book will be about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Life and Death</title>
-      <link>http://localhost:55359/blog/about-life-and-death/</link>
+      <link>https://website-slsg.onrender.com/blog/about-life-and-death/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/about-life-and-death/</guid>
+      <guid>https://website-slsg.onrender.com/blog/about-life-and-death/</guid>
       <description>&lt;p&gt;While reading the Meditations of Marcus Aurelius, I saved some passages using &lt;a href=&#34;https://readwise.io/i/timon41&#34;&gt;Readwise&lt;/a&gt;* that I would like to share here.&lt;/p&gt;
 &lt;!-- more --&gt;
-&lt;p&gt;I have grouped the quotes according to the topic. You are reading about &lt;a href=&#34;http://localhost:55359/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; and there is &lt;a href=&#34;http://localhost:55359/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt; and &lt;a href=&#34;http://localhost:55359/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;, too.&lt;/p&gt;
+&lt;p&gt;I have grouped the quotes according to the topic. You are reading about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; and there is &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt; and &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;, too.&lt;/p&gt;
 &lt;p&gt;As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:55359/about/</link>
+      <link>https://website-slsg.onrender.com/about/</link>
       <pubDate>Mon, 29 Apr 2024 13:10:27 +0100</pubDate>
-      <guid>http://localhost:55359/about/</guid>
+      <guid>https://website-slsg.onrender.com/about/</guid>
       <description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
 &lt;p&gt;Hey, I&amp;rsquo;m Timon. I&amp;rsquo;m a&amp;hellip;&lt;/p&gt;
 &lt;ul&gt;
@@ -190,7 +118,7 @@
 &lt;li&gt;&amp;hellip;work time software engineer or let&amp;rsquo;s say tinkerer&lt;/li&gt;
 &lt;li&gt;&amp;hellip;free time self-announced philosopher (does thinking count already?)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;You will find me either &lt;a href=&#34;http://localhost:55359/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;http://localhost:55359/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;http://localhost:55359/photos/&#34;&gt;photographing&lt;/a&gt; and occasionally &lt;a href=&#34;https://twitter.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.
+&lt;p&gt;You will find me either &lt;a href=&#34;https://website-slsg.onrender.com/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;https://website-slsg.onrender.com/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;https://website-slsg.onrender.com/photos/&#34;&gt;photographing&lt;/a&gt; and occasionally &lt;a href=&#34;https://twitter.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.
 While you might find me on other platforms, I am not active there.&lt;/p&gt;
 &lt;h2 id=&#34;current-areas-of-interest&#34;&gt;Current Areas of Interest&lt;/h2&gt;
 &lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
@@ -201,33 +129,26 @@ such as &lt;a href=&#34;https://litestar.dev/&#34;&gt;Litestar&lt;/a&gt; for the
     </item>
     <item>
       <title>Analyzing 75 Years of LEGO</title>
-      <link>http://localhost:55359/blog/analyzing-75-years-of-lego/</link>
+      <link>https://website-slsg.onrender.com/blog/analyzing-75-years-of-lego/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/blog/analyzing-75-years-of-lego/</guid>
+      <guid>https://website-slsg.onrender.com/blog/analyzing-75-years-of-lego/</guid>
       <description>&lt;h2 id=&#34;about-lego&#34;&gt;About Lego&lt;/h2&gt;
 &lt;p&gt;LEGO is a globally recognized brand of construction toys, known for its interlocking plastic bricks. The name &amp;ldquo;LEGO&amp;rdquo; comes from the Danish words &amp;ldquo;leg godt,&amp;rdquo; meaning &amp;ldquo;play well.&amp;rdquo; LEGO bricks are designed to be versatile and can be assembled and connected in countless ways, allowing children and adults alike to build various structures, vehicles, and imaginative creations.&lt;/p&gt;
 &lt;h2 id=&#34;history-of-lego&#34;&gt;History of Lego&lt;/h2&gt;
 &lt;p&gt;Founded by Ole Kirk Christiansen in 1932, the LEGO Group initially crafted wooden toys in Denmark. With a humble start making wooden ducks and yo-yos, the company transitioned to plastic toys in 1947, setting the stage for its iconic future.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reads</title>
-      <link>http://localhost:55359/reads/</link>
-      <pubDate>Fri, 15 Dec 2023 13:35:44 +0100</pubDate>
-      <guid>http://localhost:55359/reads/</guid>
-      <description>Here you will find my latest and most valuable reads (auto-generated via Readwise API).</description>
-    </item>
-    <item>
       <title>Human Coaches</title>
-      <link>http://localhost:55359/projects/human-coaches/</link>
+      <link>https://website-slsg.onrender.com/projects/human-coaches/</link>
       <pubDate>Sat, 01 Jan 2022 16:42:36 +0100</pubDate>
-      <guid>http://localhost:55359/projects/human-coaches/</guid>
+      <guid>https://website-slsg.onrender.com/projects/human-coaches/</guid>
       <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Photos</title>
-      <link>http://localhost:55359/photos/</link>
+      <link>https://website-slsg.onrender.com/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55359/photos/</guid>
+      <guid>https://website-slsg.onrender.com/photos/</guid>
       <description>A collection of photos from around the world. Powered by Olympus. All rights reserved.</description>
     </item>
   </channel>
