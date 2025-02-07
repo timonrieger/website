@@ -8,4 +8,4 @@ rm -rf resources/
 python3 -m scripts.reads
 
 # build site for production
-hugo
+hugo --gc --minify

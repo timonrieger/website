@@ -13,15 +13,25 @@ hugo server
 
 ## Build
 
-Ideally remove the `public/` and `resource/` folder before building with:
-
 ```bash
-rm -rf public/
-rm -rf resources/
+./scripts/hugo.sh
 ```
 
+## Add theme
+
 ```bash
-hugo
+git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+```
+
+needed when you reclone your repo (submodules may not get cloned automatically)
+```bash
+git submodule update --init --recursive 
+```
+
+## Update theme
+
+```bash
+git submodule update --remote --merge
 ```
 
 ## Add new content
