@@ -9,10 +9,10 @@
       <url>https://website-slsg.onrender.com/images/papermod-cover.png</url>
       <link>https://website-slsg.onrender.com/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 16:35:02 +0100</lastBuildDate>
     <atom:link href="https://website-slsg.onrender.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -23,6 +23,21 @@
 &lt;p&gt;You can see my instance &lt;a href=&#34;https://arkivr.timonrieger.de&#34;&gt;here&lt;/a&gt; and the source code on &lt;a href=&#34;https://github.com/timonrieger/arkivr&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
 &lt;p&gt;My colleagues and I have been saving interesting websites, documents and general learning resources in a Discord chat for months. It&amp;rsquo;s easy to add the links or files there, but finding a particular resource was cumbersome. So I quickly set up a minimal version with a simple Flask server and have been using it daily ever since. I really like the concept and my first implementation, so I&amp;rsquo;m thinking about scaling it from a &lt;a href=&#34;https://medium.com/swlh/spa-mpa-or-a-hybrid-42fdf6b3415c&#34;&gt;multi-page to a single-page application&lt;/a&gt;, adding self-hosting capability with Docker, support files and much more functionality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog Boiler Templates</title>
+      <link>https://website-slsg.onrender.com/projects/blog-boiler-templates/</link>
+      <pubDate>Sat, 25 Jan 2025 16:35:02 +0100</pubDate>
+      <guid>https://website-slsg.onrender.com/projects/blog-boiler-templates/</guid>
+      <description>&lt;p&gt;Blog Boiler is a set of two templates to get started with a free, easy and predesigned blog template that will help you get started blogging in minutes.&lt;/p&gt;
+&lt;p&gt;Before I switched my blog to Hugo I had been using the Pro template myself. You can find more detailed information about usage on Github, &lt;a href=&#34;https://github.com/timonrieger/blog-boiler-pro&#34;&gt;Pro&lt;/a&gt; and &lt;a href=&#34;https://github.com/timonrieger/blog-boiler-lite&#34;&gt;Lite&lt;/a&gt; version&lt;/p&gt;
+&lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Backend/server made with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Frontend made with &lt;a href=&#34;https://jinja.palletsprojects.com/en/stable/&#34;&gt;Jinja&lt;/a&gt; and &lt;a href=&#34;https://startbootstrap.com/theme/clean-blog&#34;&gt;Start Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Air Nomad Society</title>

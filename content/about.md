@@ -18,7 +18,6 @@ Hey, I'm Timon. I'm a...
 You will find me either [working on projects](/projects ), [writing](/blog), [photographing](/photos) and occasionally [tweeting](https://twitter.com/timonrieger).
 While you might find me on other platforms, I am not active there.
 
-{{% comment %}}
 ## Principles
 
 Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python):
@@ -27,9 +26,6 @@ Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-pyt
 2. freedom in any way
 3. emotions are power
 4. silence is unvaluable
-5. presence is 
-
-{{% /comment %}}
 
 ## Current Areas of Interest
 
