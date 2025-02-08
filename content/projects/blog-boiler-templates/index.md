@@ -1,7 +1,7 @@
 ---
 date: '2025-01-25T16:35:02+01:00'
 lastmod: '2025-01-25T16:35:02+01:00'
-draft: true
+draft: false
 title: 'Blog Boiler Templates'
 url: 'projects/blog-boiler-templates'
 cover:
