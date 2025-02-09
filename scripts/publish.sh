@@ -52,6 +52,4 @@ echo "📤 Committing and pushing to remotes..."
 git commit -a -m "published on $DATE"
 git pushcurr
 
-rm -rf public/ resources/
-
 echo "✅ Deployment completed successfully!"
