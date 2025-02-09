@@ -15,8 +15,10 @@ Hey, I'm Timon. I'm a...
 - ...work time software engineer or let's say tinkerer 
 - ...free time self-announced philosopher (does thinking count already?)
 
-You will find me either [working on projects](/projects ), [writing](/blog), [photographing](/photos) and occasionally [tweeting](https://twitter.com/timonrieger).
+You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and occasionally [tweeting](https://twitter.com/timonrieger).
 While you might find me on other platforms, I am not active there.
+
+If you want to get in touch, you can send me an email at contact@[DOMAIN].de. Replace [DOMAIN] with the domain of this website.
 
 ## Principles
 
@@ -45,10 +47,10 @@ I'll probably start with an old laptop or/and a [Rasperry Pi 5](https://www.rasp
 ### Reading
 
 I mainly read older books via my Kindle true to the motto: _The older the problem, the older the solution_.
+You can find a list of my readings [here](/reads).
 
 As for shorter reads, I read [random personal blogs](https://indieblog.page/) and a mix of programming, lifestyle and subreddit feeds via [my RSS reader](https://readwise.io/read).
 
-You can find a list of my readings [here](/reads).
 
 Although I generally don't consume visual content such as movies, entertainment, news programs and (even) sports (somehow I don't miss it), I do enjoy watching some channels on [Freetube](https://freetubeapp.io/).
 

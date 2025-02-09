@@ -1,6 +1,6 @@
 baseURL: https://website-slsg.onrender.com/
 languageCode: en-us
-copyright: "© [Timon Rieger](mailto:contact@timonrieger.de)"
+copyright: "© Timon Rieger"
 title: timonrieger.de
 theme: ["PaperMod"]
 pagination:
@@ -134,13 +134,16 @@ params:
   images: ["images/papermod-cover.png"]
 
   profileMode:
-    enabled: false  
-    title: Timon Rieger
+    enabled: true  
+    title: Hi, I'm Timon
+    subtitle: life time learner, work time dev, free time philosopher
     # imageUrl: "#"
     # imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
     buttons:
+      - name: About
+        url: about/
       - name: Blog
         url: blog/
       - name: Projects
