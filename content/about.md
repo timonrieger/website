@@ -11,12 +11,11 @@ summary: ''
 ## TL;DR
 Hey, I'm Timon. I'm a...
 
-- ...life time learner by default
-- ...work time software engineer or let's say tinkerer 
+- ...life time learner
+- ...work time software dev (or let's say tinkerer)
 - ...free time self-announced philosopher (does thinking count already?)
 
 You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and occasionally [tweeting](https://twitter.com/timonrieger).
-While you might find me on other platforms, I am not active there.
 
 If you want to get in touch, you can send me an email at contact@[DOMAIN].de. Replace [DOMAIN] with the domain of this website.
 
@@ -31,7 +30,6 @@ Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-pyt
 
 ## Current Areas of Interest
 
-
 ### Software
 
 I originally started with [Python](https://python.org/) and developed several web applications with [Flask](https://flask.palletsprojects.com/en/stable/). 
@@ -43,7 +41,6 @@ I am currently learning about servers, Linux and self-hosting. For both interest
 This is very unfamiliar territory for me, so there is a lot to learn there.
 I'll probably start with an old laptop or/and a [Rasperry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/), install Linux and try to get some Docker apps running.
 
-
 ### Reading
 
 I mainly read older books via my Kindle true to the motto: _The older the problem, the older the solution_.
@@ -51,9 +48,7 @@ You can find a list of my readings [here](/reads).
 
 As for shorter reads, I read [random personal blogs](https://indieblog.page/) and a mix of programming, lifestyle and subreddit feeds via [my RSS reader](https://readwise.io/read).
 
-
 Although I generally don't consume visual content such as movies, entertainment, news programs and (even) sports (somehow I don't miss it), I do enjoy watching some channels on [Freetube](https://freetubeapp.io/).
-
 
 ### Music
 
