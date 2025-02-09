@@ -125,3 +125,4 @@ Thumbs.db
 !.phpcs.xml.dist
 !.github
 !.gitlab-ci.yml
+!.gitkeep
