@@ -1,3 +1,6 @@
+/* 
+This is the style like the buttons in the profilemode hero section
+
 .terms-tags li {
   display: inline-block;
   margin: 10px;
@@ -18,4 +21,36 @@
 
 .terms-tags a:hover {
   background: var(--border);
+} */
+
+
+/* This is the style like the tags in the post footer */
+
+.terms-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.terms-tags li {
+    display: inline-block;
+}
+
+.terms-tags a {
+    border-radius: var(--radius);
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+}
+
+.terms-tags a {
+    display: block;
+    padding: 0px 10px;
+    color: var(--secondary);
+    font-size: 14px;
+    line-height: 28px;
+    background: var(--code-bg);
+}
+
+.terms-tags a:hover {
+    background: var(--border);
 }

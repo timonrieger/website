@@ -1,11 +1,6 @@
 ---
-date: '2024-04-29T13:10:27+01:00'
-lastmod: '2025-01-24T13:10:27+01:00'
-draft: false
-tags: []
 title: 'About'
 url: 'about'
-summary: ''
 ---
 
 ## TL;DR
@@ -17,7 +12,7 @@ Hey, I'm Timon. I'm a...
 
 You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and occasionally [tweeting](https://twitter.com/timonrieger).
 
-If you want to get in touch, you can send me an email at contact@[DOMAIN].de. Replace [DOMAIN] with the domain of this website.
+If you want to get in touch, you can send me an email at contact@ and the domain of this site.
 
 ## Principles
 

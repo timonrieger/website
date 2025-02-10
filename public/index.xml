@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Sat, 25 Jan 2025 16:35:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 17:31:35 +0100</lastBuildDate>
     <atom:link href="https://website-slsg.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -35,7 +35,7 @@
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Backend/server made with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Backend made with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Frontend made with &lt;a href=&#34;https://jinja.palletsprojects.com/en/stable/&#34;&gt;Jinja&lt;/a&gt; and &lt;a href=&#34;https://startbootstrap.com/theme/clean-blog&#34;&gt;Start Bootstrap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
@@ -106,9 +106,9 @@
       <link>https://website-slsg.onrender.com/blog/about-life-and-ethics/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <guid>https://website-slsg.onrender.com/blog/about-life-and-ethics/</guid>
-      <description>&lt;p&gt;The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;about life and death&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;about life and ethics&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- more --&gt;
-&lt;p&gt;The next and final post about the book will be about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The next and final post about the book will be about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;about life and emotions&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.&lt;/p&gt;</description>
     </item>
     <item>
@@ -118,37 +118,8 @@
       <guid>https://website-slsg.onrender.com/blog/about-life-and-death/</guid>
       <description>&lt;p&gt;While reading the Meditations of Marcus Aurelius, I saved some passages using &lt;a href=&#34;https://readwise.io/i/timon41&#34;&gt;Readwise&lt;/a&gt;* that I would like to share here.&lt;/p&gt;
 &lt;!-- more --&gt;
-&lt;p&gt;I have grouped the quotes according to the topic. You are reading about &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;life and death&lt;/a&gt; and there is &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;life and emotions&lt;/a&gt; and &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;life and ethics&lt;/a&gt;, too.&lt;/p&gt;
+&lt;p&gt;I have grouped the quotes according to the topic. You are reading &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-death&#34;&gt;about life and death&lt;/a&gt; and there is &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-emotions&#34;&gt;about life and emotions&lt;/a&gt; and &lt;a href=&#34;https://website-slsg.onrender.com/blog/about-life-and-ethics&#34;&gt;about life and ethics&lt;/a&gt;, too.&lt;/p&gt;
 &lt;p&gt;As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://website-slsg.onrender.com/about/</link>
-      <pubDate>Mon, 29 Apr 2024 13:10:27 +0100</pubDate>
-      <guid>https://website-slsg.onrender.com/about/</guid>
-      <description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
-&lt;p&gt;Hey, I&amp;rsquo;m Timon. I&amp;rsquo;m a&amp;hellip;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;hellip;life time learner&lt;/li&gt;
-&lt;li&gt;&amp;hellip;work time software dev (or let&amp;rsquo;s say tinkerer)&lt;/li&gt;
-&lt;li&gt;&amp;hellip;free time self-announced philosopher (does thinking count already?)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You will find me either &lt;a href=&#34;https://website-slsg.onrender.com/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;https://website-slsg.onrender.com/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;https://website-slsg.onrender.com/reads&#34;&gt;reading&lt;/a&gt;, &lt;a href=&#34;https://website-slsg.onrender.com/photos/&#34;&gt;photographing&lt;/a&gt; and occasionally &lt;a href=&#34;https://twitter.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you want to get in touch, you can send me an email at contact@[DOMAIN].de. Replace [DOMAIN] with the domain of this website.&lt;/p&gt;
-&lt;h2 id=&#34;principles&#34;&gt;Principles&lt;/h2&gt;
-&lt;p&gt;Inspired by &lt;a href=&#34;https://peps.python.org/pep-0020/#the-zen-of-python&#34;&gt;The Zen of Python&lt;/a&gt;:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;learning is fun&lt;/li&gt;
-&lt;li&gt;freedom in any way&lt;/li&gt;
-&lt;li&gt;emotions are power&lt;/li&gt;
-&lt;li&gt;silence is unvaluable&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;current-areas-of-interest&#34;&gt;Current Areas of Interest&lt;/h2&gt;
-&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
-&lt;p&gt;I originally started with &lt;a href=&#34;https://python.org/&#34;&gt;Python&lt;/a&gt; and developed several web applications with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;.
-Although I really appreciate its simplicity and extensibility as a well-established micro web framework, it has its limitations.
-Therefore, for my next project, I am turning to more flexible and advanced frameworks,
-such as &lt;a href=&#34;https://litestar.dev/&#34;&gt;Litestar&lt;/a&gt; for the backend and &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt; for the frontend.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analyzing 75 Years of LEGO</title>
@@ -168,11 +139,47 @@ such as &lt;a href=&#34;https://litestar.dev/&#34;&gt;Litestar&lt;/a&gt; for the
       <description>&lt;p&gt;your summary goes here&lt;/p&gt;</description>
     </item>
     <item>
+      <title>About</title>
+      <link>https://website-slsg.onrender.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://website-slsg.onrender.com/about/</guid>
+      <description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
+&lt;p&gt;Hey, I&amp;rsquo;m Timon. I&amp;rsquo;m a&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;hellip;life time learner&lt;/li&gt;
+&lt;li&gt;&amp;hellip;work time software dev (or let&amp;rsquo;s say tinkerer)&lt;/li&gt;
+&lt;li&gt;&amp;hellip;free time self-announced philosopher (does thinking count already?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will find me either &lt;a href=&#34;https://website-slsg.onrender.com/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;https://website-slsg.onrender.com/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;https://website-slsg.onrender.com/reads/&#34;&gt;reading&lt;/a&gt;, &lt;a href=&#34;https://website-slsg.onrender.com/photos/&#34;&gt;photographing&lt;/a&gt; and occasionally &lt;a href=&#34;https://twitter.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to get in touch, you can send me an email at contact@ and the domain of this site.&lt;/p&gt;
+&lt;h2 id=&#34;principles&#34;&gt;Principles&lt;/h2&gt;
+&lt;p&gt;Inspired by &lt;a href=&#34;https://peps.python.org/pep-0020/#the-zen-of-python&#34;&gt;The Zen of Python&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;learning is fun&lt;/li&gt;
+&lt;li&gt;freedom in any way&lt;/li&gt;
+&lt;li&gt;emotions are power&lt;/li&gt;
+&lt;li&gt;silence is unvaluable&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;current-areas-of-interest&#34;&gt;Current Areas of Interest&lt;/h2&gt;
+&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
+&lt;p&gt;I originally started with &lt;a href=&#34;https://python.org/&#34;&gt;Python&lt;/a&gt; and developed several web applications with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;.
+Although I really appreciate its simplicity and extensibility as a well-established micro web framework, it has its limitations.
+Therefore, for my next project, I am turning to more flexible and advanced frameworks,
+such as &lt;a href=&#34;https://litestar.dev/&#34;&gt;Litestar&lt;/a&gt; for the backend and &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt; for the frontend.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Photos</title>
       <link>https://website-slsg.onrender.com/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://website-slsg.onrender.com/photos/</guid>
       <description>A collection of photos from around the world. Powered by Olympus. All rights reserved.</description>
+    </item>
+    <item>
+      <title>Reads</title>
+      <link>https://website-slsg.onrender.com/reads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://website-slsg.onrender.com/reads/</guid>
+      <description>Here you will find my latest and most valuable reads (auto-generated via Readwise API).</description>
     </item>
   </channel>
 </rss>

@@ -18,10 +18,14 @@ pygmentsUseClasses: true
 mainsections: ["blog"]
 
 imaging:
-  bgColor: '#ffffff'
+  bgColor: '#000000'
   hint: photo
   quality: 100
   resampleFilter: box
+
+frontmatter:
+  lastmod:
+  - :fileModTime
 
 minify:
   disableXML: true
@@ -109,7 +113,6 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Timon Rieger # ["Me", "You"] for multiple authors
 
   # author: 
 
@@ -209,9 +212,6 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
-hooks:
-  newContent: 'python3 scripts/books.py'
 
 privacy:
 

@@ -12,7 +12,6 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Sat, 25 Jan 2025 16:35:02 +0100</lastBuildDate>
     <atom:link href="https://website-slsg.onrender.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -35,7 +34,7 @@
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Backend/server made with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Backend made with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Frontend made with &lt;a href=&#34;https://jinja.palletsprojects.com/en/stable/&#34;&gt;Jinja&lt;/a&gt; and &lt;a href=&#34;https://startbootstrap.com/theme/clean-blog&#34;&gt;Start Bootstrap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
