@@ -1,8 +1,4 @@
 ---
-date: '2023-12-15T13:35:44+01:00'
-lastmod: '2025-02-09T23:34:56.919035'
-draft: true
-tags: []
 title: 'Reads'
 url: 'reads'
 description: 'Here you will find my latest and most valuable reads (auto-generated via Readwise API).'
@@ -43,6 +39,8 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Latest Ten
 
+- [_Let's Compile Python 1.0_](https://www.bitecode.dev/p/lets-compile-python-10) by Bite Code! (Feb, 25)
+- [_33 Life Tips/Secret Museum of Mankind/Small Egg Cooker_](https://www.recomendo.com/p/33-life-tipssecret-museum-of-mankindsmall) by Kevin Kelly (Feb, 25)
 - [_The Most Powerful Life Hacks I've Found_](https://www.sahilbloom.com/newsletter/the-most-powerful-life-hacks-ive-found) by sahilbloom.com (Feb, 25)
 - [_You’re Not Gross and Sad for Getting Older. Here’s How to Think About Aging Instead_](https://www.latimes.com/lifestyle/story/2023-12-12/how-to-embrace-getting-older-without-your-inner-ageist) by Deborah Netburn (Feb, 25)
 - [_Introduction to a Self Managed Life_](https://wiki.futo.org/wiki/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software#Preface) by FUTO Software (Feb, 25)
@@ -51,5 +49,3 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 - [_e-fellows.net Community_](https://www.community.e-fellows.net/qanda/thread/view/id/5684650?utm_campaign=nlco0325&utm_medium=em&utm_source=nl) by e-fellows.net (Jan, 25)
 - [_Import Highlights | Readwise_](https://readwise.io/welcome/sync) by readwise.io (Jan, 25)
 - [_Trading the Mean Reversion Curve_](https://substack.com/@quantitativo/p-147005114) by Substack (Sep, 24)
-- [_Erfolgreich-Wissenschaftlich-Investieren-2.Auflage_](https://readwise.io/reader/document_raw_content/49480928) by readwise.io (Jun, 24)
-- [_Jerry Seinfeld | Duke's 2024 Commencement Address_](https://www.youtube.com/watch?v=76QV2SrSqgo&t=170s) by Duke University (May, 24)

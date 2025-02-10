@@ -1,6 +1,5 @@
 ---
 date: '2024-05-20'
-lastmod: '2025-01-22'
 draft: false
 title: 'Air Nomad Society'
 url: 'air-nomad-society'
@@ -24,7 +23,7 @@ While this service is still running, I am no longer actively developing it.
 
 ## Tech Stack
 
-- Backend/server made with [Flask](https://flask.palletsprojects.com/en/stable/)
+- Backend made with [Flask](https://flask.palletsprojects.com/en/stable/)
 - Frontend made with [Jinja](https://jinja.palletsprojects.com/en/stable/)
 - Data by [Kiwi Flights API](https://tequila.kiwi.com/)
 - Hosted on [Vercel](https://vercel.com)

@@ -1,6 +1,5 @@
 ---
 date: '2024-10-12T16:42:00+01:00'
-lastmod: '2024-10-12T16:42:00+01:00'
 draft: false
 title: 'Filmhub'
 url: 'projects/filmhub'

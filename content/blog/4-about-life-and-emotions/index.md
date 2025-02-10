@@ -1,7 +1,7 @@
 ---
 date: '2024-06-20T00:00:00'
 draft: False
-tags: ['philosophy', 'book']
+tags: ['philosophy', 'books']
 title: 'About Life and Emotions'
 url: 'blog/about-life-and-emotions'
 ---

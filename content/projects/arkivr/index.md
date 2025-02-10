@@ -1,6 +1,5 @@
 ---
 date: '2024-11-25T16:28:47+01:00'
-lastmod: '2024-11-25T16:28:47+01:00'
 draft: false
 title: 'Arkivr'
 url: 'projects/arkivr'
@@ -23,5 +22,5 @@ I started developing it in November 2024 as a weekend project and have been plan
 
 ## Tech Stack
 
-- Backend/server made with [Flask](https://flask.palletsprojects.com/en/stable/)
+- Backend made with [Flask](https://flask.palletsprojects.com/en/stable/)
 - Frontend made with [Jinja](https://jinja.palletsprojects.com/en/stable/) and [TailwindCSS](https://tailwindcss.com/)

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-14T00:00:00'
 draft: False
-tags: ['philosophy', 'book']
+tags: ['philosophy', 'books']
 title: 'About Life and Death'
 url: 'blog/about-life-and-death'
 ---
@@ -10,7 +10,7 @@ While reading the Meditations of Marcus Aurelius, I saved some passages using [R
 
 <!-- more -->
 
-I have grouped the quotes according to the topic. You are reading about [life and death](/blog/about-life-and-death) and there is [life and emotions](/blog/about-life-and-emotions) and [life and ethics](/blog/about-life-and-ethics), too.
+I have grouped the quotes according to the topic. You are reading [about life and death](/blog/about-life-and-death) and there is [about life and emotions](/blog/about-life-and-emotions) and [about life and ethics](/blog/about-life-and-ethics), too.
 
 As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless. 
 
@@ -23,7 +23,7 @@ As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life
 > *But death and life, fame and lack of glory, suffering and joy, wealth and poverty and all of these are granted to good and bad people without distinction, as things that constitute neither moral advantages nor moral defects: therefore they are neither good nor evil (neither a blessing nor a misfortune).*
 
 
-Agreed. Does that mean you should withdraw from your emotionala assumptions? I guess so: _"There is nothing either good or bad, but thinking makes it so" ~Shakespeare_
+Agreed. Does that mean you should withdraw from your emotional assumptions? I guess so: _"There is nothing either good or bad, but thinking makes it so" ~ Shakespeare_
 
 <hr>
 

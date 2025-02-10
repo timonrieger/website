@@ -1,6 +1,5 @@
 ---
 date: '2025-01-25T16:35:02+01:00'
-lastmod: '2025-01-25T16:35:02+01:00'
 draft: false
 title: 'Blog Boiler Templates'
 url: 'projects/blog-boiler-templates'
@@ -17,5 +16,5 @@ Before I switched my blog to Hugo I had been using the Pro template myself. You 
 ## Timeline
 
 ## Tech Stack
-- Backend/server made with [Flask](https://flask.palletsprojects.com/en/stable/)
+- Backend made with [Flask](https://flask.palletsprojects.com/en/stable/)
 - Frontend made with [Jinja](https://jinja.palletsprojects.com/en/stable/) and [Start Bootstrap](https://startbootstrap.com/theme/clean-blog)
