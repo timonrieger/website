@@ -22,22 +22,22 @@ set VENV_DIR ".venv"
 
 echo "🚀 Starting Hugo site deployment..."
 
-# Set up virtual environment
-echo "🐍 Setting up Python environment..."
-if not test -d "$VENV_DIR"
-    python3.12 -m venv "$VENV_DIR"
-    "$VENV_DIR/bin/pip" install --quiet -r scripts/requirements.txt
-end
+# # Set up virtual environment
+# echo "🐍 Setting up Python environment..."
+# if not test -d "$VENV_DIR"
+#     python3.12 -m venv "$VENV_DIR"
+#     "$VENV_DIR/bin/pip" install --quiet -r scripts/requirements.txt
+# end
 
-# Activate virtual environment
-source "$VENV_DIR/bin/activate.fish"
+# # Activate virtual environment
+# source "$VENV_DIR/bin/activate.fish"
 
-# Run Python scripts
-echo "⚡ Running preprocessing scripts..."
-python3 -m scripts.reads
+# # Run Python scripts
+# echo "⚡ Running preprocessing scripts..."
+# python3 -m scripts.reads
 
-# Remove virtual environment
-rm -rf "$VENV_DIR"
+# # Remove virtual environment
+# rm -rf "$VENV_DIR"
 
 # Build the Hugo site
 echo "🏗️ Building site with Hugo..."
@@ -45,7 +45,8 @@ hugo --minify --gc --cleanDestinationDir --templateMetrics
 
 # Commit and push changes
 echo "📤 Committing and pushing to remotes..."
-git commit -a -m "published on $DATE"
+git add .
+git commit -m "published on $DATE"
 git pushcurr
 
 echo "✅ Deployment completed successfully!"
