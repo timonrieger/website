@@ -22,10 +22,6 @@ set VENV_DIR ".venv"
 
 echo "🚀 Starting Hugo site deployment..."
 
-# Clean up previous builds
-echo "🧹 Cleaning up folders..."
-rm -rf public/ resources/
-
 # Set up virtual environment
 echo "🐍 Setting up Python environment..."
 if not test -d "$VENV_DIR"
@@ -45,7 +41,7 @@ rm -rf "$VENV_DIR"
 
 # Build the Hugo site
 echo "🏗️ Building site with Hugo..."
-hugo
+hugo --minify --gc --cleanDestinationDir --templateMetrics
 
 # Commit and push changes
 echo "📤 Committing and pushing to remotes..."
