@@ -10,7 +10,7 @@ This blog post deals with trading the crypto bullruns in the most optimal way to
 
 This strategy is based on the ColinTalksCrypto Bitcoin Bullrun Index (CBBI). The CBBI is a Bitcoin index that utilizes advanced, real\-time analysis of 9 metrics to help us understand what stage of the Bitcoin bull run and bear market cycles we are in. The confidence score indicates whether we are approaching the top/bottom of a blow\-off Bitcoin cycle. The CBBI algorithm and website are 100% open source. This makes CBBI different from other Bitcoin price indexes. I would highly suggest, having a look into the [CBBI](https://colintalkscrypto.com/cbbi/) yourself.
 
-![](/images/cbbi.png)
+![CBBI](/images/cbbi.png)
 
 ## Strategy Logic
 

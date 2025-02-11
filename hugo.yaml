@@ -112,7 +112,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description: "Hi, I'm Timon. I'm a life time learner, work time dev, free time philosopher. On this site, I share my thoughts and projects, write about my experiences and learnings, showcase photos and more."
 
   # author: 
 

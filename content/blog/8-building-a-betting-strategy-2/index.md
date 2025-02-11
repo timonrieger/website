@@ -33,7 +33,7 @@ Going back to my parameter optimization. By running all 210\.000 combinations of
 
 ### Balance Over Time for Each Simulation
 
-![](/images/balance-per-simulation.png)
+![Balance per simulation](/images/balance-per-simulation.png)
 
 
 This graph shows the balance trajectory for individual simulations. Each line represents one of 1000 simulations of betting on matches with specific odds. The y\-axis depicts the balance, and the x\-axis tracks the progression of bets placed. The wild fluctuations in the beginning reflect how randomness significantly impacts short\-term results. However, some trajectories stabilize over time, revealing the potential for consistent profitability under the right conditions.
@@ -41,7 +41,7 @@ This graph shows the balance trajectory for individual simulations. Each line re
 
 ### Distribution of Bets Before Losing All Money
 
-![](/images/distribution-until-total-loss.png)
+![Distribution until total loss](/images/distribution-until-total-loss.png)
 
 
 The histogram shows most simulations end quickly, as seen in the high density on the left side. Outliers skew the mean (red line), indicating in some simulations the money lasts significantly longer than average. The quartiles (q1, q2, q3\) provide a clearer representation of typical performance, with the second quartile (q2\) aligning closer to the majority’s outcomes. This emphasizes the median as a better indicator of the typical bettor’s experience over the mean. However we also see that about 20% of the simulations pass the 2000 bets and never suffer a total loss. A further interesting exploration would be checking how many bets are placed on average per season to make that chart more accessible.
@@ -49,7 +49,7 @@ The histogram shows most simulations end quickly, as seen in the high density on
 
 ### Median Simulation Results
 
-![](/images/median-result.png)
+![Median result](/images/median-result.png)
 
 
 This plot depicts the balance progression for the median simulation result. The strategy leads to losses early on, but after about 150 bets, the balance stabilizes. The eventual upward trend indicates a potential recovery phase, though the risk of bankroll depletion remains significant. The mean result differs significantly from the median. A small subset of simulations performed exceptionally well as seen in the first graph, skewing the mean and suggesting having found a really great strategy. It’s a good reminder to assess both mean and median performance metrics when evaluating a strategy.

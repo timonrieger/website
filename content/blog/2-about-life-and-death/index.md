@@ -8,7 +8,7 @@ url: 'blog/about-life-and-death'
 
 While reading the Meditations of Marcus Aurelius, I saved some passages using [Readwise](https://readwise.io/i/timon41)* that I would like to share here.
 
-<!-- more -->
+<!--more-->
 
 I have grouped the quotes according to the topic. You are reading [about life and death](/blog/about-life-and-death) and there is [about life and emotions](/blog/about-life-and-emotions) and [about life and ethics](/blog/about-life-and-ethics), too.
 

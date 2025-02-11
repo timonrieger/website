@@ -8,7 +8,7 @@ url: 'blog/about-life-and-ethics'
 
 The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part [about life and death](/blog/about-life-and-death) below I'll continue with quotes regarding [about life and ethics](/blog/about-life-and-ethics). 
 
-<!-- more -->
+<!--more-->
 
 The next and final post about the book will be about [about life and emotions](/blog/about-life-and-emotions).
 

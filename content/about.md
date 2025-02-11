@@ -10,7 +10,7 @@ Hey, I'm Timon. I'm a...
 - ...work time software dev (or let's say tinkerer)
 - ...free time self-announced philosopher (does thinking count already?)
 
-You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and occasionally [tweeting](https://twitter.com/timonrieger).
+You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and occasionally [tweeting](https://x.com/timonrieger).
 
 If you want to get in touch, you can send me an email at contact@ and the domain of this site.
 
