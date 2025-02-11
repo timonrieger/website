@@ -10,7 +10,7 @@ weight: 1
 
 Arkivr is an archiving software as a self-hostable web server that allows you to store and organize resources such as links, files and more for easy retrieval.
 
-You can see my instance [here](https://arkivr.timonrieger.de) and the source code on [Github](https://github.com/timonrieger/arkivr).
+You can see my instance [here](https://arkivr.timonrieger.de) and the source code on [Github](https://gitlab.com/timonrieger/arkivr).
 
 ## Intention
 
