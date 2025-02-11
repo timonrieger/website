@@ -14,6 +14,13 @@
     <copyright>Timon Rieger</copyright>
     <atom:link href="https://website-slsg.onrender.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Local AI Development for Free</title>
+      <link>https://website-slsg.onrender.com/blog/local-ai-development-for-free/</link>
+      <pubDate>Tue, 11 Feb 2025 21:39:48 +0100</pubDate>
+      <guid>https://website-slsg.onrender.com/blog/local-ai-development-for-free/</guid>
+      <description>&lt;p&gt;In this short article, I&amp;rsquo;ll show you how to develop locally with LLMs, making AI development free and private. With the rising costs of AI services, running models locally is becoming an increasingly attractive option for developers who want full control over their AI development process.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Building a Betting Strategy (2)</title>
       <link>https://website-slsg.onrender.com/blog/building-a-betting-strategy-2/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
@@ -63,7 +70,7 @@
       <link>https://website-slsg.onrender.com/blog/about-life-and-death/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       <guid>https://website-slsg.onrender.com/blog/about-life-and-death/</guid>
-      <description>&lt;p&gt;While reading the Meditations of Marcus Aurelius, I saved some passages using &lt;a href=&#34;https://readwise.io/i/timon41&#34;&gt;Readwise&lt;/a&gt;* that I would like to share here.&lt;/p&gt;</description>
+      <description>&lt;p&gt;While reading the Meditations of Marcus Aurelius, I saved some passages using &lt;a href=&#34;https://readwise.io/i/timon41&#34;&gt;Readwise&lt;/a&gt; that I would like to share here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analyzing 75 Years of LEGO</title>

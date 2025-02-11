@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on timonrieger.de</title>
+    <link>https://website-slsg.onrender.com/tags/programming/</link>
+    <description>Recent content in Programming on timonrieger.de</description>
+    <image>
+      <title>timonrieger.de</title>
+      <url>https://website-slsg.onrender.com/images/papermod-cover.png</url>
+      <link>https://website-slsg.onrender.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <copyright>Timon Rieger</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 21:44:39 +0100</lastBuildDate>
+    <atom:link href="https://website-slsg.onrender.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Local AI Development for Free</title>
+      <link>https://website-slsg.onrender.com/blog/local-ai-development-for-free/</link>
+      <pubDate>Tue, 11 Feb 2025 21:39:48 +0100</pubDate>
+      <guid>https://website-slsg.onrender.com/blog/local-ai-development-for-free/</guid>
+      <description>&lt;p&gt;In this short article, I&amp;rsquo;ll show you how to develop locally with LLMs, making AI development free and private. With the rising costs of AI services, running models locally is becoming an increasingly attractive option for developers who want full control over their AI development process.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
