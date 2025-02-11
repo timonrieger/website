@@ -90,7 +90,7 @@ The strategy includes 4 take profit targets that decrease exponentially as posit
 
 ## Results of the Backtest
 
-![](/images/avg-roi-per-trade.png)
+![Avg ROI per trade](/images/avg-roi-per-trade.png)
 
 I have analyzed data from approximately May 2023 to today, which results in 2431 trades in 358 trading days. This essentially means that a trade has taken place almost every day with an average of 6.8 trades per day. To be honest, the results look really good. As you can see, the average trade yields a profit of 2.85%, which is going to increase insanely over time. But since this is too good to be true, there must be a catch, right? Yes, of course, and that is that the fees are excluded. So let's take a look at what happens when you subtract the fees and add a little more spice with leverage.
 
@@ -109,7 +109,7 @@ AVG_FUNDING_CYCLES_PER_TRADE = 3  # 24h Avg. Trade Length
 
 If we now add the compounding mechanism by adding each absolute trading profit, we get the account balance over time, starting with 1k initial deposit:
 
-![](/images/account-balance.png)
+![Account balance](/images/account-balance.png)
 
 
 As seen above, this strategy appears to be profitable. Before fees and trading parameters are taken into account, it generates an average daily return of 2\.85%. Using these parameters, an initial investment of $1000 on May 1, 2023 would generate a return of $2,500 by June 18, 2024. 

@@ -12,7 +12,7 @@ The European Football Championship is in full swing and, fittingly, I had the id
 In this post, the data is processed and visualized using Python, Plotly and Matplotlib. Our aim is to uncover trends and patterns that will be useful for a follow-up post on value betting strategies, focusing specifically on bets on more than 0.5 goals.
 
 
-![](/images/most-common-bundesliga-outcomes.png)
+![Most common Bundesliga outcomes](/images/most-common-bundesliga-outcomes.png)
 
 
 This pie chart displays the distribution of the most common match outcomes in Bundesliga games from the 2009/10 season to the 2023/24 season. Each slice of the pie represents a different match outcome, with the size of each slice indicating the proportion of matches that ended with that specific scoreline.
@@ -22,14 +22,14 @@ This pie chart displays the distribution of the most common match outcomes in Bu
 --------------------------
 
 
-![](/images/top-ten-results-over-time.png)
+![Top 10 results over time](/images/top-ten-results-over-time.png)
 
 
 
 This graph is a stacked area chart showing the changes in the percentages of the top 10 most common Bundesliga match results from 2009 to 2023\. The x\-axis represents the years, while the y\-axis indicates the percentage of matches that ended in each specific result. Each color in the chart corresponds to a specific match result, such as 1:1, 2:1, 2:0, and so on. The 1:1 result is the most common throughout the period, consistently occupying the largest area. The results 2:1, 2:0, and 1:0 also frequently appear, indicating their regular occurrence in matches. There is a noticeable increase in 2:0 and 2:1 outcomes around 2014\-2018, while 0:0 results slightly decrease post\-2020\. The overall percentage of these top 10 results remains high, often surpassing 70%, showing their dominance in match outcomes.
 
 
-![](/images/outcomes-by-winning-team.png)
+![Outcomes by winning team](/images/outcomes-by-winning-team.png)
 
 
 This pie chart illustrates the distribution of Bundesliga match outcomes by the winning team from the 2009/10 season to the 2023/24 season. The chart is divided into three sections, each representing a different type of match result: home win, away win, and draw. 
@@ -46,7 +46,7 @@ Playing at home provides teams with the advantage of familiar surroundings, incl
 Most First Goals are Scored between the 5th and 12th Minute
 -----------------------------------------------------------
 
-![](/images/timing-of-first-goals.png)
+![Timing of first goals](/images/timing-of-first-goals.png)
 
 
 This histogram illustrates the distribution of the first goal timing in Bundesliga matches from the 2009/10 season to the 2023/24 season. The x\-axis represents the minute of the match when the first goal was scored, and the y\-axis represents the count or frequency of matches that had their first goal scored at each minute.
@@ -58,7 +58,7 @@ The chart shows that the majority of first goals are scored within the first 30 
 The Precision in Calculating Betting Odds
 -----------------------------------------
 
-![](/images/probability-zerozero-odds.png)
+![Probability of 0:0 odds](/images/probability-zerozero-odds.png)
 
 
 This graph illustrates the relationship between the probability of a 0:0 draw and the odds for over 0\.5 goals across different minutes of a match. The x\-axis represents the minutes of the game, ranging from 0 to 45, while the left y\-axis shows the probability percentage, and the right y\-axis displays the odds. The blue line represents the increasing probability of a 0:0 draw as the match progresses, starting at around 6% and reaching up to nearly 24%.
@@ -67,7 +67,7 @@ This graph illustrates the relationship between the probability of a 0:0 draw an
 The green line shows the odds for over 0\.5 goals, which also rise as time passes, starting just above 1\.07 and climbing to around 1\.29\. Both lines follow a similar upward trend, indicating that as the game progresses, both the likelihood of a 0:0 draw and the odds for over 0\.5 goals increase. The alignment of the two lines suggests a close correlation between the rising probability of a draw and the changing odds for goals. This graph effectively shows how in\-play betting odds and probabilities adjust as a match moves towards halftime. As you can see the odds for over 0\.5 goals are always below the probabilit that there won't be any goals in the match. Can you even win on the long run?
 
 
-![](/images/outcomes-by-time.png)
+![Outcomes by time](/images/outcomes-by-time.png)
 
 
 This series of pie charts illustrates the distribution of match outcomes in the Bundesliga based on the time when the score remains 0:0\. Each pie chart represents a different minute interval, starting from minute 0 up to minute 95\. Initially, the match outcomes are diverse, with a variety of scores being equally probable. As the game progresses, the probability of a 0:0 draw increases significantly, especially after the 60th minute. By the 90th minute, the 0:0 draw becomes the most dominant outcome, comprising over 90% of the results. This trend highlights that as more time passes without a goal, the likelihood of the match ending in a 0:0 draw increases substantially.
