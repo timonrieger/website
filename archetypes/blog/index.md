@@ -12,4 +12,6 @@ your summary goes here
 ## Quote Of The Day
 >Here goes the quote
 
+<hr>
+
 your content goes here
