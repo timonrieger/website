@@ -18,26 +18,12 @@ end
 
 # Define variables
 set DATE (date +"%Y-%m-%d %H:%M")
-set VENV_DIR ".venv"
 
 echo "🚀 Starting Hugo site deployment..."
-
-# Set up virtual environment
-echo "🐍 Setting up Python environment..."
-if not test -d "$VENV_DIR"
-    python3.12 -m venv "$VENV_DIR"
-    "$VENV_DIR/bin/pip" install --quiet -r scripts/requirements.txt
-end
-
-# Activate virtual environment
-source "$VENV_DIR/bin/activate.fish"
 
 # Run Python scripts
 echo "⚡ Running preprocessing scripts..."
 python3 -m scripts.reads
-
-# Remove virtual environment
-rm -rf "$VENV_DIR"
 
 # Build the Hugo site
 echo "🏗️ Building site with Hugo..."

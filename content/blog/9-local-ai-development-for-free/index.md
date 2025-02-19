@@ -17,7 +17,7 @@ In this short article, I'll show you how to develop locally with LLMs, making AI
 
 I recently started using [Jan AI](https://jan.ai) to develop locally with AI (and also for daily use). Basically, you can use Jan as the frontend for any GGUF LLM. It stores the model and all the conversations on your local machine making it private and great for developing as you can launch a OpenAI compatible API and thus don't need to pay for the API.
 
-After downloading the Jan desktop app, installing a model of your choice and starting the server in the UI, you can test it by runnning the following script:
+After downloading the Jan desktop app, installing a model of your choice and starting the server in the UI, you can test it by running the following script:
 
 ```python
 import openai

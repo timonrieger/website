@@ -6,7 +6,6 @@ url: 'projects/human-coaches'
 cover:
   image: "images/cover.png" 
 ---
-your summary goes here
 
 <!--more-->
 
