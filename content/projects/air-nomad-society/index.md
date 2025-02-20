@@ -10,7 +10,7 @@ weight: 3
 
 Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.
 
-You can signup [here](https://ans.timonrieger.de) and view the source code on [Github](https://gitlab.com/timonrieger/air-nomad-society).
+You can signup [here](https://ans.timonrieger.de) and view the source code on [Github](https://github.com/timonrieger/air-nomad-society).
 
 ## Intention
 
