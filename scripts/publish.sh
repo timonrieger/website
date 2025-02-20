@@ -2,10 +2,10 @@
 
 # Check if we're on the hugo branch
 set CURRENT_BRANCH (git branch --show-current)
-if test "$CURRENT_BRANCH" != "hugo"
-    echo "❌ Error: Must be on 'hugo' branch to publish!"
+if test "$CURRENT_BRANCH" != "v2"
+    echo "❌ Error: Must be on 'v2' branch to publish!"
     echo "Current branch: $CURRENT_BRANCH"
-    echo "Please switch to the 'hugo' branch first."
+    echo "Please switch to the 'v2' branch first."
     exit 1
 end
 
@@ -33,6 +33,6 @@ hugo --minify --gc --cleanDestinationDir --templateMetrics
 echo "📤 Committing and pushing to remotes..."
 git add .
 git commit -m "published on $DATE"
-git pushcurr
+git push origin -u v2
 
 echo "✅ Deployment completed successfully!"
