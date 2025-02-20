@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on timonrieger.de</title>
-    <link>https://website-slsg.onrender.com/tags/</link>
+    <link>https://timonrieger.de/tags/</link>
     <description>Recent content in Tags on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
-      <url>https://website-slsg.onrender.com/images/papermod-cover.png</url>
-      <link>https://website-slsg.onrender.com/images/papermod-cover.png</link>
+      <url>https://timonrieger.de/images/papermod-cover.png</url>
+      <link>https://timonrieger.de/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Thu, 20 Feb 2025 17:16:20 +0100</lastBuildDate>
-    <atom:link href="https://website-slsg.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Feb 2025 17:28:39 +0100</lastBuildDate>
+    <atom:link href="https://timonrieger.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming</title>
-      <link>https://website-slsg.onrender.com/tags/programming/</link>
+      <link>https://timonrieger.de/tags/programming/</link>
       <pubDate>Tue, 11 Feb 2025 21:39:48 +0100</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/programming/</guid>
+      <guid>https://timonrieger.de/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Backtest</title>
-      <link>https://website-slsg.onrender.com/tags/backtest/</link>
+      <link>https://timonrieger.de/tags/backtest/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/backtest/</guid>
+      <guid>https://timonrieger.de/tags/backtest/</guid>
       <description></description>
     </item>
     <item>
       <title>Data-Analysis</title>
-      <link>https://website-slsg.onrender.com/tags/data-analysis/</link>
+      <link>https://timonrieger.de/tags/data-analysis/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/data-analysis/</guid>
+      <guid>https://timonrieger.de/tags/data-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Crypto</title>
-      <link>https://website-slsg.onrender.com/tags/crypto/</link>
+      <link>https://timonrieger.de/tags/crypto/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/crypto/</guid>
+      <guid>https://timonrieger.de/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>https://website-slsg.onrender.com/tags/books/</link>
+      <link>https://timonrieger.de/tags/books/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/books/</guid>
+      <guid>https://timonrieger.de/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>https://website-slsg.onrender.com/tags/philosophy/</link>
+      <link>https://timonrieger.de/tags/philosophy/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://website-slsg.onrender.com/tags/philosophy/</guid>
+      <guid>https://timonrieger.de/tags/philosophy/</guid>
       <description></description>
     </item>
   </channel>

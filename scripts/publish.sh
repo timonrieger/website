@@ -33,6 +33,6 @@ hugo --minify --gc --cleanDestinationDir --templateMetrics
 echo "📤 Committing and pushing to remotes..."
 git add .
 git commit -m "published on $DATE"
-git push origin -u v2
+git push
 
 echo "✅ Deployment completed successfully!"

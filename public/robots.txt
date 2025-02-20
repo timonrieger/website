@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://website-slsg.onrender.com/sitemap.xml
+Sitemap: https://timonrieger.de/sitemap.xml
