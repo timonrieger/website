@@ -23,9 +23,11 @@ imaging:
   quality: 100
   resampleFilter: box
 
+enableGitInfo: true
+
 frontmatter:
   lastmod:
-  - :fileModTime
+  - :git
 
 minify:
   disableXML: true
@@ -165,7 +167,7 @@ params:
       url: "https://x.com/timonrieger"
 
   editPost:
-    URL: "https://github.com/timonrieger/website/tree/hugo/content"
+    URL: "https://github.com/timonrieger/website/blob/v2/content"
     Text: "Edit" # edit text
     appendFilePath: true # to append file path to Edit link
 

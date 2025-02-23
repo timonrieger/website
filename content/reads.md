@@ -16,7 +16,7 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Latest Ten
 
-- _Komm, Ich Erzähl Dir Eine Geschichte_ by Jorge Bucay (Jan, 25)
+- _Komm, Ich Erzähl Dir Eine Geschichte_ by Jorge Bucay (Feb, 25)
 - _The Essential Hayek_ by Donald J. Boudreaux (Dec, 24)
 - _Seneca's Letters From a Stoic_ by Lucius Annaeus Seneca (Nov, 24)
 - _Der Almanach Von Naval Ravikant_ by Eric Jorgenson (Jul, 24)
