@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Thu, 20 Feb 2025 17:28:39 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 17:29:42 +0100</lastBuildDate>
     <atom:link href="https://timonrieger.de/tags/backtest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Betting Strategy (2)</title>
@@ -21,7 +21,7 @@
       <guid>https://timonrieger.de/blog/building-a-betting-strategy-2/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don&amp;rsquo;t want to deprive you of my findings of simulating the strategy. In the &lt;a href=&#34;https://timonrieger.de/blog/building-a-betting-strategy-1/&#34;&gt;first post&lt;/a&gt;, we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.&lt;/p&gt;
 &lt;h2 id=&#34;our-strategy&#34;&gt;Our Strategy&lt;/h2&gt;
-&lt;p&gt;The strategy I will be backtesting today will be betting on over 0.5 goals in the 30th minute if until then no goal has been scored. At the time of writing the odds with these conditions average at around 1.2. The odds are crucial to the profitability of this strategy, so keep that in mind. I will walk you through my analysis and thoughts when writing the code for it. You can find the unfortunately unorganized notebook and the data for this study on &lt;a href=&#34;https://github.com/timonrieger/website/tree/hugo/assets/data/building-a-betting-strategy.zip&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The strategy I will be backtesting today will be betting on over 0.5 goals in the 30th minute if until then no goal has been scored. At the time of writing the odds with these conditions average at around 1.2. The odds are crucial to the profitability of this strategy, so keep that in mind. I will walk you through my analysis and thoughts when writing the code for it. You can find the unfortunately unorganized notebook and the data for this study on &lt;a href=&#34;https://github.com/timonrieger/website/blob/v2/assets/data/building-a-betting-strategy.zip&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backtesting a Crypto Trading Signals Group</title>

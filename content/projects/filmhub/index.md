@@ -8,6 +8,8 @@ cover:
 ---
 Filmhub is a platform for discovering and sharing movies. It is a web application that allows users to rank movies and share them with friends.
 
+You can visit the website [here](https://filmhub.timonrieger.com) and the code on [Github](https://github.com/timonrieger/filmhub).
+
 <!--more-->
 
 ## Intention
