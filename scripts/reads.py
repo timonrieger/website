@@ -116,7 +116,6 @@ if __name__ == "__main__":
     book_dict = get_readwise_data(BOOKS)
     reader_dict = get_reader_data()
     reader_dict["articles"][0] = get_readwise_data(ARTICLES)[ARTICLES][0] # merge favorite articles from readwise with latest articles from reader
-    tweets_dict = get_readwise_data(TWEETS)
-    data = book_dict | reader_dict | tweets_dict
+    data = book_dict | reader_dict
     new_content = gen_markdown(data)
     update_file(file_path, new_content)
