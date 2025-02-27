@@ -2,8 +2,8 @@
 date: '2025-02-23T17:05:58+01:00'
 draft: true
 tags: []
-title: 'How to Stay Calm'
-url: 'blog/how-to-stay-calm'
+title: 'On Emotional Intelligence'
+url: 'blog/on-emotional-intelligence'
 ---
 In the last two years especially I have changed a lot in my life. In retrospective it looks like a one eighty to me. One particular thing I dedicated my time have been emotions. I learned what emotions are and what they actually mean to me, how I would recognize them and how I can handle them. In this article, I will share my knowledge about emotions and how you can make use of them.
 
