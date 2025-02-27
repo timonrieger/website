@@ -24,7 +24,7 @@ def get_readwise_data(category):
             .split(" &")[0],
             "date": item.last_highlight_at if item.last_highlight_at else item.updated,
             "highlights": item.num_highlights,
-            "url": item.source_url,
+            "url": "https://amazon.com/dp/" + item.asin if category == BOOKS and item.asin else item.source_url,
         }
         for item in response
         if item.title != "Quick Passages"

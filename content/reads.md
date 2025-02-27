@@ -8,24 +8,24 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Favorite
 
-- _Der Almanach Von Naval Ravikant_ by Eric Jorgenson (Jul, 24)
-- _Selbstbetrachtungen Von Marcus Aurelius_ by Marc Aurel (Apr, 24)
-- _Die Kunst Des Klaren Denkens_ by Rolf Dobelli (Feb, 24)
-- _Seneca's Letters From a Stoic_ by Lucius Annaeus Seneca (Nov, 24)
-- _How to Win Friends and Influence People_ by Dale Carnegie (Dec, 23)
+- [_Der Almanach Von Naval Ravikant_](https://amazon.com/dp/B092376RD6) by Eric Jorgenson (Jul, 24)
+- [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr, 24)
+- [_Die Kunst Des Klaren Denkens_](https://amazon.com/dp/B005MPFALW) by Rolf Dobelli (Feb, 24)
+- [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov, 24)
+- [_How to Win Friends and Influence People_](https://amazon.com/dp/B003WEAI4E) by Dale Carnegie (Dec, 23)
 
 ### Latest
 
-- _Komm, Ich Erzähl Dir Eine Geschichte_ by Jorge Bucay (Feb, 25)
-- _The Essential Hayek_ by Donald J. Boudreaux (Dec, 24)
-- _Seneca's Letters From a Stoic_ by Lucius Annaeus Seneca (Nov, 24)
-- _Der Almanach Von Naval Ravikant_ by Eric Jorgenson (Jul, 24)
-- _Die Gesetze Der Gewinner_ by Bodo Schäfer (Jun, 24)
-- _The Prophet_ by Kahlil Gibran (May, 24)
-- _Über Den Umgang Mit Menschen_ by Adolph Freiherr von Knigge (May, 24)
-- _Selbstbetrachtungen Von Marcus Aurelius_ by Marc Aurel (Apr, 24)
-- _Magic Monday - 52 Gründe Morgens Aufzustehen_ by Lars Amend (Apr, 24)
-- _Die Kunst Des Klaren Denkens_ by Rolf Dobelli (Feb, 24)
+- [_Komm, Ich Erzähl Dir Eine Geschichte_](https://amazon.com/dp/B005NZHBUE) by Jorge Bucay (Feb, 25)
+- [_The Essential Hayek_](https://amazon.com/dp/B00ZGSIJ7M) by Donald J. Boudreaux (Dec, 24)
+- [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov, 24)
+- [_Der Almanach Von Naval Ravikant_](https://amazon.com/dp/B092376RD6) by Eric Jorgenson (Jul, 24)
+- [_Die Gesetze Der Gewinner_](https://amazon.com/dp/B0885SSDDL) by Bodo Schäfer (Jun, 24)
+- [_The Prophet_](https://amazon.com/dp/B07MC95HHJ) by Kahlil Gibran (May, 24)
+- [_Über Den Umgang Mit Menschen_](https://amazon.com/dp/B00D8E5AU0) by Adolph Freiherr von Knigge (May, 24)
+- [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr, 24)
+- [_Magic Monday - 52 Gründe Morgens Aufzustehen_](https://amazon.com/dp/B073CGXQQB) by Lars Amend (Apr, 24)
+- [_Die Kunst Des Klaren Denkens_](https://amazon.com/dp/B005MPFALW) by Rolf Dobelli (Feb, 24)
 
 ## Articles
 
