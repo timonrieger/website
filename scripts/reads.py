@@ -30,11 +30,11 @@ def get_readwise_data(category):
         if item.title != "Quick Passages"
         and (item.num_highlights > 1 or category != BOOKS)
     ]
-    last_10 = sorted(item_list, key=lambda x: x["date"], reverse=True)[:10]
-    most_highlighted = sorted(item_list, key=lambda x: x["highlights"], reverse=True)[
+    last = sorted(item_list, key=lambda x: x["date"], reverse=True)[:10]
+    favorites = sorted(item_list, key=lambda x: x["highlights"], reverse=True)[
         :5
-    ]
-    return {category: [most_highlighted, last_10]}
+    ] if category in [BOOKS, ARTICLES] else []
+    return {category: [favorites, last]}
 
 def get_reader_data():
     response = reader_client.get_documents()
@@ -44,12 +44,9 @@ def get_reader_data():
             "author": item.author,
             "date": item.created_at,
             "url": item.source_url,
-            "source": item.source,
-            "category": item.category,
-            "reading_progress": item.reading_progress
         }
         for item in response
-        if item.reading_progress > 0  # Only include items that have been started
+        if item.reading_progress > 0 # Only include items that have been started
     ]
     return {"articles": [[], item_list[:10]]}
 
@@ -111,7 +108,7 @@ def update_file(file_path, new_content):
     # Write back to the file
     with open(file_path, "w") as f:
         f.write(updated_content)
-    print(f"Updated {file_path} with new lastmod and content.")
+    print(f"Updated {file_path}")
 
 
 if __name__ == "__main__":
