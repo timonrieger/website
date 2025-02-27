@@ -10,7 +10,7 @@ Hey, I'm Timon. I'm a...
 - ...work time software dev (or let's say tinkerer)
 - ...free time self-announced philosopher (does thinking count already?)
 
-You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and occasionally [tweeting](https://x.com/timonrieger).
+You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and [tweeting](https://x.com/timonrieger).
 
 If you want to get in touch, you can send me an email at contact@ and the domain of this site.
 
@@ -18,10 +18,11 @@ If you want to get in touch, you can send me an email at contact@ and the domain
 
 Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python):
 
-1. learning is fun
+1. learning gives purpose
 2. freedom in any way
 3. emotions are power
 4. silence is unvaluable
+5. living means being
 
 ## Current Areas of Interest
 
@@ -29,7 +30,7 @@ Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-pyt
 
 I originally started with [Python](https://python.org/) and developed several web applications with [Flask](https://flask.palletsprojects.com/en/stable/). 
 Although I really appreciate its simplicity and extensibility as a well-established micro web framework, it has its limitations.
-Therefore, for my next project, I am turning to more flexible and advanced frameworks, 
+Therefore, I am currently looking into to more flexible and advanced frameworks, 
 such as [Litestar](https://litestar.dev/) for the backend and [Svelte](https://svelte.dev/) for the frontend.
 
 I am currently learning about servers, Linux and self-hosting. For both interest and privacy reasons, I want to maintain control over my data and be completely independent. 
@@ -38,10 +39,9 @@ I'll probably start with an old laptop or/and a [Rasperry Pi 5](https://www.rasp
 
 ### Reading
 
-I mainly read older books via my Kindle true to the motto: _The older the problem, the older the solution_.
-You can find a list of my readings [here](/reads).
+I mainly read older [books](/reads#books) via my Kindle true to the motto: _The older the problem, the older the solution_.
 
-As for shorter reads, I read [random personal blogs](https://indieblog.page/) and a mix of programming, lifestyle and subreddit feeds via [my RSS reader](https://readwise.io/read).
+As for shorter reads, I casually jump into [random blogs](https://indieblog.page/) and on a daily basis I read [a mix of programming, lifestyle and politics articles](/reads#articles) via [my RSS reader](https://readwise.io/read).
 
 Although I generally don't consume visual content such as movies, entertainment, news programs and (even) sports (somehow I don't miss it), I do enjoy watching some channels on [Freetube](https://freetubeapp.io/).
 
