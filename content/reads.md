@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Latest Ten
 
+- [_Wir Haben Nichts Aus Der Nazi-Zeit Gelernt_](https://www.youtube.com/watch?v=y5FEloXanB8) by {ungeskriptet} by Ben (Feb, 25)
+- [_Trump Will Russland-Sanktionen Nicht Lockern – Ziel Sei Es, „dass Die Ukraine Möglichst Viel Land Zurückerhält“_](https://apollo-news.net/trump-will-russland-sanktionen-nicht-lockern-ziel-sei-es-dass-die-ukraine-mglichst-viel-land-zurckerhlt/) by Redaktion (Feb, 25)
+- [_The Most Powerful Life Hacks I've Found_](https://www.sahilbloom.com/newsletter/the-most-powerful-life-hacks-ive-found) by sahilbloom.com (Feb, 25)
 - [_3-2-1: On getting what you deserve, the power of flexibility, and how good decisions are made_](https://jamesclear.com/3-2-1/february-13-2025) by James Clear - 3-2-1 Thursday Newsletter (Feb, 25)
 - [_33 Ways to Improve Your Life, Japanese Style_](https://www.mrporter.com/en-us/journal/lifestyle/life-lessons-people-tokyo-japan-style-food-24538500) by MR PORTER (Feb, 25)
 - [_AI generated security reports about curl_](https://news.ycombinator.com/item?id=38845878&utm_source=the+new+stack&utm_medium=referral&utm_content=inline-mention&utm_campaign=tns+platform) by skeptrune (Feb, 25)
 - [_Let's Compile Python 1.0_](https://www.bitecode.dev/p/lets-compile-python-10) by Bite Code! (Feb, 25)
 - [_33 Life Tips/Secret Museum of Mankind/Small Egg Cooker_](https://www.recomendo.com/p/33-life-tipssecret-museum-of-mankindsmall) by Kevin Kelly (Feb, 25)
-- [_The Most Powerful Life Hacks I've Found_](https://www.sahilbloom.com/newsletter/the-most-powerful-life-hacks-ive-found) by sahilbloom.com (Feb, 25)
 - [_You’re Not Gross and Sad for Getting Older. Here’s How to Think About Aging Instead_](https://www.latimes.com/lifestyle/story/2023-12-12/how-to-embrace-getting-older-without-your-inner-ageist) by Deborah Netburn (Feb, 25)
 - [_Introduction to a Self Managed Life_](https://wiki.futo.org/wiki/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software#Preface) by FUTO Software (Feb, 25)
-- [_3-2-1: On what it takes to be consistent, how to make a bad situation worse, and noticing small joys_](https://jamesclear.com/3-2-1/january-23-2025) by James Clear - 3-2-1 Thursday Newsletter (Jan, 25)
-- [_Issue #664: Django vs FastAPI, Interacting With Python, Data Cleaning, and More_](https://pycoders.com/issues/664) by PyCoder’s Weekly (Jan, 25)
