@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Latest
 
-- [_COVID fünf Jahre danach: Lehren für einen besseren Schutz gegen psychologische Manipulation_](https://www.tichyseinblick.de/gastbeitrag/covid-schutz-gegen-psychologische-manipulation/) by Gastautor (Feb, 25)
-- [_Die SPD und ihre halbseidene Liebe zum NGO-Vorfeld_](https://www.tichyseinblick.de/daili-es-sentials/die-spd-und-ihre-halbseidene-liebe-zum-ngo-vorfeld/) by Matthias Nikolaidis (Feb, 25)
-- [_AfD … blabla … AfD … blabla  bei Maischberger_](https://www.tichyseinblick.de/feuilleton/medien/maischberger-afd/) by Stephan Paetow (Feb, 25)
-- [_Deutsche Industrie vor massivem Stellenabbau: 100.000 Jobs in Gefahr_](https://apollo-news.net/deutsche-industrie-vor-massivem-stellenabbau-100-000-jobs-in-gefahr/) by Redaktion (Feb, 25)
-- [_„Clean Industrial Deal“: Die EU will 480 Milliarden Euro jährlich für Klima-Transformation_](https://apollo-news.net/clean-industrial-deal-die-eu-will-480-milliarden-euro-jaehrlich-fuer-klima-transformation/) by Marie Rahenbrock (Feb, 25)
-- [_Klingbeil stellt explosives Ultimatum an Merz: NGO-Anfrage zurücknehmen oder keine Koalition_](https://apollo-news.net/klingbeil-stellt-explosives-ultimatum-an-merz-ngo-anfrage-zuruecknehmen-oder-keine-koalition/) by Marie Rahenbrock (Feb, 25)
-- [_Trump will Russland-Sanktionen nicht lockern – Ziel sei es, „dass die Ukraine möglichst viel Land zurückerhält“_](https://apollo-news.net/trump-will-russland-sanktionen-nicht-lockern-ziel-sei-es-dass-die-ukraine-mglichst-viel-land-zurckerhlt/) by Redaktion (Feb, 25)
-- [_AfD-Verbotsantrag kommt zunächst zum Erliegen_](https://apollo-news.net/afd-verbotsantrag-kommt-zunaechst-zum-erliegen/) by Redaktion (Feb, 25)
-- [_Der Ukraine-Deal rückt näher – Washington Post ändert Blattlinie – Merz im April?_](https://www.tichyseinblick.de/daili-es-sentials/merz-spd-ukraine-trump-macron-washington-post/) by Fritz Goergen (Feb, 25)
-- [_Nach Karriereende durch Fake-Vorwürfe: Gelbhaar verlangt hohen Schadensersatz vom RBB_](https://apollo-news.net/nach-karriereende-durch-fake-vorwrfe-gelbhaar-verlangt-hohen-schadensersatz-vom-rbb/) by Redaktion (Feb, 25)
+- [_Selenskyj, Trump und Deutschlands wahnwitziger Europa-Größenwahn_](https://apollo-news.net/selenskyj-trump-und-deutschlands-wahnwitziger-europa-grenwahn/) by Max Mannhart (Mar, 25)
+- [_Und was jetzt?_](https://apollo-news.net/und-was-jetzt/) by Elisa David (Mar, 25)
+- [_Nach Oval-Office-Eklat: Selenskyj erhält Milliardenkredit aus Großbritannien_](https://apollo-news.net/nach-oval-office-eklat-selenskyj-erhaelt-milliardenkredit-aus-grossbritannien/) by Redaktion (Mar, 25)
+- [_Blackbox KW 9 – Let’s Dance im Weißen Haus_](https://www.tichyseinblick.de/kolumnen/blackbox/kw-9-lets-dance-im-weissen-haus/) by Stephan Paetow (Mar, 25)
+- [_Demokratie verliert Substanz_](https://www.tichyseinblick.de/kolumnen/herles-faellt-auf/demokratie-verliert-substanz/) by Wolfgang Herles (Mar, 25)
+- [_Umweltbundesamt finanzierte NGO, die Umweltthemen im Wahlkampf pushen sollte_](https://apollo-news.net/umweltbundesamt-finanzierte-ngo-die-klimathemen-im-wahlkampf-pushen-sollte/) by Willi Weißfuß (Mar, 25)
+- [_„Ein Widerspruch in sich“: Merz stellt staatliche Förderung von NGOs grundsätzlich infrage_](https://apollo-news.net/ein-widerspruch-in-sich-merz-stellt-staatliche-foerderung-von-ngos-grundsaetzlich-infrage/) by Redaktion (Mar, 25)
+- [_Glorifizierung von Terror: Hamas-Propaganda im Berliner Café_](https://apollo-news.net/glorifizierung-von-terror-hamas-propaganda-im-berliner-cafe/) by Selma Green (Mar, 25)
+- [_„Nicht der beste Weg, den Krieg zu beenden“: Selenskyj provozierte Vance_](https://apollo-news.net/nicht-der-beste-weg-den-krieg-zu-beenden-selenskyj-provozierte-vance/) by Redaktion (Mar, 25)
+- [_220 Flüchtlinge aus Kenia nach Deutschland eingeflogen_](https://apollo-news.net/220-flchtlinge-aus-kenia-nach-deutschland-eingeflogen/) by Redaktion (Mar, 25)
