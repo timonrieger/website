@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Latest
 
-- [_Selenskyj, Trump und Deutschlands wahnwitziger Europa-Größenwahn_](https://apollo-news.net/selenskyj-trump-und-deutschlands-wahnwitziger-europa-grenwahn/) by Max Mannhart (Mar, 25)
-- [_Und was jetzt?_](https://apollo-news.net/und-was-jetzt/) by Elisa David (Mar, 25)
-- [_Nach Oval-Office-Eklat: Selenskyj erhält Milliardenkredit aus Großbritannien_](https://apollo-news.net/nach-oval-office-eklat-selenskyj-erhaelt-milliardenkredit-aus-grossbritannien/) by Redaktion (Mar, 25)
-- [_Blackbox KW 9 – Let’s Dance im Weißen Haus_](https://www.tichyseinblick.de/kolumnen/blackbox/kw-9-lets-dance-im-weissen-haus/) by Stephan Paetow (Mar, 25)
-- [_Demokratie verliert Substanz_](https://www.tichyseinblick.de/kolumnen/herles-faellt-auf/demokratie-verliert-substanz/) by Wolfgang Herles (Mar, 25)
-- [_Umweltbundesamt finanzierte NGO, die Umweltthemen im Wahlkampf pushen sollte_](https://apollo-news.net/umweltbundesamt-finanzierte-ngo-die-klimathemen-im-wahlkampf-pushen-sollte/) by Willi Weißfuß (Mar, 25)
-- [_„Ein Widerspruch in sich“: Merz stellt staatliche Förderung von NGOs grundsätzlich infrage_](https://apollo-news.net/ein-widerspruch-in-sich-merz-stellt-staatliche-foerderung-von-ngos-grundsaetzlich-infrage/) by Redaktion (Mar, 25)
-- [_Glorifizierung von Terror: Hamas-Propaganda im Berliner Café_](https://apollo-news.net/glorifizierung-von-terror-hamas-propaganda-im-berliner-cafe/) by Selma Green (Mar, 25)
-- [_„Nicht der beste Weg, den Krieg zu beenden“: Selenskyj provozierte Vance_](https://apollo-news.net/nicht-der-beste-weg-den-krieg-zu-beenden-selenskyj-provozierte-vance/) by Redaktion (Mar, 25)
-- [_220 Flüchtlinge aus Kenia nach Deutschland eingeflogen_](https://apollo-news.net/220-flchtlinge-aus-kenia-nach-deutschland-eingeflogen/) by Redaktion (Mar, 25)
+- [_Von der Regierungskrise zur Staatskrise_](https://www.tichyseinblick.de/kolumnen/herles-faellt-auf/von-der-regierungskrise-zur-staatskrise/) by Wolfgang Herles (Mar, 25)
+- [_Das Wuhan-Komplott_](https://apollo-news.net/das-wuhan-komplott/) by Sebastian Thormann (Mar, 25)
+- [_EuGH-Urteil: Ungarn muss selbstgewählte Gender-Identität von Flüchtlingen anerkennen_](https://apollo-news.net/eugh-urteil-ungarn-muss-selbstgewaehlte-gender-identitaet-von-fluechtlingen-anerkennen/) by Jonas Aston (Mar, 25)
+- [_Und plötzlich hält der Grünen-Chef eine Reform der gesamten Schuldenbremse für vereinbart_](https://apollo-news.net/und-pltzlich-hlt-der-grnen-chef-eine-reform-der-gesamten-schuldenbremse-fr-vereinbart/) by Wim Lukowsky (Mar, 25)
+- [_Schulden-Orgie: Bundesverfassungsgericht gibt grünes Licht für den Sondersitzungs-Irrsinn!_](https://deutschlandkurier.de/2025/03/schulden-orgie-bundesverfassungsgericht-gibt-gruenes-licht-fuer-den-sondersitzungs-irrsinn/?utm_source=rss&utm_medium=rss&utm_campaign=schulden-orgie-bundesverfassungsgericht-gibt-gruenes-licht-fuer-den-sondersitzungs-irrsinn) by r2d2 (Mar, 25)
+- [_Bundesrechnungshof: Schwarz-rote Schulden-Orgie gefährdet die Staatsfinanzen!_](https://deutschlandkurier.de/2025/03/bundesrechnungshof-schwarz-rote-schulden-orgie-gefaehrdet-die-staatsfinanzen/?utm_source=rss&utm_medium=rss&utm_campaign=bundesrechnungshof-schwarz-rote-schulden-orgie-gefaehrdet-die-staatsfinanzen) by r2d2 (Mar, 25)
+- [_Schulden-Orgie: Zerbricht Söders Regierungsbündnis mit den Freien Wählern?_](https://deutschlandkurier.de/2025/03/schulden-orgie-zerbricht-soeders-regierungsbuendnis-mit-den-freien-waehlern/?utm_source=rss&utm_medium=rss&utm_campaign=schulden-orgie-zerbricht-soeders-regierungsbuendnis-mit-den-freien-waehlern) by r2d2 (Mar, 25)
+- [_„Grün wirkt“: Habeck und Baerbock feiern Schulden-Einigung mit der Union_](https://apollo-news.net/grn-wirkt-habeck-und-baerbock-feiern-schulden-einigung-mit-der-union/) by Jonas Aston (Mar, 25)
+- [_„Achtung, Fake News!“: Vor fünf Jahren warnte die Bundesregierung vor Falschbehauptungen im Zusammenhang mit Corona_](https://apollo-news.net/achtung-fake-news-vor-fuenf-jahren-warnte-die-bundesregierung-vor-falschbehauptungen-im-zusammenhang-mit-corona/) by Marius Marx (Mar, 25)
+- [_Scheitert seine Mehrheit? In der Union wächst die Verzweiflung über Merz_](https://apollo-news.net/scheitert-seine-mehrheit-in-der-union-waechst-die-verzweiflung-ueber-merz/) by Max Roland (Mar, 25)
