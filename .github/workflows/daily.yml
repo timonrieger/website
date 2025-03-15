@@ -2,9 +2,8 @@ name: Daily Site Publication
 
 on:
   schedule:
-    # Run at 10:00 AM Berlin time (8:00 UTC)
     - cron: '0 8 * * *'
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   build-and-publish:
@@ -16,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: v2  # Your target branch
+          ref: v2
           
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
