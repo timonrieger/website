@@ -42,12 +42,12 @@ jobs:
         run: |
           echo "READWISE_KEY=${{ secrets.READWISE_KEY }}" > .env
           
-      - name: Run publish script
-        run: fish scripts/publish.sh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+      
+      - name: Run publish script
+        run: fish scripts/publish.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

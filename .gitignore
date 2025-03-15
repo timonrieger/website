@@ -52,6 +52,7 @@
 
 # custom
 *.pyc
+*.env
 
 # ignore all files starting with . or ~
 .*
