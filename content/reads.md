@@ -16,6 +16,7 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Latest
 
+- [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Mar, 25)
 - [_Komm, Ich Erzähl Dir Eine Geschichte_](https://amazon.com/dp/B005NZHBUE) by Jorge Bucay (Feb, 25)
 - [_The Essential Hayek_](https://amazon.com/dp/B00ZGSIJ7M) by Donald J. Boudreaux (Dec, 24)
 - [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov, 24)
@@ -25,7 +26,6 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 - [_Über Den Umgang Mit Menschen_](https://amazon.com/dp/B00D8E5AU0) by Adolph Freiherr von Knigge (May, 24)
 - [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr, 24)
 - [_Magic Monday - 52 Gründe Morgens Aufzustehen_](https://amazon.com/dp/B073CGXQQB) by Lars Amend (Apr, 24)
-- [_Die Kunst Des Klaren Denkens_](https://amazon.com/dp/B005MPFALW) by Rolf Dobelli (Feb, 24)
 
 ## Articles
 
@@ -39,6 +39,8 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Latest
 
+- [_þÿOn the causal structure between CO2 and global temperature_](https://readwise.io/reader/document_raw_content/282439424) by þÿAdolf Stips (Mar, 25)
+- [_Wie der Klimawandel physikalisch funktioniert_](https://scilogs.spektrum.de/fischblog/physik-klimawandel-treibhauseffekt-funktioniert/) by Lars Fischer (Mar, 25)
 - [_Von der Regierungskrise zur Staatskrise_](https://www.tichyseinblick.de/kolumnen/herles-faellt-auf/von-der-regierungskrise-zur-staatskrise/) by Wolfgang Herles (Mar, 25)
 - [_Das Wuhan-Komplott_](https://apollo-news.net/das-wuhan-komplott/) by Sebastian Thormann (Mar, 25)
 - [_EuGH-Urteil: Ungarn muss selbstgewählte Gender-Identität von Flüchtlingen anerkennen_](https://apollo-news.net/eugh-urteil-ungarn-muss-selbstgewaehlte-gender-identitaet-von-fluechtlingen-anerkennen/) by Jonas Aston (Mar, 25)
@@ -47,5 +49,3 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 - [_Bundesrechnungshof: Schwarz-rote Schulden-Orgie gefährdet die Staatsfinanzen!_](https://deutschlandkurier.de/2025/03/bundesrechnungshof-schwarz-rote-schulden-orgie-gefaehrdet-die-staatsfinanzen/?utm_source=rss&utm_medium=rss&utm_campaign=bundesrechnungshof-schwarz-rote-schulden-orgie-gefaehrdet-die-staatsfinanzen) by r2d2 (Mar, 25)
 - [_Schulden-Orgie: Zerbricht Söders Regierungsbündnis mit den Freien Wählern?_](https://deutschlandkurier.de/2025/03/schulden-orgie-zerbricht-soeders-regierungsbuendnis-mit-den-freien-waehlern/?utm_source=rss&utm_medium=rss&utm_campaign=schulden-orgie-zerbricht-soeders-regierungsbuendnis-mit-den-freien-waehlern) by r2d2 (Mar, 25)
 - [_„Grün wirkt“: Habeck und Baerbock feiern Schulden-Einigung mit der Union_](https://apollo-news.net/grn-wirkt-habeck-und-baerbock-feiern-schulden-einigung-mit-der-union/) by Jonas Aston (Mar, 25)
-- [_„Achtung, Fake News!“: Vor fünf Jahren warnte die Bundesregierung vor Falschbehauptungen im Zusammenhang mit Corona_](https://apollo-news.net/achtung-fake-news-vor-fuenf-jahren-warnte-die-bundesregierung-vor-falschbehauptungen-im-zusammenhang-mit-corona/) by Marius Marx (Mar, 25)
-- [_Radikale gibt's überall?_](https://www.youtube.com/watch?v=EeIPg3aC-Js) by {ungeskriptet} by Ben (Mar, 25)
