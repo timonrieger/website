@@ -33,9 +33,9 @@ Although I really appreciate its simplicity and extensibility as a well-establis
 Therefore, I am currently looking into to more flexible and advanced frameworks, 
 such as [Litestar](https://litestar.dev/) for the backend and [Svelte](https://svelte.dev/) for the frontend.
 
-I am currently learning about servers, Linux and self-hosting. For both interest and privacy reasons, I want to maintain control over my data and be completely independent. 
+I am currently learning about servers, Linux and self-hosting. For both interest and privacy reasons, I want to maintain control over my data and be independent. 
 This is very unfamiliar territory for me, so there is a lot to learn there.
-I'll probably start with an old laptop or/and a [Rasperry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/), install Linux and try to get some Docker apps running.
+I am playing around with an old laptop, installing Linux and trying to get some Docker apps running.
 
 ### Reading
 
@@ -52,8 +52,10 @@ I love listening to music at work and during sports, but never when I'm outside 
 Next to listening, I play the piano and occasionally have AI mix a few [house tracks](https://open.spotify.com/artist/15GsOe41GMRA2JthgYP2IB).
 
 My current favorites are:
-- [_Gladiator_](https://music.apple.com/de/album/gladiator-soundtrack-from-the-motion-picture/1440563157) soundtrack esp. _Earth_, _The Battle_, _Honor Him_ and _Now We Are Free_ (instantly hooked after watching Gladiator II)
+- [_Gladiator_](https://music.apple.com/de/album/gladiator-soundtrack-from-the-motion-picture/1440563157) soundtrack by Hans Zimmer esp. _Earth_, _The Battle_, _Honor Him_ and _Now We Are Free_ (instantly hooked after watching Gladiator II)
 
 - [_2s n 3s_](https://music.apple.com/de/album/2s-n-3s/1779800598?i=1779801204) (remix of [_Rather Be_](https://music.apple.com/de/album/rather-be-feat-jess-glynne/742117623?i=742117652&l=en-GB) which I really like as a warmup song in the gym)
 
 - [_In Memoriam_](https://music.apple.com/de/album/in-memoriam/1480248207?i=1480248232) by the young russian artist Kirill Richter
+
+- [_All Good Things (Come to an End)_](https://music.apple.com/de/album/all-good-things-come-to-an-end/1445855763?i=1445855888) by Nelly Furtado

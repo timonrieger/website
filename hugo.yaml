@@ -61,9 +61,6 @@ languages:
         - name: Archive
           url: archive/
           weight: 6
-        - name: Photos
-          url: photos/
-          weight: 7
 
   # de:
   #   languageName: "Deutsch"

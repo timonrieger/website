@@ -1,7 +1,7 @@
 ---
 date: '2024-12-09T00:00:00'
 draft: False
-tags: ['data-analysis', 'backtest']
+tags: ['data-analysis']
 title: 'Building a Betting Strategy (2)'
 url: 'blog/building-a-betting-strategy-2'
 ---

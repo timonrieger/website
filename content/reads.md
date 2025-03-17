@@ -1,7 +1,7 @@
 ---
 title: 'Reads'
 url: 'reads'
-description: 'Here you will find my latest and most valuable reads (auto-generated via Readwise API).'
+description: 'Here you will find my latest and most valuable reads (updated daily at 11am UTC via Readwise API).'
 ---
 
 ## Books
@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (auto-generat
 
 ### Latest
 
+- [_Wegen Trump und Putin: Gesundheitsministerin möchte Krankenhäuser für den Kriegsfall rüsten_](https://apollo-news.net/wegen-trump-gesundheitsministerin-mchte-krankenhuser-fr-den-kriegsfall-rsten/) by Wim Lukowsky (Mar, 25)
+- [_Pläne von Union und SPD: Rentenversicherung fürchtet massive Beitragserhöhungen_](https://apollo-news.net/rentenplaene-der-neuen-koalition-fuehren-zur-starken-beitragserhoehung/) by Jerome Wnuk (Mar, 25)
+- [_Leserstimmen zu „Sterben für Regenbogenflagge und Flüchtlinge?“_](https://www.tichyseinblick.de/meinungen/roland-tichy-leserstimmen-regenbogenflagge-fluechtlinge-krieg-schulden/) by Barbara Goergen (Mar, 25)
+- [_Schuldeneinigung zündet Dax-Turbo – Sicherer Hafen Gold_](https://www.tichyseinblick.de/wirtschaft/geldanlage/schuldeneinigung-zuendet-dax-turbo-sicherer-hafen-gold/) by Redaktion (Mar, 25)
 - [_þÿOn the causal structure between CO2 and global temperature_](https://readwise.io/reader/document_raw_content/282439424) by þÿAdolf Stips (Mar, 25)
 - [_Wie der Klimawandel physikalisch funktioniert_](https://scilogs.spektrum.de/fischblog/physik-klimawandel-treibhauseffekt-funktioniert/) by Lars Fischer (Mar, 25)
 - [_Von der Regierungskrise zur Staatskrise_](https://www.tichyseinblick.de/kolumnen/herles-faellt-auf/von-der-regierungskrise-zur-staatskrise/) by Wolfgang Herles (Mar, 25)
 - [_Das Wuhan-Komplott_](https://apollo-news.net/das-wuhan-komplott/) by Sebastian Thormann (Mar, 25)
 - [_EuGH-Urteil: Ungarn muss selbstgewählte Gender-Identität von Flüchtlingen anerkennen_](https://apollo-news.net/eugh-urteil-ungarn-muss-selbstgewaehlte-gender-identitaet-von-fluechtlingen-anerkennen/) by Jonas Aston (Mar, 25)
 - [_Und plötzlich hält der Grünen-Chef eine Reform der gesamten Schuldenbremse für vereinbart_](https://apollo-news.net/und-pltzlich-hlt-der-grnen-chef-eine-reform-der-gesamten-schuldenbremse-fr-vereinbart/) by Wim Lukowsky (Mar, 25)
-- [_Schulden-Orgie: Bundesverfassungsgericht gibt grünes Licht für den Sondersitzungs-Irrsinn!_](https://deutschlandkurier.de/2025/03/schulden-orgie-bundesverfassungsgericht-gibt-gruenes-licht-fuer-den-sondersitzungs-irrsinn/?utm_source=rss&utm_medium=rss&utm_campaign=schulden-orgie-bundesverfassungsgericht-gibt-gruenes-licht-fuer-den-sondersitzungs-irrsinn) by r2d2 (Mar, 25)
-- [_Bundesrechnungshof: Schwarz-rote Schulden-Orgie gefährdet die Staatsfinanzen!_](https://deutschlandkurier.de/2025/03/bundesrechnungshof-schwarz-rote-schulden-orgie-gefaehrdet-die-staatsfinanzen/?utm_source=rss&utm_medium=rss&utm_campaign=bundesrechnungshof-schwarz-rote-schulden-orgie-gefaehrdet-die-staatsfinanzen) by r2d2 (Mar, 25)
-- [_Schulden-Orgie: Zerbricht Söders Regierungsbündnis mit den Freien Wählern?_](https://deutschlandkurier.de/2025/03/schulden-orgie-zerbricht-soeders-regierungsbuendnis-mit-den-freien-waehlern/?utm_source=rss&utm_medium=rss&utm_campaign=schulden-orgie-zerbricht-soeders-regierungsbuendnis-mit-den-freien-waehlern) by r2d2 (Mar, 25)
-- [_„Grün wirkt“: Habeck und Baerbock feiern Schulden-Einigung mit der Union_](https://apollo-news.net/grn-wirkt-habeck-und-baerbock-feiern-schulden-einigung-mit-der-union/) by Jonas Aston (Mar, 25)
