@@ -9,10 +9,10 @@
       <url>https://timonrieger.de/images/papermod-cover.png</url>
       <link>https://timonrieger.de/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Sun, 16 Mar 2025 08:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 23:49:39 +0100</lastBuildDate>
     <atom:link href="https://timonrieger.de/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Betting Strategy (2)</title>
@@ -30,6 +30,13 @@
       <guid>https://timonrieger.de/blog/building-a-betting-strategy-1/</guid>
       <description>&lt;p&gt;The European Football Championship is in full swing and, fittingly, I had the idea to develop a betting strategy for the upcoming Bundesliga season. Let´s analyze some historical data and develop a thesis. We will be using data from &lt;a href=&#34;https://www.openligadb.de/&#34;&gt;OpenLigaDB&lt;/a&gt; from 2009/10 to 2023/24 and explore statistics like the distribution of match outcomes, results by winning team, and scoring times.&lt;/p&gt;
 &lt;p&gt;In this post, the data is processed and visualized using Python, Plotly and Matplotlib. Our aim is to uncover trends and patterns that will be useful for a follow-up post on value betting strategies, focusing specifically on bets on more than 0.5 goals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backtesting a Crypto Trading Signals Group</title>
+      <link>https://timonrieger.de/blog/5-backtesting-crypto-trading-signals/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://timonrieger.de/blog/5-backtesting-crypto-trading-signals/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re into finance-related content on YouTube, you&amp;rsquo;ve probably seen all these ads where someone is making 20k a month with their crypto signals and that you should definitely join their Telegram group too. Although 99.9% of these groups are definitely scams and don&amp;rsquo;t work at all, I wanted to review how a select group has performed in the past. Note that this is not a public group, but a paid group that I will be backtesting. I got access to this group through my work colleague whose company has access to this group.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analyzing 75 Years of LEGO</title>
