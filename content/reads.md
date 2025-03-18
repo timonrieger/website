@@ -39,6 +39,8 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- [_Grüne und SPD: Die großen Gewinner des Schulden-Deals_](https://www.tichyseinblick.de/gastbeitrag/gruene-afd/) by Gastautor (Mar, 25)
+- [_Mega-Schulden-Paket: Jetzt tagt der Bundestag_](https://apollo-news.net/mega-schulden-paket-jetzt-tagt-der-bundestag/) by Redaktion (Mar, 25)
 - [_Wegen Trump und Putin: Gesundheitsministerin möchte Krankenhäuser für den Kriegsfall rüsten_](https://apollo-news.net/wegen-trump-gesundheitsministerin-mchte-krankenhuser-fr-den-kriegsfall-rsten/) by Wim Lukowsky (Mar, 25)
 - [_Pläne von Union und SPD: Rentenversicherung fürchtet massive Beitragserhöhungen_](https://apollo-news.net/rentenplaene-der-neuen-koalition-fuehren-zur-starken-beitragserhoehung/) by Jerome Wnuk (Mar, 25)
 - [_Leserstimmen zu „Sterben für Regenbogenflagge und Flüchtlinge?“_](https://www.tichyseinblick.de/meinungen/roland-tichy-leserstimmen-regenbogenflagge-fluechtlinge-krieg-schulden/) by Barbara Goergen (Mar, 25)
@@ -47,5 +49,3 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 - [_Wie der Klimawandel physikalisch funktioniert_](https://scilogs.spektrum.de/fischblog/physik-klimawandel-treibhauseffekt-funktioniert/) by Lars Fischer (Mar, 25)
 - [_Von der Regierungskrise zur Staatskrise_](https://www.tichyseinblick.de/kolumnen/herles-faellt-auf/von-der-regierungskrise-zur-staatskrise/) by Wolfgang Herles (Mar, 25)
 - [_Das Wuhan-Komplott_](https://apollo-news.net/das-wuhan-komplott/) by Sebastian Thormann (Mar, 25)
-- [_EuGH-Urteil: Ungarn muss selbstgewählte Gender-Identität von Flüchtlingen anerkennen_](https://apollo-news.net/eugh-urteil-ungarn-muss-selbstgewaehlte-gender-identitaet-von-fluechtlingen-anerkennen/) by Jonas Aston (Mar, 25)
-- [_Und plötzlich hält der Grünen-Chef eine Reform der gesamten Schuldenbremse für vereinbart_](https://apollo-news.net/und-pltzlich-hlt-der-grnen-chef-eine-reform-der-gesamten-schuldenbremse-fr-vereinbart/) by Wim Lukowsky (Mar, 25)
