@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- [_Wegen Sondervermögen: EU überlegt jetzt selbst massiv Schulden aufzunehmen_](https://apollo-news.net/wegen-sondervermoegen-eu-ueberlegt-jetzt-selbst-massiv-schulden-aufzunehmen/) by Wim Lukowsky (Mar, 25)
+- [_Plötzlich beginnt in der Union die Debatte, das Heizungsgesetz doch nicht abzuschaffen_](https://apollo-news.net/pltzlich-beginnt-in-der-union-die-debatte-das-heizungsgesetz-doch-nicht-abzuschaffen/) by Marie Rahenbrock (Mar, 25)
+- [_Kirche in Seelow hilft bei Bezahlkartenbetrug zugunsten von Asylbewerbern_](https://apollo-news.net/bargeld-gegen-gutscheine-kirche-in-seelow-organisiert-bezahlkartenbetrug-zugunsten-illegaler-migranten/) by Redaktion (Mar, 25)
+- [_„Für Genossin Esken gibt es keine weiteren Aufgaben“: Rücktrittsforderungen in der SPD_](https://apollo-news.net/fr-genossin-esken-gibt-es-keine-weiteren-aufgaben-rcktrittsforderungen-in-der-spd/) by Redaktion (Mar, 25)
+- [_Polizei gibt Messer-Kurs an Berliner Schulen_](https://apollo-news.net/polizei-gibt-messer-kurs-an-berliner-schulen/) by Marie Rahenbrock (Mar, 25)
+- [_Steuererhöhungen: Nach der Schulden-Bombe kündigt sich der nächste Wahlbetrug an!_](https://deutschlandkurier.de/2025/03/steuererhoehungen-nach-der-schulden-bombe-kuendigt-sich-der-naechste-wahlbetrug-an/?utm_source=rss&utm_medium=rss&utm_campaign=steuererhoehungen-nach-der-schulden-bombe-kuendigt-sich-der-naechste-wahlbetrug-an) by r2d2 (Mar, 25)
+- [_Medienstimmen zur Schuldenorgie: „Merz verkauft das Land!“_](https://deutschlandkurier.de/2025/03/medienstimmen-zur-schuldenorgie-merz-verkauft-das-land/?utm_source=rss&utm_medium=rss&utm_campaign=medienstimmen-zur-schuldenorgie-merz-verkauft-das-land) by r2d2 (Mar, 25)
+- [_Auf Kosten der deutschen Steuerzahler: Spitzenjob für Baerbock bei der UNO in New York!_](https://deutschlandkurier.de/2025/03/auf-kosten-der-deutschen-steuerzahler-spitzenjob-fuer-baerbock-bei-der-uno-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=auf-kosten-der-deutschen-steuerzahler-spitzenjob-fuer-baerbock-bei-der-uno-in-new-york) by r2d2 (Mar, 25)
 - [_Grüne und SPD: Die großen Gewinner des Schulden-Deals_](https://www.tichyseinblick.de/gastbeitrag/gruene-afd/) by Gastautor (Mar, 25)
 - [_Mega-Schulden-Paket: Jetzt tagt der Bundestag_](https://apollo-news.net/mega-schulden-paket-jetzt-tagt-der-bundestag/) by Redaktion (Mar, 25)
-- [_Wegen Trump und Putin: Gesundheitsministerin möchte Krankenhäuser für den Kriegsfall rüsten_](https://apollo-news.net/wegen-trump-gesundheitsministerin-mchte-krankenhuser-fr-den-kriegsfall-rsten/) by Wim Lukowsky (Mar, 25)
-- [_Pläne von Union und SPD: Rentenversicherung fürchtet massive Beitragserhöhungen_](https://apollo-news.net/rentenplaene-der-neuen-koalition-fuehren-zur-starken-beitragserhoehung/) by Jerome Wnuk (Mar, 25)
-- [_Leserstimmen zu „Sterben für Regenbogenflagge und Flüchtlinge?“_](https://www.tichyseinblick.de/meinungen/roland-tichy-leserstimmen-regenbogenflagge-fluechtlinge-krieg-schulden/) by Barbara Goergen (Mar, 25)
-- [_Schuldeneinigung zündet Dax-Turbo – Sicherer Hafen Gold_](https://www.tichyseinblick.de/wirtschaft/geldanlage/schuldeneinigung-zuendet-dax-turbo-sicherer-hafen-gold/) by Redaktion (Mar, 25)
-- [_þÿOn the causal structure between CO2 and global temperature_](https://readwise.io/reader/document_raw_content/282439424) by þÿAdolf Stips (Mar, 25)
-- [_Wie der Klimawandel physikalisch funktioniert_](https://scilogs.spektrum.de/fischblog/physik-klimawandel-treibhauseffekt-funktioniert/) by Lars Fischer (Mar, 25)
-- [_Von der Regierungskrise zur Staatskrise_](https://www.tichyseinblick.de/kolumnen/herles-faellt-auf/von-der-regierungskrise-zur-staatskrise/) by Wolfgang Herles (Mar, 25)
-- [_Das Wuhan-Komplott_](https://apollo-news.net/das-wuhan-komplott/) by Sebastian Thormann (Mar, 25)
