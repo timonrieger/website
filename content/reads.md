@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- [_Bei Maischberger: Faschist, Faschist und nochmal Faschist_](https://www.tichyseinblick.de/feuilleton/medien/maischberger-tilo-jung-krieg-schulden-migration/) by Noemi Johler (Mar, 25)
 - [_Wegen Sondervermögen: EU überlegt jetzt selbst massiv Schulden aufzunehmen_](https://apollo-news.net/wegen-sondervermoegen-eu-ueberlegt-jetzt-selbst-massiv-schulden-aufzunehmen/) by Wim Lukowsky (Mar, 25)
 - [_Plötzlich beginnt in der Union die Debatte, das Heizungsgesetz doch nicht abzuschaffen_](https://apollo-news.net/pltzlich-beginnt-in-der-union-die-debatte-das-heizungsgesetz-doch-nicht-abzuschaffen/) by Marie Rahenbrock (Mar, 25)
 - [_Kirche in Seelow hilft bei Bezahlkartenbetrug zugunsten von Asylbewerbern_](https://apollo-news.net/bargeld-gegen-gutscheine-kirche-in-seelow-organisiert-bezahlkartenbetrug-zugunsten-illegaler-migranten/) by Redaktion (Mar, 25)
@@ -48,4 +49,3 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 - [_Medienstimmen zur Schuldenorgie: „Merz verkauft das Land!“_](https://deutschlandkurier.de/2025/03/medienstimmen-zur-schuldenorgie-merz-verkauft-das-land/?utm_source=rss&utm_medium=rss&utm_campaign=medienstimmen-zur-schuldenorgie-merz-verkauft-das-land) by r2d2 (Mar, 25)
 - [_Auf Kosten der deutschen Steuerzahler: Spitzenjob für Baerbock bei der UNO in New York!_](https://deutschlandkurier.de/2025/03/auf-kosten-der-deutschen-steuerzahler-spitzenjob-fuer-baerbock-bei-der-uno-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=auf-kosten-der-deutschen-steuerzahler-spitzenjob-fuer-baerbock-bei-der-uno-in-new-york) by r2d2 (Mar, 25)
 - [_Grüne und SPD: Die großen Gewinner des Schulden-Deals_](https://www.tichyseinblick.de/gastbeitrag/gruene-afd/) by Gastautor (Mar, 25)
-- [_Mega-Schulden-Paket: Jetzt tagt der Bundestag_](https://apollo-news.net/mega-schulden-paket-jetzt-tagt-der-bundestag/) by Redaktion (Mar, 25)
