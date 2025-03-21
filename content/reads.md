@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- [_Migrationswende vor dem Ende: Friedrich Merz sitzt in der Falle und die Zeit läuft gegen ihn_](https://apollo-news.net/migrationswende-vor-dem-ende-friedrich-merz-sitzt-in-der-falle-und-die-zeit-laeuft-gegen-ihn/) by Max Roland (Mar, 25)
+- [_EU finanziert umstrittene Programme, um in Mitgliedsstaaten eigene politische Agenda voranzutreiben_](https://apollo-news.net/eu-finanziert-umstrittene-programme-um-in-mitgliedsstaaten-eigene-politische-agenda-voranzutreiben/) by Jonas Aston (Mar, 25)
+- [_Aiwanger rechtfertigt seinen Meinungswechsel bei Sondervermögen: „Sonst wäre ich heute schon entlassen“_](https://apollo-news.net/aiwanger-rechtfertigt-seinen-meinungswechsel-bei-sondervermgen-sonst-wre-ich-heute-schon-entlassen/) by Marie Rahenbrock (Mar, 25)
+- [_Kriegsangst schüren, um leicht zu regieren_](https://www.tichyseinblick.de/daili-es-sentials/wehrfaehig-i-jahrzehnteaufgabe-kriegsangst-eu-ukraine/) by Fritz Goergen (Mar, 25)
+- [_Linke blockiert CDU-Vorhaben: Keine Abschiebehaft in Thüringen_](https://apollo-news.net/linke-blockiert-cdu-vorhaben-keine-abschiebehaft-in-thringen/) by Redaktion (Mar, 25)
 - [_Bei Maischberger: Faschist, Faschist und nochmal Faschist_](https://www.tichyseinblick.de/feuilleton/medien/maischberger-tilo-jung-krieg-schulden-migration/) by Noemi Johler (Mar, 25)
+- [_Der bisher teuerste Machtkauf versickert in der Verteilung von Beruhigungspillen_](https://www.tichyseinblick.de/daili-es-sentials/machtkauf-ruestung-krieg-eu-schulden/) by Fritz Goergen (Mar, 25)
+- [_„Genauso viel Geld, wenn nicht sogar mehr“ – Jung fordert Sondervermögen für Kampf gegen AfD_](https://apollo-news.net/genauso-viel-geld-wenn-nicht-sogar-mehr-jung-fordert-sondervermoegen-fuer-kampf-gegen-afd/) by Boris Cherny (Mar, 25)
 - [_Wegen Sondervermögen: EU überlegt jetzt selbst massiv Schulden aufzunehmen_](https://apollo-news.net/wegen-sondervermoegen-eu-ueberlegt-jetzt-selbst-massiv-schulden-aufzunehmen/) by Wim Lukowsky (Mar, 25)
 - [_Plötzlich beginnt in der Union die Debatte, das Heizungsgesetz doch nicht abzuschaffen_](https://apollo-news.net/pltzlich-beginnt-in-der-union-die-debatte-das-heizungsgesetz-doch-nicht-abzuschaffen/) by Marie Rahenbrock (Mar, 25)
-- [_Kirche in Seelow hilft bei Bezahlkartenbetrug zugunsten von Asylbewerbern_](https://apollo-news.net/bargeld-gegen-gutscheine-kirche-in-seelow-organisiert-bezahlkartenbetrug-zugunsten-illegaler-migranten/) by Redaktion (Mar, 25)
-- [_„Für Genossin Esken gibt es keine weiteren Aufgaben“: Rücktrittsforderungen in der SPD_](https://apollo-news.net/fr-genossin-esken-gibt-es-keine-weiteren-aufgaben-rcktrittsforderungen-in-der-spd/) by Redaktion (Mar, 25)
-- [_Polizei gibt Messer-Kurs an Berliner Schulen_](https://apollo-news.net/polizei-gibt-messer-kurs-an-berliner-schulen/) by Marie Rahenbrock (Mar, 25)
-- [_Steuererhöhungen: Nach der Schulden-Bombe kündigt sich der nächste Wahlbetrug an!_](https://deutschlandkurier.de/2025/03/steuererhoehungen-nach-der-schulden-bombe-kuendigt-sich-der-naechste-wahlbetrug-an/?utm_source=rss&utm_medium=rss&utm_campaign=steuererhoehungen-nach-der-schulden-bombe-kuendigt-sich-der-naechste-wahlbetrug-an) by r2d2 (Mar, 25)
-- [_Medienstimmen zur Schuldenorgie: „Merz verkauft das Land!“_](https://deutschlandkurier.de/2025/03/medienstimmen-zur-schuldenorgie-merz-verkauft-das-land/?utm_source=rss&utm_medium=rss&utm_campaign=medienstimmen-zur-schuldenorgie-merz-verkauft-das-land) by r2d2 (Mar, 25)
-- [_Auf Kosten der deutschen Steuerzahler: Spitzenjob für Baerbock bei der UNO in New York!_](https://deutschlandkurier.de/2025/03/auf-kosten-der-deutschen-steuerzahler-spitzenjob-fuer-baerbock-bei-der-uno-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=auf-kosten-der-deutschen-steuerzahler-spitzenjob-fuer-baerbock-bei-der-uno-in-new-york) by r2d2 (Mar, 25)
-- [_Grüne und SPD: Die großen Gewinner des Schulden-Deals_](https://www.tichyseinblick.de/gastbeitrag/gruene-afd/) by Gastautor (Mar, 25)
