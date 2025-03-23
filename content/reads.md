@@ -16,6 +16,7 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- _Volkswirtschaftslehre_ by Andreas Forner (Mar, 25)
 - [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Mar, 25)
 - [_Komm, Ich Erzähl Dir Eine Geschichte_](https://amazon.com/dp/B005NZHBUE) by Jorge Bucay (Feb, 25)
 - [_The Essential Hayek_](https://amazon.com/dp/B00ZGSIJ7M) by Donald J. Boudreaux (Dec, 24)
@@ -25,7 +26,6 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 - [_The Prophet_](https://amazon.com/dp/B07MC95HHJ) by Kahlil Gibran (May, 24)
 - [_Über Den Umgang Mit Menschen_](https://amazon.com/dp/B00D8E5AU0) by Adolph Freiherr von Knigge (May, 24)
 - [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr, 24)
-- [_Magic Monday - 52 Gründe Morgens Aufzustehen_](https://amazon.com/dp/B073CGXQQB) by Lars Amend (Apr, 24)
 
 ## Articles
 
