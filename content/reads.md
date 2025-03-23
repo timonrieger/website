@@ -39,6 +39,8 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- [_Der RBB bestätigt weiter seinen schlechten Ruf_](https://www.tichyseinblick.de/feuilleton/medien/der-rbb-bestaetigt-weiter-seinen-schlechten-ruf/) by Josef Kraus (Mar, 25)
+- [_Mit Teilzeit-Regel umgeht RBB eigene Gehaltsobergrenze für einen Ex-Merkel-Berater_](https://apollo-news.net/mit-teilzeit-regel-umgeht-rbb-eigene-gehaltsobergrenze-fr-einen-ex-merkel-berater/) by Marie Rahenbrock (Mar, 25)
 - [_Unnamed Document_](https://deutschlandkurier.de/2025/03/88595/?utm_source=rss&utm_medium=rss&utm_campaign=88595) by r2d2 (Mar, 25)
 - [_„Der NGO-Komplex“ von Björn Harms_](https://deutschlandkurier.de/2025/03/der-ngo-komplex-von-bjoern-harms/?utm_source=rss&utm_medium=rss&utm_campaign=der-ngo-komplex-von-bjoern-harms) by r2d2 (Mar, 25)
 - [_Ein Requiem für Vernunft, Freiheit und Menschlichkeit_](https://www.tichyseinblick.de/gastbeitrag/ein-requiem-fuer-vernunft-freiheit-und-menschlichkeit/) by Gastautor (Mar, 25)
@@ -47,5 +49,3 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 - [_Nächste Umfrage: AfD nur noch vier Prozent hinter der Union_](https://apollo-news.net/naechste-umfrage-afd-nur-noch-vier-prozent-hinter-der-union/) by Redaktion (Mar, 25)
 - [_Kein Abschiebeknast: CDU-Wahlbetrug auch in Thüringen empört Landräte!_](https://deutschlandkurier.de/2025/03/kein-abschiebeknast-cdu-wahlbetrug-auch-in-thueringen-empoert-landraete/?utm_source=rss&utm_medium=rss&utm_campaign=kein-abschiebeknast-cdu-wahlbetrug-auch-in-thueringen-empoert-landraete) by r2d2 (Mar, 25)
 - [_Migrationswende vor dem Ende: Friedrich Merz sitzt in der Falle und die Zeit läuft gegen ihn_](https://apollo-news.net/migrationswende-vor-dem-ende-friedrich-merz-sitzt-in-der-falle-und-die-zeit-laeuft-gegen-ihn/) by Max Roland (Mar, 25)
-- [_EU finanziert umstrittene Programme, um in Mitgliedsstaaten eigene politische Agenda voranzutreiben_](https://apollo-news.net/eu-finanziert-umstrittene-programme-um-in-mitgliedsstaaten-eigene-politische-agenda-voranzutreiben/) by Jonas Aston (Mar, 25)
-- [_Aiwanger rechtfertigt seinen Meinungswechsel bei Sondervermögen: „Sonst wäre ich heute schon entlassen“_](https://apollo-news.net/aiwanger-rechtfertigt-seinen-meinungswechsel-bei-sondervermgen-sonst-wre-ich-heute-schon-entlassen/) by Marie Rahenbrock (Mar, 25)

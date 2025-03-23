@@ -9,7 +9,7 @@
       <url>https://timonrieger.de/images/papermod-cover.png</url>
       <link>https://timonrieger.de/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
     <atom:link href="https://timonrieger.de/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -50,7 +50,7 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
       <pubDate>Mon, 03 Jun 2024 16:36:59 +0100</pubDate>
       <guid>https://timonrieger.de/projects/crypticorn/</guid>
       <description>&lt;p&gt;Crypticorn is a software as a service (SaaS) that allows you to leverage the power of AI in the crypto space. We offer a range of services from price predictions to a automated crypto trading bot.&lt;/p&gt;
-&lt;p&gt;You can visit the website &lt;a href=&#34;https://crypticorn.ai&#34;&gt;here&lt;/a&gt; to stay up to date with the latest developments.&lt;/p&gt;</description>
+&lt;p&gt;You can visit the website &lt;a href=&#34;https://crypticorn.com&#34;&gt;here&lt;/a&gt; to stay up to date with the latest developments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Filmhub</title>
