@@ -39,6 +39,9 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- [_Was bezweckt Orbán mit dem Pride-Verbot?_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/orban-verbietet-pride/) by Boris Kálnoky (Mar, 25)
+- [_BAMF verhinderte Ausreise eines Afghanen – nun steht er wegen Totschlags vor Gericht_](https://apollo-news.net/bamf-verhinderte-ausreise-eines-afghanen-nun-steht-er-wegen-totschlags-vor-gericht/) by Redaktion (Mar, 25)
+- [_Siebte Gehaltserhöhung für 66.000 EU-Beamte seit 2022_](https://www.tichyseinblick.de/meinungen/siebte-gehaltserhoehung-fuer-eu-beamte/) by Josef Kraus (Mar, 25)
 - [_Der RBB bestätigt weiter seinen schlechten Ruf_](https://www.tichyseinblick.de/feuilleton/medien/der-rbb-bestaetigt-weiter-seinen-schlechten-ruf/) by Josef Kraus (Mar, 25)
 - [_Mit Teilzeit-Regel umgeht RBB eigene Gehaltsobergrenze für einen Ex-Merkel-Berater_](https://apollo-news.net/mit-teilzeit-regel-umgeht-rbb-eigene-gehaltsobergrenze-fr-einen-ex-merkel-berater/) by Marie Rahenbrock (Mar, 25)
 - [_Unnamed Document_](https://deutschlandkurier.de/2025/03/88595/?utm_source=rss&utm_medium=rss&utm_campaign=88595) by r2d2 (Mar, 25)
@@ -46,6 +49,3 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 - [_Ein Requiem für Vernunft, Freiheit und Menschlichkeit_](https://www.tichyseinblick.de/gastbeitrag/ein-requiem-fuer-vernunft-freiheit-und-menschlichkeit/) by Gastautor (Mar, 25)
 - [_„Für mich als Christ gibt es keine Brandmauern gegenüber Mitmenschen“_](https://www.tichyseinblick.de/kolumnen/olaf-opitz-klare-kante/te-interview-hans-peter-friedrich-csu-brandmauer/) by Olaf Opitz (Mar, 25)
 - [_Weil sie keine Maske trug – Haft für Rentnerin_](https://apollo-news.net/weil-sie-keine-maske-trug-rentnerin-in-haft/) by Jonas Aston (Mar, 25)
-- [_Nächste Umfrage: AfD nur noch vier Prozent hinter der Union_](https://apollo-news.net/naechste-umfrage-afd-nur-noch-vier-prozent-hinter-der-union/) by Redaktion (Mar, 25)
-- [_Kein Abschiebeknast: CDU-Wahlbetrug auch in Thüringen empört Landräte!_](https://deutschlandkurier.de/2025/03/kein-abschiebeknast-cdu-wahlbetrug-auch-in-thueringen-empoert-landraete/?utm_source=rss&utm_medium=rss&utm_campaign=kein-abschiebeknast-cdu-wahlbetrug-auch-in-thueringen-empoert-landraete) by r2d2 (Mar, 25)
-- [_Migrationswende vor dem Ende: Friedrich Merz sitzt in der Falle und die Zeit läuft gegen ihn_](https://apollo-news.net/migrationswende-vor-dem-ende-friedrich-merz-sitzt-in-der-falle-und-die-zeit-laeuft-gegen-ihn/) by Max Roland (Mar, 25)
