@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- [_Führender Online-Shop Mindfactory meldet Insolvenz an_](https://apollo-news.net/fhrender-online-shop-mindfactory-meldet-insolvenz-an/) by Redaktion (Mar, 25)
+- [_Wahlausschluss wegen Volksverhetzung: Schwarz-Rot plant einen Frontalangriff auf die Meinungsfreiheit_](https://apollo-news.net/wahlausschluss-wegen-volksverhetzung-schwarz-rot-plant-einen-frontalangriff-auf-die-meinungsfreiheit/) by Max Roland (Mar, 25)
+- [_Große Teile von CDU-Stadtverband treten aus Partei aus_](https://apollo-news.net/grosse-teile-von-cdu-stadtverband-treten-aus-partei-aus/) by Henry Behrens (Mar, 25)
+- [_Umfrage: AfD verkürzt Abstand zur Union auf zwei Prozentpunkte_](https://apollo-news.net/umfrage-afd-verkrzt-abstand-zur-union-auf-zwei-prozent/) by Redaktion (Mar, 25)
+- [_Wüst und Maschmeyer bei Maischberger: Lauter Pfeifen im Walde_](https://www.tichyseinblick.de/feuilleton/medien/wuest-und-maschmeyer-bei-maischberger/) by Gastautor (Mar, 25)
+- [_Bundestagspräsidium: Fell verteilt – nun zum Kanzlerpoker – dann zu den Monopoldemokraten_](https://www.tichyseinblick.de/daili-es-sentials/unsere-demokratie-monopoldemokraten-west-kanzler/) by Fritz Goergen (Mar, 25)
 - [_Was bezweckt Orbán mit dem Pride-Verbot?_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/orban-verbietet-pride/) by Boris Kálnoky (Mar, 25)
 - [_BAMF verhinderte Ausreise eines Afghanen – nun steht er wegen Totschlags vor Gericht_](https://apollo-news.net/bamf-verhinderte-ausreise-eines-afghanen-nun-steht-er-wegen-totschlags-vor-gericht/) by Redaktion (Mar, 25)
 - [_Siebte Gehaltserhöhung für 66.000 EU-Beamte seit 2022_](https://www.tichyseinblick.de/meinungen/siebte-gehaltserhoehung-fuer-eu-beamte/) by Josef Kraus (Mar, 25)
 - [_Der RBB bestätigt weiter seinen schlechten Ruf_](https://www.tichyseinblick.de/feuilleton/medien/der-rbb-bestaetigt-weiter-seinen-schlechten-ruf/) by Josef Kraus (Mar, 25)
-- [_Mit Teilzeit-Regel umgeht RBB eigene Gehaltsobergrenze für einen Ex-Merkel-Berater_](https://apollo-news.net/mit-teilzeit-regel-umgeht-rbb-eigene-gehaltsobergrenze-fr-einen-ex-merkel-berater/) by Marie Rahenbrock (Mar, 25)
-- [_Unnamed Document_](https://deutschlandkurier.de/2025/03/88595/?utm_source=rss&utm_medium=rss&utm_campaign=88595) by r2d2 (Mar, 25)
-- [_„Der NGO-Komplex“ von Björn Harms_](https://deutschlandkurier.de/2025/03/der-ngo-komplex-von-bjoern-harms/?utm_source=rss&utm_medium=rss&utm_campaign=der-ngo-komplex-von-bjoern-harms) by r2d2 (Mar, 25)
-- [_Ein Requiem für Vernunft, Freiheit und Menschlichkeit_](https://www.tichyseinblick.de/gastbeitrag/ein-requiem-fuer-vernunft-freiheit-und-menschlichkeit/) by Gastautor (Mar, 25)
-- [_„Für mich als Christ gibt es keine Brandmauern gegenüber Mitmenschen“_](https://www.tichyseinblick.de/kolumnen/olaf-opitz-klare-kante/te-interview-hans-peter-friedrich-csu-brandmauer/) by Olaf Opitz (Mar, 25)
-- [_Weil sie keine Maske trug – Haft für Rentnerin_](https://apollo-news.net/weil-sie-keine-maske-trug-rentnerin-in-haft/) by Jonas Aston (Mar, 25)
