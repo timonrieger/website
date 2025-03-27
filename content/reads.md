@@ -48,4 +48,4 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 - [_Was bezweckt Orbán mit dem Pride-Verbot?_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/orban-verbietet-pride/) by Boris Kálnoky (Mar, 25)
 - [_BAMF verhinderte Ausreise eines Afghanen – nun steht er wegen Totschlags vor Gericht_](https://apollo-news.net/bamf-verhinderte-ausreise-eines-afghanen-nun-steht-er-wegen-totschlags-vor-gericht/) by Redaktion (Mar, 25)
 - [_Siebte Gehaltserhöhung für 66.000 EU-Beamte seit 2022_](https://www.tichyseinblick.de/meinungen/siebte-gehaltserhoehung-fuer-eu-beamte/) by Josef Kraus (Mar, 25)
-- [_Der RBB bestätigt weiter seinen schlechten Ruf_](https://www.tichyseinblick.de/feuilleton/medien/der-rbb-bestaetigt-weiter-seinen-schlechten-ruf/) by Josef Kraus (Mar, 25)
+- [_Why Rust is the most admired language among developers_](https://github.blog/developer-skills/programming-languages-and-frameworks/why-rust-is-the-most-admired-language-among-developers/) by Sara Verdi (Mar, 25)
