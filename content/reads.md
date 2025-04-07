@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
-- [_Führender Online-Shop Mindfactory meldet Insolvenz an_](https://apollo-news.net/fhrender-online-shop-mindfactory-meldet-insolvenz-an/) by Redaktion (Mar, 25)
-- [_Wahlausschluss wegen Volksverhetzung: Schwarz-Rot plant einen Frontalangriff auf die Meinungsfreiheit_](https://apollo-news.net/wahlausschluss-wegen-volksverhetzung-schwarz-rot-plant-einen-frontalangriff-auf-die-meinungsfreiheit/) by Max Roland (Mar, 25)
-- [_Große Teile von CDU-Stadtverband treten aus Partei aus_](https://apollo-news.net/grosse-teile-von-cdu-stadtverband-treten-aus-partei-aus/) by Henry Behrens (Mar, 25)
-- [_Umfrage: AfD verkürzt Abstand zur Union auf zwei Prozentpunkte_](https://apollo-news.net/umfrage-afd-verkrzt-abstand-zur-union-auf-zwei-prozent/) by Redaktion (Mar, 25)
-- [_Wüst und Maschmeyer bei Maischberger: Lauter Pfeifen im Walde_](https://www.tichyseinblick.de/feuilleton/medien/wuest-und-maschmeyer-bei-maischberger/) by Gastautor (Mar, 25)
-- [_Bundestagspräsidium: Fell verteilt – nun zum Kanzlerpoker – dann zu den Monopoldemokraten_](https://www.tichyseinblick.de/daili-es-sentials/unsere-demokratie-monopoldemokraten-west-kanzler/) by Fritz Goergen (Mar, 25)
-- [_Was bezweckt Orbán mit dem Pride-Verbot?_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/orban-verbietet-pride/) by Boris Kálnoky (Mar, 25)
-- [_BAMF verhinderte Ausreise eines Afghanen – nun steht er wegen Totschlags vor Gericht_](https://apollo-news.net/bamf-verhinderte-ausreise-eines-afghanen-nun-steht-er-wegen-totschlags-vor-gericht/) by Redaktion (Mar, 25)
-- [_Siebte Gehaltserhöhung für 66.000 EU-Beamte seit 2022_](https://www.tichyseinblick.de/meinungen/siebte-gehaltserhoehung-fuer-eu-beamte/) by Josef Kraus (Mar, 25)
-- [_Why Rust is the most admired language among developers_](https://github.blog/developer-skills/programming-languages-and-frameworks/why-rust-is-the-most-admired-language-among-developers/) by Sara Verdi (Mar, 25)
+- [_Union und AfD in neuer Umfrage erstmals gleich auf_](https://apollo-news.net/union-und-afd-in-neuer-umfrage-erstmals-gleich-auf/) by Henry Behrens (Apr, 25)
+- [_Zwischenwahlen: In den kommenden Monaten geht es für Milei um alles_](https://apollo-news.net/zwischenwahlen-in-den-kommenden-monaten-geht-es-fuer-milei-um-alles/) by Boris Cherny (Apr, 25)
+- [_Familienunternehmen schreiben Brandbrief – der Mittelstand entzieht Schwarz-Rot das Vertrauen_](https://apollo-news.net/familienunternehmen-schreiben-brandbrief-der-mittelstand-entzieht-schwarz-rot-das-vertrauen/) by Jonas Aston (Apr, 25)
+- [_Absturz mit Ansage: Die AfD steigt zur stärksten Kraft auf – damit scheint man sich abgefunden zu haben_](https://apollo-news.net/absturz-mit-ansage-die-afd-steigt-zur-staerksten-kraft-auf-damit-scheint-man-sich-abgefunden-zu-haben/) by Wim Lukowsky (Apr, 25)
+- [_Union will neue Härte in der Sicherheitspolitik: Können die Sicherheitsbehörden bald verschlüsselte Chats mitlesen?_](https://apollo-news.net/union-will-neue-haerte-in-der-sicherheitspolitik-koennen-die-sicherheitsbehoerden-bald-verschluesselte-chats-mitlesen/) by Jerome Wnuk (Apr, 25)
+- [_Mit seinem Zoll-Schlag gefährdet Trump seine „America First“-Strategie_](https://apollo-news.net/mit-seinem-zoll-schlag-gefaehrdet-trump-seine-america-first-strategie/) by Sebastian Thormann (Apr, 25)
+- [_Trumps „Liberation Day“ wird teuer für die deutsche Autoindustrie_](https://www.tichyseinblick.de/wirtschaft/trump-zoelle-teuer-deutsche-autoindustrie/) by Holger Douglas (Apr, 25)
+- [_Nix wie weg: Jedes Jahr kehrt eine mittlere Großstadt wie Aachen Deutschland den Rücken!_](https://deutschlandkurier.de/2025/04/nix-wie-weg-jedes-jahr-kehrt-eine-mittlere-grossstadt-wie-aachen-deutschland-den-ruecken/?utm_source=rss&utm_medium=rss&utm_campaign=nix-wie-weg-jedes-jahr-kehrt-eine-mittlere-grossstadt-wie-aachen-deutschland-den-ruecken) by r2d2 (Apr, 25)
+- [_Hart aber fair über die schwarz-roten Koalitionsverhandlungen_](https://www.tichyseinblick.de/feuilleton/medien/hart-aber-fair-ueber-die-schwarz-roten-koalitionsverhandlungen/) by Marius Marx (Apr, 25)
+- [_„Freiheitsdienst“: Wie man mit einer Schnapsidee Schlagzeilen macht_](https://www.tichyseinblick.de/meinungen/freiheitsdienst-schlagzeilen/) by Alexander Heiden (Apr, 25)
