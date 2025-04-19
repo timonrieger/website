@@ -5,7 +5,7 @@ tags: []
 title: 'On Emotional Intelligence'
 url: 'blog/on-emotional-intelligence'
 ---
-In the last two years especially I have changed a lot in my life. In retrospective it looks like a one eighty to me. One particular thing I dedicated my time have been emotions. I learned what emotions are and what they actually mean to me, how I would recognize them and how I can handle them. In this article, I will share my knowledge about emotions and how you can make use of them.
+In the last two years especially I have changed a lot in my life. In retrospective it looks like a one eighty to me. One particular thing I dedicated my time to have been emotions. I learned what emotions are and what they actually mean to me, how I would recognize them and how I can handle them. In this article, I will share my knowledge about emotions and how you can make use of them.
 
 <!--more-->
 

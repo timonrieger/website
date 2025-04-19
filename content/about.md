@@ -29,13 +29,11 @@ Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-pyt
 ### Software
 
 I originally started with [Python](https://python.org/) and developed several web applications with [Flask](https://flask.palletsprojects.com/en/stable/). 
-Although I really appreciate its simplicity and extensibility as a well-established micro web framework, it has its limitations.
-Therefore, I am currently looking into to more flexible and advanced frameworks, 
-such as [Litestar](https://litestar.dev/) for the backend and [Svelte](https://svelte.dev/) for the frontend.
+Lately I have been mostly using [Fastapi](http://fastapi.tiangolo.com/) for API development and learning [Svelte](https://svelte.dev/) for the frontend.
 
 I am currently learning about servers, Linux and self-hosting. For both interest and privacy reasons, I want to maintain control over my data and be independent. 
 This is very unfamiliar territory for me, so there is a lot to learn there.
-I am playing around with an old laptop, installing Linux and trying to get some Docker apps running.
+I am currently playing around with an old HP laptop with Linux Mint installed.
 
 ### Reading
 

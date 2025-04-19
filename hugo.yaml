@@ -71,20 +71,24 @@ languages:
   #     series: series
   #   menu:
   #     main:
+  #       - name: Über
+  #         url: about/
+  #         weight: 1
+  #       - name: Projekte
+  #         url: projects/
+  #         weight: 2
+  #       - name: Blog
+  #         url: blog/
+  #         weight: 3
+  #       - name: Tags
+  #         url: tags/
+  #         weight: 4
+  #       - name: Suche
+  #         url: search/
+  #         weight: 5
   #       - name: Archiv
   #         url: archive/
-  #         weight: 5
-  #       - name: Tags
-  #         url: detags
-  #         weight: 10
-  #       - name: FRCategories
-  #         url: frcategories
-  #         weight: 10
-  #       - name: FRSeries
-  #         url: frseries
-  #         weight: 10
-  #       - name: NullLink
-  #         url: "#"
+  #         weight: 6
 
   #   # custom params for each language should be under [langcode].parms - hugo v0.120.0
   #   params:
@@ -111,7 +115,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Hi, I'm Timon. I'm a life time learner, work time dev, free time philosopher. On this site, I share my thoughts and projects, write about my experiences and learnings, showcase photos and more."
+  description: "Hi, I'm Timon. I'm a life time learner, work time dev, free time thinker. On this site, I share my thoughts and projects, write about my experiences and learnings, showcase photos and more."
 
   # author: 
 
@@ -138,7 +142,7 @@ params:
   profileMode:
     enabled: true  
     title: Hi, I'm Timon
-    subtitle: life time learner, work time dev, free time philosopher
+    subtitle: life time learner, work time dev, free time thinker
     # imageUrl: "#"
     # imageTitle: my image
     # imageWidth: 120
