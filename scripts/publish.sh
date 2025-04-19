@@ -1,5 +1,7 @@
 #!/usr/bin/env fish
 
+# this script is used locally to publish the site
+
 # Check if we're on the hugo branch
 set CURRENT_BRANCH (git branch --show-current)
 if test "$CURRENT_BRANCH" != "v2"

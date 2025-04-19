@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Mon, 17 Mar 2025 10:59:37 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 18:04:12 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Society</title>
+      <link>https://timonrieger.de/tags/society/</link>
+      <pubDate>Sat, 19 Apr 2025 17:49:23 +0200</pubDate>
+      <guid>https://timonrieger.de/tags/society/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Programming</title>
       <link>https://timonrieger.de/tags/programming/</link>

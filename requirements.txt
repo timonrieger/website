@@ -2,3 +2,4 @@ readwise==1.1.0
 python-dotenv==0.19.1
 black==24.10.0
 pyperclip
+openai
