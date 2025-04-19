@@ -1,7 +1,7 @@
 ---
 date: '2025-04-19T17:49:23+02:00'
 draft: false
-tags: []
+tags: [Society]
 title: 'Biology Is Intentional'
 url: 'blog/biology-is-intentional'
 ---

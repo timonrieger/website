@@ -27,12 +27,12 @@ def ask_ai(text):
   return response
 
 
-if __name__ == "__main__":
+if __name__ == "testing":
   highlights = [h['text'] for h in get_all_highlights()['results']]
   for highlight in highlights:
     print(ask_ai(highlight))
 
-if __name__ == "hello":
+if __name__ == "__main__":
   print("Fetching readwise highlights...")
   highlights = get_all_highlights()
   while True:

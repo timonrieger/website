@@ -1,5 +1,7 @@
 #!/usr/bin/env fish
 
+# this script is used by the github action to publish parts of the site automatically (see .github/workflows/daily.yml)
+
 # Check if we're on the hugo branch
 set CURRENT_BRANCH (git branch --show-current)
 if test "$CURRENT_BRANCH" != "v2"
