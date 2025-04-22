@@ -39,7 +39,7 @@ This goes in a similar direction to the previous point. By nature, people tend t
 
 > To what a first keen eye has taught you, add nothing more. You have learned that some people speak ill of you. Very well. But you have not heard that you are offended. You see, your child is ill. Very well. But you do not see that it is in danger. And so always leave it at the first, and add nothing from within yourself, and nothing will happen to you.
 
-Interesting. Overinterpretation and overthinking is not a very emotional and resource-conserving approach, as you always imagine negative scenarios that never materialize or are irrelevant anyway.
+Interesting. Overinterpretation and overthinking is not a resource-conserving approach, as you always imagine negative scenarios that never materialize or are irrelevant anyway.
 
 <hr>
 
