@@ -11,13 +11,6 @@ if test "$CURRENT_BRANCH" != "v2"
     exit 1
 end
 
-# Check for .env file
-if not test -f ".env"
-    echo "❌ Error: .env file not found!"
-    echo "Please create a .env file with your READWISE_KEY."
-    exit 1
-end
-
 git add . && git stash
 
 git pull
@@ -26,12 +19,6 @@ git stash pop stash@{0}
 
 # Define variables
 set DATE (date +"%Y-%m-%d %H:%M")
-
-echo "🚀 Starting Hugo site deployment..."
-
-# Run Python scripts
-echo "⚡ Running preprocessing scripts..."
-python3 -m scripts.reads
 
 # Build the Hugo site
 echo "🏗️ Building site with Hugo..."
