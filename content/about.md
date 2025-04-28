@@ -50,9 +50,9 @@ I love listening to music at work and during sports, but never when I'm outside 
 Next to listening, I play the piano and occasionally have AI mix a few [house tracks](https://open.spotify.com/artist/15GsOe41GMRA2JthgYP2IB).
 
 My current favorites are:
-- [_Gladiator_](https://music.apple.com/de/album/gladiator-soundtrack-from-the-motion-picture/1440563157) soundtrack by Hans Zimmer esp. _Earth_, _The Battle_, _Honor Him_ and _Now We Are Free_ (instantly hooked after watching Gladiator II)
+- [_Gladiator_](https://music.apple.com/de/album/gladiator-soundtrack-from-the-motion-picture/1440563157) ♡ soundtrack by Hans Zimmer esp. _Earth_, _The Battle_, _Honor Him_ and _Now We Are Free_
 
-- [_2s n 3s_](https://music.apple.com/de/album/2s-n-3s/1779800598?i=1779801204) (remix of [_Rather Be_](https://music.apple.com/de/album/rather-be-feat-jess-glynne/742117623?i=742117652&l=en-GB) which I really like as a warmup song in the gym)
+- [_Wavin' Flag_](https://music.apple.com/de/album/wavin-flag-celebration-mix-feat-f%C3%A9f%C3%A9/1444405394?i=1444405410) as a French remix :D
 
 - [_In Memoriam_](https://music.apple.com/de/album/in-memoriam/1480248207?i=1480248232) by the young russian artist Kirill Richter
 
