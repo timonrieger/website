@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
-- [_Union und AfD in neuer Umfrage erstmals gleich auf_](https://apollo-news.net/union-und-afd-in-neuer-umfrage-erstmals-gleich-auf/) by Henry Behrens (Apr, 25)
-- [_Zwischenwahlen: In den kommenden Monaten geht es für Milei um alles_](https://apollo-news.net/zwischenwahlen-in-den-kommenden-monaten-geht-es-fuer-milei-um-alles/) by Boris Cherny (Apr, 25)
-- [_Familienunternehmen schreiben Brandbrief – der Mittelstand entzieht Schwarz-Rot das Vertrauen_](https://apollo-news.net/familienunternehmen-schreiben-brandbrief-der-mittelstand-entzieht-schwarz-rot-das-vertrauen/) by Jonas Aston (Apr, 25)
-- [_Absturz mit Ansage: Die AfD steigt zur stärksten Kraft auf – damit scheint man sich abgefunden zu haben_](https://apollo-news.net/absturz-mit-ansage-die-afd-steigt-zur-staerksten-kraft-auf-damit-scheint-man-sich-abgefunden-zu-haben/) by Wim Lukowsky (Apr, 25)
-- [_Union will neue Härte in der Sicherheitspolitik: Können die Sicherheitsbehörden bald verschlüsselte Chats mitlesen?_](https://apollo-news.net/union-will-neue-haerte-in-der-sicherheitspolitik-koennen-die-sicherheitsbehoerden-bald-verschluesselte-chats-mitlesen/) by Jerome Wnuk (Apr, 25)
-- [_Mit seinem Zoll-Schlag gefährdet Trump seine „America First“-Strategie_](https://apollo-news.net/mit-seinem-zoll-schlag-gefaehrdet-trump-seine-america-first-strategie/) by Sebastian Thormann (Apr, 25)
-- [_Trumps „Liberation Day“ wird teuer für die deutsche Autoindustrie_](https://www.tichyseinblick.de/wirtschaft/trump-zoelle-teuer-deutsche-autoindustrie/) by Holger Douglas (Apr, 25)
-- [_Nix wie weg: Jedes Jahr kehrt eine mittlere Großstadt wie Aachen Deutschland den Rücken!_](https://deutschlandkurier.de/2025/04/nix-wie-weg-jedes-jahr-kehrt-eine-mittlere-grossstadt-wie-aachen-deutschland-den-ruecken/?utm_source=rss&utm_medium=rss&utm_campaign=nix-wie-weg-jedes-jahr-kehrt-eine-mittlere-grossstadt-wie-aachen-deutschland-den-ruecken) by r2d2 (Apr, 25)
-- [_Hart aber fair über die schwarz-roten Koalitionsverhandlungen_](https://www.tichyseinblick.de/feuilleton/medien/hart-aber-fair-ueber-die-schwarz-roten-koalitionsverhandlungen/) by Marius Marx (Apr, 25)
-- [_„Freiheitsdienst“: Wie man mit einer Schnapsidee Schlagzeilen macht_](https://www.tichyseinblick.de/meinungen/freiheitsdienst-schlagzeilen/) by Alexander Heiden (Apr, 25)
+- [_Volkswagen-Gewinn bricht um 41 Prozent ein_](https://apollo-news.net/volkswagen-gewinn-bricht-erneut-massiv-ein-minus-41-prozent-im-ersten-quartal/) by Redaktion (Apr, 25)
+- [_Bali Adventure❤️   #bali #travel_](https://www.youtube.com/watch?v=EYjyNdS5SNM) by Jaytrading (Apr, 25)
+- [_Spanien hat wieder Strom – die Theorien zur Blackout-Ursache_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/spanien-hat-wieder-strom-die-theorien-zur-blackout-ursache/) by Richard Schmitt (Apr, 25)
+- [_Nach Trudeau-Rücktritt: Kanadas Liberale gewinnen Parlamentswahl_](https://apollo-news.net/nach-trudeau-rcktritt-kanadas-liberale-gewinnen-parlamentswahl/) by Boris Cherny (Apr, 25)
+- [_Cyberangriff offenbar nicht Grund für Blackout – viele Fragen zur Rolle der erneuerbaren Energien_](https://apollo-news.net/cyberangriff-offenbar-nicht-grund-fuer-blackout-viele-fragen-zur-rolle-der-erneuerbaren-energien/) by Wim Lukowsky (Apr, 25)
+- [_46,7 Milliarden Euro in 2024 – Bürgergeld-Kosten explodieren_](https://apollo-news.net/467-milliarden-euro-in-2024-brgergeld-kosten-explodieren/) by Redaktion (Apr, 25)
+- [_Söder möchte Ausschussvorsitze für AfD verweigern: Wird „nie eine normale Partei sein“_](https://apollo-news.net/sder-mchte-ausschussvorsitze-fr-afd-verweigern-wird-nie-eine-normale-partei-sein/) by Redaktion (Apr, 25)
+- [_Trump: Putin soll aufhören „zu schießen“ – Selenskyj angeblich zu Krim-Aufgabe bereit_](https://apollo-news.net/trump-putin-soll-aufhoeren-zu-schiessen-selenskyj-angeblich-zu-krim-aufgabe-bereit/) by Redaktion (Apr, 25)
+- [_Ohne Habeck und Baerbock wittert Parteichef Banaszak das Ende der „grünen Hegemonie“_](https://apollo-news.net/ohne-habeck-und-baerbock-wittert-parteichef-banaszak-das-ende-der-grnen-hegemonie/) by Jerome Wnuk (Apr, 25)
+- [_Kündigung wegen Wahlparty: AfD soll Parteizentrale räumen_](https://apollo-news.net/kndigung-wegen-wahlparty-afd-soll-parteizentrale-rumen/) by Redaktion (Apr, 25)
