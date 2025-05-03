@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
+- [_„Nicht in Talks, nicht in der Tagesschau“ – Georg Restle fordert kompletten Ausschluss der AfD aus ÖRR_](https://apollo-news.net/nicht-in-talks-nicht-in-der-tagesschau-georg-restle-fordert-kompletten-ausschluss-der-afd-aus-oerr/) by Redaktion (May, 25)
+- [_Verfassungsschutz stuft AfD als rechtsextremistisch ein_](https://www.tichyseinblick.de/meinungen/verfassungsschutz-afd-rechtsextremistisch/) by Mario Thurnes (May, 25)
+- [_Merkel wünscht Merz viel Fortune bei Durchsetzung der Zensur_](https://www.tichyseinblick.de/meinungen/merkel-merz-erfolg-fortune-regulierung/) by Klaus-Rüdiger Mai (May, 25)
+- [_Auswanderungsland, Wirtschaftsabstiegsland, Geheimhaltungsland, kein Papstland_](https://www.tichyseinblick.de/daili-es-sentials/merkel-auswanderungsland-wirtschaftsabstiegsland-geheimhaltungsland-kein-papstland/) by Fritz Goergen (May, 25)
+- [_Ein Chat zu viel: Trump entlässt Sicherheitsberater Waltz_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/trump-entlaesst-sicherheitsberater-waltz/) by Richard Schmitt (May, 25)
+- [_Handelsstreit mit den USA: China signalisiert Bereitschaft zu Gesprächen_](https://apollo-news.net/handelsstreit-mit-den-usa-china-signalisiert-bereitschaft-zu-gesprchen/) by Marie Rahenbrock (May, 25)
+- [_1. Mai in Berlin: Antisemitische Parolen und erste Festnahmen_](https://apollo-news.net/demonstration-in-berlin-antisemitismus-und-bller-aus-dem-schwarzen-block/) by Redaktion (May, 25)
 - [_Volkswagen-Gewinn bricht um 41 Prozent ein_](https://apollo-news.net/volkswagen-gewinn-bricht-erneut-massiv-ein-minus-41-prozent-im-ersten-quartal/) by Redaktion (Apr, 25)
 - [_Bali Adventure❤️   #bali #travel_](https://www.youtube.com/watch?v=EYjyNdS5SNM) by Jaytrading (Apr, 25)
 - [_Spanien hat wieder Strom – die Theorien zur Blackout-Ursache_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/spanien-hat-wieder-strom-die-theorien-zur-blackout-ursache/) by Richard Schmitt (Apr, 25)
-- [_Nach Trudeau-Rücktritt: Kanadas Liberale gewinnen Parlamentswahl_](https://apollo-news.net/nach-trudeau-rcktritt-kanadas-liberale-gewinnen-parlamentswahl/) by Boris Cherny (Apr, 25)
-- [_Cyberangriff offenbar nicht Grund für Blackout – viele Fragen zur Rolle der erneuerbaren Energien_](https://apollo-news.net/cyberangriff-offenbar-nicht-grund-fuer-blackout-viele-fragen-zur-rolle-der-erneuerbaren-energien/) by Wim Lukowsky (Apr, 25)
-- [_46,7 Milliarden Euro in 2024 – Bürgergeld-Kosten explodieren_](https://apollo-news.net/467-milliarden-euro-in-2024-brgergeld-kosten-explodieren/) by Redaktion (Apr, 25)
-- [_Söder möchte Ausschussvorsitze für AfD verweigern: Wird „nie eine normale Partei sein“_](https://apollo-news.net/sder-mchte-ausschussvorsitze-fr-afd-verweigern-wird-nie-eine-normale-partei-sein/) by Redaktion (Apr, 25)
-- [_Trump: Putin soll aufhören „zu schießen“ – Selenskyj angeblich zu Krim-Aufgabe bereit_](https://apollo-news.net/trump-putin-soll-aufhoeren-zu-schiessen-selenskyj-angeblich-zu-krim-aufgabe-bereit/) by Redaktion (Apr, 25)
-- [_Ohne Habeck und Baerbock wittert Parteichef Banaszak das Ende der „grünen Hegemonie“_](https://apollo-news.net/ohne-habeck-und-baerbock-wittert-parteichef-banaszak-das-ende-der-grnen-hegemonie/) by Jerome Wnuk (Apr, 25)
-- [_Kündigung wegen Wahlparty: AfD soll Parteizentrale räumen_](https://apollo-news.net/kndigung-wegen-wahlparty-afd-soll-parteizentrale-rumen/) by Redaktion (Apr, 25)
