@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads (updated dail
 
 ### Latest
 
-- [_„Nicht in Talks, nicht in der Tagesschau“ – Georg Restle fordert kompletten Ausschluss der AfD aus ÖRR_](https://apollo-news.net/nicht-in-talks-nicht-in-der-tagesschau-georg-restle-fordert-kompletten-ausschluss-der-afd-aus-oerr/) by Redaktion (May, 25)
-- [_Verfassungsschutz stuft AfD als rechtsextremistisch ein_](https://www.tichyseinblick.de/meinungen/verfassungsschutz-afd-rechtsextremistisch/) by Mario Thurnes (May, 25)
-- [_Merkel wünscht Merz viel Fortune bei Durchsetzung der Zensur_](https://www.tichyseinblick.de/meinungen/merkel-merz-erfolg-fortune-regulierung/) by Klaus-Rüdiger Mai (May, 25)
-- [_Auswanderungsland, Wirtschaftsabstiegsland, Geheimhaltungsland, kein Papstland_](https://www.tichyseinblick.de/daili-es-sentials/merkel-auswanderungsland-wirtschaftsabstiegsland-geheimhaltungsland-kein-papstland/) by Fritz Goergen (May, 25)
-- [_Ein Chat zu viel: Trump entlässt Sicherheitsberater Waltz_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/trump-entlaesst-sicherheitsberater-waltz/) by Richard Schmitt (May, 25)
-- [_Handelsstreit mit den USA: China signalisiert Bereitschaft zu Gesprächen_](https://apollo-news.net/handelsstreit-mit-den-usa-china-signalisiert-bereitschaft-zu-gesprchen/) by Marie Rahenbrock (May, 25)
-- [_1. Mai in Berlin: Antisemitische Parolen und erste Festnahmen_](https://apollo-news.net/demonstration-in-berlin-antisemitismus-und-bller-aus-dem-schwarzen-block/) by Redaktion (May, 25)
-- [_Volkswagen-Gewinn bricht um 41 Prozent ein_](https://apollo-news.net/volkswagen-gewinn-bricht-erneut-massiv-ein-minus-41-prozent-im-ersten-quartal/) by Redaktion (Apr, 25)
-- [_Bali Adventure❤️   #bali #travel_](https://www.youtube.com/watch?v=EYjyNdS5SNM) by Jaytrading (Apr, 25)
-- [_Spanien hat wieder Strom – die Theorien zur Blackout-Ursache_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/spanien-hat-wieder-strom-die-theorien-zur-blackout-ursache/) by Richard Schmitt (Apr, 25)
+- [_Ölpreis-Sturz als Vorbote der Krise: Rekordproduktion trifft auf Konjunkturflaute_](https://apollo-news.net/oelpreis-sturz-als-vorbote-der-krise-rekordproduktion-trifft-auf-konjunkturflaute/) by Thomas Kolbe (May, 25)
+- [_„Gesichert rechtsextrem“: Journalisten glauben jetzt alles, was der Staat sagt – Apollo Newsroom_](https://apollo-news.net/gesichert-rechtsextrem-journalisten-glauben-jetzt-alles-was-der-staat-sagt-apollo-newsroom/) by Max Roland (May, 25)
+- [_„Wollen uns nicht vorwerfen lassen, dass es irgendwann zu spät ist“: Bremen macht Vorstoß für AfD-Verbot_](https://apollo-news.net/wollen-uns-nicht-vorwerfen-lassen-dass-es-irgendwann-zu-spaet-ist-bremen-macht-vorstoss-fuer-afd-verbot/) by Henry Behrens (May, 25)
+- [_„Anti-intellektuell, menschenfeindlich, rechts“ – Luisa Neubauer schießt gegen Maischberger_](https://apollo-news.net/anti-intellektuell-menschenfeindlich-rechts-luisa-neubauer-schiesst-gegen-maischberger/) by Marie Rahenbrock (May, 25)
+- [_Klingbeils Kabinett: Das sind die SPD-Minister_](https://apollo-news.net/klingbeils-kabinett-das-sind-die-spd-minister/) by Max Roland (May, 25)
+- [_Präsidentschaftswahl in Rumänien: Georgescu-Vertrauter George Simion gewinnt erste Runde klar_](https://apollo-news.net/prsidentschaftswahl-in-rumnien-georgescu-vertrauter-george-simion-gewinnt-erste-runde-klar/) by Jerome Wnuk (May, 25)
+- [_„Protest kann man nicht verbieten“: Union bei AfD-Verbot skeptisch_](https://apollo-news.net/protest-kann-man-nicht-verbieten-union-bei-afd-verbot-skeptisch/) by Redaktion (May, 25)
+- [_Wählen Partei „aus Verwirrung“: Wehrbeauftragte will AfD-Wähler auf „Pfad der Menschenliebe zurückführen“_](https://apollo-news.net/waehlen-partei-aus-verwirrung-wehrbeauftragte-will-afd-waehler-auf-pfad-der-menschenliebe-zurueckfuehren/) by Jonas Aston (May, 25)
+- [_Gesichert gleichgeschaltet: Wie die ARD willfährig dem „Verfassungsschutz“ zu Diensten ist_](https://deutschlandkurier.de/2025/05/gesichert-gleichgeschaltet-wie-die-ard-willfaehrig-dem-verfassungsschutz-zu-diensten-ist/?utm_source=rss&utm_medium=rss&utm_campaign=gesichert-gleichgeschaltet-wie-die-ard-willfaehrig-dem-verfassungsschutz-zu-diensten-ist) by r2d2 (May, 25)
+- [_Dies sind die Folgen der Rumänien-Wahl_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/dies-sind-die-folgen-der-rumaenien-wahl/) by Boris Kálnoky (May, 25)
