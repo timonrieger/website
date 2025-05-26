@@ -54,6 +54,4 @@ My current favorites are:
 
 - [_Wavin' Flag_](https://music.apple.com/de/album/wavin-flag-celebration-mix-feat-f%C3%A9f%C3%A9/1444405394?i=1444405410) as a French remix :D
 
-- [_In Memoriam_](https://music.apple.com/de/album/in-memoriam/1480248207?i=1480248232) by the young russian artist Kirill Richter
-
-- [_All Good Things (Come to an End)_](https://music.apple.com/de/album/all-good-things-come-to-an-end/1445855763?i=1445855888) by Nelly Furtado
+- [AUTOBAHN](https://music.apple.com/de/album/autobahn/1807163213?i=1807163214) lit'

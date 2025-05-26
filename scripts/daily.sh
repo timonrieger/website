@@ -39,12 +39,12 @@ hugo --minify --gc --cleanDestinationDir --templateMetrics
 
 # Commit and push changes
 echo "📤 Committing and pushing to remotes..."
-git add public/reads/
+git add public/reads/index.html
 git add public/index.xml
 git add public/sitemap.xml
 git add public/index.json
 git add content/reads.md
-git commit -m "published on $DATE"
-git push
+# git commit -m "published on $DATE"
+# git push
 
 echo "✅ Deployment completed successfully!"
