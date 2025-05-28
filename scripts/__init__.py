@@ -1,8 +1,9 @@
-from readwise import Readwise, ReadwiseReader
 import dotenv
 import os
 
 dotenv.load_dotenv()
-token = os.getenv("READWISE_KEY")
-readwise_client = Readwise(token=token)
-reader_client = ReadwiseReader(token=token)
+readwise_token = os.getenv("READWISE_KEY")
+readwise_headers = {
+    'Authorization': f'Token {readwise_token}'
+}
+readwise_base_url = 'https://readwise.io/api'

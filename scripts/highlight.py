@@ -1,11 +1,14 @@
 import random
 
 import pyperclip
-from scripts import readwise_client
 import openai
+import requests
+from scripts import readwise_base_url, readwise_headers
 
 def get_all_highlights():
-  return readwise_client.get(endpoint="/highlights/").json()
+  response = requests.get(f'{readwise_base_url}/v2/highlights/', params={'page_size': 1000, 'page': 1}, headers=readwise_headers)
+  response = response.json()
+  return response
 
 def select_random(res):
   return random.choice(res['results'])
