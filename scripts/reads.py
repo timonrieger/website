@@ -1,7 +1,7 @@
 import pyperclip
 import requests
-from scripts import readwise_client, reader_client
-from datetime import datetime
+from scripts import readwise_base_url, readwise_headers
+from datetime import datetime, timedelta
 
 FILE = "content/reads.md"
 
@@ -14,21 +14,22 @@ PODCASTS = "podcasts"
 
 
 def get_readwise_data(category):
-    response = readwise_client.get_books(category=category)
+    response = requests.get(f'{readwise_base_url}/v2/books/', params={'category': category, 'page_size': 1000, 'page': 1}, headers=readwise_headers)
+    response = response.json()['results']
     item_list = [
         {
-            "title": item.title,
-            "author": item.author.split(",")[0]
+            "title": item['title'],
+            "author": item['author'].split(",")[0]
             .split(" and")[0]
             .split(" und")[0]
             .split(" &")[0],
-            "date": item.last_highlight_at if item.last_highlight_at else item.updated,
-            "highlights": item.num_highlights,
-            "url": "https://amazon.com/dp/" + item.asin if category == BOOKS and item.asin else item.source_url,
+            "date": datetime.fromisoformat(item['last_highlight_at']) if item['last_highlight_at'] else datetime.fromisoformat(item['updated']),
+            "highlights": item['num_highlights'],
+            "url": "https://amazon.com/dp/" + item['asin'] if category == BOOKS and item['asin'] else item['source_url'],
         }
         for item in response
-        if item.title != "Quick Passages"
-        and (item.num_highlights > 1 or category != BOOKS)
+        if item['title'] != "Quick Passages"
+        and (item['num_highlights'] > 1 or category != BOOKS)
     ]
     last = sorted(item_list, key=lambda x: x["date"], reverse=True)[:10]
     favorites = sorted(item_list, key=lambda x: x["highlights"], reverse=True)[
@@ -37,16 +38,33 @@ def get_readwise_data(category):
     return {category: [favorites, last]}
 
 def get_reader_data():
-    response = reader_client.get_documents()
+    # Get documents updated in last 30 days
+    thirty_days_ago = (datetime.now() - timedelta(days=30)).isoformat()
+    item_list = []
+    next_page_cursor = None
+    while True:
+        params = {'updatedAfter': thirty_days_ago}
+        if next_page_cursor:
+            params['pageCursor'] = next_page_cursor
+        response = requests.get(f'{readwise_base_url}/v3/list/', params=params, headers=readwise_headers)
+        res = response.json()
+        try:
+            data = res['results']
+        except KeyError:
+            break
+        item_list.extend(data)
+        next_page_cursor = res.get('nextPageCursor')
+        if not next_page_cursor:
+            break
     item_list = [
         {
-            "title": item.title,
-            "author": item.author,
-            "date": item.created_at,
-            "url": item.source_url,
+            "title": item['title'],
+            "author": item['author'],
+            "date": datetime.fromisoformat(item['created_at']),
+            "url": item['source_url'],
         }
-        for item in response
-        if item.reading_progress > 0 # Only include items that have been started
+        for item in item_list
+        if item['reading_progress'] > 0 # Only include items that have been started
     ]
     return {"articles": [[], item_list[:10]]}
 

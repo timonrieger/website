@@ -18,12 +18,6 @@ if not test -f ".env"
     exit 1
 end
 
-git add . && git stash
-
-git pull
-
-git stash pop stash@{0}
-
 # Define variables
 set DATE (date +"%Y-%m-%d %H:%M")
 
