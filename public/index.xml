@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Wed, 28 May 2025 13:12:02 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 13:15:26 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -185,7 +185,7 @@ Lately I have been mostly using &lt;a href=&#34;http://fastapi.tiangolo.com/&#34
       <link>https://timonrieger.de/reads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://timonrieger.de/reads/</guid>
-      <description>Here you will find my latest and most valuable reads (updated daily at 11am UTC via Readwise API).</description>
+      <description>Here you will find my latest and most valuable reads - updated daily at 11am UTC.</description>
     </item>
   </channel>
 </rss>
