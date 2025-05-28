@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 FILE = "content/reads.md"
 
-DATE_FORMAT = "%b, %y"
+DATE_FORMAT = "%b %d, %Y"
 
 BOOKS = "books"
 ARTICLES = "articles"
