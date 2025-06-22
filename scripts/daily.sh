@@ -38,7 +38,7 @@ git add public/index.xml
 git add public/sitemap.xml
 git add public/index.json
 git add content/reads.md
-# git commit -m "published on $DATE"
-# git push
+git commit -m "published on $DATE"
+git push
 
 echo "✅ Deployment completed successfully!"
