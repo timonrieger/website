@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Mon, 23 Jun 2025 11:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 16:16:17 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -59,9 +59,8 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
       <pubDate>Tue, 24 Jun 2025 15:51:03 +0200</pubDate>
       <guid>https://timonrieger.de/blog/has-the-fed-improved-us-economic-performance/</guid>
       <description>&lt;p&gt;The introduction of the Federal Reserve in the US in 1913 marked a turning point in US and global economics, followed by the abondance of the gold standard by the Fed in 1933.&lt;/p&gt;
-&lt;p&gt;I want to share my learnings from a study* published by &lt;a href=&#34;https://x.com/HoganMonEcon&#34;&gt;Thomas. L. Hogan&lt;/a&gt; in 2014 about the impact of the Federal Reserve on the US economices:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2356639&#34;&gt;Has the Fed Improved U.S. Economic Performance?&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;p&gt;I want to share my learnings from a study published by &lt;a href=&#34;https://x.com/HoganMonEcon&#34;&gt;Thomas. L. Hogan&lt;/a&gt; in 2014 about the impact of the Federal Reserve on the US economices:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2356639&#34;&gt;Has the Fed Improved U.S. Economic Performance?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biology Is Intentional</title>
