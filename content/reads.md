@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_5,8 Prozent: Argentiniens Wirtschaft wächst schneller als die von China_](https://apollo-news.net/58-prozent-argentiniens-wirtschaft-waechst-schneller-als-die-von-china/) by Boris Cherny (Jun 27, 2025)
+- [_Titelgewinn einer Transfrau bei Jugendschachmeisterschaft löst Diskussion aus_](https://apollo-news.net/titelgewinn-einer-transfrau-bei-jugendschachmeisterschaft-loest-diskussion-aus/) by Redaktion (Jun 27, 2025)
+- [_SPD sieht Grund für Absturz bei Bundestagswahl in „zu komplexer politischer Kommunikation“_](https://apollo-news.net/spd-sieht-grund-fuer-absturz-bei-bundestagswahl-in-zu-komplexer-politischer-kommunikation/) by Boris Cherny (Jun 27, 2025)
+- [_Irans oberster Führer verkündet vermeintlichen Sieg über Israel und droht den USA_](https://apollo-news.net/irans-oberster-fhrer-verkndet-vermeintlichen-sieg-ber-israel-und-droht-den-usa/) by Boris Cherny (Jun 27, 2025)
+- [_Union habe „Demokratie beschädigt“: Heidi Reichinnek spricht von „substanzloser Kampagne“ gegen ihre Person_](https://apollo-news.net/union-habe-demokratie-beschdigt-heidi-reichinnek-spricht-von-substanzloser-kampagne-gegen-ihre-person/) by Redaktion (Jun 27, 2025)
 - [_Göring-Eckardt will Maja T. in Ungarn im Gefängnis besuchen – Solidarität mit linksextremen Schlägern?_](https://www.tichyseinblick.de/meinungen/goering-eckardt-will-maja-t-im-ungarischen-gefaengnis-besuchen-solidaritaet-mit-linksextremem-schlaegertrupp/) by Josef Kraus (Jun 21, 2025)
 - [_Putin: „Die ganze Ukraine gehört uns“_](https://apollo-news.net/putin-die-ganze-ukraine-gehrt-uns/) by Redaktion (Jun 21, 2025)
 - [_Estrogen: A trip report_](https://www.lesswrong.com/posts/mDMnyqt52CrFskXLc/estrogen-a-trip-report) by cube_flipper (Jun 20, 2025)
 - [_Has The Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 18, 2025)
 - [_Union vs. pluralistische Gesellschaft_](https://www.community.e-fellows.net/qanda/thread/view/id/5698310) by e-fellows.net community: Fragen und Antworten (Jun 17, 2025)
-- [_Ein Satz von Trump sorgt für Massenflucht aus Teheran_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/g7-trump-teheran-israel-iran-usa/) by Redaktion (Jun 17, 2025)
-- [_Suche neues Smartphone: Fokus auf KI-Funktionen und gute Synchronisierung mit PC_](https://www.community.e-fellows.net/qanda/thread/view/id/5698266) by e-fellows.net community: Fragen und Antworten (Jun 17, 2025)
-- [_Trump gegen die Isolationisten_](https://apollo-news.net/trump-gegen-die-isolationisten/) by Sebastian Thormann (Jun 17, 2025)
-- [_Auf Wiedersehen, Reiner Haseloff! Sachsen-Anhalts Noch-Ministerpräsident von der CDU will bei AfD-Wahlsieg wegziehen_](https://deutschlandkurier.de/2025/06/auf-wiedersehen-reiner-haseloff-sachsen-anhalts-noch-ministerpraesident-von-der-cdu-will-bei-afd-wahlsieg-wegziehen/?utm_source=rss&utm_medium=rss&utm_campaign=auf-wiedersehen-reiner-haseloff-sachsen-anhalts-noch-ministerpraesident-von-der-cdu-will-bei-afd-wahlsieg-wegziehen) by r2d2 (Jun 17, 2025)
-- [_„Ausländer raus“-Rufe: Staatsschutz ermittelt wegen Abspielen von „L’Amour Toujours“ auch gegen DJ_](https://apollo-news.net/auslaender-raus-rufe-staatsschutz-ermittelt-wegen-abspielen-von-lamour-toujours-auch-gegen-dj/) by Redaktion (Jun 17, 2025)
