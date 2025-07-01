@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Jetzt folgt der grüne Angriff auf das Wohneigentum_](https://apollo-news.net/jetzt-folgt-der-gruene-angriff-auf-das-wohneigentum/) by Marius Marx (Jul 01, 2025)
+- [_„In Italien schmelzen die Straßen“: Klimaaktivistin verbreitet Falschbehauptung_](https://apollo-news.net/in-italien-schmelzen-die-straen-klimaaktivistin-verbreitet-falschbehauptung/) by Selma Fatogun (Jul 01, 2025)
+- [_Männer mit „dunklem Teint“ treten in Freibad auf 18-Jährigen ein – Tagesschau spricht von „mehr Aggression durch Hitze“_](https://apollo-news.net/maenner-mit-dunklem-teint-treten-in-freibad-auf-18-jaehrigen-ein-tagesschau-spricht-von-mehr-aggression-durch-hitze/) by Redaktion (Jul 01, 2025)
+- [_„Nur Sorge vor Widerspruch“ – Katrin Göring-Eckardt erklärt, Cancel Culture gebe es nicht_](https://apollo-news.net/nur-sorge-vor-widerspruch-katrin-goering-eckardt-erklaert-cancel-culture-gebe-es-nicht/) by Redaktion (Jul 01, 2025)
+- [_Bei Maischberger: Kognitive Kontinentalplattenverschiebung_](https://www.tichyseinblick.de/feuilleton/medien/bei-maischberger-weimer-goering-eckardt/) by Gastautor (Jul 01, 2025)
+- [_Die Sonne lacht: Plötzlich gibt es zu viel Solarstrom, der teuer verschenkt werden muss!_](https://deutschlandkurier.de/2025/06/die-sonne-lacht-ploetzlich-gibt-es-zu-viel-solarstrom-der-teuer-verschenkt-werden-muss/?utm_source=rss&utm_medium=rss&utm_campaign=die-sonne-lacht-ploetzlich-gibt-es-zu-viel-solarstrom-der-teuer-verschenkt-werden-muss) by r2d2 (Jul 01, 2025)
+- [_Seit der Bundestagswahl: Nur zwei Prozent aller Politikergäste in ÖRR-Morgensendungen waren von der AfD_](https://apollo-news.net/seit-der-bundestagswahl-nur-zwei-prozent-aller-politikergste-in-rr-morgensendungen-waren-von-der-afd/) by Boris Cherny (Jun 30, 2025)
 - [_5,8 Prozent: Argentiniens Wirtschaft wächst schneller als die von China_](https://apollo-news.net/58-prozent-argentiniens-wirtschaft-waechst-schneller-als-die-von-china/) by Boris Cherny (Jun 27, 2025)
 - [_Titelgewinn einer Transfrau bei Jugendschachmeisterschaft löst Diskussion aus_](https://apollo-news.net/titelgewinn-einer-transfrau-bei-jugendschachmeisterschaft-loest-diskussion-aus/) by Redaktion (Jun 27, 2025)
 - [_SPD sieht Grund für Absturz bei Bundestagswahl in „zu komplexer politischer Kommunikation“_](https://apollo-news.net/spd-sieht-grund-fuer-absturz-bei-bundestagswahl-in-zu-komplexer-politischer-kommunikation/) by Boris Cherny (Jun 27, 2025)
-- [_Irans oberster Führer verkündet vermeintlichen Sieg über Israel und droht den USA_](https://apollo-news.net/irans-oberster-fhrer-verkndet-vermeintlichen-sieg-ber-israel-und-droht-den-usa/) by Boris Cherny (Jun 27, 2025)
-- [_Union habe „Demokratie beschädigt“: Heidi Reichinnek spricht von „substanzloser Kampagne“ gegen ihre Person_](https://apollo-news.net/union-habe-demokratie-beschdigt-heidi-reichinnek-spricht-von-substanzloser-kampagne-gegen-ihre-person/) by Redaktion (Jun 27, 2025)
-- [_Göring-Eckardt will Maja T. in Ungarn im Gefängnis besuchen – Solidarität mit linksextremen Schlägern?_](https://www.tichyseinblick.de/meinungen/goering-eckardt-will-maja-t-im-ungarischen-gefaengnis-besuchen-solidaritaet-mit-linksextremem-schlaegertrupp/) by Josef Kraus (Jun 21, 2025)
-- [_Putin: „Die ganze Ukraine gehört uns“_](https://apollo-news.net/putin-die-ganze-ukraine-gehrt-uns/) by Redaktion (Jun 21, 2025)
-- [_Estrogen: A trip report_](https://www.lesswrong.com/posts/mDMnyqt52CrFskXLc/estrogen-a-trip-report) by cube_flipper (Jun 20, 2025)
-- [_Has The Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 18, 2025)
-- [_Union vs. pluralistische Gesellschaft_](https://www.community.e-fellows.net/qanda/thread/view/id/5698310) by e-fellows.net community: Fragen und Antworten (Jun 17, 2025)
