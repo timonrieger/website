@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Kehrtwende: Trump kündigt weitere Waffenlieferungen an die Ukraine an_](https://apollo-news.net/kehrtwende-trump-kndigt-weitere-waffenlieferungen-an-die-ukraine-an/) by Redaktion (Jul 08, 2025)
+- [_Netanjahu schlägt Trump für Friedensnobelpreis vor_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/netanjahu-trump-friedensnobelpreis-vor/) by Redaktion (Jul 08, 2025)
+- [_What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er_](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) by Bite Code! (Jul 06, 2025)
 - [_Wenn du mit mir schlafen willst, unterschreibe bitte hier und hier_](https://apollo-news.net/wenn-du-mit-mir-schlafen-willst-unterschreibe-bitte-hier-und-hier/) by Elisa David (Jul 06, 2025)
 - [_Finale Entscheidung: Elon Musk gründet eigene Partei_](https://apollo-news.net/finale-entscheidung-elon-musk-gruendet-eigene-partei/) by Jerome Wnuk (Jul 06, 2025)
 - [_KI-Assistenten wie ChatGPT fördern Denkfaulheit_](https://www.tichyseinblick.de/kolumnen/josef-kraus-lernen-und-bildung/ki-assistenten-wie-chatgpt-foerdern-denkfaulheit/) by Josef Kraus (Jul 05, 2025)
+- [_Python 3.14 Preview: Template Strings (T-Strings)_](https://realpython.com/python-t-strings/) by Real Python (Jul 02, 2025)
 - [_Jetzt folgt der grüne Angriff auf das Wohneigentum_](https://apollo-news.net/jetzt-folgt-der-gruene-angriff-auf-das-wohneigentum/) by Marius Marx (Jul 01, 2025)
 - [_„In Italien schmelzen die Straßen“: Klimaaktivistin verbreitet Falschbehauptung_](https://apollo-news.net/in-italien-schmelzen-die-straen-klimaaktivistin-verbreitet-falschbehauptung/) by Selma Fatogun (Jul 01, 2025)
 - [_Männer mit „dunklem Teint“ treten in Freibad auf 18-Jährigen ein – Tagesschau spricht von „mehr Aggression durch Hitze“_](https://apollo-news.net/maenner-mit-dunklem-teint-treten-in-freibad-auf-18-jaehrigen-ein-tagesschau-spricht-von-mehr-aggression-durch-hitze/) by Redaktion (Jul 01, 2025)
-- [_„Nur Sorge vor Widerspruch“ – Katrin Göring-Eckardt erklärt, Cancel Culture gebe es nicht_](https://apollo-news.net/nur-sorge-vor-widerspruch-katrin-goering-eckardt-erklaert-cancel-culture-gebe-es-nicht/) by Redaktion (Jul 01, 2025)
-- [_Bei Maischberger: Kognitive Kontinentalplattenverschiebung_](https://www.tichyseinblick.de/feuilleton/medien/bei-maischberger-weimer-goering-eckardt/) by Gastautor (Jul 01, 2025)
-- [_Die Sonne lacht: Plötzlich gibt es zu viel Solarstrom, der teuer verschenkt werden muss!_](https://deutschlandkurier.de/2025/06/die-sonne-lacht-ploetzlich-gibt-es-zu-viel-solarstrom-der-teuer-verschenkt-werden-muss/?utm_source=rss&utm_medium=rss&utm_campaign=die-sonne-lacht-ploetzlich-gibt-es-zu-viel-solarstrom-der-teuer-verschenkt-werden-muss) by r2d2 (Jul 01, 2025)
-- [_Seit der Bundestagswahl: Nur zwei Prozent aller Politikergäste in ÖRR-Morgensendungen waren von der AfD_](https://apollo-news.net/seit-der-bundestagswahl-nur-zwei-prozent-aller-politikergste-in-rr-morgensendungen-waren-von-der-afd/) by Boris Cherny (Jun 30, 2025)
