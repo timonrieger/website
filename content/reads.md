@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_What "Parse, don't validate" means in Python?_](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) by Bite Code! (Jul 23, 2025)
+- [_The EU can be shut down with a few keystrokes_](https://www.bitecode.dev/p/the-eu-can-be-shut-down-with-a-few) by Bite Code! (Jul 18, 2025)
+- [_Issue #690: JIT, __init__, dis, and That's Not It (July 15, 2025)_](https://pycoders.com/issues/690) by PyCoder’s Weekly (Jul 15, 2025)
+- [_What Is Python's __init__.py For?_](https://realpython.com/python-init-py/) by Real Python (Jul 09, 2025)
 - [_Kehrtwende: Trump kündigt weitere Waffenlieferungen an die Ukraine an_](https://apollo-news.net/kehrtwende-trump-kndigt-weitere-waffenlieferungen-an-die-ukraine-an/) by Redaktion (Jul 08, 2025)
 - [_Netanjahu schlägt Trump für Friedensnobelpreis vor_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/netanjahu-trump-friedensnobelpreis-vor/) by Redaktion (Jul 08, 2025)
 - [_What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er_](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) by Bite Code! (Jul 06, 2025)
 - [_Wenn du mit mir schlafen willst, unterschreibe bitte hier und hier_](https://apollo-news.net/wenn-du-mit-mir-schlafen-willst-unterschreibe-bitte-hier-und-hier/) by Elisa David (Jul 06, 2025)
 - [_Finale Entscheidung: Elon Musk gründet eigene Partei_](https://apollo-news.net/finale-entscheidung-elon-musk-gruendet-eigene-partei/) by Jerome Wnuk (Jul 06, 2025)
 - [_KI-Assistenten wie ChatGPT fördern Denkfaulheit_](https://www.tichyseinblick.de/kolumnen/josef-kraus-lernen-und-bildung/ki-assistenten-wie-chatgpt-foerdern-denkfaulheit/) by Josef Kraus (Jul 05, 2025)
-- [_Python 3.14 Preview: Template Strings (T-Strings)_](https://realpython.com/python-t-strings/) by Real Python (Jul 02, 2025)
-- [_Jetzt folgt der grüne Angriff auf das Wohneigentum_](https://apollo-news.net/jetzt-folgt-der-gruene-angriff-auf-das-wohneigentum/) by Marius Marx (Jul 01, 2025)
-- [_„In Italien schmelzen die Straßen“: Klimaaktivistin verbreitet Falschbehauptung_](https://apollo-news.net/in-italien-schmelzen-die-straen-klimaaktivistin-verbreitet-falschbehauptung/) by Selma Fatogun (Jul 01, 2025)
-- [_Männer mit „dunklem Teint“ treten in Freibad auf 18-Jährigen ein – Tagesschau spricht von „mehr Aggression durch Hitze“_](https://apollo-news.net/maenner-mit-dunklem-teint-treten-in-freibad-auf-18-jaehrigen-ein-tagesschau-spricht-von-mehr-aggression-durch-hitze/) by Redaktion (Jul 01, 2025)
