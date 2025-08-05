@@ -47,5 +47,5 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Netanjahu schlägt Trump für Friedensnobelpreis vor_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/netanjahu-trump-friedensnobelpreis-vor/) by Redaktion (Jul 08, 2025)
 - [_What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er_](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) by Bite Code! (Jul 06, 2025)
 - [_Wenn du mit mir schlafen willst, unterschreibe bitte hier und hier_](https://apollo-news.net/wenn-du-mit-mir-schlafen-willst-unterschreibe-bitte-hier-und-hier/) by Elisa David (Jul 06, 2025)
-- [_Finale Entscheidung: Elon Musk gründet eigene Partei_](https://apollo-news.net/finale-entscheidung-elon-musk-gruendet-eigene-partei/) by Jerome Wnuk (Jul 06, 2025)
 - [_KI-Assistenten wie ChatGPT fördern Denkfaulheit_](https://www.tichyseinblick.de/kolumnen/josef-kraus-lernen-und-bildung/ki-assistenten-wie-chatgpt-foerdern-denkfaulheit/) by Josef Kraus (Jul 05, 2025)
+- [_Python 3.14 Preview: Template Strings (T-Strings)_](https://realpython.com/python-t-strings/) by Real Python (Jul 02, 2025)
