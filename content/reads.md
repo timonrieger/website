@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Bill und Hillary Clinton sollen vor Epstein-Ausschuss aussagen_](https://apollo-news.net/bill-und-hillary-clinton-sollen-vor-epstein-ausschuss-aussagen/) by Redaktion (Aug 06, 2025)
+- [_„Widerspricht unseren Werten“: Borussia Dortmund geht gegen AfD-Sticker mit BVB-Bezug vor_](https://apollo-news.net/widerspricht-unseren-werten-borussia-dortmund-geht-gegen-afd-sticker-mit-bvb-bezug-vor/) by Redaktion (Aug 06, 2025)
+- [_EU gibt eine Million Euro gegen „Hatespeech“ im Südsudan aus_](https://apollo-news.net/eu-gibt-eine-million-euro-gegen-hatespeech-im-suedsudan-aus/) by Redaktion (Aug 05, 2025)
+- [_AfD erstmals wieder gleichauf mit der Union_](https://apollo-news.net/afd-erstmals-wieder-gleichauf-mit-der-union/) by Redaktion (Aug 05, 2025)
+- [_CDU-Abgeordnete Ludwig unterhält sich mit Alice Weidel (AfD): „Brandmauer“-Panik bei der Unions-Fraktion_](https://deutschlandkurier.de/2025/08/cdu-abgeordnete-ludwig-unterhaelt-sich-mit-alice-weidel-afd-brandmauer-panik-bei-der-unions-fraktion/?utm_source=rss&utm_medium=rss&utm_campaign=cdu-abgeordnete-ludwig-unterhaelt-sich-mit-alice-weidel-afd-brandmauer-panik-bei-der-unions-fraktion) by r2d2 (Aug 04, 2025)
+- [_Skip Ahead in Loops With Python's Continue Keyword_](https://realpython.com/python-continue/) by Real Python (Aug 04, 2025)
+- [_Sommerinterview voraufgezeichnet: Protest gegen Grüne läuft ins Leere_](https://www.tichyseinblick.de/gastbeitrag/sommerinterview-protest-ohne-buehne/) by Gastautor (Aug 04, 2025)
+- [_Python's asyncio: A Hands-On Walkthrough_](https://realpython.com/async-io-python/) by Real Python (Jul 30, 2025)
 - [_What "Parse, don't validate" means in Python?_](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) by Bite Code! (Jul 23, 2025)
-- [_The EU can be shut down with a few keystrokes_](https://www.bitecode.dev/p/the-eu-can-be-shut-down-with-a-few) by Bite Code! (Jul 18, 2025)
-- [_Issue #690: JIT, __init__, dis, and That's Not It (July 15, 2025)_](https://pycoders.com/issues/690) by PyCoder’s Weekly (Jul 15, 2025)
-- [_What Is Python's __init__.py For?_](https://realpython.com/python-init-py/) by Real Python (Jul 09, 2025)
-- [_Kehrtwende: Trump kündigt weitere Waffenlieferungen an die Ukraine an_](https://apollo-news.net/kehrtwende-trump-kndigt-weitere-waffenlieferungen-an-die-ukraine-an/) by Redaktion (Jul 08, 2025)
-- [_Netanjahu schlägt Trump für Friedensnobelpreis vor_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/netanjahu-trump-friedensnobelpreis-vor/) by Redaktion (Jul 08, 2025)
-- [_What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er_](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) by Bite Code! (Jul 06, 2025)
-- [_Wenn du mit mir schlafen willst, unterschreibe bitte hier und hier_](https://apollo-news.net/wenn-du-mit-mir-schlafen-willst-unterschreibe-bitte-hier-und-hier/) by Elisa David (Jul 06, 2025)
-- [_KI-Assistenten wie ChatGPT fördern Denkfaulheit_](https://www.tichyseinblick.de/kolumnen/josef-kraus-lernen-und-bildung/ki-assistenten-wie-chatgpt-foerdern-denkfaulheit/) by Josef Kraus (Jul 05, 2025)
-- [_Python 3.14 Preview: Template Strings (T-Strings)_](https://realpython.com/python-t-strings/) by Real Python (Jul 02, 2025)
+- [_What Does isinstance() Do in Python?_](https://realpython.com/what-does-isinstance-do-in-python/) by Real Python (Jul 21, 2025)
