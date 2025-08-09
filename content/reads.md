@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_What Do We Mean By "Rationality"?_](https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/RcZCwxFiZzE6X7nsv) by Eliezer Yudkowsky (Aug 08, 2025)
+- [_The Lens That Sees Its Flaws_](https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/46qnWRSR7L2eyNbMA) by Eliezer Yudkowsky (Aug 08, 2025)
+- [_Ihre Aktien gehören Ihnen nicht: Die perfekte Enteignung läuft bereits_](https://www.tichyseinblick.de/unternehmen/ihre-aktien-gehoeren-ihnen-nicht-die-perfekte-enteignung-laeuft-bereits/) by Sponsored Article (Aug 08, 2025)
+- [_Gaza – die teuflische Macht der Bilder_](https://www.tichyseinblick.de/meinungen/gaza-teuflische-macht-der-bilder/) by Godel Rosenberg (Aug 07, 2025)
 - [_Bill und Hillary Clinton sollen vor Epstein-Ausschuss aussagen_](https://apollo-news.net/bill-und-hillary-clinton-sollen-vor-epstein-ausschuss-aussagen/) by Redaktion (Aug 06, 2025)
 - [_„Widerspricht unseren Werten“: Borussia Dortmund geht gegen AfD-Sticker mit BVB-Bezug vor_](https://apollo-news.net/widerspricht-unseren-werten-borussia-dortmund-geht-gegen-afd-sticker-mit-bvb-bezug-vor/) by Redaktion (Aug 06, 2025)
 - [_EU gibt eine Million Euro gegen „Hatespeech“ im Südsudan aus_](https://apollo-news.net/eu-gibt-eine-million-euro-gegen-hatespeech-im-suedsudan-aus/) by Redaktion (Aug 05, 2025)
 - [_AfD erstmals wieder gleichauf mit der Union_](https://apollo-news.net/afd-erstmals-wieder-gleichauf-mit-der-union/) by Redaktion (Aug 05, 2025)
 - [_CDU-Abgeordnete Ludwig unterhält sich mit Alice Weidel (AfD): „Brandmauer“-Panik bei der Unions-Fraktion_](https://deutschlandkurier.de/2025/08/cdu-abgeordnete-ludwig-unterhaelt-sich-mit-alice-weidel-afd-brandmauer-panik-bei-der-unions-fraktion/?utm_source=rss&utm_medium=rss&utm_campaign=cdu-abgeordnete-ludwig-unterhaelt-sich-mit-alice-weidel-afd-brandmauer-panik-bei-der-unions-fraktion) by r2d2 (Aug 04, 2025)
 - [_Skip Ahead in Loops With Python's Continue Keyword_](https://realpython.com/python-continue/) by Real Python (Aug 04, 2025)
-- [_Sommerinterview voraufgezeichnet: Protest gegen Grüne läuft ins Leere_](https://www.tichyseinblick.de/gastbeitrag/sommerinterview-protest-ohne-buehne/) by Gastautor (Aug 04, 2025)
-- [_Python's asyncio: A Hands-On Walkthrough_](https://realpython.com/async-io-python/) by Real Python (Jul 30, 2025)
-- [_What "Parse, don't validate" means in Python?_](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) by Bite Code! (Jul 23, 2025)
-- [_What Does isinstance() Do in Python?_](https://realpython.com/what-does-isinstance-do-in-python/) by Real Python (Jul 21, 2025)
