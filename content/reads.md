@@ -16,8 +16,9 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Aug 06, 2025)
+- [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Apr 09, 2025)
 - _Volkswirtschaftslehre_ by Andreas Forner (Mar 23, 2025)
-- [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Mar 15, 2025)
 - [_Komm, Ich Erzähl Dir Eine Geschichte_](https://amazon.com/dp/B005NZHBUE) by Jorge Bucay (Feb 03, 2025)
 - [_The Essential Hayek_](https://amazon.com/dp/B00ZGSIJ7M) by Donald J. Boudreaux (Dec 14, 2024)
 - [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov 14, 2024)
@@ -25,7 +26,6 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Die Gesetze Der Gewinner_](https://amazon.com/dp/B0885SSDDL) by Bodo Schäfer (Jun 28, 2024)
 - [_The Prophet_](https://amazon.com/dp/B07MC95HHJ) by Kahlil Gibran (May 31, 2024)
 - [_Über Den Umgang Mit Menschen_](https://amazon.com/dp/B00D8E5AU0) by Adolph Freiherr von Knigge (May 26, 2024)
-- [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr 18, 2024)
 
 ## Articles
 
