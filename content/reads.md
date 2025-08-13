@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_OpenAI’s GPT-OSS Is Already Old News_](https://www.lesswrong.com/posts/AJ94X73M6KgAZFJH2/openai-s-gpt-oss-is-already-old-news) by Zvi (Aug 09, 2025)
 - [_My Beautiful Bubble_](https://www.econlib.org/archives/2012/03/my_beautiful_bu.html) by Bryan Caplan (Aug 09, 2025)
 - [_Make Your Own Bubble in 10 Easy Steps_](https://www.econlib.org/archives/2013/04/make_your_own_b.html) by Bryan Caplan (Aug 09, 2025)
 - [_What Do We Mean By "Rationality"?_](https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/RcZCwxFiZzE6X7nsv) by Eliezer Yudkowsky (Aug 08, 2025)
@@ -48,4 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Ihre Aktien gehören Ihnen nicht: Die perfekte Enteignung läuft bereits_](https://www.tichyseinblick.de/unternehmen/ihre-aktien-gehoeren-ihnen-nicht-die-perfekte-enteignung-laeuft-bereits/) by Sponsored Article (Aug 08, 2025)
 - [_Gaza – die teuflische Macht der Bilder_](https://www.tichyseinblick.de/meinungen/gaza-teuflische-macht-der-bilder/) by Godel Rosenberg (Aug 07, 2025)
 - [_What Are Mixin Classes in Python?_](https://realpython.com/python-mixin/) by Real Python (Aug 06, 2025)
-- [_Bill und Hillary Clinton sollen vor Epstein-Ausschuss aussagen_](https://apollo-news.net/bill-und-hillary-clinton-sollen-vor-epstein-ausschuss-aussagen/) by Redaktion (Aug 06, 2025)
