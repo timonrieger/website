@@ -39,6 +39,8 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_GPT-5s Are Alive: Synthesis_](https://www.lesswrong.com/posts/4wYKkbkHooeQ4xznf/gpt-5s-are-alive-synthesis) by Zvi (Aug 14, 2025)
+- [_Doing A Thing Puts You in The Top 10% (And That Sucks)_](https://www.lesswrong.com/posts/rkxKQeTvDa5CzqW8q/doing-a-thing-puts-you-in-the-top-10-and-that-sucks-1) by Brendan Long (Aug 14, 2025)
 - [_OpenAI’s GPT-OSS Is Already Old News_](https://www.lesswrong.com/posts/AJ94X73M6KgAZFJH2/openai-s-gpt-oss-is-already-old-news) by Zvi (Aug 09, 2025)
 - [_My Beautiful Bubble_](https://www.econlib.org/archives/2012/03/my_beautiful_bu.html) by Bryan Caplan (Aug 09, 2025)
 - [_Make Your Own Bubble in 10 Easy Steps_](https://www.econlib.org/archives/2013/04/make_your_own_b.html) by Bryan Caplan (Aug 09, 2025)
@@ -47,5 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_How anticipatory cover-ups go wrong_](https://www.lesswrong.com/posts/ufj6J8QqyXFFdspid/how-anticipatory-cover-ups-go-wrong) by Kaj_Sotala (Aug 08, 2025)
 - [_No, Rationalism Is Not a Cult_](https://www.lesswrong.com/posts/MXrxpyrAh99bYymag/no-rationalism-is-not-a-cult) by Liam Robins (Aug 08, 2025)
 - [_Ihre Aktien gehören Ihnen nicht: Die perfekte Enteignung läuft bereits_](https://www.tichyseinblick.de/unternehmen/ihre-aktien-gehoeren-ihnen-nicht-die-perfekte-enteignung-laeuft-bereits/) by Sponsored Article (Aug 08, 2025)
-- [_Gaza – die teuflische Macht der Bilder_](https://www.tichyseinblick.de/meinungen/gaza-teuflische-macht-der-bilder/) by Godel Rosenberg (Aug 07, 2025)
-- [_What Are Mixin Classes in Python?_](https://realpython.com/python-mixin/) by Real Python (Aug 06, 2025)
