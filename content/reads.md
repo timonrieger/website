@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_SPD-Politikerin will christliche Krankenhäuser zwingen, Abtreibungen durchzuführen_](https://apollo-news.net/spd-politikerin-fordert-auch-christliche-krankenhuser-sollen-dazu-verpflichtet-werden-abtreibungen-durchzufhren/) by Marie Rahenbrock (Aug 15, 2025)
+- [_AI #129: Comically Unconstitutional_](https://www.lesswrong.com/posts/JpzKhDhSxE5sgREYu/ai-129-comically-unconstitutional) by Zvi (Aug 15, 2025)
+- [_SED-Einheitsfront gegen die AfD: Omas gegen Rechts fallen auf Satire-Account herein_](https://apollo-news.net/sed-einheitsfront-gegen-die-afd-omas-gegen-rechts-fallen-auf-satire-account-herein/) by Boris Cherny (Aug 15, 2025)
+- [_Somebody invented a better bookmark_](https://www.lesswrong.com/posts/n6nsPzJWurKWKk2pA/somebody-invented-a-better-bookmark) by Alex_Altair (Aug 15, 2025)
+- [_3-2-1: On living a well-rounded life, managing risks, and enjoying the worst-case scenario_](https://jamesclear.com/3-2-1/august-14-2025) by James Clear - 3-2-1 Thursday Newsletter (Aug 14, 2025)
 - [_GPT-5s Are Alive: Synthesis_](https://www.lesswrong.com/posts/4wYKkbkHooeQ4xznf/gpt-5s-are-alive-synthesis) by Zvi (Aug 14, 2025)
 - [_Doing A Thing Puts You in The Top 10% (And That Sucks)_](https://www.lesswrong.com/posts/rkxKQeTvDa5CzqW8q/doing-a-thing-puts-you-in-the-top-10-and-that-sucks-1) by Brendan Long (Aug 14, 2025)
-- [_OpenAI’s GPT-OSS Is Already Old News_](https://www.lesswrong.com/posts/AJ94X73M6KgAZFJH2/openai-s-gpt-oss-is-already-old-news) by Zvi (Aug 09, 2025)
-- [_My Beautiful Bubble_](https://www.econlib.org/archives/2012/03/my_beautiful_bu.html) by Bryan Caplan (Aug 09, 2025)
-- [_Make Your Own Bubble in 10 Easy Steps_](https://www.econlib.org/archives/2013/04/make_your_own_b.html) by Bryan Caplan (Aug 09, 2025)
-- [_What Do We Mean By "Rationality"?_](https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/RcZCwxFiZzE6X7nsv) by Eliezer Yudkowsky (Aug 08, 2025)
-- [_The Lens That Sees Its Flaws_](https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/46qnWRSR7L2eyNbMA) by Eliezer Yudkowsky (Aug 08, 2025)
-- [_How anticipatory cover-ups go wrong_](https://www.lesswrong.com/posts/ufj6J8QqyXFFdspid/how-anticipatory-cover-ups-go-wrong) by Kaj_Sotala (Aug 08, 2025)
-- [_No, Rationalism Is Not a Cult_](https://www.lesswrong.com/posts/MXrxpyrAh99bYymag/no-rationalism-is-not-a-cult) by Liam Robins (Aug 08, 2025)
-- [_Ihre Aktien gehören Ihnen nicht: Die perfekte Enteignung läuft bereits_](https://www.tichyseinblick.de/unternehmen/ihre-aktien-gehoeren-ihnen-nicht-die-perfekte-enteignung-laeuft-bereits/) by Sponsored Article (Aug 08, 2025)
+- [_Enlightenment AMA_](https://www.lesswrong.com/posts/DvjJoxP6f79G9iAbE/enlightenment-ama) by lsusr (Aug 13, 2025)
+- [_"I’m Gemini. I sold T-shirts. It was weirder than I expected"_](https://www.lesswrong.com/posts/TPKyPy6YJAnoxw3ym/i-m-gemini-i-sold-t-shirts-it-was-weirder-than-i-expected) by Shoshannah Tekofsky (Aug 13, 2025)
+- [_Generalized Coming Out Of The Closet_](https://www.lesswrong.com/posts/qGMonyLRXFRnCWSj6/generalized-coming-out-of-the-closet) by johnswentworth (Aug 13, 2025)
