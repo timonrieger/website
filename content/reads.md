@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_AI 2027_](https://ai-2027.com/) by ai-2027.com (Aug 19, 2025)
+- [_Julian Reichelt darf den Rechtsextremisten Marla Svenja Liebich als Mann bezeichnen_](https://apollo-news.net/julian-reichelt-darf-den-rechtsextremisten-marla-svenja-liebich-als-mann-bezeichnen/) by Redaktion (Aug 19, 2025)
+- [_Discovering Backdoor Triggers_](https://www.lesswrong.com/posts/kmNqsbgKWJHGqhj4g/discovering-backdoor-triggers) by andrq (Aug 19, 2025)
+- [_„Spiegelt die Vielfalt unserer Gesellschaft wider“: Milram verteidigt sich für woke Werbekampagne_](https://apollo-news.net/spiegelt-die-vielfalt-unserer-gesellschaft-wider-milram-verteidigt-sich-fr-woke-werbekampagne/) by Redaktion (Aug 19, 2025)
 - [_Grenzkontrollen entfalten ihre Wirkung – und dennoch können Tausende illegal einreisen_](https://apollo-news.net/grenzkontrollen-entfalten-ihre-wirkung-und-dennoch-knnen-tausende-illegal-einreisen/) by Wim Lukowsky (Aug 16, 2025)
 - [_SPD-Politikerin will christliche Krankenhäuser zwingen, Abtreibungen durchzuführen_](https://apollo-news.net/spd-politikerin-fordert-auch-christliche-krankenhuser-sollen-dazu-verpflichtet-werden-abtreibungen-durchzufhren/) by Marie Rahenbrock (Aug 15, 2025)
 - [_AI #129: Comically Unconstitutional_](https://www.lesswrong.com/posts/JpzKhDhSxE5sgREYu/ai-129-comically-unconstitutional) by Zvi (Aug 15, 2025)
 - [_SED-Einheitsfront gegen die AfD: Omas gegen Rechts fallen auf Satire-Account herein_](https://apollo-news.net/sed-einheitsfront-gegen-die-afd-omas-gegen-rechts-fallen-auf-satire-account-herein/) by Boris Cherny (Aug 15, 2025)
 - [_Somebody invented a better bookmark_](https://www.lesswrong.com/posts/n6nsPzJWurKWKk2pA/somebody-invented-a-better-bookmark) by Alex_Altair (Aug 15, 2025)
 - [_3-2-1: On living a well-rounded life, managing risks, and enjoying the worst-case scenario_](https://jamesclear.com/3-2-1/august-14-2025) by James Clear - 3-2-1 Thursday Newsletter (Aug 14, 2025)
-- [_Why Are There So Many Rationalist Cults?_](https://www.lesswrong.com/out?url=https%3A%2F%2Fasteriskmag.com%2Fissues%2F11%2Fwhy-are-there-so-many-rationalist-cults) by asteriskmag.com (Aug 14, 2025)
-- [_GPT-5s Are Alive: Synthesis_](https://www.lesswrong.com/posts/4wYKkbkHooeQ4xznf/gpt-5s-are-alive-synthesis) by Zvi (Aug 14, 2025)
-- [_Doing A Thing Puts You in The Top 10% (And That Sucks)_](https://www.lesswrong.com/posts/rkxKQeTvDa5CzqW8q/doing-a-thing-puts-you-in-the-top-10-and-that-sucks-1) by Brendan Long (Aug 14, 2025)
-- [_Enlightenment AMA_](https://www.lesswrong.com/posts/DvjJoxP6f79G9iAbE/enlightenment-ama) by lsusr (Aug 13, 2025)
