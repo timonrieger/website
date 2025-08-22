@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Sanktions-Irrsinn: Europa plant neue Maßnahmen, falls Putin nicht mit Selenskyj reden will_](https://deutschlandkurier.de/2025/08/sanktions-irrsinn-europa-plant-neue-massnahmen-falls-putin-nicht-mit-selenskyj-reden-will/?utm_source=rss&utm_medium=rss&utm_campaign=sanktions-irrsinn-europa-plant-neue-massnahmen-falls-putin-nicht-mit-selenskyj-reden-will) by r2d2 (Aug 21, 2025)
 - [_AI 2027_](https://ai-2027.com/) by ai-2027.com (Aug 19, 2025)
 - [_Julian Reichelt darf den Rechtsextremisten Marla Svenja Liebich als Mann bezeichnen_](https://apollo-news.net/julian-reichelt-darf-den-rechtsextremisten-marla-svenja-liebich-als-mann-bezeichnen/) by Redaktion (Aug 19, 2025)
 - [_Discovering Backdoor Triggers_](https://www.lesswrong.com/posts/kmNqsbgKWJHGqhj4g/discovering-backdoor-triggers) by andrq (Aug 19, 2025)
@@ -46,6 +47,5 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Grenzkontrollen entfalten ihre Wirkung – und dennoch können Tausende illegal einreisen_](https://apollo-news.net/grenzkontrollen-entfalten-ihre-wirkung-und-dennoch-knnen-tausende-illegal-einreisen/) by Wim Lukowsky (Aug 16, 2025)
 - [_[Intuitive self-models] 6. Awakening / Enlightenment / PNSE_](https://www.lesswrong.com/posts/GvJe6WQ3jbynyhjxm/intuitive-self-models-6-awakening-enlightenment-pnse) by Steven Byrnes (Aug 15, 2025)
 - [_My Empathy Is Rarely_](https://www.lesswrong.com/posts/xPrL2xF9iYWpPmu6B/my-empathy-is-rarely-kind) by johnswentworth (Aug 15, 2025)
-- [_SPD-Politikerin will christliche Krankenhäuser zwingen, Abtreibungen durchzuführen_](https://apollo-news.net/spd-politikerin-fordert-auch-christliche-krankenhuser-sollen-dazu-verpflichtet-werden-abtreibungen-durchzufhren/) by Marie Rahenbrock (Aug 15, 2025)
-- [_AI #129: Comically Unconstitutional_](https://www.lesswrong.com/posts/JpzKhDhSxE5sgREYu/ai-129-comically-unconstitutional) by Zvi (Aug 15, 2025)
-- [_SED-Einheitsfront gegen die AfD: Omas gegen Rechts fallen auf Satire-Account herein_](https://apollo-news.net/sed-einheitsfront-gegen-die-afd-omas-gegen-rechts-fallen-auf-satire-account-herein/) by Boris Cherny (Aug 15, 2025)
+- [_A Self-Dialogue on The Value Proposition of Romantic Relationships_](https://www.lesswrong.com/posts/ntELqTE47jyHPnH84/a-self-dialogue-on-the-value-proposition-of-romantic?commentId=BMPifcSrezh5cjzE9) by lesswrong.com (Aug 15, 2025)
+- [_Kasachstan überholt Russland beim BIP pro Kopf_](https://apollo-news.net/kasachstan-berholt-russland-beim-bip-pro-kopf/) by Boris Cherny (Aug 15, 2025)
