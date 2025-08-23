@@ -47,5 +47,5 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Grenzkontrollen entfalten ihre Wirkung – und dennoch können Tausende illegal einreisen_](https://apollo-news.net/grenzkontrollen-entfalten-ihre-wirkung-und-dennoch-knnen-tausende-illegal-einreisen/) by Wim Lukowsky (Aug 16, 2025)
 - [_[Intuitive self-models] 6. Awakening / Enlightenment / PNSE_](https://www.lesswrong.com/posts/GvJe6WQ3jbynyhjxm/intuitive-self-models-6-awakening-enlightenment-pnse) by Steven Byrnes (Aug 15, 2025)
 - [_My Empathy Is Rarely_](https://www.lesswrong.com/posts/xPrL2xF9iYWpPmu6B/my-empathy-is-rarely-kind) by johnswentworth (Aug 15, 2025)
+- [_The Value Proposition of Romantic_](https://www.lesswrong.com/posts/L2GR6TsB9QDqMhWs7/the-value-proposition-of-romantic-relationships) by johnswentworth (Aug 15, 2025)
 - [_A Self-Dialogue on The Value Proposition of Romantic Relationships_](https://www.lesswrong.com/posts/ntELqTE47jyHPnH84/a-self-dialogue-on-the-value-proposition-of-romantic?commentId=BMPifcSrezh5cjzE9) by lesswrong.com (Aug 15, 2025)
-- [_Kasachstan überholt Russland beim BIP pro Kopf_](https://apollo-news.net/kasachstan-berholt-russland-beim-bip-pro-kopf/) by Boris Cherny (Aug 15, 2025)
