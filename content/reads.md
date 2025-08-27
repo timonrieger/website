@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Elon Musk antwortet auf den Hilferuf von Joachim Paul_](https://www.tichyseinblick.de/meinungen/elon-musk-antwortet-auf-den-hilferuf-von-joachim-paul/) by Redaktion (Aug 26, 2025)
+- [_Das nächste Wahlversprechen gebrochen: Bundesregierung lässt Afghanen aus Pakistan einreisen_](https://deutschlandkurier.de/2025/08/das-naechste-wahlversprechen-gebrochen-bundesregierung-laesst-afghanen-aus-pakistan-einreisen/?utm_source=rss&utm_medium=rss&utm_campaign=das-naechste-wahlversprechen-gebrochen-bundesregierung-laesst-afghanen-aus-pakistan-einreisen) by r2d2 (Aug 26, 2025)
+- [_Union fällt um: Mehr als 2000 Afghanen werden eingeflogen_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/union-faellt-um-2000-afghanen-werden-eingeflogen/) by Matthias Nikolaidis (Aug 26, 2025)
+- [_Massenprotest gegen britische Asyl-Politik: Erste Erfolge_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/massenprotest-gegen-britische-asyl-politik-erste-erfolge/) by Richard Schmitt (Aug 26, 2025)
+- [_Mannheim im Würgegriff: Migration, Klima- und Luxusprojekte ruinieren eine Stadt_](https://www.tichyseinblick.de/meinungen/mannheim-im-wuergegriff-migration-klima-luxusprojekte-ruinieren-die-stadt/) by Holger Douglas (Aug 26, 2025)
+- [_Der Fall Sven Liebich ist das Kryptonit der Linken_](https://apollo-news.net/der-fall-sven-liebich-ist-das-kryptonit-der-linken/) by Larissa Fußer (Aug 26, 2025)
 - [_Airbnb-Mitgründer neuer Beauftragter für Funktionalität und Ästhetik der US-Webseiten_](https://apollo-news.net/airbnb-mitgruender-neuer-beauftragter-fuer-funktionalitaet-und-aesthetik-der-us-webseiten/) by Redaktion (Aug 24, 2025)
 - [_Deutsche Soldaten in die Ukraine? Klingbeil: Am Geld soll es nicht scheitern!_](https://deutschlandkurier.de/2025/08/deutsche-soldaten-in-die-ukraine-klingbeil-am-geld-soll-es-nicht-scheitern/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-soldaten-in-die-ukraine-klingbeil-am-geld-soll-es-nicht-scheitern) by r2d2 (Aug 24, 2025)
 - [_Retro Recomendo: History_](https://www.recomendo.com/p/retro-recomendo-history) by Kevin Kelly (Aug 24, 2025)
 - [_DeepSeek v3.1 Is Not Having a Moment_](https://www.lesswrong.com/posts/gBnfwLqxcF4zyBE2J/deepseek-v3-1-is-not-having-a-moment) by Zvi (Aug 24, 2025)
-- [_Yudkowsky on "Don't use p(doom)"_](https://www.lesswrong.com/posts/4mBaixwf4k8jk7fG4/yudkowsky-on-don-t-use-p-doom) by Raemon (Aug 23, 2025)
-- [_LESSWRONG is fundraising! Intuitive Self-Models_](https://www.lesswrong.com/s/qhdHbCJ3PYesL9dde) by lesswrong.com (Aug 22, 2025)
-- [_So also sieht die Merz’sche „Wende“ aus: Wirtschaft schrumpft stärker als erwartet!_](https://deutschlandkurier.de/2025/08/so-also-sieht-die-merzsche-wende-aus-wirtschaft-schrumpft-staerker-als-erwartet/?utm_source=rss&utm_medium=rss&utm_campaign=so-also-sieht-die-merzsche-wende-aus-wirtschaft-schrumpft-staerker-als-erwartet) by r2d2 (Aug 22, 2025)
-- [_When Money Becomes Power_](https://www.lesswrong.com/posts/mbmf2o7pFvdWsEPpP/when-money-becomes-power) by Gabriel Alfour (Aug 22, 2025)
-- [_Friedrich Merz muss nur eines ändern: alles_](https://www.tichyseinblick.de/daili-es-sentials/rueckgang-bruttoinlandsprodukt/) by Mario Thurnes (Aug 22, 2025)
-- [_Sieg vor Gericht: Trump entgeht 500-Millionen-Dollar-Strafe_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/trump-gericht-urteil-new-york/) by Richard Schmitt (Aug 22, 2025)
