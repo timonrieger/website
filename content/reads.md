@@ -39,6 +39,9 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Crasht Trump den Finanzmarkt mit Absicht?_](https://hkcmanagement.de/hkcmnews/crasht-trump-den-finanzmarkt-mit-absicht) by Simeon Koch (Aug 28, 2025)
+- [_Mainstream trauert Habeck nach: „Er war zu klug für die deutsche Politik…“_](https://deutschlandkurier.de/2025/08/mainstream-trauert-habeck-nach-er-war-zu-klug-fuer-die-deutsche-politik/?utm_source=rss&utm_medium=rss&utm_campaign=mainstream-trauert-habeck-nach-er-war-zu-klug-fuer-die-deutsche-politik) by r2d2 (Aug 28, 2025)
+- [_Die Festung Donbass_](https://apollo-news.net/die-festung-donbass/) by Max Roland (Aug 27, 2025)
 - [_Ingo Zamperoni wählt sich ein neues Volk_](https://www.tichyseinblick.de/feuilleton/medien/ingo-zamperoni-waehlt-sich-ein-neues-volk/) by Klaus-Rüdiger Mai (Aug 26, 2025)
 - [_Elon Musk antwortet auf den Hilferuf von Joachim Paul_](https://www.tichyseinblick.de/meinungen/elon-musk-antwortet-auf-den-hilferuf-von-joachim-paul/) by Redaktion (Aug 26, 2025)
 - [_Das nächste Wahlversprechen gebrochen: Bundesregierung lässt Afghanen aus Pakistan einreisen_](https://deutschlandkurier.de/2025/08/das-naechste-wahlversprechen-gebrochen-bundesregierung-laesst-afghanen-aus-pakistan-einreisen/?utm_source=rss&utm_medium=rss&utm_campaign=das-naechste-wahlversprechen-gebrochen-bundesregierung-laesst-afghanen-aus-pakistan-einreisen) by r2d2 (Aug 26, 2025)
@@ -46,6 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Massenprotest gegen britische Asyl-Politik: Erste Erfolge_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/massenprotest-gegen-britische-asyl-politik-erste-erfolge/) by Richard Schmitt (Aug 26, 2025)
 - [_Mannheim im Würgegriff: Migration, Klima- und Luxusprojekte ruinieren eine Stadt_](https://www.tichyseinblick.de/meinungen/mannheim-im-wuergegriff-migration-klima-luxusprojekte-ruinieren-die-stadt/) by Holger Douglas (Aug 26, 2025)
 - [_Der Fall Sven Liebich ist das Kryptonit der Linken_](https://apollo-news.net/der-fall-sven-liebich-ist-das-kryptonit-der-linken/) by Larissa Fußer (Aug 26, 2025)
-- [_„Willst du, dass andere Kinder wegen dir sterben?“ Vater schreit Fünfjährige in ÖRR-Kurzfilm an, weil sie im Pool schwimmen will_](https://apollo-news.net/willst-du-dass-andere-kinder-wegen-dir-sterben-vater-schreit-fnfjhrige-in-rr-kurzfilm-an-weil-sie-im-pool-schwimmen-will/) by Jonas Aston (Aug 26, 2025)
-- [_Airbnb-Mitgründer neuer Beauftragter für Funktionalität und Ästhetik der US-Webseiten_](https://apollo-news.net/airbnb-mitgruender-neuer-beauftragter-fuer-funktionalitaet-und-aesthetik-der-us-webseiten/) by Redaktion (Aug 24, 2025)
-- [_Deutsche Soldaten in die Ukraine? Klingbeil: Am Geld soll es nicht scheitern!_](https://deutschlandkurier.de/2025/08/deutsche-soldaten-in-die-ukraine-klingbeil-am-geld-soll-es-nicht-scheitern/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-soldaten-in-die-ukraine-klingbeil-am-geld-soll-es-nicht-scheitern) by r2d2 (Aug 24, 2025)
