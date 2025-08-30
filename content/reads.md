@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_USA: US-Richterin ordnet neuen Prozess im Fall Tyre Nichols an_](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-08/usa-tyre-nichols-neues-verfahren-polizisten-tod-schwarzer) by DIE ZEIT: Zeitgeschehen - Anna-Lena Schlitt (Aug 29, 2025)
 - [_Crasht Trump den Finanzmarkt mit Absicht?_](https://hkcmanagement.de/hkcmnews/crasht-trump-den-finanzmarkt-mit-absicht) by Simeon Koch (Aug 28, 2025)
 - [_Mainstream trauert Habeck nach: „Er war zu klug für die deutsche Politik…“_](https://deutschlandkurier.de/2025/08/mainstream-trauert-habeck-nach-er-war-zu-klug-fuer-die-deutsche-politik/?utm_source=rss&utm_medium=rss&utm_campaign=mainstream-trauert-habeck-nach-er-war-zu-klug-fuer-die-deutsche-politik) by r2d2 (Aug 28, 2025)
 - [_Die Festung Donbass_](https://apollo-news.net/die-festung-donbass/) by Max Roland (Aug 27, 2025)
@@ -48,4 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Union fällt um: Mehr als 2000 Afghanen werden eingeflogen_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/union-faellt-um-2000-afghanen-werden-eingeflogen/) by Matthias Nikolaidis (Aug 26, 2025)
 - [_Massenprotest gegen britische Asyl-Politik: Erste Erfolge_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/massenprotest-gegen-britische-asyl-politik-erste-erfolge/) by Richard Schmitt (Aug 26, 2025)
 - [_Mannheim im Würgegriff: Migration, Klima- und Luxusprojekte ruinieren eine Stadt_](https://www.tichyseinblick.de/meinungen/mannheim-im-wuergegriff-migration-klima-luxusprojekte-ruinieren-die-stadt/) by Holger Douglas (Aug 26, 2025)
-- [_Der Fall Sven Liebich ist das Kryptonit der Linken_](https://apollo-news.net/der-fall-sven-liebich-ist-das-kryptonit-der-linken/) by Larissa Fußer (Aug 26, 2025)
