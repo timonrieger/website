@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_How You Can Apply The ZAP_](https://www.zeroaggressionproject.org/) by ZAP - Zero Aggression Project (Sep 03, 2025)
+- [_Cached Thoughts_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre) by Eliezer Yudkowsky (Aug 30, 2025)
+- [_Attire_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/nYkMLFpx77Rz3uo9c) by Eliezer Yudkowsky (Aug 30, 2025)
+- [_Avoiding Your Belief's Real Weak_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dHQkDNMhj692ayx78) by Eliezer Yudkowsky (Aug 30, 2025)
+- [_Is That Your True_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/TGux5Fhcd7GmTfNGC) by Eliezer Yudkowsky (Aug 30, 2025)
+- [_Rationalization_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/SFZoEBpLo9frSJGkc) by Eliezer Yudkowsky (Aug 30, 2025)
+- [_60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge_](https://www.lesswrong.com/posts/GvgmoDts5kphwGyS2/60-u-k-lawmakers-accuse-google-of-breaking-ai-safety-pledge) by Joseph Miller (Aug 30, 2025)
+- [_Wikipedia, but written by AIs_](https://www.lesswrong.com/posts/yFTMGKh9Muqpdtrmb/wikipedia-but-written-by-ais) by Viliam (Aug 30, 2025)
+- [_Here’s 18 Applications of Deception Probes_](https://www.lesswrong.com/posts/7zhAwcBri7yupStKy/here-s-18-applications-of-deception-probes) by Cleo Nardo (Aug 29, 2025)
 - [_USA: US-Richterin ordnet neuen Prozess im Fall Tyre Nichols an_](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-08/usa-tyre-nichols-neues-verfahren-polizisten-tod-schwarzer) by DIE ZEIT: Zeitgeschehen - Anna-Lena Schlitt (Aug 29, 2025)
-- [_Crasht Trump den Finanzmarkt mit Absicht?_](https://hkcmanagement.de/hkcmnews/crasht-trump-den-finanzmarkt-mit-absicht) by Simeon Koch (Aug 28, 2025)
-- [_Mainstream trauert Habeck nach: „Er war zu klug für die deutsche Politik…“_](https://deutschlandkurier.de/2025/08/mainstream-trauert-habeck-nach-er-war-zu-klug-fuer-die-deutsche-politik/?utm_source=rss&utm_medium=rss&utm_campaign=mainstream-trauert-habeck-nach-er-war-zu-klug-fuer-die-deutsche-politik) by r2d2 (Aug 28, 2025)
-- [_Die Festung Donbass_](https://apollo-news.net/die-festung-donbass/) by Max Roland (Aug 27, 2025)
-- [_Ingo Zamperoni wählt sich ein neues Volk_](https://www.tichyseinblick.de/feuilleton/medien/ingo-zamperoni-waehlt-sich-ein-neues-volk/) by Klaus-Rüdiger Mai (Aug 26, 2025)
-- [_Elon Musk antwortet auf den Hilferuf von Joachim Paul_](https://www.tichyseinblick.de/meinungen/elon-musk-antwortet-auf-den-hilferuf-von-joachim-paul/) by Redaktion (Aug 26, 2025)
-- [_Das nächste Wahlversprechen gebrochen: Bundesregierung lässt Afghanen aus Pakistan einreisen_](https://deutschlandkurier.de/2025/08/das-naechste-wahlversprechen-gebrochen-bundesregierung-laesst-afghanen-aus-pakistan-einreisen/?utm_source=rss&utm_medium=rss&utm_campaign=das-naechste-wahlversprechen-gebrochen-bundesregierung-laesst-afghanen-aus-pakistan-einreisen) by r2d2 (Aug 26, 2025)
-- [_Union fällt um: Mehr als 2000 Afghanen werden eingeflogen_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/union-faellt-um-2000-afghanen-werden-eingeflogen/) by Matthias Nikolaidis (Aug 26, 2025)
-- [_Massenprotest gegen britische Asyl-Politik: Erste Erfolge_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/massenprotest-gegen-britische-asyl-politik-erste-erfolge/) by Richard Schmitt (Aug 26, 2025)
-- [_Mannheim im Würgegriff: Migration, Klima- und Luxusprojekte ruinieren eine Stadt_](https://www.tichyseinblick.de/meinungen/mannheim-im-wuergegriff-migration-klima-luxusprojekte-ruinieren-die-stadt/) by Holger Douglas (Aug 26, 2025)
