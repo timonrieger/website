@@ -39,7 +39,9 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_What's up Python? Astral never stops, JetbBrains gives us insights_](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) by Bite Code! (Sep 05, 2025)
 - [_How You Can Apply The ZAP_](https://www.zeroaggressionproject.org/) by ZAP - Zero Aggression Project (Sep 03, 2025)
+- [_The Fallacy of Gray_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dLJv2CoRCgeC2mPgj) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_Cached Thoughts_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_Attire_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/nYkMLFpx77Rz3uo9c) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_Avoiding Your Belief's Real Weak_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dHQkDNMhj692ayx78) by Eliezer Yudkowsky (Aug 30, 2025)
@@ -47,5 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Rationalization_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/SFZoEBpLo9frSJGkc) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge_](https://www.lesswrong.com/posts/GvgmoDts5kphwGyS2/60-u-k-lawmakers-accuse-google-of-breaking-ai-safety-pledge) by Joseph Miller (Aug 30, 2025)
 - [_Wikipedia, but written by AIs_](https://www.lesswrong.com/posts/yFTMGKh9Muqpdtrmb/wikipedia-but-written-by-ais) by Viliam (Aug 30, 2025)
-- [_Here’s 18 Applications of Deception Probes_](https://www.lesswrong.com/posts/7zhAwcBri7yupStKy/here-s-18-applications-of-deception-probes) by Cleo Nardo (Aug 29, 2025)
-- [_USA: US-Richterin ordnet neuen Prozess im Fall Tyre Nichols an_](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-08/usa-tyre-nichols-neues-verfahren-polizisten-tod-schwarzer) by DIE ZEIT: Zeitgeschehen - Anna-Lena Schlitt (Aug 29, 2025)
