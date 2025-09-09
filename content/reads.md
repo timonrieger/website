@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Everyone is talking about this new OpenAI paper_](https://x.com/omarsar0/status/1964443249642447263/?s=19&rw_tt_thread=True) by elvis (Sep 07, 2025)
 - [_What's up Python? Astral never stops, JetbBrains gives us insights_](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) by Bite Code! (Sep 05, 2025)
 - [_How You Can Apply The ZAP_](https://www.zeroaggressionproject.org/) by ZAP - Zero Aggression Project (Sep 03, 2025)
+- [_Dissent_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/CEGnJBHmkcwPTysb7) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_The Fallacy of Gray_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dLJv2CoRCgeC2mPgj) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_Cached Thoughts_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_Attire_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/nYkMLFpx77Rz3uo9c) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_Avoiding Your Belief's Real Weak_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dHQkDNMhj692ayx78) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_Is That Your True_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/TGux5Fhcd7GmTfNGC) by Eliezer Yudkowsky (Aug 30, 2025)
 - [_Rationalization_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/SFZoEBpLo9frSJGkc) by Eliezer Yudkowsky (Aug 30, 2025)
-- [_60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge_](https://www.lesswrong.com/posts/GvgmoDts5kphwGyS2/60-u-k-lawmakers-accuse-google-of-breaking-ai-safety-pledge) by Joseph Miller (Aug 30, 2025)
-- [_Wikipedia, but written by AIs_](https://www.lesswrong.com/posts/yFTMGKh9Muqpdtrmb/wikipedia-but-written-by-ais) by Viliam (Aug 30, 2025)
