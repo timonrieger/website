@@ -7,8 +7,8 @@ url: 'about'
 Hey, I'm Timon. I'm a...
 
 - ...life time learner
-- ...work time software dev (or let's say tinkerer)
-- ...free time self-announced philosopher (does thinking count already?)
+- ...work time developer
+- ...free time rationalist
 
 You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and [tweeting](https://x.com/timonrieger).
 
@@ -23,6 +23,7 @@ Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-pyt
 3. emotions are power
 4. silence is unvaluable
 5. living means being
+6. simplicity wins
 
 ## Current Areas of Interest
 
