@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 11:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 19:00:53 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -163,8 +163,8 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
 &lt;p&gt;Hey, I&amp;rsquo;m Timon. I&amp;rsquo;m a&amp;hellip;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&amp;hellip;life time learner&lt;/li&gt;
-&lt;li&gt;&amp;hellip;work time software dev (or let&amp;rsquo;s say tinkerer)&lt;/li&gt;
-&lt;li&gt;&amp;hellip;free time self-announced philosopher (does thinking count already?)&lt;/li&gt;
+&lt;li&gt;&amp;hellip;work time developer&lt;/li&gt;
+&lt;li&gt;&amp;hellip;free time rationalist&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You will find me either &lt;a href=&#34;https://timonrieger.de/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/reads/&#34;&gt;reading&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/photos/&#34;&gt;photographing&lt;/a&gt; and &lt;a href=&#34;https://x.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you want to get in touch, you can send me an email at contact@ and the domain of this site.&lt;/p&gt;
@@ -176,6 +176,7 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
 &lt;li&gt;emotions are power&lt;/li&gt;
 &lt;li&gt;silence is unvaluable&lt;/li&gt;
 &lt;li&gt;living means being&lt;/li&gt;
+&lt;li&gt;simplicity wins&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;current-areas-of-interest&#34;&gt;Current Areas of Interest&lt;/h2&gt;
 &lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
