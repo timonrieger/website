@@ -39,13 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_I Vibecoded a Dispute Resolution App_](https://www.lesswrong.com/posts/6yqt7ywFKux9XbfaG/i-vibecoded-a-dispute-resolution-app) by sarahconstantin (Sep 16, 2025)
 - [_NRW-Kommunalwahlen: Der große Sieger heißt AfD +++ Ergebnis verdreifacht +++ In drei Ruhrgebiets-Städten in der OB-Stichwahl_](https://deutschlandkurier.de/2025/09/nrw-kommunalwahlen-der-grosse-sieger-heisst-afd-ergebnis-verdreifacht-in-drei-ruhrgebiets-staedten-in-der-ob-stichwahl/?utm_source=rss&utm_medium=rss&utm_campaign=nrw-kommunalwahlen-der-grosse-sieger-heisst-afd-ergebnis-verdreifacht-in-drei-ruhrgebiets-staedten-in-der-ob-stichwahl) by r2d2 (Sep 15, 2025)
 - [_Everyone is talking about this new OpenAI paper_](https://x.com/omarsar0/status/1964443249642447263/?s=19&rw_tt_thread=True) by elvis (Sep 07, 2025)
 - [_What's up Python? Astral never stops, JetbBrains gives us insights_](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) by Bite Code! (Sep 05, 2025)
-- [_How You Can Apply The ZAP_](https://www.zeroaggressionproject.org/) by ZAP - Zero Aggression Project (Sep 03, 2025)
-- [_Dissent_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/CEGnJBHmkcwPTysb7) by Eliezer Yudkowsky (Aug 30, 2025)
-- [_The Fallacy of Gray_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dLJv2CoRCgeC2mPgj) by Eliezer Yudkowsky (Aug 30, 2025)
-- [_Cached Thoughts_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre) by Eliezer Yudkowsky (Aug 30, 2025)
-- [_Attire_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/nYkMLFpx77Rz3uo9c) by Eliezer Yudkowsky (Aug 30, 2025)
-- [_Avoiding Your Belief's Real Weak_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dHQkDNMhj692ayx78) by Eliezer Yudkowsky (Aug 30, 2025)
-- [_Is That Your True_](https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/TGux5Fhcd7GmTfNGC) by Eliezer Yudkowsky (Aug 30, 2025)
