@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Teaching My Toddler To Read_](https://www.lesswrong.com/posts/8kSGbaHTn2xph5Trw/teaching-my-toddler-to-read) by maia (Sep 19, 2025)
 - [_I Vibecoded a Dispute Resolution App_](https://www.lesswrong.com/posts/6yqt7ywFKux9XbfaG/i-vibecoded-a-dispute-resolution-app) by sarahconstantin (Sep 16, 2025)
 - [_NRW-Kommunalwahlen: Der große Sieger heißt AfD +++ Ergebnis verdreifacht +++ In drei Ruhrgebiets-Städten in der OB-Stichwahl_](https://deutschlandkurier.de/2025/09/nrw-kommunalwahlen-der-grosse-sieger-heisst-afd-ergebnis-verdreifacht-in-drei-ruhrgebiets-staedten-in-der-ob-stichwahl/?utm_source=rss&utm_medium=rss&utm_campaign=nrw-kommunalwahlen-der-grosse-sieger-heisst-afd-ergebnis-verdreifacht-in-drei-ruhrgebiets-staedten-in-der-ob-stichwahl) by r2d2 (Sep 15, 2025)
 - [_Everyone is talking about this new OpenAI paper_](https://x.com/omarsar0/status/1964443249642447263/?s=19&rw_tt_thread=True) by elvis (Sep 07, 2025)
