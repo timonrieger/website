@@ -8,7 +8,7 @@ Hey, I'm Timon. I'm a...
 
 - ...life time learner
 - ...work time developer
-- ...free time rationalist
+- ...free time rebel
 
 You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and [tweeting](https://x.com/timonrieger).
 
@@ -25,7 +25,7 @@ Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-pyt
 5. living means being
 6. simplicity wins
 
-## Current Areas of Interest
+## Areas of Interest
 
 ### Software
 
@@ -40,7 +40,7 @@ I am currently playing around with an old HP laptop with Linux Mint installed.
 
 I mainly read older [books](/reads#books) via my Kindle true to the motto: _The older the problem, the older the solution_.
 
-As for shorter reads, I casually jump into [random blogs](https://indieblog.page/) and on a daily basis I read [a mix of programming, lifestyle and politics articles](/reads#articles) via [my RSS reader](https://readwise.io/read).
+As for shorter reads, I casually jump into [random blogs](https://indieblog.page/) and on a daily basis I read [a mix of articles of interest](/reads#articles) via [my RSS reader](https://readwise.io/read).
 
 Although I generally don't consume visual content such as movies, entertainment, news programs and (even) sports (somehow I don't miss it), I do enjoy watching some channels on [Freetube](https://freetubeapp.io/).
 
@@ -53,6 +53,6 @@ Next to listening, I play the piano and occasionally have AI mix a few [house tr
 My current favorites are:
 - [_Gladiator_](https://music.apple.com/de/album/gladiator-soundtrack-from-the-motion-picture/1440563157) ♡ soundtrack by Hans Zimmer esp. _Earth_, _The Battle_, _Honor Him_ and _Now We Are Free_
 
-- [_Wavin' Flag_](https://music.apple.com/de/album/wavin-flag-celebration-mix-feat-f%C3%A9f%C3%A9/1444405394?i=1444405410) as a French remix :D
+- [_BURN IT DOWN_]() 🔥
 
-- [AUTOBAHN](https://music.apple.com/de/album/autobahn/1807163213?i=1807163214) lit'
+- [KALAMANTINA /  كلمنتينا]() 🍊
