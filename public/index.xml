@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Mon, 22 Sep 2025 11:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 18:33:06 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -127,13 +127,6 @@ I want to share my learnings from a study published by &lt;a href=&#34;https://x
       <description>&lt;p&gt;If you&amp;rsquo;re into finance-related content on YouTube, you&amp;rsquo;ve probably seen all these ads where someone is making 20k a month with their crypto signals and that you should definitely join their Telegram group too. Although 99.9% of these groups are definitely scams and don&amp;rsquo;t work at all, I wanted to review how a select group has performed in the past. Note that this is not a public group, but a paid group that I will be backtesting. I got access to this group through my work colleague whose company has access to this group.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About Life and Emotions</title>
-      <link>https://timonrieger.de/blog/about-life-and-emotions/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://timonrieger.de/blog/about-life-and-emotions/</guid>
-      <description>&lt;p&gt;Learning about emotions and how to control them has been one of the best decisions I&amp;rsquo;ve made in recent years. The last post about Marcus Aurelius&amp;rsquo; meditations might plant some seeds for you in this regard.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Life and Ethics</title>
       <link>https://timonrieger.de/blog/about-life-and-ethics/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
@@ -166,6 +159,18 @@ I want to share my learnings from a study published by &lt;a href=&#34;https://x
 &lt;p&gt;You can visit our website &lt;a href=&#34;https://humancoaches.de&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title></title>
+      <link>https://timonrieger.de/blog/4-about-life-and-emotions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timonrieger.de/blog/4-about-life-and-emotions/</guid>
+      <description>&lt;h2 id=&#34;date-2024-06-20t000000&#34;&gt;date: &amp;lsquo;2024-06-20T00:00:00&amp;rsquo;&lt;/h2&gt;
+&lt;h2 id=&#34;url-blogabout-life-and-emotions&#34;&gt;draft: False
+tags: [&amp;lsquo;philosophy&amp;rsquo;, &amp;lsquo;books&amp;rsquo;]
+title: &amp;lsquo;About Life and Emotions&amp;rsquo;
+url: &amp;lsquo;blog/about-life-and-emotions&amp;rsquo;&lt;/h2&gt;
+&lt;p&gt;Learning about emotions and how to control them has been one of the best decisions I&amp;rsquo;ve made in recent years. The last post about Marcus Aurelius&amp;rsquo; meditations might plant some seeds for you in this regard.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://timonrieger.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -175,7 +180,7 @@ I want to share my learnings from a study published by &lt;a href=&#34;https://x
 &lt;ul&gt;
 &lt;li&gt;&amp;hellip;life time learner&lt;/li&gt;
 &lt;li&gt;&amp;hellip;work time developer&lt;/li&gt;
-&lt;li&gt;&amp;hellip;free time rationalist&lt;/li&gt;
+&lt;li&gt;&amp;hellip;free time rebel&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You will find me either &lt;a href=&#34;https://timonrieger.de/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/reads/&#34;&gt;reading&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/photos/&#34;&gt;photographing&lt;/a&gt; and &lt;a href=&#34;https://x.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you want to get in touch, you can send me an email at contact@ and the domain of this site.&lt;/p&gt;
@@ -189,7 +194,7 @@ I want to share my learnings from a study published by &lt;a href=&#34;https://x
 &lt;li&gt;living means being&lt;/li&gt;
 &lt;li&gt;simplicity wins&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;current-areas-of-interest&#34;&gt;Current Areas of Interest&lt;/h2&gt;
+&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;
 &lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
 &lt;p&gt;I originally started with &lt;a href=&#34;https://python.org/&#34;&gt;Python&lt;/a&gt; and developed several web applications with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;.
 Lately I have been mostly using &lt;a href=&#34;http://fastapi.tiangolo.com/&#34;&gt;Fastapi&lt;/a&gt; for API development and learning &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt; for the frontend.&lt;/p&gt;</description>
