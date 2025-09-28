@@ -3,7 +3,6 @@ title: 'About'
 url: 'about'
 ---
 
-## TL;DR
 Hey, I'm Timon. I'm a...
 
 - ...life time learner
@@ -14,9 +13,7 @@ You will find me either [working on projects](/projects), [writing](/blog), [rea
 
 If you want to get in touch, you can send me an email at contact@ and the domain of this site.
 
-## Principles
-
-Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python):
+**The principles I live by:**
 
 1. learning gives purpose
 2. freedom in any way
@@ -25,34 +22,3 @@ Inspired by [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-pyt
 5. living means being
 6. simplicity wins
 
-## Areas of Interest
-
-### Software
-
-I originally started with [Python](https://python.org/) and developed several web applications with [Flask](https://flask.palletsprojects.com/en/stable/). 
-Lately I have been mostly using [Fastapi](http://fastapi.tiangolo.com/) for API development and learning [Svelte](https://svelte.dev/) for the frontend.
-
-I am currently learning about servers, Linux and self-hosting. For both interest and privacy reasons, I want to maintain control over my data and be independent. 
-This is very unfamiliar territory for me, so there is a lot to learn there.
-I am currently playing around with an old HP laptop with Linux Mint installed.
-
-### Reading
-
-I mainly read older [books](/reads#books) via my Kindle true to the motto: _The older the problem, the older the solution_.
-
-As for shorter reads, I casually jump into [random blogs](https://indieblog.page/) and on a daily basis I read [a mix of articles of interest](/reads#articles) via [my RSS reader](https://readwise.io/read).
-
-Although I generally don't consume visual content such as movies, entertainment, news programs and (even) sports (somehow I don't miss it), I do enjoy watching some channels on [Freetube](https://freetubeapp.io/).
-
-### Music
-
-I love listening to music at work and during sports, but never when I'm outside and wherever possible without headphones. Firstly, I don't like the passive, disinterested, isolated posture of wearing headphones and secondly, they just never fit me.
-
-Next to listening, I play the piano and occasionally have AI mix a few [house tracks](https://open.spotify.com/artist/15GsOe41GMRA2JthgYP2IB).
-
-My current favorites are:
-- [_Gladiator_](https://music.apple.com/de/album/gladiator-soundtrack-from-the-motion-picture/1440563157) ♡ soundtrack by Hans Zimmer esp. _Earth_, _The Battle_, _Honor Him_ and _Now We Are Free_
-
-- [_BURN IT DOWN_]() 🔥
-
-- [KALAMANTINA /  كلمنتينا]() 🍊
