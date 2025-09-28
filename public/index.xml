@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 11:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 18:33:06 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -59,19 +59,8 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
       <pubDate>Tue, 24 Jun 2025 15:51:03 +0200</pubDate>
       <guid>https://timonrieger.de/blog/has-the-fed-improved-us-economic-performance/</guid>
       <description>&lt;p&gt;The introduction of the Federal Reserve in the US in 1913 marked a turning point in US and global economics, followed by the abondance of the gold standard by the Fed in 1933.&lt;/p&gt;
-&lt;p&gt;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; Updated upstream
-I want to share my learnings from a study published by &lt;a href=&#34;https://x.com/HoganMonEcon&#34;&gt;Thomas. L. Hogan&lt;/a&gt; in 2014 about the impact of the Federal Reserve on the US economices:&lt;/p&gt;
-&lt;h1 id=&#34;has-the-fed-improved-us-economic-performance&#34;&gt;&lt;em&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2356639&#34;&gt;Has the Fed Improved U.S. Economic Performance?&lt;/a&gt;&lt;/em&gt;&lt;/h1&gt;
-&lt;p&gt;I want to share my learnings from a study* published by &lt;a href=&#34;https://x.com/HoganMonEcon&#34;&gt;Thomas. L. Hogan&lt;/a&gt; in 2014 about the impact of the Federal Reserve on the US economices:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2356639&#34;&gt;Has the Fed Improved U.S. Economic Performance?&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Stashed changes&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;</description>
+&lt;p&gt;I want to share my learnings from a study published by &lt;a href=&#34;https://x.com/HoganMonEcon&#34;&gt;Thomas. L. Hogan&lt;/a&gt; in 2014 about the impact of the Federal Reserve on the US economices:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2356639&#34;&gt;Has the Fed Improved U.S. Economic Performance?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biology Is Intentional</title>
@@ -175,8 +164,7 @@ url: &amp;lsquo;blog/about-life-and-emotions&amp;rsquo;&lt;/h2&gt;
       <link>https://timonrieger.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://timonrieger.de/about/</guid>
-      <description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
-&lt;p&gt;Hey, I&amp;rsquo;m Timon. I&amp;rsquo;m a&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Hey, I&amp;rsquo;m Timon. I&amp;rsquo;m a&amp;hellip;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&amp;hellip;life time learner&lt;/li&gt;
 &lt;li&gt;&amp;hellip;work time developer&lt;/li&gt;
@@ -184,8 +172,7 @@ url: &amp;lsquo;blog/about-life-and-emotions&amp;rsquo;&lt;/h2&gt;
 &lt;/ul&gt;
 &lt;p&gt;You will find me either &lt;a href=&#34;https://timonrieger.de/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/reads/&#34;&gt;reading&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/photos/&#34;&gt;photographing&lt;/a&gt; and &lt;a href=&#34;https://x.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you want to get in touch, you can send me an email at contact@ and the domain of this site.&lt;/p&gt;
-&lt;h2 id=&#34;principles&#34;&gt;Principles&lt;/h2&gt;
-&lt;p&gt;Inspired by &lt;a href=&#34;https://peps.python.org/pep-0020/#the-zen-of-python&#34;&gt;The Zen of Python&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The principles I live by:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;learning gives purpose&lt;/li&gt;
 &lt;li&gt;freedom in any way&lt;/li&gt;
@@ -193,11 +180,7 @@ url: &amp;lsquo;blog/about-life-and-emotions&amp;rsquo;&lt;/h2&gt;
 &lt;li&gt;silence is unvaluable&lt;/li&gt;
 &lt;li&gt;living means being&lt;/li&gt;
 &lt;li&gt;simplicity wins&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;
-&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
-&lt;p&gt;I originally started with &lt;a href=&#34;https://python.org/&#34;&gt;Python&lt;/a&gt; and developed several web applications with &lt;a href=&#34;https://flask.palletsprojects.com/en/stable/&#34;&gt;Flask&lt;/a&gt;.
-Lately I have been mostly using &lt;a href=&#34;http://fastapi.tiangolo.com/&#34;&gt;Fastapi&lt;/a&gt; for API development and learning &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt; for the frontend.&lt;/p&gt;</description>
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Photos</title>
