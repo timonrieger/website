@@ -39,4 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Null Prozent mit deutscher Regierung „sehr zufrieden“ – hat es das schon einmal gegeben?_](https://www.tichyseinblick.de/daili-es-sentials/zufriedenheit-bundesregierung-deutschland-trend-ard/) by Redaktion (Oct 04, 2025)
+- [_Python 3.14 Preview: Better Syntax Error Messages_](https://realpython.com/python314-error-messages/) by Real Python (Oct 01, 2025)
+- [_Astral's ty: A New Blazing-Fast Type Checker for Python_](https://realpython.com/python-ty/) by Real Python (Sep 29, 2025)
 - [_Teaching My Toddler To Read_](https://www.lesswrong.com/posts/8kSGbaHTn2xph5Trw/teaching-my-toddler-to-read) by maia (Sep 19, 2025)
