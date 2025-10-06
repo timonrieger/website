@@ -22,6 +22,8 @@ imaging:
   hint: photo
   quality: 100
   resampleFilter: box
+  exif:
+    includeFields: "Copyright"
 
 enableGitInfo: true
 
