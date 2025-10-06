@@ -12,8 +12,16 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Wed, 19 Feb 2025 22:06:20 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 13:58:39 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Mac Apps With Homebrew</title>
+      <link>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</link>
+      <pubDate>Mon, 06 Oct 2025 13:37:23 +0200</pubDate>
+      <guid>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</guid>
+      <description>&lt;p&gt;This quick guide shows how to install Mac apps with Homebrew Casks and automate App Store installs using the &lt;code&gt;mas&lt;/code&gt; CLI.&lt;/p&gt;
+&lt;p&gt;Homebrew makes it easy to search, inspect, and install third‑party apps, while &lt;code&gt;mas&lt;/code&gt; brings similar convenience for Mac App Store apps so you can script and standardize your setup.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Local AI Development for Free</title>
       <link>https://timonrieger.de/blog/local-ai-development-for-free/</link>

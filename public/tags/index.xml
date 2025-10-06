@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 11:00:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 13:58:39 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>https://timonrieger.de/tags/programming/</link>
+      <pubDate>Mon, 06 Oct 2025 13:37:23 +0200</pubDate>
+      <guid>https://timonrieger.de/tags/programming/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Economics</title>
       <link>https://timonrieger.de/tags/economics/</link>
@@ -26,13 +33,6 @@
       <link>https://timonrieger.de/tags/society/</link>
       <pubDate>Sat, 19 Apr 2025 17:49:23 +0200</pubDate>
       <guid>https://timonrieger.de/tags/society/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://timonrieger.de/tags/programming/</link>
-      <pubDate>Tue, 11 Feb 2025 21:39:48 +0100</pubDate>
-      <guid>https://timonrieger.de/tags/programming/</guid>
       <description></description>
     </item>
     <item>

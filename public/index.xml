@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 12:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 13:58:39 +0200</lastBuildDate>
     <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -52,6 +52,14 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
       <guid>https://timonrieger.de/projects/crypticorn/</guid>
       <description>&lt;p&gt;Crypticorn is a software as a service (SaaS) that allows you to leverage the power of AI in the crypto space. We offer a range of services from price predictions to a automated crypto trading bot.&lt;/p&gt;
 &lt;p&gt;You can visit the website &lt;a href=&#34;https://crypticorn.com&#34;&gt;here&lt;/a&gt; to stay up to date with the latest developments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Installing Mac Apps With Homebrew</title>
+      <link>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</link>
+      <pubDate>Mon, 06 Oct 2025 13:37:23 +0200</pubDate>
+      <guid>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</guid>
+      <description>&lt;p&gt;This quick guide shows how to install Mac apps with Homebrew Casks and automate App Store installs using the &lt;code&gt;mas&lt;/code&gt; CLI.&lt;/p&gt;
+&lt;p&gt;Homebrew makes it easy to search, inspect, and install third‑party apps, while &lt;code&gt;mas&lt;/code&gt; brings similar convenience for Mac App Store apps so you can script and standardize your setup.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Has the Fed Improved US Economic Performance?</title>
@@ -199,7 +207,7 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
 &lt;li&gt;No IP tracking&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;embeds&#34;&gt;Embeds&lt;/h2&gt;
-&lt;p&gt;I avoid third‑party embeds. If I ever add one (e.g., a video or social post), I use &lt;a href=&#34;https://gohugo.io/configuration/privacy/&#34;&gt;Hugo’s privacy settings&lt;/a&gt; to reduce or disable tracking.&lt;/p&gt;
+&lt;p&gt;I avoid third‑party embeds. If I ever add one (e.g., a video or social post), I use &lt;a href=&#34;https://gohugo.io/configuration/privacy/&#34;&gt;Hugo&amp;rsquo;s privacy settings&lt;/a&gt; to reduce or disable tracking.&lt;/p&gt;
 &lt;p&gt;My current configuration:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;privacy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
