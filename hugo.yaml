@@ -170,7 +170,7 @@ params:
       url: "https://x.com/timonrieger"
 
   footer:
-    text: "[Status](https://stats.uptimerobot.com/nrF9tU3KtX)"
+    text: "[Status](https://stats.uptimerobot.com/nrF9tU3KtX) · [Privacy](/privacy-policy)"
     hideCopyright: false
 
   # editPost:
@@ -224,7 +224,7 @@ markup:
 
 privacy:
 
-  twitter:
+  x:
     disabled: false
     enableDNT: true
     simple: false
@@ -239,5 +239,5 @@ privacy:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
