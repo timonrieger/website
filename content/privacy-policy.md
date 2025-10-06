@@ -14,7 +14,7 @@ url: 'privacy-policy'
 
 ## Embeds
 
-I avoid third‑party embeds. If I ever add one (e.g., a video or social post), I use [Hugo’s privacy settings](https://gohugo.io/configuration/privacy/) to reduce or disable tracking.
+I avoid third‑party embeds. If I ever add one (e.g., a video or social post), I use [Hugo's privacy settings](https://gohugo.io/configuration/privacy/) to reduce or disable tracking.
 
 My current configuration:
 
