@@ -1,5 +1,5 @@
 ---
-date: '2024-06-21T00:00:00'
+date: '2024-06-21'
 draft: False
 tags: ['crypto', 'data-analysis']
 title: 'Backtesting a Crypto Trading Signals Group'

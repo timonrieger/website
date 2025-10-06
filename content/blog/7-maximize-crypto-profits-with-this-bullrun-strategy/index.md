@@ -1,5 +1,5 @@
 ---
-date: '2024-08-13T00:00:00'
+date: '2024-08-13'
 draft: False
 tags: ['crypto']
 title: 'Maximize Crypto Profits with This Bullrun Strategy'

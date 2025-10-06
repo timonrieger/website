@@ -1,5 +1,5 @@
 ---
-date: '2024-06-26T00:00:00'
+date: '2024-06-26'
 draft: False
 tags: ['data-analysis']
 title: 'Building a Betting Strategy (1)'
