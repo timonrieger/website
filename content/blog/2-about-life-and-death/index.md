@@ -10,7 +10,7 @@ While reading the Meditations of Marcus Aurelius, I saved some passages using [R
 
 <!--more-->
 
-I have grouped the quotes according to the topic. You are reading [about life and death](/blog/about-life-and-death) and there is [about life and emotions](/blog/about-life-and-emotions) and [about life and ethics](/blog/about-life-and-ethics), too.
+I have grouped the quotes according to the topic. You are reading [_About Life and Death_](/blog/about-life-and-death) and there is [_About Life and Emotions_](/blog/about-life-and-emotions) and [_About Life and Ethics_](/blog/about-life-and-ethics), too.
 
 As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless. 
 
