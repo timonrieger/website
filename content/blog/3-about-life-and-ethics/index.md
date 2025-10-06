@@ -1,5 +1,5 @@
 ---
-date: '2024-05-15T00:00:00'
+date: '2024-05-15'
 draft: False
 tags: ['philosophy', 'books']
 title: 'About Life and Ethics'
