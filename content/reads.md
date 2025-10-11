@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_1/ Since a lot of people are waking up to..._](https://x.com/0xdoug/status/1976850615621107743/?s=19&rw_tt_thread=True) by Doug Colkitt (Oct 11, 2025)
 - [_16 Rules For Living With Less_](https://readwise.io/reader/document_raw_content/6819489) by Joshua Fields Millburn (Oct 07, 2025)
 - [_Null Prozent mit deutscher Regierung „sehr zufrieden“ – hat es das schon einmal gegeben?_](https://www.tichyseinblick.de/daili-es-sentials/zufriedenheit-bundesregierung-deutschland-trend-ard/) by Redaktion (Oct 04, 2025)
 - [_Python 3.14 Preview: Better Syntax Error Messages_](https://realpython.com/python314-error-messages/) by Real Python (Oct 01, 2025)
