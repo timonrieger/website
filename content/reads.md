@@ -39,6 +39,9 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_pyx: a Python-native package registry, now in Beta_](https://astral.sh/blog/introducing-pyx) by charlie@astral.sh (Charlie Marsh) (Oct 14, 2025)
+- [_Astral OSS Fund: One Year Later_](https://astral.sh/blog/astral-oss-fund-one-year-later) by zanie@astral.sh (Zanie Blue) (Oct 14, 2025)
+- [_Ruff v0.13.0_](https://astral.sh/blog/ruff-v0.13.0) by brent@astral.sh (Brent Westbrook) (Oct 14, 2025)
 - [_1/ Since a lot of people are waking up to..._](https://x.com/0xdoug/status/1976850615621107743/?s=19&rw_tt_thread=True) by Doug Colkitt (Oct 11, 2025)
 - [_16 Rules For Living With Less_](https://readwise.io/reader/document_raw_content/6819489) by Joshua Fields Millburn (Oct 07, 2025)
 - [_Null Prozent mit deutscher Regierung „sehr zufrieden“ – hat es das schon einmal gegeben?_](https://www.tichyseinblick.de/daili-es-sentials/zufriedenheit-bundesregierung-deutschland-trend-ard/) by Redaktion (Oct 04, 2025)
