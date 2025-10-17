@@ -35,15 +35,17 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_The Most Powerful Life Hacks I've Found_](https://www.sahilbloom.com/newsletter/the-most-powerful-life-hacks-ive-found) by sahilbloom.com (Feb 25, 2025)
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
-- [_Volkswirtschaftslehre: Eine Praxisorientierte Einführung_](https://readwise.io/reader/document_raw_content/304042575) by Andreas Forner (May 15, 2025)
+- [_16 Rules For Living With Less_](https://readwise.io/reader/document_raw_content/6819489) by Joshua Fields Millburn (Oct 17, 2025)
 
 ### Latest
 
+- [_Klimapolitik: "Die Frage ist, ob es überhaupt Kipppunkte gibt" | DIE ZEIT_](https://www.zeit.de/politik/2025-10/klimapolitik-mojib-latif-kipppunkte-politikpodcast) by Ileana Grabitz (Oct 17, 2025)
+- [_3-2-1: A simple practice for peace, how to become disciplined, and being bold_](https://jamesclear.com/3-2-1/october-16-2025) by James Clear - 3-2-1 Thursday Newsletter (Oct 17, 2025)
+- [_Polars vs pandas: What's the Difference?_](https://realpython.com/polars-vs-pandas/) by Real Python (Oct 15, 2025)
 - [_pyx: a Python-native package registry, now in Beta_](https://astral.sh/blog/introducing-pyx) by charlie@astral.sh (Charlie Marsh) (Oct 14, 2025)
 - [_Astral OSS Fund: One Year Later_](https://astral.sh/blog/astral-oss-fund-one-year-later) by zanie@astral.sh (Zanie Blue) (Oct 14, 2025)
 - [_Ruff v0.13.0_](https://astral.sh/blog/ruff-v0.13.0) by brent@astral.sh (Brent Westbrook) (Oct 14, 2025)
+- [_Python 3.14_](https://astral.sh/blog/python-3.14) by brent@astral.sh (Brent Westbrook) (Oct 14, 2025)
+- [_Python 3.14 - What didn't make the headlines_](https://www.bitecode.dev/p/python-314-what-didnt-make-the-headlines) by Bite Code! (Oct 12, 2025)
+- [_15 tips on 'making it' in this bull run -_](https://x.com/CryptoSrm/status/1765728916113678710/?rw_tt_thread=True) by CV (Oct 11, 2025)
 - [_1/ Since a lot of people are waking up to..._](https://x.com/0xdoug/status/1976850615621107743/?s=19&rw_tt_thread=True) by Doug Colkitt (Oct 11, 2025)
-- [_16 Rules For Living With Less_](https://readwise.io/reader/document_raw_content/6819489) by Joshua Fields Millburn (Oct 07, 2025)
-- [_Null Prozent mit deutscher Regierung „sehr zufrieden“ – hat es das schon einmal gegeben?_](https://www.tichyseinblick.de/daili-es-sentials/zufriedenheit-bundesregierung-deutschland-trend-ard/) by Redaktion (Oct 04, 2025)
-- [_Python 3.14 Preview: Better Syntax Error Messages_](https://realpython.com/python314-error-messages/) by Real Python (Oct 01, 2025)
-- [_Astral's ty: A New Blazing-Fast Type Checker for Python_](https://realpython.com/python-ty/) by Real Python (Sep 29, 2025)
