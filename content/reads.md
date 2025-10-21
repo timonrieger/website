@@ -12,11 +12,12 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr 18, 2024)
 - [_Die Kunst Des Klaren Denkens_](https://amazon.com/dp/B005MPFALW) by Rolf Dobelli (Feb 09, 2024)
 - [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov 14, 2024)
-- [_How to Win Friends and Influence People_](https://amazon.com/dp/B003WEAI4E) by Dale Carnegie (Dec 20, 2023)
+- [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
 
 ### Latest
 
-- [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Aug 06, 2025)
+- [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Oct 20, 2025)
+- [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
 - [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Apr 09, 2025)
 - _Volkswirtschaftslehre_ by Andreas Forner (Mar 23, 2025)
 - [_Komm, Ich Erzähl Dir Eine Geschichte_](https://amazon.com/dp/B005NZHBUE) by Jorge Bucay (Feb 03, 2025)
@@ -25,7 +26,6 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Der Almanach Von Naval Ravikant_](https://amazon.com/dp/B092376RD6) by Eric Jorgenson (Jul 25, 2024)
 - [_Die Gesetze Der Gewinner_](https://amazon.com/dp/B0885SSDDL) by Bodo Schäfer (Jun 28, 2024)
 - [_The Prophet_](https://amazon.com/dp/B07MC95HHJ) by Kahlil Gibran (May 31, 2024)
-- [_Über Den Umgang Mit Menschen_](https://amazon.com/dp/B00D8E5AU0) by Adolph Freiherr von Knigge (May 26, 2024)
 
 ## Articles
 
@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Real-Name Policies: The War Against Pseudonymity_](https://www.privacyguides.org/posts/2025/10/15/real-name-policies/) by Em (Oct 21, 2025)
+- [_EU explained in 10 minutes_](https://www.lesswrong.com/posts/88CaT5RPZLqrCmFLL/eu-explained-in-10-minutes) by Martin Sustrik (Oct 21, 2025)
+- [_Humanity Learned Almost Nothing From COVID-19_](https://www.lesswrong.com/posts/pvEuEN6eMZC2hqG9c/humanity-learned-almost-nothing-from-covid-19) by niplav (Oct 20, 2025)
 - [_Klimapolitik: "Die Frage ist, ob es überhaupt Kipppunkte gibt" | DIE ZEIT_](https://www.zeit.de/politik/2025-10/klimapolitik-mojib-latif-kipppunkte-politikpodcast) by Ileana Grabitz (Oct 17, 2025)
 - [_3-2-1: A simple practice for peace, how to become disciplined, and being bold_](https://jamesclear.com/3-2-1/october-16-2025) by James Clear - 3-2-1 Thursday Newsletter (Oct 17, 2025)
 - [_Polars vs pandas: What's the Difference?_](https://realpython.com/polars-vs-pandas/) by Real Python (Oct 15, 2025)
 - [_pyx: a Python-native package registry, now in Beta_](https://astral.sh/blog/introducing-pyx) by charlie@astral.sh (Charlie Marsh) (Oct 14, 2025)
+- [_A variant-enabled build of uv_](https://astral.sh/blog/wheel-variants) by charlie@astral.sh (Charlie Marsh) (Oct 14, 2025)
 - [_Astral OSS Fund: One Year Later_](https://astral.sh/blog/astral-oss-fund-one-year-later) by zanie@astral.sh (Zanie Blue) (Oct 14, 2025)
 - [_Ruff v0.13.0_](https://astral.sh/blog/ruff-v0.13.0) by brent@astral.sh (Brent Westbrook) (Oct 14, 2025)
-- [_Python 3.14_](https://astral.sh/blog/python-3.14) by brent@astral.sh (Brent Westbrook) (Oct 14, 2025)
-- [_Python 3.14 - What didn't make the headlines_](https://www.bitecode.dev/p/python-314-what-didnt-make-the-headlines) by Bite Code! (Oct 12, 2025)
-- [_15 tips on 'making it' in this bull run -_](https://x.com/CryptoSrm/status/1765728916113678710/?rw_tt_thread=True) by CV (Oct 11, 2025)
-- [_1/ Since a lot of people are waking up to..._](https://x.com/0xdoug/status/1976850615621107743/?s=19&rw_tt_thread=True) by Doug Colkitt (Oct 11, 2025)
