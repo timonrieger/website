@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Tim B. - my true purpose_](https://jryng.com/thoughts/my-purpose) by jryng.com (Oct 21, 2025)
 - [_Real-Name Policies: The War Against Pseudonymity_](https://www.privacyguides.org/posts/2025/10/15/real-name-policies/) by Em (Oct 21, 2025)
 - [_EU explained in 10 minutes_](https://www.lesswrong.com/posts/88CaT5RPZLqrCmFLL/eu-explained-in-10-minutes) by Martin Sustrik (Oct 21, 2025)
+- [_Token Exfiltration Campaign via GitHub Actions Workflows_](https://pycoders.com/link/15255/feed) by pypi.org (Oct 20, 2025)
 - [_Humanity Learned Almost Nothing From COVID-19_](https://www.lesswrong.com/posts/pvEuEN6eMZC2hqG9c/humanity-learned-almost-nothing-from-covid-19) by niplav (Oct 20, 2025)
 - [_Klimapolitik: "Die Frage ist, ob es überhaupt Kipppunkte gibt" | DIE ZEIT_](https://www.zeit.de/politik/2025-10/klimapolitik-mojib-latif-kipppunkte-politikpodcast) by Ileana Grabitz (Oct 17, 2025)
 - [_3-2-1: A simple practice for peace, how to become disciplined, and being bold_](https://jamesclear.com/3-2-1/october-16-2025) by James Clear - 3-2-1 Thursday Newsletter (Oct 17, 2025)
 - [_Polars vs pandas: What's the Difference?_](https://realpython.com/polars-vs-pandas/) by Real Python (Oct 15, 2025)
 - [_pyx: a Python-native package registry, now in Beta_](https://astral.sh/blog/introducing-pyx) by charlie@astral.sh (Charlie Marsh) (Oct 14, 2025)
 - [_A variant-enabled build of uv_](https://astral.sh/blog/wheel-variants) by charlie@astral.sh (Charlie Marsh) (Oct 14, 2025)
-- [_Astral OSS Fund: One Year Later_](https://astral.sh/blog/astral-oss-fund-one-year-later) by zanie@astral.sh (Zanie Blue) (Oct 14, 2025)
-- [_Ruff v0.13.0_](https://astral.sh/blog/ruff-v0.13.0) by brent@astral.sh (Brent Westbrook) (Oct 14, 2025)
