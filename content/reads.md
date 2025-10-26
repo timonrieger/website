@@ -40,6 +40,8 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 ### Latest
 
 - [_Dumb Phones & Privacy: Digital Minimalism with Jose Briones_](https://discuss.techlore.tech/t/dumb-phones-privacy-digital-minimalism-with-jose-briones/15742#post_1) by @system system (Oct 24, 2025)
+- [_You Don’t Need Bulletproof. You Need Tools That Survive Collapse._](https://untraceabledigitaldissident.com/resilient-tech-privacy-tools/) by Untraceable Digital Dissident  (Oct 23, 2025)
+- [_The Complete Guide to Locking Down Your Digital Life_](https://untraceabledigitaldissident.com/complete-guide-locking-down-your-digital-life/) by Untraceable Digital Dissident  (Oct 23, 2025)
 - [_Looking for advice and opinions on iPhone privacy strategies_](https://discuss.techlore.tech/t/looking-for-advice-and-opinions-on-iphone-privacy-strategies/15734#post_6) by @Encrypted15 alone_obtuse0s@icloud.com (Oct 23, 2025)
 - [_Do you use an extra password for Proton Pass?_](https://discuss.privacyguides.net/t/do-you-use-an-extra-password-for-proton-pass/32272#post_5) by @subzero Mother Is A Gambler (Oct 23, 2025)
 - [_AliasVault: Open-Source E2EE Password & (Email) Alias Manager_](https://discuss.privacyguides.net/t/aliasvault-open-source-e2ee-password-email-alias-manager/24436?page=6#post_120) by @lanedirt Leendert (Oct 23, 2025)
@@ -47,5 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Real-Name Policies: The War Against Pseudonymity_](https://www.privacyguides.org/posts/2025/10/15/real-name-policies/) by Em (Oct 21, 2025)
 - [_EU explained in 10 minutes_](https://www.lesswrong.com/posts/88CaT5RPZLqrCmFLL/eu-explained-in-10-minutes) by Martin Sustrik (Oct 21, 2025)
 - [_Token Exfiltration Campaign via GitHub Actions Workflows_](https://pycoders.com/link/15255/feed) by pypi.org (Oct 20, 2025)
-- [_Humanity Learned Almost Nothing From COVID-19_](https://www.lesswrong.com/posts/pvEuEN6eMZC2hqG9c/humanity-learned-almost-nothing-from-covid-19) by niplav (Oct 20, 2025)
-- [_Klimapolitik: "Die Frage ist, ob es überhaupt Kipppunkte gibt" | DIE ZEIT_](https://www.zeit.de/politik/2025-10/klimapolitik-mojib-latif-kipppunkte-politikpodcast) by Ileana Grabitz (Oct 17, 2025)
