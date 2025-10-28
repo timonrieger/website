@@ -8,13 +8,13 @@ cover:
 ---
 Filmhub is a platform for discovering and sharing movies. It is a web application that allows users to rank movies and share them with friends.
 
-You can visit the website [here](https://filmhub.timonrieger.com) and the code on [Github](https://github.com/timonrieger/filmhub).
+You can view the code on [Github](https://github.com/timonrieger/filmhub).
 
 <!--more-->
 
 ## Intention
 
-This was also a project during the 100 days of code challenge. I improved some design but other than that I didn't change much. It's rather a exercise in backend development than a real project. However, for the record I list it here.
+This was also a project during the 100 days of code challenge. I improved some design but other than that I didn't change much. It's rather a exercise in backend development than a real project.
 
 ## Timeline
 
