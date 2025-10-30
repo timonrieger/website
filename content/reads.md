@@ -47,5 +47,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_AliasVault: Open-Source E2EE Password & (Email) Alias Manager_](https://discuss.privacyguides.net/t/aliasvault-open-source-e2ee-password-email-alias-manager/24436?page=6#post_120) by @lanedirt Leendert (Oct 23, 2025)
 - [_Tim B. - my true purpose_](https://jryng.com/thoughts/my-purpose) by jryng.com (Oct 21, 2025)
 - [_Real-Name Policies: The War Against Pseudonymity_](https://www.privacyguides.org/posts/2025/10/15/real-name-policies/) by Em (Oct 21, 2025)
-- [_EU explained in 10 minutes_](https://www.lesswrong.com/posts/88CaT5RPZLqrCmFLL/eu-explained-in-10-minutes) by Martin Sustrik (Oct 21, 2025)
-- [_Token Exfiltration Campaign via GitHub Actions Workflows_](https://pycoders.com/link/15255/feed) by pypi.org (Oct 20, 2025)
