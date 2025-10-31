@@ -16,7 +16,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
-- [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Oct 20, 2025)
+- [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Oct 30, 2025)
 - [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
 - [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Apr 09, 2025)
 - _Volkswirtschaftslehre_ by Andreas Forner (Mar 23, 2025)
@@ -45,5 +45,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Looking for advice and opinions on iPhone privacy strategies_](https://discuss.techlore.tech/t/looking-for-advice-and-opinions-on-iphone-privacy-strategies/15734#post_6) by @Encrypted15 alone_obtuse0s@icloud.com (Oct 23, 2025)
 - [_Do you use an extra password for Proton Pass?_](https://discuss.privacyguides.net/t/do-you-use-an-extra-password-for-proton-pass/32272#post_5) by @subzero Mother Is A Gambler (Oct 23, 2025)
 - [_AliasVault: Open-Source E2EE Password & (Email) Alias Manager_](https://discuss.privacyguides.net/t/aliasvault-open-source-e2ee-password-email-alias-manager/24436?page=6#post_120) by @lanedirt Leendert (Oct 23, 2025)
-- [_Tim B. - my true purpose_](https://jryng.com/thoughts/my-purpose) by jryng.com (Oct 21, 2025)
-- [_Real-Name Policies: The War Against Pseudonymity_](https://www.privacyguides.org/posts/2025/10/15/real-name-policies/) by Em (Oct 21, 2025)
