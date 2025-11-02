@@ -36,7 +36,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
 - [_16 Rules For Living With Less_](https://readwise.io/reader/document_raw_content/6819489) by Joshua Fields Millburn (Oct 17, 2025)
-
-### Latest
-
-- [_Dumb Phones & Privacy: Digital Minimalism with Jose Briones_](https://discuss.techlore.tech/t/dumb-phones-privacy-digital-minimalism-with-jose-briones/15742#post_1) by @system system (Oct 24, 2025)
