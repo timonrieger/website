@@ -36,3 +36,8 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
 - [_16 Rules For Living With Less_](https://readwise.io/reader/document_raw_content/6819489) by Joshua Fields Millburn (Oct 17, 2025)
+
+### Latest
+
+- [_When the cloud goes dark: lessons from the AWS outage._](https://www.storj.io/blog/when-the-cloud-goes-dark-lessons-from-the-aws-outage) by storj.io (Oct 31, 2025)
+- [_Robotik 2025: Die Maschinen übernehmen – und wir schauen nur zu?_](https://hkcmanagement.de/hkcmnews/robotik-2025-die-maschinen-ubernehmen-und-wir-schauen-nur-zu) by Manuel Gottschalk (Oct 30, 2025)
