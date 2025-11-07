@@ -40,4 +40,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 ### Latest
 
 - [_When the cloud goes dark: lessons from the AWS outage._](https://www.storj.io/blog/when-the-cloud-goes-dark-lessons-from-the-aws-outage) by storj.io (Oct 31, 2025)
-- [_Robotik 2025: Die Maschinen übernehmen – und wir schauen nur zu?_](https://hkcmanagement.de/hkcmnews/robotik-2025-die-maschinen-ubernehmen-und-wir-schauen-nur-zu) by Manuel Gottschalk (Oct 30, 2025)
