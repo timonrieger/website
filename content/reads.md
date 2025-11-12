@@ -16,7 +16,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
-- [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Oct 30, 2025)
+- [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Nov 02, 2025)
 - [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
 - [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Apr 09, 2025)
 - _Volkswirtschaftslehre_ by Andreas Forner (Mar 23, 2025)
