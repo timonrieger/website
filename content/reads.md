@@ -39,5 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Weihnachtsmarkt verbietet Bargeld – bei Verstößen drohen massive Strafen für Händler_](https://apollo-news.net/weihnachtsmarkt-verbietet-bargeld-bei-verstoszen-drohen-massiven-strafen-fur-handler/) by Redaktion (Nov 15, 2025)
+- [_Lidl versieht jetzt auch Rinder-Produkte und Fisch mit Diebstahlschutz_](https://apollo-news.net/lidl-versieht-jetzt-auch-rinder-produkte-und-fisch-mit-diebstahlschutz/) by Redaktion (Nov 15, 2025)
 - [_„Wir haben größtes Verständnis dafür“: CDU befürwortet Kontokündigungen von AfD-Politikern_](https://apollo-news.net/wir-haben-grtes-verstndnis-dafr-cdu-befrwortet-kontokndigungen-von-afd-politikern/) by Marie Rahenbrock (Nov 14, 2025)
 - [_What's up Python? You already know :)_](https://www.bitecode.dev/p/whats-up-python-you-already-know) by Bite Code! (Nov 10, 2025)
