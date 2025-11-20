@@ -42,7 +42,7 @@ def get_readwise_data(category):
         }
         for item in response
         if item["title"] != "Quick Passages"
-        and (item["num_highlights"] > 1 or category != BOOKS)
+        and (item["num_highlights"] > 0 or category != BOOKS)
     ]
     last = sorted(item_list, key=lambda x: x["date"], reverse=True)[:10]
     favorites = (
