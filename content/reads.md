@@ -16,6 +16,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Nov 09, 2025)
 - [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Nov 02, 2025)
 - [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
 - [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Apr 09, 2025)
@@ -25,7 +26,6 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov 14, 2024)
 - [_Der Almanach Von Naval Ravikant_](https://amazon.com/dp/B092376RD6) by Eric Jorgenson (Jul 25, 2024)
 - [_Die Gesetze Der Gewinner_](https://amazon.com/dp/B0885SSDDL) by Bodo Schäfer (Jun 28, 2024)
-- [_The Prophet_](https://amazon.com/dp/B07MC95HHJ) by Kahlil Gibran (May 31, 2024)
 
 ## Articles
 
@@ -41,4 +41,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 - [_Weihnachtsmarkt verbietet Bargeld – bei Verstößen drohen massive Strafen für Händler_](https://apollo-news.net/weihnachtsmarkt-verbietet-bargeld-bei-verstoszen-drohen-massiven-strafen-fur-handler/) by Redaktion (Nov 15, 2025)
 - [_Lidl versieht jetzt auch Rinder-Produkte und Fisch mit Diebstahlschutz_](https://apollo-news.net/lidl-versieht-jetzt-auch-rinder-produkte-und-fisch-mit-diebstahlschutz/) by Redaktion (Nov 15, 2025)
-- [_„Wir haben größtes Verständnis dafür“: CDU befürwortet Kontokündigungen von AfD-Politikern_](https://apollo-news.net/wir-haben-grtes-verstndnis-dafr-cdu-befrwortet-kontokndigungen-von-afd-politikern/) by Marie Rahenbrock (Nov 14, 2025)
