@@ -39,5 +39,5 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
-- [_Weihnachtsmarkt verbietet Bargeld – bei Verstößen drohen massive Strafen für Händler_](https://apollo-news.net/weihnachtsmarkt-verbietet-bargeld-bei-verstoszen-drohen-massiven-strafen-fur-handler/) by Redaktion (Nov 15, 2025)
-- [_Lidl versieht jetzt auch Rinder-Produkte und Fisch mit Diebstahlschutz_](https://apollo-news.net/lidl-versieht-jetzt-auch-rinder-produkte-und-fisch-mit-diebstahlschutz/) by Redaktion (Nov 15, 2025)
+- [_Authenticator App: How to choose which one to trust?_](https://discuss.privacyguides.net/t/authenticator-app-how-to-choose-which-one-to-trust/32995#post_16) by @kissu (Nov 22, 2025)
+- [_Fußball-Bundesliga: 6:2 nach 0:2: Bayern feiern sich nach Comeback-Gala_](https://www.zeit.de/news/2025-11/22/bayern-gelingt-nach-0-2-rueckstand-grosse-comeback-gala) by DIE ZEIT: News - (Nov 22, 2025)
