@@ -39,5 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_12 email management tips to organize your inbox and improve creativity_](https://proton.me/blog/email-management) by Proton (Nov 23, 2025)
 - [_Authenticator App: How to choose which one to trust?_](https://discuss.privacyguides.net/t/authenticator-app-how-to-choose-which-one-to-trust/32995#post_16) by @kissu (Nov 22, 2025)
 - [_Fußball-Bundesliga: 6:2 nach 0:2: Bayern feiern sich nach Comeback-Gala_](https://www.zeit.de/news/2025-11/22/bayern-gelingt-nach-0-2-rueckstand-grosse-comeback-gala) by DIE ZEIT: News - (Nov 22, 2025)
+- [_Der beste Finanztipp: Was Philip Klinkmüller, das Phantom und Murat Örs Anlegern raten_](https://hkcmanagement.de/hkcmnews/der-beste-finanztipp-was-philip-klinkmuller-das-phantom-und-murat-ors-anlegern-raten) by HKCM (Nov 20, 2025)
