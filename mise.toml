@@ -1,0 +1,2 @@
+[tasks.build]
+run = "hugo --minify --gc --cleanDestinationDir --templateMetrics"
