@@ -36,7 +36,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
 - [_16 Rules For Living With Less_](https://readwise.io/reader/document_raw_content/6819489) by Joshua Fields Millburn (Oct 17, 2025)
-
-### Latest
-
-- [_12 email management tips to organize your inbox and improve creativity_](https://proton.me/blog/email-management) by Proton (Nov 23, 2025)
