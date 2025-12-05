@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Society on timonrieger.de</title>
-    <link>https://timonrieger.de/tags/society/</link>
-    <description>Recent content in Society on timonrieger.de</description>
+    <title>Tech on timonrieger.de</title>
+    <link>https://timonrieger.de/tags/tech/</link>
+    <description>Recent content in Tech on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
       <url>https://timonrieger.de/images/papermod-cover.png</url>
@@ -12,8 +12,8 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Sat, 19 Apr 2025 18:15:40 +0200</lastBuildDate>
-    <atom:link href="https://timonrieger.de/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Nov 2025 23:57:35 +0100</lastBuildDate>
+    <atom:link href="https://timonrieger.de/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Internet Is Breaking</title>
       <link>https://timonrieger.de/blog/the-internet-is-breaking/</link>
@@ -22,11 +22,11 @@
       <description>&lt;p&gt;The internet is breaking. And it&amp;rsquo;s happening fast. Your favorite websites are going down, your favorite apps are not working, your favorite services are not available. And it happens all the time, at a rate that is concerning. There is a fix.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Biology Is Intentional</title>
-      <link>https://timonrieger.de/blog/biology-is-intentional/</link>
-      <pubDate>Sat, 19 Apr 2025 17:49:23 +0200</pubDate>
-      <guid>https://timonrieger.de/blog/biology-is-intentional/</guid>
-      <description>&lt;p&gt;The other day, I came across a great video podcast that made me think about biologoy, relationships and happiness. I want to elaborate a bit on my thoughts about the topics that were part of the conversation.&lt;/p&gt;</description>
+      <title>Heaven, Not Cloud</title>
+      <link>https://timonrieger.de/blog/heaven-not-cloud/</link>
+      <pubDate>Sun, 30 Nov 2025 23:53:29 +0100</pubDate>
+      <guid>https://timonrieger.de/blog/heaven-not-cloud/</guid>
+      <description>&lt;p&gt;I planned it for a while, finally realized it: a own server. It&amp;rsquo;s more than just a server, it&amp;rsquo;s a cloud. And, it&amp;rsquo;s about freedom, ownership and a philosophy. Explaining the why and how and the stack we are running.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
