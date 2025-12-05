@@ -1,7 +1,7 @@
 ---
 date: '2025-11-30T23:53:29+01:00'
 draft: false
-tags: ['programming']
+tags: ['programming', 'tech']
 title: 'Heaven, Not Cloud'
 url: 'blog/heaven-not-cloud'
 ---
