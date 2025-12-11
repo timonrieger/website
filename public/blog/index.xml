@@ -14,6 +14,13 @@
     <copyright>Timon Rieger</copyright>
     <atom:link href="https://timonrieger.de/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Finding Orphan Packages in Homebrew</title>
+      <link>https://timonrieger.de/blog/finding-orphan-packages-in-homebrew/</link>
+      <pubDate>Thu, 11 Dec 2025 11:52:07 +0100</pubDate>
+      <guid>https://timonrieger.de/blog/finding-orphan-packages-in-homebrew/</guid>
+      <description>&lt;p&gt;Keeping your software up to date is important to stay safe. I recently watched &lt;a href=&#34;https://www.youtube.com/watch?v=_Zrqpgbb3n0&#34;&gt;Hacker - We get you within 5 minutes!&lt;/a&gt;, which talks about security mistakes people and companies make. So keep your software up to date!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Internet Is Breaking</title>
       <link>https://timonrieger.de/blog/the-internet-is-breaking/</link>
       <pubDate>Fri, 05 Dec 2025 22:40:03 +0100</pubDate>

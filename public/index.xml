@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Wed, 10 Dec 2025 11:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 11:01:47 +0000</lastBuildDate>
     <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -52,6 +52,13 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
       <guid>https://timonrieger.de/projects/crypticorn/</guid>
       <description>&lt;p&gt;Crypticorn is a software as a service (SaaS) that allows you to leverage the power of AI in the crypto space. We offer a range of services from price predictions to a automated crypto trading bot.&lt;/p&gt;
 &lt;p&gt;You can visit the website &lt;a href=&#34;https://crypticorn.com&#34;&gt;here&lt;/a&gt; to stay up to date with the latest developments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finding Orphan Packages in Homebrew</title>
+      <link>https://timonrieger.de/blog/finding-orphan-packages-in-homebrew/</link>
+      <pubDate>Thu, 11 Dec 2025 11:52:07 +0100</pubDate>
+      <guid>https://timonrieger.de/blog/finding-orphan-packages-in-homebrew/</guid>
+      <description>&lt;p&gt;Keeping your software up to date is important to stay safe. I recently watched &lt;a href=&#34;https://www.youtube.com/watch?v=_Zrqpgbb3n0&#34;&gt;Hacker - We get you within 5 minutes!&lt;/a&gt;, which talks about security mistakes people and companies make. So keep your software up to date!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Internet Is Breaking</title>
