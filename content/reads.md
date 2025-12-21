@@ -39,4 +39,10 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Neue INSA-Umfrage: Deutsche trauen der Merz-Regierung nichts mehr zu!_](https://deutschlandkurier.de/2025/12/neue-insa-umfrage-deutsche-trauen-der-merz-regierung-nichts-mehr-zu/?utm_source=rss&utm_medium=rss&utm_campaign=neue-insa-umfrage-deutsche-trauen-der-merz-regierung-nichts-mehr-zu) by r2d2 (Dec 20, 2025)
+- [_Schwere Niederlage für Merz: Merkel-Vertraute wird neue Chefin bei der CDU-Stiftung_](https://deutschlandkurier.de/2025/12/schwere-niederlage-fuer-merz-merkel-vertraute-wird-neue-chefin-bei-der-cdu-stiftung/?utm_source=rss&utm_medium=rss&utm_campaign=schwere-niederlage-fuer-merz-merkel-vertraute-wird-neue-chefin-bei-der-cdu-stiftung) by r2d2 (Dec 20, 2025)
+- [_Pünktlich zu Weihnachten versucht die ARD, den christlichen Glauben abzuräumen_](https://www.tichyseinblick.de/kolumnen/vorwort-zum-sonntag/weihnachten-versucht-ard-den-christlichen-glauben-abzuraeumen/) by Achijah Zorn (Dec 20, 2025)
+- [_Announcing GotaTun, the future of WireGuard at Mullvad VPN_](https://www.mullvad.net/en/blog/2025/12/19/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn/) by The Mullvad Blog (Dec 19, 2025)
+- [_Holocaust-Gedenken: Berliner Regierungsviertel soll Yad-Vashem-Straße bekommen | DIE ZEIT_](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-12/berlin-dorotheenstrasse-yad-vashem-strasse-umbenennung) by lgi (Dec 18, 2025)
+- [_Anschlagsplan auf Weihnachtsmarkt: Marokkaner kamen mit Fachkräftevisum_](https://apollo-news.net/anschlagsplan-auf-weihnachtsmarkt-marokkaner-kamen-mit-fachkraeftevisum/) by Redaktion (Dec 18, 2025)
 - [_Manifesto: Prediction Markets as Truth Infrastructure_](https://x.com/intodotspace/status/1980271841877921896/?rw_tt_thread=True) by Space (Dec 16, 2025)
