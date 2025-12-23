@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_No God Can Help You_](https://www.lesswrong.com/posts/qWP7cojpRLFRkxkSF/no-god-can-help-you) by Ape in the coat (Dec 21, 2025)
 - [_Turning 20 in the probable pre-apocalypse_](https://www.lesswrong.com/posts/S5dnLsmRbj2JkLWvf/turning-20-in-the-probable-pre-apocalypse) by Parv Mahajan (Dec 21, 2025)
 - [_Digital intentionality: What's the point?_](https://www.lesswrong.com/posts/e3fwBoBgNhB8DWxDv/digital-intentionality-what-s-the-point) by mingyuan (Dec 21, 2025)
 - [_Technoromanticism_](https://www.lesswrong.com/posts/NnGyLEsyHi4ArfbDb/technoromanticism) by lsusr (Dec 21, 2025)
@@ -48,4 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_3-2-1: On finding your desired lifestyle, a simple rule for life, and working with what you have_](https://jamesclear.com/3-2-1/december-18-2025) by James Clear - 3-2-1 Thursday Newsletter (Dec 19, 2025)
 - [_Announcing GotaTun, the future of WireGuard at Mullvad VPN_](https://www.mullvad.net/en/blog/2025/12/19/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn/) by The Mullvad Blog (Dec 19, 2025)
 - [_Holocaust-Gedenken: Berliner Regierungsviertel soll Yad-Vashem-Straße bekommen | DIE ZEIT_](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-12/berlin-dorotheenstrasse-yad-vashem-strasse-umbenennung) by lgi (Dec 18, 2025)
-- [_Anschlagsplan auf Weihnachtsmarkt: Marokkaner kamen mit Fachkräftevisum_](https://apollo-news.net/anschlagsplan-auf-weihnachtsmarkt-marokkaner-kamen-mit-fachkraeftevisum/) by Redaktion (Dec 18, 2025)
