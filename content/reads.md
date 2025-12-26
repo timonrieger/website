@@ -48,4 +48,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Pünktlich zu Weihnachten versucht die ARD, den christlichen Glauben abzuräumen_](https://www.tichyseinblick.de/kolumnen/vorwort-zum-sonntag/weihnachten-versucht-ard-den-christlichen-glauben-abzuraeumen/) by Achijah Zorn (Dec 20, 2025)
 - [_3-2-1: On finding your desired lifestyle, a simple rule for life, and working with what you have_](https://jamesclear.com/3-2-1/december-18-2025) by James Clear - 3-2-1 Thursday Newsletter (Dec 19, 2025)
 - [_Announcing GotaTun, the future of WireGuard at Mullvad VPN_](https://www.mullvad.net/en/blog/2025/12/19/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn/) by The Mullvad Blog (Dec 19, 2025)
-- [_Holocaust-Gedenken: Berliner Regierungsviertel soll Yad-Vashem-Straße bekommen | DIE ZEIT_](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-12/berlin-dorotheenstrasse-yad-vashem-strasse-umbenennung) by lgi (Dec 18, 2025)
