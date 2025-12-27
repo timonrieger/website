@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Kids and Space_](https://www.lesswrong.com/posts/Cht59yX6789jM4Rs7/kids-and-space) by jefftk (Dec 24, 2025)
 - [_No God Can Help You_](https://www.lesswrong.com/posts/qWP7cojpRLFRkxkSF/no-god-can-help-you) by Ape in the coat (Dec 21, 2025)
 - [_Turning 20 in the probable pre-apocalypse_](https://www.lesswrong.com/posts/S5dnLsmRbj2JkLWvf/turning-20-in-the-probable-pre-apocalypse) by Parv Mahajan (Dec 21, 2025)
 - [_Digital intentionality: What's the point?_](https://www.lesswrong.com/posts/e3fwBoBgNhB8DWxDv/digital-intentionality-what-s-the-point) by mingyuan (Dec 21, 2025)
