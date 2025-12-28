@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Are We In A Coding Overhang?_](https://www.lesswrong.com/posts/vtgRghz3wvPGjkoCN/are-we-in-a-coding-overhang-1) by Michaël Trazzi (Dec 27, 2025)
 - [_Kids and Space_](https://www.lesswrong.com/posts/Cht59yX6789jM4Rs7/kids-and-space) by jefftk (Dec 24, 2025)
 - [_No God Can Help You_](https://www.lesswrong.com/posts/qWP7cojpRLFRkxkSF/no-god-can-help-you) by Ape in the coat (Dec 21, 2025)
 - [_Turning 20 in the probable pre-apocalypse_](https://www.lesswrong.com/posts/S5dnLsmRbj2JkLWvf/turning-20-in-the-probable-pre-apocalypse) by Parv Mahajan (Dec 21, 2025)
@@ -47,5 +48,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Neue INSA-Umfrage: Deutsche trauen der Merz-Regierung nichts mehr zu!_](https://deutschlandkurier.de/2025/12/neue-insa-umfrage-deutsche-trauen-der-merz-regierung-nichts-mehr-zu/?utm_source=rss&utm_medium=rss&utm_campaign=neue-insa-umfrage-deutsche-trauen-der-merz-regierung-nichts-mehr-zu) by r2d2 (Dec 20, 2025)
 - [_Schwere Niederlage für Merz: Merkel-Vertraute wird neue Chefin bei der CDU-Stiftung_](https://deutschlandkurier.de/2025/12/schwere-niederlage-fuer-merz-merkel-vertraute-wird-neue-chefin-bei-der-cdu-stiftung/?utm_source=rss&utm_medium=rss&utm_campaign=schwere-niederlage-fuer-merz-merkel-vertraute-wird-neue-chefin-bei-der-cdu-stiftung) by r2d2 (Dec 20, 2025)
 - [_Pünktlich zu Weihnachten versucht die ARD, den christlichen Glauben abzuräumen_](https://www.tichyseinblick.de/kolumnen/vorwort-zum-sonntag/weihnachten-versucht-ard-den-christlichen-glauben-abzuraeumen/) by Achijah Zorn (Dec 20, 2025)
-- [_3-2-1: On finding your desired lifestyle, a simple rule for life, and working with what you have_](https://jamesclear.com/3-2-1/december-18-2025) by James Clear - 3-2-1 Thursday Newsletter (Dec 19, 2025)
-- [_Announcing GotaTun, the future of WireGuard at Mullvad VPN_](https://www.mullvad.net/en/blog/2025/12/19/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn/) by The Mullvad Blog (Dec 19, 2025)
