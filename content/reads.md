@@ -39,12 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Wie viel Meinungsfreiheit duldet die EU noch?_](https://www.tichyseinblick.de/tichys-einblick/wie-viel-meinungsfreiheit-duldet-die-eu-noch/) by Roland Tichy (Dec 28, 2025)
+- [_Der Silbermarkt läuft heiß_](https://www.tichyseinblick.de/wirtschaft/der-silbermarkt-laeuft-heiss/) by Thomas Kolbe (Dec 28, 2025)
+- [_Falsche Meinung „wegimpfen“_](https://www.tichyseinblick.de/video/kommentar/falsche-meinung-wegimpfen-eu-hasst-demokratie/) by Roland Tichy (Dec 28, 2025)
+- [_Corona-Aufarbeitung an Schulen? – „Als hätte man Beton drüber gegossen“_](https://www.tichyseinblick.de/interviews/corona-aufarbeitung-schulen/) by Natalie Furjan (Dec 28, 2025)
+- [_Silber, Opium und Solarzellen_](https://www.tichyseinblick.de/wirtschaft/geldanlage/silber-opium-und-solarzellen/) by Gastautor (Dec 28, 2025)
+- [_Floccus: Decentralized Bookmark Sync for De-Googled Browsers_](https://discuss.privacyguides.net/t/floccus-decentralized-bookmark-sync-for-de-googled-browsers/34263#post_1) by @bashln (Dec 28, 2025)
+- [_Verdi-Chef fordert Brandmauer in Betriebsräten_](https://apollo-news.net/verdi-chef-fordert-brandmauer-in-betriebsraeten/) by André Hintz (Dec 28, 2025)
+- [_New to privacy, question about helping family with it_](https://discuss.privacyguides.net/t/new-to-privacy-question-about-helping-family-with-it/34234#post_4) by @pine (Dec 27, 2025)
 - [_Are We In A Coding Overhang?_](https://www.lesswrong.com/posts/vtgRghz3wvPGjkoCN/are-we-in-a-coding-overhang-1) by Michaël Trazzi (Dec 27, 2025)
 - [_Kids and Space_](https://www.lesswrong.com/posts/Cht59yX6789jM4Rs7/kids-and-space) by jefftk (Dec 24, 2025)
-- [_No God Can Help You_](https://www.lesswrong.com/posts/qWP7cojpRLFRkxkSF/no-god-can-help-you) by Ape in the coat (Dec 21, 2025)
-- [_Turning 20 in the probable pre-apocalypse_](https://www.lesswrong.com/posts/S5dnLsmRbj2JkLWvf/turning-20-in-the-probable-pre-apocalypse) by Parv Mahajan (Dec 21, 2025)
-- [_Digital intentionality: What's the point?_](https://www.lesswrong.com/posts/e3fwBoBgNhB8DWxDv/digital-intentionality-what-s-the-point) by mingyuan (Dec 21, 2025)
-- [_Technoromanticism_](https://www.lesswrong.com/posts/NnGyLEsyHi4ArfbDb/technoromanticism) by lsusr (Dec 21, 2025)
-- [_Neue INSA-Umfrage: Deutsche trauen der Merz-Regierung nichts mehr zu!_](https://deutschlandkurier.de/2025/12/neue-insa-umfrage-deutsche-trauen-der-merz-regierung-nichts-mehr-zu/?utm_source=rss&utm_medium=rss&utm_campaign=neue-insa-umfrage-deutsche-trauen-der-merz-regierung-nichts-mehr-zu) by r2d2 (Dec 20, 2025)
-- [_Schwere Niederlage für Merz: Merkel-Vertraute wird neue Chefin bei der CDU-Stiftung_](https://deutschlandkurier.de/2025/12/schwere-niederlage-fuer-merz-merkel-vertraute-wird-neue-chefin-bei-der-cdu-stiftung/?utm_source=rss&utm_medium=rss&utm_campaign=schwere-niederlage-fuer-merz-merkel-vertraute-wird-neue-chefin-bei-der-cdu-stiftung) by r2d2 (Dec 20, 2025)
-- [_Pünktlich zu Weihnachten versucht die ARD, den christlichen Glauben abzuräumen_](https://www.tichyseinblick.de/kolumnen/vorwort-zum-sonntag/weihnachten-versucht-ard-den-christlichen-glauben-abzuraeumen/) by Achijah Zorn (Dec 20, 2025)
