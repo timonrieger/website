@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Fri, 02 Jan 2026 21:10:33 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 22:47:45 +0100</lastBuildDate>
     <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
@@ -211,7 +211,7 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
       <link>https://timonrieger.de/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://timonrieger.de/photos/</guid>
-      <description>A collection of photos from around the world. Powered by Olympus. All rights reserved.</description>
+      <description>A collection of photos from around the world. All rights reserved.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
