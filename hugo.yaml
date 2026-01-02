@@ -124,7 +124,7 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   ShowShareButtons: false
-  ShowReadingTime: true
+  ShowReadingTime: false
   disableSpecial1stPost: true
   displayFullLangName: false
   ShowPostNavLinks: true
