@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Programming on timonrieger.de</title>
-    <link>https://timonrieger.de/tags/programming/</link>
+    <link>http://localhost:1313/tags/programming/</link>
     <description>Recent content in Programming on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
-      <url>https://timonrieger.de/images/papermod-cover.png</url>
-      <link>https://timonrieger.de/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
     <lastBuildDate>Fri, 02 Jan 2026 18:50:28 +0100</lastBuildDate>
-    <atom:link href="https://timonrieger.de/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heaven, Not Cloud</title>
-      <link>https://timonrieger.de/blog/heaven-not-cloud/</link>
+      <link>http://localhost:1313/blog/heaven-not-cloud/</link>
       <pubDate>Sun, 30 Nov 2025 23:53:29 +0100</pubDate>
-      <guid>https://timonrieger.de/blog/heaven-not-cloud/</guid>
+      <guid>http://localhost:1313/blog/heaven-not-cloud/</guid>
       <description>&lt;p&gt;I planned it for a while, finally realized it: a own server. It&amp;rsquo;s more than just a server, it&amp;rsquo;s a cloud. And, it&amp;rsquo;s about freedom, ownership and a philosophy. Explaining the why and how and the stack we are running.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Installing Mac Apps With Homebrew</title>
-      <link>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</link>
+      <link>http://localhost:1313/blog/installing-mac-apps-with-homebrew/</link>
       <pubDate>Mon, 06 Oct 2025 13:37:23 +0200</pubDate>
-      <guid>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</guid>
+      <guid>http://localhost:1313/blog/installing-mac-apps-with-homebrew/</guid>
       <description>&lt;p&gt;This quick guide shows how to install Mac apps with Homebrew Casks and automate App Store installs using the &lt;code&gt;mas&lt;/code&gt; CLI.&lt;/p&gt;
 &lt;p&gt;Homebrew makes it easy to search, inspect, and install third‑party apps, while &lt;code&gt;mas&lt;/code&gt; brings similar convenience for Mac App Store apps so you can script and standardize your setup.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Local AI Development for Free</title>
-      <link>https://timonrieger.de/blog/local-ai-development-for-free/</link>
+      <link>http://localhost:1313/blog/local-ai-development-for-free/</link>
       <pubDate>Tue, 11 Feb 2025 21:39:48 +0100</pubDate>
-      <guid>https://timonrieger.de/blog/local-ai-development-for-free/</guid>
+      <guid>http://localhost:1313/blog/local-ai-development-for-free/</guid>
       <description>&lt;p&gt;In this short article, I&amp;rsquo;ll show you how to develop locally with LLMs, making AI development free and private. With the rising costs of AI services, running models locally is becoming an increasingly attractive option for developers who want full control over their AI development process.&lt;/p&gt;</description>
     </item>
   </channel>

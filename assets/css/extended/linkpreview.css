@@ -1,0 +1,33 @@
+.linkpreview {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  margin: 18px 0;
+  text-decoration: none;
+}
+
+.linkpreview__thumb img {
+  width: 100%;
+  /* Match the look of photos in assets/css/common/photos.css */
+  border-radius: 8px;
+  /* Give the preview a consistent thumbnail height similar to photo thumbnails */
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+}
+
+.linkpreview__body {
+  display: grid;
+  gap: 6px;
+}
+
+.linkpreview__title {
+  font-weight: 600;
+}
+
+.linkpreview__desc,
+.linkpreview__host {
+  opacity: 0.75;
+}
+
+
