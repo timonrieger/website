@@ -1,2 +1,31 @@
 [tasks.build]
+description = "Build the site for production"
 run = "hugo --minify --gc --cleanDestinationDir --templateMetrics"
+
+[tasks.dev]
+description = "Start Hugo development server, use hugo flags to customize (e.g. mise run dev -- --buildDrafts)"
+run = "hugo server"
+
+[tasks."theme:add:papermod"]
+description = "Add PaperMod theme as submodule"
+run = "git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod"
+
+[tasks."theme:init"]
+description = "Initialize and update git submodules (needed when recloning repo)"
+run = "git submodule update --init --recursive"
+
+[tasks."theme:update"]
+description = "Update theme submodule to latest version"
+run = "git submodule update --remote --merge"
+
+[tasks."new:blog"]
+description = "Create a new blog post (usage: mise run new:blog TITLE)"
+run = 'hugo new blog/{{arg(name="title")}}'
+
+[tasks."new:project"]
+description = "Create a new project (usage: mise run new:project NAME)"
+run = 'hugo new project/{{arg(name="title")}}'
+
+[tasks."new:page"]
+description = "Create a new single page (usage: mise run new:page NAME)"
+run = 'hugo new {{arg(name="title")}}.md'
