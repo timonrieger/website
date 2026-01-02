@@ -11,11 +11,6 @@ Hey, I'm Timon. I'm a...
 
 You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and [tweeting](https://x.com/timonrieger).
 
-{{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
-{{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
-{{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
-{{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
-
 If you want to get in touch, you can send me an email at contact@ and the domain of this site.
 
 **The principles I live by:**

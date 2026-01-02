@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>timonrieger.de</title>
-    <link>http://localhost:1313/</link>
+    <link>https://timonrieger.de/</link>
     <description>Recent content on timonrieger.de</description>
     <image>
       <title>timonrieger.de</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://timonrieger.de/images/papermod-cover.png</url>
+      <link>https://timonrieger.de/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Timon Rieger</copyright>
-    <lastBuildDate>Fri, 02 Jan 2026 18:50:28 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jan 2026 19:15:16 +0100</lastBuildDate>
+    <atom:link href="https://timonrieger.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkivr</title>
-      <link>http://localhost:1313/projects/arkivr/</link>
+      <link>https://timonrieger.de/projects/arkivr/</link>
       <pubDate>Mon, 25 Nov 2024 16:28:47 +0100</pubDate>
-      <guid>http://localhost:1313/projects/arkivr/</guid>
+      <guid>https://timonrieger.de/projects/arkivr/</guid>
       <description>&lt;p&gt;Arkivr is an archiving software as a self-hostable web server that allows you to store and organize resources such as links, files and more for easy retrieval.&lt;/p&gt;
 &lt;p&gt;You can see my instance &lt;a href=&#34;https://arkivr.timonrieger.de&#34;&gt;here&lt;/a&gt; and the source code on &lt;a href=&#34;https://github.com/timonrieger/arkivr&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>Blog Boiler Templates</title>
-      <link>http://localhost:1313/projects/blog-boiler-templates/</link>
+      <link>https://timonrieger.de/projects/blog-boiler-templates/</link>
       <pubDate>Sat, 25 Jan 2025 16:35:02 +0100</pubDate>
-      <guid>http://localhost:1313/projects/blog-boiler-templates/</guid>
+      <guid>https://timonrieger.de/projects/blog-boiler-templates/</guid>
       <description>&lt;p&gt;Blog Boiler is a set of two templates to get started with a free, easy and predesigned blog template that will help you get started blogging in minutes.&lt;/p&gt;
 &lt;p&gt;Before I switched my blog to Hugo I had been using the Pro template myself. You can find more detailed information about usage on Github, &lt;a href=&#34;https://github.com/timonrieger/blog-boiler-pro&#34;&gt;Pro&lt;/a&gt; and &lt;a href=&#34;https://github.com/timonrieger/blog-boiler-lite&#34;&gt;Lite&lt;/a&gt; version&lt;/p&gt;
 &lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
@@ -37,9 +37,9 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
     </item>
     <item>
       <title>Air Nomad Society</title>
-      <link>http://localhost:1313/air-nomad-society/</link>
+      <link>https://timonrieger.de/air-nomad-society/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/air-nomad-society/</guid>
+      <guid>https://timonrieger.de/air-nomad-society/</guid>
       <description>&lt;p&gt;Air Nomad Society is a free email service that sends subscribers the best flight deals based on their travel preferences on a weekly basis as an email.&lt;/p&gt;
 &lt;p&gt;You can signup &lt;a href=&#34;https://ans.timonrieger.de&#34;&gt;here&lt;/a&gt; and view the source code on &lt;a href=&#34;https://github.com/timonrieger/air-nomad-society&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;intention&#34;&gt;Intention&lt;/h2&gt;
@@ -47,129 +47,129 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
     </item>
     <item>
       <title>Crypticorn</title>
-      <link>http://localhost:1313/projects/crypticorn/</link>
+      <link>https://timonrieger.de/projects/crypticorn/</link>
       <pubDate>Mon, 03 Jun 2024 16:36:59 +0100</pubDate>
-      <guid>http://localhost:1313/projects/crypticorn/</guid>
+      <guid>https://timonrieger.de/projects/crypticorn/</guid>
       <description>&lt;p&gt;Crypticorn is a software as a service (SaaS) that allows you to leverage the power of AI in the crypto space. We offer a range of services from price predictions to a automated crypto trading bot.&lt;/p&gt;
 &lt;p&gt;You can visit the website &lt;a href=&#34;https://crypticorn.com&#34;&gt;here&lt;/a&gt; to stay up to date with the latest developments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finding Orphan Packages in Homebrew</title>
-      <link>http://localhost:1313/blog/finding-orphan-packages-in-homebrew/</link>
+      <link>https://timonrieger.de/blog/finding-orphan-packages-in-homebrew/</link>
       <pubDate>Thu, 11 Dec 2025 11:52:07 +0100</pubDate>
-      <guid>http://localhost:1313/blog/finding-orphan-packages-in-homebrew/</guid>
+      <guid>https://timonrieger.de/blog/finding-orphan-packages-in-homebrew/</guid>
       <description>&lt;p&gt;Keeping your software up to date is important to stay safe. I recently watched &lt;a href=&#34;https://www.youtube.com/watch?v=_Zrqpgbb3n0&#34;&gt;Hacker - We get you within 5 minutes!&lt;/a&gt;, which talks about security mistakes people and companies make. So keep your software up to date!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Internet Is Breaking</title>
-      <link>http://localhost:1313/blog/the-internet-is-breaking/</link>
+      <link>https://timonrieger.de/blog/the-internet-is-breaking/</link>
       <pubDate>Fri, 05 Dec 2025 22:40:03 +0100</pubDate>
-      <guid>http://localhost:1313/blog/the-internet-is-breaking/</guid>
+      <guid>https://timonrieger.de/blog/the-internet-is-breaking/</guid>
       <description>&lt;p&gt;The internet is breaking. And it&amp;rsquo;s happening fast. Your favorite websites are going down, your favorite apps are not working, your favorite services are not available. And it happens all the time, at a rate that is concerning. There is a fix.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Heaven, Not Cloud</title>
-      <link>http://localhost:1313/blog/heaven-not-cloud/</link>
+      <link>https://timonrieger.de/blog/heaven-not-cloud/</link>
       <pubDate>Sun, 30 Nov 2025 23:53:29 +0100</pubDate>
-      <guid>http://localhost:1313/blog/heaven-not-cloud/</guid>
+      <guid>https://timonrieger.de/blog/heaven-not-cloud/</guid>
       <description>&lt;p&gt;I planned it for a while, finally realized it: a own server. It&amp;rsquo;s more than just a server, it&amp;rsquo;s a cloud. And, it&amp;rsquo;s about freedom, ownership and a philosophy. Explaining the why and how and the stack we are running.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Installing Mac Apps With Homebrew</title>
-      <link>http://localhost:1313/blog/installing-mac-apps-with-homebrew/</link>
+      <link>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</link>
       <pubDate>Mon, 06 Oct 2025 13:37:23 +0200</pubDate>
-      <guid>http://localhost:1313/blog/installing-mac-apps-with-homebrew/</guid>
+      <guid>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</guid>
       <description>&lt;p&gt;This quick guide shows how to install Mac apps with Homebrew Casks and automate App Store installs using the &lt;code&gt;mas&lt;/code&gt; CLI.&lt;/p&gt;
 &lt;p&gt;Homebrew makes it easy to search, inspect, and install third‑party apps, while &lt;code&gt;mas&lt;/code&gt; brings similar convenience for Mac App Store apps so you can script and standardize your setup.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Has the Fed Improved US Economic Performance?</title>
-      <link>http://localhost:1313/blog/has-the-fed-improved-us-economic-performance/</link>
+      <link>https://timonrieger.de/blog/has-the-fed-improved-us-economic-performance/</link>
       <pubDate>Tue, 24 Jun 2025 15:51:03 +0200</pubDate>
-      <guid>http://localhost:1313/blog/has-the-fed-improved-us-economic-performance/</guid>
+      <guid>https://timonrieger.de/blog/has-the-fed-improved-us-economic-performance/</guid>
       <description>&lt;p&gt;The introduction of the Federal Reserve in the US in 1913 marked a turning point in US and global economics, followed by the abondance of the gold standard by the Fed in 1933.&lt;/p&gt;
 &lt;p&gt;I want to share my learnings from a study published by &lt;a href=&#34;https://x.com/HoganMonEcon&#34;&gt;Thomas. L. Hogan&lt;/a&gt; in 2014 about the impact of the Federal Reserve on the US economices:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2356639&#34;&gt;Has the Fed Improved U.S. Economic Performance?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biology Is Intentional</title>
-      <link>http://localhost:1313/blog/biology-is-intentional/</link>
+      <link>https://timonrieger.de/blog/biology-is-intentional/</link>
       <pubDate>Sat, 19 Apr 2025 17:49:23 +0200</pubDate>
-      <guid>http://localhost:1313/blog/biology-is-intentional/</guid>
+      <guid>https://timonrieger.de/blog/biology-is-intentional/</guid>
       <description>&lt;p&gt;The other day, I came across a great video podcast that made me think about biologoy, relationships and happiness. I want to elaborate a bit on my thoughts about the topics that were part of the conversation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Local AI Development for Free</title>
-      <link>http://localhost:1313/blog/local-ai-development-for-free/</link>
+      <link>https://timonrieger.de/blog/local-ai-development-for-free/</link>
       <pubDate>Tue, 11 Feb 2025 21:39:48 +0100</pubDate>
-      <guid>http://localhost:1313/blog/local-ai-development-for-free/</guid>
+      <guid>https://timonrieger.de/blog/local-ai-development-for-free/</guid>
       <description>&lt;p&gt;In this short article, I&amp;rsquo;ll show you how to develop locally with LLMs, making AI development free and private. With the rising costs of AI services, running models locally is becoming an increasingly attractive option for developers who want full control over their AI development process.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Betting Strategy (2)</title>
-      <link>http://localhost:1313/blog/building-a-betting-strategy-2/</link>
+      <link>https://timonrieger.de/blog/building-a-betting-strategy-2/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/building-a-betting-strategy-2/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don&amp;rsquo;t want to deprive you of my findings of simulating the strategy. In the &lt;a href=&#34;http://localhost:1313/blog/building-a-betting-strategy-1&#34;&gt;first post&lt;/a&gt;, we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.&lt;/p&gt;
+      <guid>https://timonrieger.de/blog/building-a-betting-strategy-2/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don&amp;rsquo;t want to deprive you of my findings of simulating the strategy. In the &lt;a href=&#34;https://timonrieger.de/blog/building-a-betting-strategy-1&#34;&gt;first post&lt;/a&gt;, we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.&lt;/p&gt;
 &lt;h2 id=&#34;our-strategy&#34;&gt;Our Strategy&lt;/h2&gt;
 &lt;p&gt;The strategy I will be backtesting today will be betting on over 0.5 goals in the 30th minute if until then no goal has been scored. At the time of writing the odds with these conditions average at around 1.2. The odds are crucial to the profitability of this strategy, so keep that in mind. I will walk you through my analysis and thoughts when writing the code for it. You can find the unfortunately unorganized notebook and the data for this study on &lt;a href=&#34;https://github.com/timonrieger/website/blob/v2/assets/data/building-a-betting-strategy.zip&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Filmhub</title>
-      <link>http://localhost:1313/projects/filmhub/</link>
+      <link>https://timonrieger.de/projects/filmhub/</link>
       <pubDate>Sat, 12 Oct 2024 16:42:00 +0100</pubDate>
-      <guid>http://localhost:1313/projects/filmhub/</guid>
+      <guid>https://timonrieger.de/projects/filmhub/</guid>
       <description>&lt;p&gt;Filmhub is a platform for discovering and sharing movies. It is a web application that allows users to rank movies and share them with friends.&lt;/p&gt;
 &lt;p&gt;You can view the code on &lt;a href=&#34;https://github.com/timonrieger/filmhub&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maximize Crypto Profits with This Bullrun Strategy</title>
-      <link>http://localhost:1313/blog/maximize-crypto-profits-with-this-bullrun-strategy/</link>
+      <link>https://timonrieger.de/blog/maximize-crypto-profits-with-this-bullrun-strategy/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/maximize-crypto-profits-with-this-bullrun-strategy/</guid>
+      <guid>https://timonrieger.de/blog/maximize-crypto-profits-with-this-bullrun-strategy/</guid>
       <description>&lt;p&gt;This blog post deals with trading the crypto bullruns in the most optimal way to secure profits using the CBB Index. This strategy would have easily outperformed holding bitcoin, as we would have sold at each cycle top and reinvested everything in the bear market. I will use this plan for altcoins as well, as they are highly correlated with bitcoin, making it difficult to predict the exact top for each coin. This approach may limit maximum profits, but it helps to secure them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Betting Strategy (1)</title>
-      <link>http://localhost:1313/blog/building-a-betting-strategy-1/</link>
+      <link>https://timonrieger.de/blog/building-a-betting-strategy-1/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/building-a-betting-strategy-1/</guid>
+      <guid>https://timonrieger.de/blog/building-a-betting-strategy-1/</guid>
       <description>&lt;p&gt;The European Football Championship is in full swing and, fittingly, I had the idea to develop a betting strategy for the upcoming Bundesliga season. Let´s analyze some historical data and develop a thesis. We will be using data from &lt;a href=&#34;https://www.openligadb.de/&#34;&gt;OpenLigaDB&lt;/a&gt; from 2009/10 to 2023/24 and explore statistics like the distribution of match outcomes, results by winning team, and scoring times.&lt;/p&gt;
 &lt;p&gt;In this post, the data is processed and visualized using Python, Plotly and Matplotlib. Our aim is to uncover trends and patterns that will be useful for a follow-up post on value betting strategies, focusing specifically on bets on more than 0.5 goals.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backtesting a Crypto Trading Signals Group</title>
-      <link>http://localhost:1313/blog/backtesting-a-crypto-trading-signals-group/</link>
+      <link>https://timonrieger.de/blog/backtesting-a-crypto-trading-signals-group/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/backtesting-a-crypto-trading-signals-group/</guid>
+      <guid>https://timonrieger.de/blog/backtesting-a-crypto-trading-signals-group/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re into finance-related content on YouTube, you&amp;rsquo;ve probably seen all these ads where someone is making 20k a month with their crypto signals and that you should definitely join their Telegram group too. Although 99.9% of these groups are definitely scams and don&amp;rsquo;t work at all, I wanted to review how a select group has performed in the past. Note that this is not a public group, but a paid group that I will be backtesting. I got access to this group through my work colleague whose company has access to this group.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Life and Emotions</title>
-      <link>http://localhost:1313/blog/about-life-and-emotions/</link>
+      <link>https://timonrieger.de/blog/about-life-and-emotions/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/about-life-and-emotions/</guid>
-      <description>&lt;p&gt;After the first part &lt;a href=&#34;http://localhost:1313/blog/about-life-and-death/&#34;&gt;&lt;em&gt;About Life and Death&lt;/em&gt;&lt;/a&gt; and the second part &lt;a href=&#34;http://localhost:1313/blog/about-life-and-ethics/&#34;&gt;&lt;em&gt;About Life and Ethics&lt;/em&gt;&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;http://localhost:1313/blog/about-life-and-emotions/&#34;&gt;&lt;em&gt;About Life and Emotions&lt;/em&gt;&lt;/a&gt;. This is the final part of the series about the book &amp;ldquo;The Meditations of Marcus Aurelius&amp;rdquo;.&lt;/p&gt;</description>
+      <guid>https://timonrieger.de/blog/about-life-and-emotions/</guid>
+      <description>&lt;p&gt;After the first part &lt;a href=&#34;https://timonrieger.de/blog/about-life-and-death/&#34;&gt;&lt;em&gt;About Life and Death&lt;/em&gt;&lt;/a&gt; and the second part &lt;a href=&#34;https://timonrieger.de/blog/about-life-and-ethics/&#34;&gt;&lt;em&gt;About Life and Ethics&lt;/em&gt;&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;https://timonrieger.de/blog/about-life-and-emotions/&#34;&gt;&lt;em&gt;About Life and Emotions&lt;/em&gt;&lt;/a&gt;. This is the final part of the series about the book &amp;ldquo;The Meditations of Marcus Aurelius&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Life and Ethics</title>
-      <link>http://localhost:1313/blog/about-life-and-ethics/</link>
+      <link>https://timonrieger.de/blog/about-life-and-ethics/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/about-life-and-ethics/</guid>
-      <description>&lt;p&gt;The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part &lt;a href=&#34;http://localhost:1313/blog/about-life-and-death/&#34;&gt;&lt;em&gt;About Life and Death&lt;/em&gt;&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;http://localhost:1313/blog/about-life-and-ethics/&#34;&gt;&lt;em&gt;About Life and Ethics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://timonrieger.de/blog/about-life-and-ethics/</guid>
+      <description>&lt;p&gt;The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part &lt;a href=&#34;https://timonrieger.de/blog/about-life-and-death/&#34;&gt;&lt;em&gt;About Life and Death&lt;/em&gt;&lt;/a&gt; below I&amp;rsquo;ll continue with quotes regarding &lt;a href=&#34;https://timonrieger.de/blog/about-life-and-ethics/&#34;&gt;&lt;em&gt;About Life and Ethics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Life and Death</title>
-      <link>http://localhost:1313/blog/about-life-and-death/</link>
+      <link>https://timonrieger.de/blog/about-life-and-death/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/about-life-and-death/</guid>
+      <guid>https://timonrieger.de/blog/about-life-and-death/</guid>
       <description>&lt;p&gt;While reading the Meditations of Marcus Aurelius, I saved some passages using &lt;a href=&#34;https://readwise.io/i/timon41&#34;&gt;Readwise&lt;/a&gt; that I would like to share here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analyzing 75 Years of LEGO</title>
-      <link>http://localhost:1313/blog/analyzing-75-years-of-lego/</link>
+      <link>https://timonrieger.de/blog/analyzing-75-years-of-lego/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/analyzing-75-years-of-lego/</guid>
+      <guid>https://timonrieger.de/blog/analyzing-75-years-of-lego/</guid>
       <description>&lt;h2 id=&#34;about-lego&#34;&gt;About Lego&lt;/h2&gt;
 &lt;p&gt;LEGO is a globally recognized brand of construction toys, known for its interlocking plastic bricks. The name &amp;ldquo;LEGO&amp;rdquo; comes from the Danish words &amp;ldquo;leg godt,&amp;rdquo; meaning &amp;ldquo;play well.&amp;rdquo; LEGO bricks are designed to be versatile and can be assembled and connected in countless ways, allowing children and adults alike to build various structures, vehicles, and imaginative creations.&lt;/p&gt;
 &lt;h2 id=&#34;history-of-lego&#34;&gt;History of Lego&lt;/h2&gt;
@@ -177,53 +177,47 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
     </item>
     <item>
       <title>Human Coaches</title>
-      <link>http://localhost:1313/projects/human-coaches/</link>
+      <link>https://timonrieger.de/projects/human-coaches/</link>
       <pubDate>Sat, 01 Jan 2022 16:42:36 +0100</pubDate>
-      <guid>http://localhost:1313/projects/human-coaches/</guid>
+      <guid>https://timonrieger.de/projects/human-coaches/</guid>
       <description>&lt;p&gt;Human Coaches is a family business that I run together with my mother. We help students to improve their learning skills and offer tutoring. We also analyze people&amp;rsquo;s personalities according to the Human Design System.&lt;/p&gt;
 &lt;p&gt;You can visit our website &lt;a href=&#34;https://humancoaches.de&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://timonrieger.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://timonrieger.de/about/</guid>
       <description>&lt;p&gt;Hey, I&amp;rsquo;m Timon. I&amp;rsquo;m a&amp;hellip;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&amp;hellip;life time learner&lt;/li&gt;
 &lt;li&gt;&amp;hellip;work time developer&lt;/li&gt;
 &lt;li&gt;&amp;hellip;free time rebel&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;You will find me either &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/reads/&#34;&gt;reading&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/photos/&#34;&gt;photographing&lt;/a&gt; and &lt;a href=&#34;https://x.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;linkpreview&#34; href=&#34;https://immich-share.timonrieger.de/s/nic-21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;span class=&#34;linkpreview__thumb&#34;&gt;
-      &lt;img src=&#34;https://immich-share.timonrieger.de/share/photo/tVDeOqnhFy8cbPGgACvjToOAgLNbzpxv_Eh8z10qxS-s8SDiiKs1h-3cDmoEtuTfkv8/45c57f5f-0b59-4aa4-8e9b-ab388500ef70/preview&#34; alt=&#34;&#34;&gt;
-    &lt;/span&gt;&lt;span class=&#34;linkpreview__body&#34;&gt;&lt;span class=&#34;linkpreview__title&#34;&gt;Lieber Nic, alles Gute und Liebe zum Geburtstag. Dass dich das ein oder andere Foto zum Schmunzeln bringt :)&lt;/span&gt;&lt;span class=&#34;linkpreview__host&#34;&gt;immich-share.timonrieger.de&lt;/span&gt;&lt;/span&gt;
-  &lt;/a&gt;
-&lt;a class=&#34;linkpreview&#34; href=&#34;https://immich-share.timonrieger.de/s/nic-21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;span class=&#34;linkpreview__thumb&#34;&gt;
-      &lt;img src=&#34;https://immich-share.timonrieger.de/share/photo/tVDeOqnhFy8cbPGgACvjToOAgLNbzpxv_Eh8z10qxS-s8SDiiKs1h-3cDmoEtuTfkv8/45c57f5f-0b59-4aa4-8e9b-ab388500ef70/preview&#34; alt=&#34;&#34;&gt;
-    &lt;/span&gt;&lt;span class=&#34;linkpreview__body&#34;&gt;&lt;span class=&#34;linkpreview__title&#34;&gt;Lieber Nic, alles Gute und Liebe zum Geburtstag. Dass dich das ein oder andere Foto zum Schmunzeln bringt :)&lt;/span&gt;&lt;span class=&#34;linkpreview__host&#34;&gt;immich-share.timonrieger.de&lt;/span&gt;&lt;/span&gt;
-  &lt;/a&gt;
-&lt;a class=&#34;linkpreview&#34; href=&#34;https://immich-share.timonrieger.de/s/nic-21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;span class=&#34;linkpreview__thumb&#34;&gt;
-      &lt;img src=&#34;https://immich-share.timonrieger.de/share/photo/tVDeOqnhFy8cbPGgACvjToOAgLNbzpxv_Eh8z10qxS-s8SDiiKs1h-3cDmoEtuTfkv8/45c57f5f-0b59-4aa4-8e9b-ab388500ef70/preview&#34; alt=&#34;&#34;&gt;
-    &lt;/span&gt;&lt;span class=&#34;linkpreview__body&#34;&gt;&lt;span class=&#34;linkpreview__title&#34;&gt;Lieber Nic, alles Gute und Liebe zum Geburtstag. Dass dich das ein oder andere Foto zum Schmunzeln bringt :)&lt;/span&gt;&lt;span class=&#34;linkpreview__host&#34;&gt;immich-share.timonrieger.de&lt;/span&gt;&lt;/span&gt;
-  &lt;/a&gt;
-&lt;a class=&#34;linkpreview&#34; href=&#34;https://immich-share.timonrieger.de/s/nic-21&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;span class=&#34;linkpreview__thumb&#34;&gt;
-      &lt;img src=&#34;https://immich-share.timonrieger.de/share/photo/tVDeOqnhFy8cbPGgACvjToOAgLNbzpxv_Eh8z10qxS-s8SDiiKs1h-3cDmoEtuTfkv8/45c57f5f-0b59-4aa4-8e9b-ab388500ef70/preview&#34; alt=&#34;&#34;&gt;
-    &lt;/span&gt;&lt;span class=&#34;linkpreview__body&#34;&gt;&lt;span class=&#34;linkpreview__title&#34;&gt;Lieber Nic, alles Gute und Liebe zum Geburtstag. Dass dich das ein oder andere Foto zum Schmunzeln bringt :)&lt;/span&gt;&lt;span class=&#34;linkpreview__host&#34;&gt;immich-share.timonrieger.de&lt;/span&gt;&lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;You will find me either &lt;a href=&#34;https://timonrieger.de/projects/&#34;&gt;working on projects&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/blog/&#34;&gt;writing&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/reads/&#34;&gt;reading&lt;/a&gt;, &lt;a href=&#34;https://timonrieger.de/photos/&#34;&gt;photographing&lt;/a&gt; and &lt;a href=&#34;https://x.com/timonrieger&#34;&gt;tweeting&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to get in touch, you can send me an email at contact@ and the domain of this site.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The principles I live by:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;learning gives purpose&lt;/li&gt;
+&lt;li&gt;freedom in any way&lt;/li&gt;
+&lt;li&gt;emotions are power&lt;/li&gt;
+&lt;li&gt;silence is unvaluable&lt;/li&gt;
+&lt;li&gt;living means being&lt;/li&gt;
+&lt;li&gt;simplicity wins&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Photos</title>
-      <link>http://localhost:1313/photos/</link>
+      <link>https://timonrieger.de/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/</guid>
+      <guid>https://timonrieger.de/photos/</guid>
       <description>A collection of photos from around the world. Powered by Olympus. All rights reserved.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy-policy/</link>
+      <link>https://timonrieger.de/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
+      <guid>https://timonrieger.de/privacy-policy/</guid>
       <description>&lt;h2 id=&#34;zero-tracking&#34;&gt;Zero Tracking&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;No cookies&lt;/li&gt;
@@ -259,9 +253,9 @@ Initially, it used JSON storage via &lt;a href=&#34;https://npoint.io/&#34;&gt;n
     </item>
     <item>
       <title>Reads</title>
-      <link>http://localhost:1313/reads/</link>
+      <link>https://timonrieger.de/reads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reads/</guid>
+      <guid>https://timonrieger.de/reads/</guid>
       <description>Here you will find my latest and most valuable reads - updated daily at 11am UTC.</description>
     </item>
   </channel>

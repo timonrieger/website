@@ -8,7 +8,7 @@
 
 {{- $res := try (resources.GetRemote $url) -}}
 {{- if $res.Err -}}
-  <a href="{{ $url }}" target="_blank" rel="noopener noreferrer">{{ $url }}</a>
+  <a href="{{ $url }}" target="_blank" rel="noopener noreferrer">.</a>
 {{- else -}}
   {{- $html := $res.Value.Content -}}
 

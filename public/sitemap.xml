@@ -2,131 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/arkivr/</loc>
+    <loc>https://timonrieger.de/projects/arkivr/</loc>
     <lastmod>2025-02-20T17:29:42+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/blog-boiler-templates/</loc>
+    <loc>https://timonrieger.de/projects/blog-boiler-templates/</loc>
     <lastmod>2025-02-20T17:29:42+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/air-nomad-society/</loc>
+    <loc>https://timonrieger.de/air-nomad-society/</loc>
     <lastmod>2025-02-20T17:29:42+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/crypticorn/</loc>
+    <loc>https://timonrieger.de/projects/crypticorn/</loc>
     <lastmod>2025-03-23T14:36:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/finding-orphan-packages-in-homebrew/</loc>
+    <loc>https://timonrieger.de/blog/finding-orphan-packages-in-homebrew/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/security/</loc>
+    <loc>https://timonrieger.de/tags/security/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software/</loc>
+    <loc>https://timonrieger.de/tags/software/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://timonrieger.de/tags/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://timonrieger.de/</loc>
+    <lastmod>2026-01-02T19:15:16+01:00</lastmod>
+  </url><url>
+    <loc>https://timonrieger.de/tags/society/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/society/</loc>
+    <loc>https://timonrieger.de/tags/tech/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
+    <loc>https://timonrieger.de/blog/the-internet-is-breaking/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-internet-is-breaking/</loc>
+    <loc>https://timonrieger.de/blog/heaven-not-cloud/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/heaven-not-cloud/</loc>
+    <loc>https://timonrieger.de/tags/programming/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/programming/</loc>
+    <loc>https://timonrieger.de/blog/installing-mac-apps-with-homebrew/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/installing-mac-apps-with-homebrew/</loc>
+    <loc>https://timonrieger.de/tags/economics/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/economics/</loc>
+    <loc>https://timonrieger.de/blog/has-the-fed-improved-us-economic-performance/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/has-the-fed-improved-us-economic-performance/</loc>
+    <loc>https://timonrieger.de/blog/biology-is-intentional/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/biology-is-intentional/</loc>
+    <loc>https://timonrieger.de/blog/local-ai-development-for-free/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/local-ai-development-for-free/</loc>
+    <loc>https://timonrieger.de/blog/building-a-betting-strategy-2/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/building-a-betting-strategy-2/</loc>
+    <loc>https://timonrieger.de/tags/data-analysis/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-analysis/</loc>
-    <lastmod>2026-01-02T18:50:28+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/filmhub/</loc>
+    <loc>https://timonrieger.de/projects/filmhub/</loc>
     <lastmod>2025-10-28T12:49:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/crypto/</loc>
+    <loc>https://timonrieger.de/tags/crypto/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/maximize-crypto-profits-with-this-bullrun-strategy/</loc>
+    <loc>https://timonrieger.de/blog/maximize-crypto-profits-with-this-bullrun-strategy/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/building-a-betting-strategy-1/</loc>
+    <loc>https://timonrieger.de/blog/building-a-betting-strategy-1/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/backtesting-a-crypto-trading-signals-group/</loc>
+    <loc>https://timonrieger.de/blog/backtesting-a-crypto-trading-signals-group/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/about-life-and-emotions/</loc>
+    <loc>https://timonrieger.de/blog/about-life-and-emotions/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/books/</loc>
+    <loc>https://timonrieger.de/tags/books/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <loc>https://timonrieger.de/tags/philosophy/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/about-life-and-ethics/</loc>
+    <loc>https://timonrieger.de/blog/about-life-and-ethics/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/about-life-and-death/</loc>
+    <loc>https://timonrieger.de/blog/about-life-and-death/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/analyzing-75-years-of-lego/</loc>
+    <loc>https://timonrieger.de/blog/analyzing-75-years-of-lego/</loc>
     <lastmod>2026-01-02T18:50:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/human-coaches/</loc>
+    <loc>https://timonrieger.de/projects/human-coaches/</loc>
     <lastmod>2025-02-23T23:49:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-09-28T11:17:45+02:00</lastmod>
+    <loc>https://timonrieger.de/about/</loc>
+    <lastmod>2026-01-02T19:15:16+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://timonrieger.de/archive/</loc>
     <lastmod>2025-01-23T16:08:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://timonrieger.de/blog/</loc>
     <lastmod>2025-01-20T20:23:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://timonrieger.de/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/photos/</loc>
+    <loc>https://timonrieger.de/photos/</loc>
     <lastmod>2025-10-06T11:00:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
+    <loc>https://timonrieger.de/privacy-policy/</loc>
     <lastmod>2025-10-06T13:58:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://timonrieger.de/projects/</loc>
     <lastmod>2025-01-20T20:21:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reads/</loc>
+    <loc>https://timonrieger.de/reads/</loc>
     <lastmod>2026-01-01T11:01:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://timonrieger.de/search/</loc>
     <lastmod>2025-01-20T20:21:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://timonrieger.de/series/</loc>
   </url>
 </urlset>

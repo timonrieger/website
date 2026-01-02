@@ -51,17 +51,13 @@
     {{- end }}
   </header>
 
-
-    <ul class="gallery">
-      {{ $images := .Resources.ByType "image"}}
-      {{ $sorted_images := sort $images "Exif.Date" "desc" }}
-      {{- range $index, $image := $sorted_images }}
-        {{ $image := $image.Resize "x400" }}
-        <li>
-            <img src="{{ $image.RelPermalink }}" alt="{{ .Name }}">
-        </li>
-      {{ end }}
-  </ul>
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
 
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
