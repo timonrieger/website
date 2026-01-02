@@ -7,18 +7,6 @@ description: "A collection of photos from around the world. Powered by Olympus. 
 
 <ul class="gallery">
   <li>
-    {{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
-  </li>
-  <li>
-    {{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
-  </li>
-  <li>
-    {{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
-  </li>
-  <li>
-    {{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
-  </li>
-  <li>
-    {{< linkpreview url="https://immich-share.timonrieger.de/s/nic-21" >}}
+    {{< linkpreview url="https://immich-share.timonrieger.de/share/JD04aArelrzhlEdVQOC0LfpNAmnLxnQsnIRXi-z6ElGJpr-pQKSFuCR_d6n0l9xzbZg" >}}
   </li>
 </ul>

@@ -6,8 +6,11 @@
   box-shadow: none;
 }
 
-.post-content a.linkpreview:hover
 .post-content a.linkpreview {
+  box-shadow: none;
+}
+
+.post-content a.linkpreview:hover {
   box-shadow: none;
 }
 
