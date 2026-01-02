@@ -1,0 +1,60 @@
+{{- $url := (.Get "url") | default (.Get 0) -}}
+{{- if not $url -}}
+  {{- errorf "linkpreview shortcode: missing url param" -}}
+{{- end -}}
+
+{{- $parsed := urls.Parse $url -}}
+{{- $host := $parsed.Host -}}
+
+{{- $res := try (resources.GetRemote $url) -}}
+{{- if $res.Err -}}
+  <a href="{{ $url }}" target="_blank" rel="noopener noreferrer">.</a>
+{{- else -}}
+  {{- $html := $res.Value.Content -}}
+
+  {{- $title := "" -}}
+  {{- with (findRESubmatch `(?is)<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)["'][^>]*>` $html 1) -}}
+    {{- $title = index (index . 0) 1 -}}
+  {{- else -}}
+    {{- with (findRESubmatch `(?is)<title[^>]*>([^<]+)</title>` $html 1) -}}
+      {{- $title = index (index . 0) 1 -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $desc := "" -}}
+  {{- with (findRESubmatch `(?is)<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)["'][^>]*>` $html 1) -}}
+    {{- $desc = index (index . 0) 1 -}}
+  {{- end -}}
+
+  {{- $img := "" -}}
+  {{- with (findRESubmatch `(?is)<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["'][^>]*>` $html 1) -}}
+    {{- $img = index (index . 0) 1 -}}
+  {{- end -}}
+
+  {{- if and $img (hasPrefix $img "/") $parsed.Scheme $host -}}
+    {{- $img = printf "%s://%s%s" $parsed.Scheme $host $img -}}
+  {{- end -}}
+
+  <a class="linkpreview" href="{{ $url }}" target="_blank" rel="noopener noreferrer">
+    {{- with $img -}}
+    <span class="linkpreview__thumb">
+      <img src="{{ . }}" alt="">
+    </span>
+    {{- end -}}
+    <span class="linkpreview__body">
+      {{- if $title -}}
+      <span class="linkpreview__title">{{ $title }}</span>
+      {{- else -}}
+      <span class="linkpreview__title">{{ $url }}</span>
+      {{- end -}}
+      {{- with $desc -}}
+      <span class="linkpreview__desc">{{ . }}</span>
+      {{- end -}}
+      {{- with $host -}}
+      <span class="linkpreview__host">{{ . }}</span>
+      {{- end -}}
+    </span>
+  </a>
+{{- end -}}
+
+
