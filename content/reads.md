@@ -39,7 +39,9 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Claude Wrote Me a 400-Commit RSS Reader App_](https://www.lesswrong.com/posts/vzaZwZgifypbnSiuf/claude-wrote-me-a-400-commit-rss-reader-app) by Brendan Long (Jan 06, 2026)
 - [_The Prison Of Financial Mediocrity_](https://x.com/systematicls/status/2004900241745883205/?rw_tt_thread=True) by sysls (Dec 31, 2025)
+- [_What’s up Python? Astral's new type checker, McGugan's new tool and Django new CSRF protection_](https://www.bitecode.dev/p/whats-up-python-astrals-new-type) by Bite Code! (Dec 30, 2025)
 - [_Wie viel Meinungsfreiheit duldet die EU noch?_](https://www.tichyseinblick.de/tichys-einblick/wie-viel-meinungsfreiheit-duldet-die-eu-noch/) by Roland Tichy (Dec 28, 2025)
 - [_Der Silbermarkt läuft heiß_](https://www.tichyseinblick.de/wirtschaft/der-silbermarkt-laeuft-heiss/) by Thomas Kolbe (Dec 28, 2025)
 - [_Falsche Meinung „wegimpfen“_](https://www.tichyseinblick.de/video/kommentar/falsche-meinung-wegimpfen-eu-hasst-demokratie/) by Roland Tichy (Dec 28, 2025)
@@ -47,5 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Silber, Opium und Solarzellen_](https://www.tichyseinblick.de/wirtschaft/geldanlage/silber-opium-und-solarzellen/) by Gastautor (Dec 28, 2025)
 - [_Floccus: Decentralized Bookmark Sync for De-Googled Browsers_](https://discuss.privacyguides.net/t/floccus-decentralized-bookmark-sync-for-de-googled-browsers/34263#post_1) by @bashln (Dec 28, 2025)
 - [_Verdi-Chef fordert Brandmauer in Betriebsräten_](https://apollo-news.net/verdi-chef-fordert-brandmauer-in-betriebsraeten/) by André Hintz (Dec 28, 2025)
-- [_New to privacy, question about helping family with it_](https://discuss.privacyguides.net/t/new-to-privacy-question-about-helping-family-with-it/34234#post_4) by @pine (Dec 27, 2025)
-- [_Are We In A Coding Overhang?_](https://www.lesswrong.com/posts/vtgRghz3wvPGjkoCN/are-we-in-a-coding-overhang-1) by Michaël Trazzi (Dec 27, 2025)
