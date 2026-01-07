@@ -40,6 +40,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 ### Latest
 
 - [_Claude Wrote Me a 400-Commit RSS Reader App_](https://www.lesswrong.com/posts/vzaZwZgifypbnSiuf/claude-wrote-me-a-400-commit-rss-reader-app) by Brendan Long (Jan 06, 2026)
+- [_I was wrong about Elon. But he was wrong too_](https://www.smh.com.au/technology/i-was-wrong-about-elon-but-he-was-wrong-too-20251229-p5nqgx.html) by David Swan (Jan 04, 2026)
 - [_The Prison Of Financial Mediocrity_](https://x.com/systematicls/status/2004900241745883205/?rw_tt_thread=True) by sysls (Dec 31, 2025)
 - [_What’s up Python? Astral's new type checker, McGugan's new tool and Django new CSRF protection_](https://www.bitecode.dev/p/whats-up-python-astrals-new-type) by Bite Code! (Dec 30, 2025)
 - [_Wie viel Meinungsfreiheit duldet die EU noch?_](https://www.tichyseinblick.de/tichys-einblick/wie-viel-meinungsfreiheit-duldet-die-eu-noch/) by Roland Tichy (Dec 28, 2025)
@@ -48,4 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Corona-Aufarbeitung an Schulen? – „Als hätte man Beton drüber gegossen“_](https://www.tichyseinblick.de/interviews/corona-aufarbeitung-schulen/) by Natalie Furjan (Dec 28, 2025)
 - [_Silber, Opium und Solarzellen_](https://www.tichyseinblick.de/wirtschaft/geldanlage/silber-opium-und-solarzellen/) by Gastautor (Dec 28, 2025)
 - [_Floccus: Decentralized Bookmark Sync for De-Googled Browsers_](https://discuss.privacyguides.net/t/floccus-decentralized-bookmark-sync-for-de-googled-browsers/34263#post_1) by @bashln (Dec 28, 2025)
-- [_Verdi-Chef fordert Brandmauer in Betriebsräten_](https://apollo-news.net/verdi-chef-fordert-brandmauer-in-betriebsraeten/) by André Hintz (Dec 28, 2025)
