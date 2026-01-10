@@ -35,17 +35,17 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_The Most Powerful Life Hacks I've Found_](https://www.sahilbloom.com/newsletter/the-most-powerful-life-hacks-ive-found) by sahilbloom.com (Feb 25, 2025)
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
-- [_16 Rules For Living With Less_](https://readwise.io/reader/document_raw_content/6819489) by Joshua Fields Millburn (Oct 17, 2025)
+- [_Reflecting on Life_](https://lucumr.pocoo.org/2024/12/26/reflecting-on-life/) by Armin Ronacher (Jan 09, 2026)
 
 ### Latest
 
+- [_Cloudflare CEO threatens to withdraw services in Italy_](https://discuss.privacyguides.net/t/cloudflare-ceo-threatens-to-withdraw-services-in-italy/34563?page=2#post_33) by @nicotiu Nicotiu (Jan 10, 2026)
 - [_The Weirdness of Dating/Mating: Deep Nonconsent Preference_](https://www.lesswrong.com/posts/e4TyoEfTeW7FFcwYy/the-weirdness-of-dating-mating-deep-nonconsent-preference) by johnswentworth (Jan 08, 2026)
 - [_The great scroll off: Inside Australia’s world-first teen social media ban_](https://www.smh.com.au/link/follow-20170101-p5nmx2) by David Swan (Jan 07, 2026)
 - [_Claude Wrote Me a 400-Commit RSS Reader App_](https://www.lesswrong.com/posts/vzaZwZgifypbnSiuf/claude-wrote-me-a-400-commit-rss-reader-app) by Brendan Long (Jan 06, 2026)
 - [_I was wrong about Elon. But he was wrong too_](https://www.smh.com.au/technology/i-was-wrong-about-elon-but-he-was-wrong-too-20251229-p5nqgx.html) by David Swan (Jan 04, 2026)
 - [_written on September 04, 2025_](https://lucumr.pocoo.org/2025/9/4/996/) by Armin Ronacher (Jan 02, 2026)
+- [_Reflecting on Life_](https://lucumr.pocoo.org/2024/12/26/reflecting-on-life/) by Armin Ronacher (Jan 02, 2026)
+- [_Lessons from a Pessimist: Make Your Pessimism Productive_](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/) by Armin Ronacher (Jan 02, 2026)
+- [_Be BORING_](https://x.com/Fathers_Diary/status/1933836803083035005/?rw_tt_thread=True) by Fathers Diary (Dec 31, 2025)
 - [_The Prison Of Financial Mediocrity_](https://x.com/systematicls/status/2004900241745883205/?rw_tt_thread=True) by sysls (Dec 31, 2025)
-- [_What’s up Python? Astral's new type checker, McGugan's new tool and Django new CSRF protection_](https://www.bitecode.dev/p/whats-up-python-astrals-new-type) by Bite Code! (Dec 30, 2025)
-- [_Wie viel Meinungsfreiheit duldet die EU noch?_](https://www.tichyseinblick.de/tichys-einblick/wie-viel-meinungsfreiheit-duldet-die-eu-noch/) by Roland Tichy (Dec 28, 2025)
-- [_Der Silbermarkt läuft heiß_](https://www.tichyseinblick.de/wirtschaft/der-silbermarkt-laeuft-heiss/) by Thomas Kolbe (Dec 28, 2025)
-- [_Falsche Meinung „wegimpfen“_](https://www.tichyseinblick.de/video/kommentar/falsche-meinung-wegimpfen-eu-hasst-demokratie/) by Roland Tichy (Dec 28, 2025)
