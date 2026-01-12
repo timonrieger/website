@@ -39,13 +39,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Python lazy imports you can use today_](https://pycoders.com/link/15422/feed) by pythontest.com (Jan 12, 2026)
+- [_Python 3.6-3.14 Performance on M1, M5, Zen2 and Cascade Lake_](https://pycoders.com/link/15790/feed) by crewtech.se (Jan 12, 2026)
+- [_How uv got so fast_](https://pycoders.com/link/15797/feed) by Andrew Nesbitt (Jan 12, 2026)
+- [_Self-Hosting On University Campus_](https://discuss.privacyguides.net/t/self-hosting-on-university-campus/34312#post_16) by @zamtron (Jan 12, 2026)
 - [_Cloudflare CEO threatens to withdraw services in Italy_](https://discuss.privacyguides.net/t/cloudflare-ceo-threatens-to-withdraw-services-in-italy/34563?page=2#post_33) by @nicotiu Nicotiu (Jan 10, 2026)
 - [_The Weirdness of Dating/Mating: Deep Nonconsent Preference_](https://www.lesswrong.com/posts/e4TyoEfTeW7FFcwYy/the-weirdness-of-dating-mating-deep-nonconsent-preference) by johnswentworth (Jan 08, 2026)
 - [_The great scroll off: Inside Australia’s world-first teen social media ban_](https://www.smh.com.au/link/follow-20170101-p5nmx2) by David Swan (Jan 07, 2026)
+- [_Issue #716: Performance Numbers, async Web Apps, uv Speed, and More (Jan. 6, 2026)_](https://pycoders.com/issues/716) by PyCoder’s Weekly (Jan 06, 2026)
 - [_Claude Wrote Me a 400-Commit RSS Reader App_](https://www.lesswrong.com/posts/vzaZwZgifypbnSiuf/claude-wrote-me-a-400-commit-rss-reader-app) by Brendan Long (Jan 06, 2026)
 - [_I was wrong about Elon. But he was wrong too_](https://www.smh.com.au/technology/i-was-wrong-about-elon-but-he-was-wrong-too-20251229-p5nqgx.html) by David Swan (Jan 04, 2026)
-- [_written on September 04, 2025_](https://lucumr.pocoo.org/2025/9/4/996/) by Armin Ronacher (Jan 02, 2026)
-- [_Reflecting on Life_](https://lucumr.pocoo.org/2024/12/26/reflecting-on-life/) by Armin Ronacher (Jan 02, 2026)
-- [_Lessons from a Pessimist: Make Your Pessimism Productive_](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/) by Armin Ronacher (Jan 02, 2026)
-- [_Be BORING_](https://x.com/Fathers_Diary/status/1933836803083035005/?rw_tt_thread=True) by Fathers Diary (Dec 31, 2025)
-- [_The Prison Of Financial Mediocrity_](https://x.com/systematicls/status/2004900241745883205/?rw_tt_thread=True) by sysls (Dec 31, 2025)
