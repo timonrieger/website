@@ -39,6 +39,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Release 1.14.3 · alangrainger/immich-public-proxy · GitHub_](https://github.com/alangrainger/immich-public-proxy/releases/tag/v1.14.3) by https://github.com/alangrainger/ (Jan 12, 2026)
 - [_Python lazy imports you can use today_](https://pycoders.com/link/15422/feed) by pythontest.com (Jan 12, 2026)
 - [_Python 3.6-3.14 Performance on M1, M5, Zen2 and Cascade Lake_](https://pycoders.com/link/15790/feed) by crewtech.se (Jan 12, 2026)
 - [_How uv got so fast_](https://pycoders.com/link/15797/feed) by Andrew Nesbitt (Jan 12, 2026)
@@ -48,4 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_The great scroll off: Inside Australia’s world-first teen social media ban_](https://www.smh.com.au/link/follow-20170101-p5nmx2) by David Swan (Jan 07, 2026)
 - [_Issue #716: Performance Numbers, async Web Apps, uv Speed, and More (Jan. 6, 2026)_](https://pycoders.com/issues/716) by PyCoder’s Weekly (Jan 06, 2026)
 - [_Claude Wrote Me a 400-Commit RSS Reader App_](https://www.lesswrong.com/posts/vzaZwZgifypbnSiuf/claude-wrote-me-a-400-commit-rss-reader-app) by Brendan Long (Jan 06, 2026)
-- [_I was wrong about Elon. But he was wrong too_](https://www.smh.com.au/technology/i-was-wrong-about-elon-but-he-was-wrong-too-20251229-p5nqgx.html) by David Swan (Jan 04, 2026)
