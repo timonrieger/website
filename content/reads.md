@@ -39,6 +39,9 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ### Latest
 
+- [_Veganes Rührei mit Joghurt_](https://nvsino.com/pages/ruhrei-mit-joghurt) by NVSINO (Jan 15, 2026)
+- [_Vorwort: Behauptung: „Veganismus Ist Ungesund!“_](https://cdn.shopify.com/s/files/1/0696/1001/2902/files/Gesamtbewertung_NVSINO-2.pdf?v=1765973727) by Dr. Med. Raffaela Raab, Die Militante Veganerin (Jan 15, 2026)
+- [_Issue #717: Unit Testing Performance, Cursor, Recursive match, and More (Jan. 13, 2026)_](https://pycoders.com/issues/717) by PyCoder’s Weekly (Jan 13, 2026)
 - [_Release 1.14.3 · alangrainger/immich-public-proxy · GitHub_](https://github.com/alangrainger/immich-public-proxy/releases/tag/v1.14.3) by https://github.com/alangrainger/ (Jan 12, 2026)
 - [_Python lazy imports you can use today_](https://pycoders.com/link/15422/feed) by pythontest.com (Jan 12, 2026)
 - [_Python 3.6-3.14 Performance on M1, M5, Zen2 and Cascade Lake_](https://pycoders.com/link/15790/feed) by crewtech.se (Jan 12, 2026)
@@ -46,6 +49,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Self-Hosting On University Campus_](https://discuss.privacyguides.net/t/self-hosting-on-university-campus/34312#post_16) by @zamtron (Jan 12, 2026)
 - [_Cloudflare CEO threatens to withdraw services in Italy_](https://discuss.privacyguides.net/t/cloudflare-ceo-threatens-to-withdraw-services-in-italy/34563?page=2#post_33) by @nicotiu Nicotiu (Jan 10, 2026)
 - [_The Weirdness of Dating/Mating: Deep Nonconsent Preference_](https://www.lesswrong.com/posts/e4TyoEfTeW7FFcwYy/the-weirdness-of-dating-mating-deep-nonconsent-preference) by johnswentworth (Jan 08, 2026)
-- [_The great scroll off: Inside Australia’s world-first teen social media ban_](https://www.smh.com.au/link/follow-20170101-p5nmx2) by David Swan (Jan 07, 2026)
-- [_Issue #716: Performance Numbers, async Web Apps, uv Speed, and More (Jan. 6, 2026)_](https://pycoders.com/issues/716) by PyCoder’s Weekly (Jan 06, 2026)
-- [_Claude Wrote Me a 400-Commit RSS Reader App_](https://www.lesswrong.com/posts/vzaZwZgifypbnSiuf/claude-wrote-me-a-400-commit-rss-reader-app) by Brendan Long (Jan 06, 2026)
