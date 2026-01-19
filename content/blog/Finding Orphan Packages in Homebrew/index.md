@@ -33,3 +33,5 @@ cryptography is required by: ansible
 docker is not used by any installed package
 flac is not used by any installed package
 ```
+
+> EDIT: Homebrew ships with this out of the box with [`brew autoremove`](https://docs.brew.sh/Manpage#autoremove---dry-run).
