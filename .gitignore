@@ -127,3 +127,6 @@ Thumbs.db
 !.github
 !.gitlab-ci.yml
 !.gitkeep
+
+public/
+resources/

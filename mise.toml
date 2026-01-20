@@ -1,7 +1,3 @@
-[tasks.build]
-description = "Build the site for production"
-run = "hugo --minify --gc --cleanDestinationDir --templateMetrics"
-
 [tasks.dev]
 description = "Start Hugo development server, use hugo flags to customize (e.g. mise run dev -- --buildDrafts)"
 run = "hugo server"
@@ -29,7 +25,3 @@ run = 'hugo new project/{{arg(name="title")}}'
 [tasks."new:page"]
 description = "Create a new single page (usage: mise run new:page NAME)"
 run = 'hugo new {{arg(name="title")}}.md'
-
-[tasks.clean]
-description = "Remove build output directories (public and resources)"
-run = "rm -rf public resources"
