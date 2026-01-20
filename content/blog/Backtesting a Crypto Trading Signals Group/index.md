@@ -10,7 +10,7 @@ If you're into finance-related content on YouTube, you've probably seen all thes
 >Disclaimer
 The script and analysis presented in this post have not been verified by external parties. The results of my analysis may be inaccurate, as there might be factors I did not consider in my calculations. There may also be a significant tracking error compared to the "index" (the signals). You should conduct your own research, and please note that this is not financial advice.
 
-You can view all the code used in this study on [Github](https://github.com/timonrieger/website/blob/v2/assets/data/backtesting-crypto-trading-signals.zip).
+You can download all the code used in this study [here](https://link.storjshare.io/raw/jxpmqzxam2zdqwmhdbq5tz2vleqq/public/backtesting-crypto-trading-signals.zip).
 
 ## About the Signals
 
