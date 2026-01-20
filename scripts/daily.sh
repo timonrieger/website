@@ -27,16 +27,6 @@ echo "🚀 Starting Hugo site deployment..."
 echo "⚡ Running preprocessing scripts..."
 python3 -m scripts.reads
 
-# Build the Hugo site
-echo "🏗️ Building site with Hugo..."
-hugo --minify --gc --cleanDestinationDir --templateMetrics
-
-# Commit and push changes
-echo "📤 Committing and pushing to remotes..."
-git add public/reads/index.html
-git add public/index.xml
-git add public/sitemap.xml
-git add public/index.json
 git add content/reads.md
 git commit -m "published on $DATE"
 git push
