@@ -1,7 +1,3 @@
-[tasks.build]
-description = "Build the site for production"
-run = "hugo --minify --gc --cleanDestinationDir --templateMetrics"
-
 [tasks.dev]
 description = "Start Hugo development server, use hugo flags to customize (e.g. mise run dev -- --buildDrafts)"
 run = "hugo server"
