@@ -25,7 +25,3 @@ run = 'hugo new project/{{arg(name="title")}}'
 [tasks."new:page"]
 description = "Create a new single page (usage: mise run new:page NAME)"
 run = 'hugo new {{arg(name="title")}}.md'
-
-[tasks.clean]
-description = "Remove build output directories (public and resources)"
-run = "rm -rf public resources"
