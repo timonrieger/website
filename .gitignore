@@ -130,4 +130,5 @@ Thumbs.db
 
 public/
 resources/
-.vercel
+.vercel/
+!.vercelignore

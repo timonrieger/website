@@ -1,0 +1,3 @@
+# Ignore Python files
+*.py
+scripts/*.py
