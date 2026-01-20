@@ -2,7 +2,7 @@
   "build": {
     "env": {
       "HUGO_VERSION": "0.145.0",
-      "UV_BREAK_SYSTEM_PACKAGES": "true"
+      "UV_BREAK_SYSTEM_PACKAGES": true
     }
   },
   "framework": "hugo"
