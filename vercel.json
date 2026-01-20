@@ -1,5 +1,9 @@
 {
-  "functions": {},
+  "functions": {
+    "api/**/*.py": {
+      "excludeFiles": "**/*.py"
+    }
+  },
   "build": {
     "env": {
       "HUGO_VERSION": "0.145.0"
