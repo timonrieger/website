@@ -1,5 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "chmod a+x build.sh && ./build.sh",
+  "buildCommand": "chmod a+x scripts/build.sh && ./scripts/build.sh",
   "outputDirectory": "public"
 }
