@@ -1,17 +1,14 @@
 # /// script
 # requires-python = ">3.10"
 # dependencies = [
-#   "python-dotenv>=1.2.1,<2.0.0",
 #   "requests>=2.32.5,<3.0.0",
 # ]
 # ///
 
 import os
-import dotenv
 import requests
 from datetime import datetime, timedelta
 
-dotenv.load_dotenv()
 readwise_token = os.getenv("READWISE_KEY")
 readwise_headers = {"Authorization": f"Token {readwise_token}"}
 readwise_base_url = "https://readwise.io/api"

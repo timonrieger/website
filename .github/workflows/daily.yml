@@ -23,6 +23,8 @@ jobs:
 
       - name: Run reads script
         run: mise run reads
+        env:
+          READWISE_KEY: ${{ secrets.READWISE_KEY }}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v7
