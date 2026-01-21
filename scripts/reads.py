@@ -91,9 +91,8 @@ def gen_markdown(data):
     new_content = ""
 
     for category, lists in data.items():
-        new_content += f"\n\n## {category.capitalize()}"
         if lists[0]:
-            new_content += "\n\n### Favorite\n\n"
+            new_content += f"\n\n## Favorite {category.capitalize()}\n\n"
             new_content += "\n".join(
                 [
                     (
@@ -105,7 +104,7 @@ def gen_markdown(data):
                 ]
             )
         if lists[1]:
-            new_content += "\n\n### Latest\n\n"
+            new_content += f"\n\n## Latest {category.capitalize()}\n\n"
             new_content += "\n".join(
                 [
                     (

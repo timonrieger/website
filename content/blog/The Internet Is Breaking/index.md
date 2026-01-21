@@ -6,9 +6,9 @@ title: 'The Internet Is Breaking'
 url: 'blog/the-internet-is-breaking'
 ---
 
-The internet is breaking. And it's happening fast. Your favorite websites are going down, your favorite apps are not working, your favorite services are not available. And it happens all the time, at a rate that is concerning. There is a fix. 
+The internet is breaking. And it's happening fast. Your favorite websites are going down, your favorite apps are not working, your favorite services are not available. And it happens all the time, at a rate that is concerning. There is a fix.
 
-<!--more--> 
+<!--more-->
 
 You know that Meta, Google, Apple, Amazon, Microsoft, etc. are the players owning all the big platforms on the internet. If one of them goes down, their platforms become unavailable. However, there are many more influential players that most people are not even aware of. If one of them goes down, half of the internet becomes unavailable.
 
@@ -22,6 +22,6 @@ The same applies to one's own data, we do backups to lower the risk of total los
 
 Spinning the idea of replication further, you at some point will reach the concept of **decentralization**. In the first place it just means the absence of a central entity, which is not true in our scenario, since we just "backup" central entities multiple times. There is no clear line between centralized and decentralized systems, although one could argue that the system design defines already whether something is centralized or not.
 
-Since manually "decentralizing" it's own infrastructure comes with several downsides (costs, maintenance, resources) from a company and individual perspective, the true innovation lies is **decentralization by design**. A technology built on this philosophy from the ground up, is the blockchain (I refer to the idea, rather than one specific implementation). The idea of a new, resilient, decentralized and thus more democratic internet has been born and is commonly referred to as Web3. 
+Since manually "decentralizing" it's own infrastructure comes with several downsides (costs, maintenance, resources) from a company and individual perspective, the true innovation lies is **decentralization by design**. A technology built on this philosophy from the ground up, is the blockchain (I refer to the idea, rather than one specific implementation). The idea of a new, resilient, decentralized and thus more democratic internet has been born and is commonly referred to as Web3.
 
 Long live the internet! Keep building!

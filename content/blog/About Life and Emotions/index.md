@@ -10,12 +10,11 @@ After the first part [_About Life and Death_](/blog/about-life-and-death) and th
 
 <!--more-->
 
-As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless. 
+As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.
 
 <hr>
 
-7 quotes about life and emotions
-------------------------------------
+## 7 quotes about life and emotions
 
 > Do you want to? then listen to this: Do not get upset and always stay with yourself. If someone has transgressed against you, he has transgressed against himself. If something sad has happened to you: it was destined for you from the beginning; everything that happens is destiny. And all in all: life is short.
 
@@ -27,6 +26,7 @@ As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life
 
 > If something happens in your surroundings that upsets and outrages you, withdraw into yourself quickly and do not give in unduly to the impressions that jeopardize your attitude. The more often we know how to regain the harmonious mood of the soul, the more capable we become of maintaining it.
 
+<!-- markdownlint-disable-next-line MD036 -->
 _"There is nothing either good or bad, but thinking makes it so" ~ Shakespeare_
 
 <hr>
@@ -45,21 +45,14 @@ The power of judgment over things lies with our own mind. Our reality is our con
 
 > Do not forget that where you live you have quite the same as you would have in the mountains or by the sea or anywhere else you long to go. The shepherd, says Plato, who thus grazes by his fence on the mountain, feels no differently than he who is surrounded by a city wall.
 
-
 Our external environment ultimately has less influence on our inner well\-being than our own attitude towards it. The true source of our inner state lies within our own mind, regardless of external circumstances.
-
 
 <hr>
 
 > And further, that it is not those actions that make us complain, but the ideas we have about them. Send them home and your anger will subside. But how? By considering that what happens to you through them is in truth nothing bad. If it were bad, you yourself would necessarily have been made bad by it." And further, that anger and displeasure at such things weigh us down much more than the things at which you are angry. And finally, that a loving mind, if its love is truly genuine and unfeigned, can be overcome by nothing.
 
-
 Our reactions and feelings are primarily dependent on our own thoughts and interpretations.
-
 
 <hr>
 
 _All quotes used in this post come from the work "The Meditations of Marcus Aurelius". This book, also known as Self-Contemplations, was written by Emperor Marcus Aurelius and is a collection of personal notes and philosophical reflections. It is one of the most important works of Stoic philosophy._
-
-
-                

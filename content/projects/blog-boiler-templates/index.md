@@ -21,5 +21,6 @@ Initially, it used JSON storage via [npoint](https://npoint.io/) for blog posts,
 While I started the project during the 100 Days of Code challenge, I continued working on it over a longer period of time in private. In January 2025 I decided to make both templates public and open source. Since then it is not actively maintained anymore.
 
 ## Tech Stack
+
 - Backend made with [Flask](https://flask.palletsprojects.com/en/stable/)
 - Frontend made with [Jinja](https://jinja.palletsprojects.com/en/stable/) and [Start Bootstrap](https://startbootstrap.com/theme/clean-blog)

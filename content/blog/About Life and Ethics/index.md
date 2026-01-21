@@ -6,18 +6,17 @@ title: 'About Life and Ethics'
 url: 'blog/about-life-and-ethics'
 ---
 
-The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part [_About Life and Death_](/blog/about-life-and-death) below I'll continue with quotes regarding [_About Life and Ethics_](/blog/about-life-and-ethics). 
+The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part [_About Life and Death_](/blog/about-life-and-death) below I'll continue with quotes regarding [_About Life and Ethics_](/blog/about-life-and-ethics).
 
 <!--more-->
 
 The next and final post about the book will be about [_About Life and Emotions_](/blog/about-life-and-emotions).
 
-As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless. 
+As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.
 
 <hr>
 
-5 quotes about life and ethics
-----------------------------------
+## 5 quotes about life and ethics
 
 > If you follow sound reason and work with zeal, strength and love in what you are about to do, without any other thought guiding you than that of keeping your inner being pure, as if you were soon to give up your spirit; if you pull yourself together in this way, neither hesitating nor hurrying, but allowing yourself to be satisfied with the energy naturally at your disposal and with the truthfulness that must shine forth from every word you utter, you will lead a happy life. And I would not know who could prevent you from doing so.
 

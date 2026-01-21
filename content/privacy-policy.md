@@ -39,6 +39,7 @@ services:
   x:
     disableInlineCSS: true
 ```
+
 _[Verify source](https://github.com/timonrieger/website/blob/v2/hugo.yaml)_
 
 ## Contact

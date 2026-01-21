@@ -24,6 +24,3 @@ Somewhere in the middle of the 100 days of code challenge I started this project
 
 - Backend made with [Flask](https://flask.palletsprojects.com/en/stable/)
 - Frontend made with [Jinja2](https://jinja.palletsprojects.com/en/stable/)
-
-
-

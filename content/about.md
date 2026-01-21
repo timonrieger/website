@@ -21,4 +21,3 @@ If you want to get in touch, you can send me an email at contact@ and the domain
 4. silence is unvaluable
 5. living means being
 6. simplicity wins
-

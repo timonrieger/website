@@ -11,6 +11,7 @@ In this short article, I'll show you how to develop locally with LLMs, making AI
 <!--more-->
 
 ## Quote Of The Day
+>
 >The only mistake is almost always to believe that my point of view is the only one from which one can see the truth. The deaf person will always think the dancers are crazy.
 
 <hr>
@@ -36,8 +37,8 @@ response = client.chat.completions.create(
 response = response.choices[0].message.content
 print(response)
 ```
+
 This will print the response from the LLM in the console.
 >Note: You need to replace the `model` with the model you installed in the Jan UI. You can find the id with `client.models.list()`.
-
 
 From now on you can use the openai library to interact with your local LLM. Happy coding!
