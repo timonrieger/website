@@ -1,4 +1,0 @@
-python-dotenv==0.19.1
-black==24.10.0
-pyperclip
-requests
