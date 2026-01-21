@@ -26,8 +26,12 @@ jobs:
         env:
           READWISE_KEY: ${{ secrets.READWISE_KEY }}
 
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d %H:%M')" >> $GITHUB_OUTPUT
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: Published on $(date +"%Y-%m-%d %H:%M")
+          commit_message: Published on ${{ steps.date.outputs.date }}
           file_pattern: 'content/reads.md'
