@@ -4,7 +4,7 @@ draft: false
 title: 'Arkivr'
 url: 'projects/arkivr'
 cover:
-  image: "images/cover.png" 
+  image: "images/cover.png"
 weight: 1
 ---
 

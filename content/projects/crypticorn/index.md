@@ -4,7 +4,7 @@ draft: false
 title: 'Crypticorn'
 url: 'projects/crypticorn'
 cover:
-  image: "images/cover.png" 
+  image: "images/cover.png"
 weight: 4
 ---
 

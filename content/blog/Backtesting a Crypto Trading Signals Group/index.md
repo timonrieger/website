@@ -89,11 +89,11 @@ I have analyzed data from approximately May 2023 to today, which results in 2431
 We examine parameters such as taker fee, maker fee, funding fee, margin, and leverage. The Taker fee, typically between 0\.04% and 0\.06% of the position size, is charged when entering a trade. The Maker fee, about half the size of the taker fee, is charged upon trade closure. For simplicity, I've assumed a conservative total taker fee of 0\.1%. The funding fee and average funding cycles per trade occur every 8 hours, transferring payments between Short Traders and Long Traders, based on trade duration. With an average trade open for one day, this equates to approximately 3 funding cycles (24h / 8h). Margin represents the percentage of the account balance used for trading (e.g., 0\.02 for 2%). Leverage multiplies fees based on the position size, not the initial investment margin.
 
 ```python
-INITIAL = 1000  
-MARGIN = 0.02 # 2% 
-TAKER_FEE = 0.001  # 0.1%  
-FUNDING_FEE = 0.0002  # 0.02%  
-LEVERAGE = 10   
+INITIAL = 1000
+MARGIN = 0.02 # 2%
+TAKER_FEE = 0.001  # 0.1%
+FUNDING_FEE = 0.0002  # 0.02%
+LEVERAGE = 10 
 AVG_FUNDING_CYCLES_PER_TRADE = 3  # 24h Avg. Trade Length
 ```
 

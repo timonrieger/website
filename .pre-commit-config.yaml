@@ -1,4 +1,16 @@
+exclude: "^(themes/)"
 repos:
+  -   repo: https://github.com/pre-commit/pre-commit-hooks
+      rev: v6.0.0
+      hooks:
+        - id: trailing-whitespace
+
+        - id: check-toml
+        - id: check-yaml
+        - id: check-json
+        - id: end-of-file-fixer
+
+
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.30.0
     hooks:
@@ -9,6 +21,3 @@ repos:
     hooks:
       - id: markdownlint
         args: [--fix]
-        exclude: "^(themes/)"
-
-      

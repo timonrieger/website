@@ -4,7 +4,7 @@ draft: false
 title: 'Filmhub'
 url: 'projects/filmhub'
 cover:
-  image: "images/cover.png" 
+  image: "images/cover.png"
 ---
 Filmhub is a platform for discovering and sharing movies. It is a web application that allows users to rank movies and share them with friends.
 
