@@ -40,7 +40,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Issue #717: Unit Testing Performance, Cursor, Recursive match, and More (Jan. 13, 2026)_](https://pycoders.com/issues/717) by PyCoder’s Weekly (Jan 13, 2026)
 - [_What makes something a cult? Here is what our data says_](https://www.clearerthinking.org/post/what-makes-something-a-cult) by Travis M. (based on data analysis by Hudson Silvério) (Jan 13, 2026)
 - [_The Method I Used to Reclaim 72 Hours a Week_](https://www.self.com/story/the-method-i-used-to-reclaim-72-hours-a-week) by Amanda Goetz (Jan 13, 2026)
-- [_Release 1.14.3 · alangrainger/immich-public-proxy · GitHub_](https://github.com/alangrainger/immich-public-proxy/releases/tag/v1.14.3) by <https://github.com/alangrainger/> (Jan 12, 2026)
+- [_Release 1.14.3 · alangrainger/immich-public-proxy · GitHub_](https://github.com/alangrainger/immich-public-proxy/releases/tag/v1.14.3) by https://github.com/alangrainger/ (Jan 12, 2026)
 - [_Python lazy imports you can use today_](https://pycoders.com/link/15422/feed) by pythontest.com (Jan 12, 2026)
 - [_Python 3.6-3.14 Performance on M1, M5, Zen2 and Cascade Lake_](https://pycoders.com/link/15790/feed) by crewtech.se (Jan 12, 2026)
 - [_How uv got so fast_](https://pycoders.com/link/15797/feed) by Andrew Nesbitt (Jan 12, 2026)
