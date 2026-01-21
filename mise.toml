@@ -36,3 +36,7 @@ run = 'hugo new project/{{arg(name="title")}}'
 [tasks."new:page"]
 description = "Create a new single page (usage: mise run new:page NAME)"
 run = 'hugo new {{arg(name="title")}}.md'
+
+[tasks.reads]
+description = "Run the reads script"
+run = "uv run scripts/reads.py"

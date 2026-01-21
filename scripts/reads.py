@@ -1,7 +1,20 @@
-import pyperclip
+# /// script
+# requires-python = ">3.10"
+# dependencies = [
+#   "python-dotenv>=1.2.1,<2.0.0",
+#   "requests>=2.32.5,<3.0.0",
+# ]
+# ///
+
+import os
+import dotenv
 import requests
-from scripts import readwise_base_url, readwise_headers
 from datetime import datetime, timedelta
+
+dotenv.load_dotenv()
+readwise_token = os.getenv("READWISE_KEY")
+readwise_headers = {"Authorization": f"Token {readwise_token}"}
+readwise_base_url = "https://readwise.io/api"
 
 FILE = "content/reads.md"
 
@@ -133,7 +146,6 @@ def update_file(file_path, new_content):
 
     # Front matter (first part) and body (third part)
     front_matter = parts[0] + "---" + parts[1] + "---"
-    body = parts[2]
 
     # Replace the lastmod field with the current time
     front_matter_lines = front_matter.splitlines()
@@ -142,7 +154,7 @@ def update_file(file_path, new_content):
             front_matter_lines[i] = f"lastmod: '{current_time}'"
 
     # Combine the updated front matter with the new content
-    updated_content = f"{"\n".join(front_matter_lines)}{new_content}"
+    updated_content = f"{'\n'.join(front_matter_lines)}{new_content}"
 
     # Write back to the file
     with open(file_path, "w") as f:
