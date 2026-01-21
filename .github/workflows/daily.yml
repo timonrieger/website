@@ -6,49 +6,26 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-publish:
+  publish:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Check-out repository
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6
         with:
-          ref: v2
+          persist-credentials: false
+          token: ${{ secrets.RELEASE_PAT }}
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Install mise
+        uses: jdx/mise-action@146a28175021df8ca24f8ee1828cc2a60f980bd5 # v3
+
+      - name: Run reads script
+        run: mise run reads
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          hugo-version: '0.145.0'
-          extended: true
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Setup Fish Shell
-        run: |
-          sudo apt-add-repository ppa:fish-shell/release-3
-          sudo apt update
-          sudo apt install -y fish
-
-      - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Create .env file
-        run: |
-          echo "READWISE_KEY=${{ secrets.READWISE_KEY }}" > .env
-
-      - name: Configure Git
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-      - name: Run publish script
-        run: fish scripts/daily.sh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Published on $(date +"%Y-%m-%d %H:%M")
+          file_pattern: 'content/reads.md'
