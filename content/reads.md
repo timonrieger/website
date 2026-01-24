@@ -35,6 +35,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ## Latest Articles
 
+- [_pawamoy's website_](https://pawamoy.github.io/showcase/) by pawamoy.github.io (Jan 23, 2026)
 - [_Veganes Rührei mit Joghurt_](https://nvsino.com/pages/ruhrei-mit-joghurt) by NVSINO (Jan 15, 2026)
 - [_Vorwort: Behauptung: „Veganismus Ist Ungesund!“_](https://cdn.shopify.com/s/files/1/0696/1001/2902/files/Gesamtbewertung_NVSINO-2.pdf?v=1765973727) by Dr. Med. Raffaela Raab, Die Militante Veganerin (Jan 15, 2026)
 - [_Issue #717: Unit Testing Performance, Cursor, Recursive match, and More (Jan. 13, 2026)_](https://pycoders.com/issues/717) by PyCoder’s Weekly (Jan 13, 2026)
@@ -44,4 +45,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Python lazy imports you can use today_](https://pycoders.com/link/15422/feed) by pythontest.com (Jan 12, 2026)
 - [_Python 3.6-3.14 Performance on M1, M5, Zen2 and Cascade Lake_](https://pycoders.com/link/15790/feed) by crewtech.se (Jan 12, 2026)
 - [_How uv got so fast_](https://pycoders.com/link/15797/feed) by Andrew Nesbitt (Jan 12, 2026)
-- [_Self-Hosting On University Campus_](https://discuss.privacyguides.net/t/self-hosting-on-university-campus/34312#post_16) by @zamtron (Jan 12, 2026)
