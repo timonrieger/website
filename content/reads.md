@@ -35,13 +35,13 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ## Latest Articles
 
+- [_„Die AfD wird kein Rathaus in Bayern übernehmen“, erklärt Markus Söder_](https://apollo-news.net/die-afd-wird-kein-rathaus-in-bayern-uebernehmen-erklaert-markus-soeder/) by Redaktion (Jan 24, 2026)
+- [_„Jeder sollte vorbereitet sein“: Berlins Polizeipräsidentin warnt vor weiteren Anschlägen_](https://apollo-news.net/jeder-sollte-vorbereitet-sein-berlins-polizeipraesidentin-warnt-vor-weiteren-anschlaegen/) by Jonas Aston (Jan 24, 2026)
+- [_Will we get automated alignment research before an AI Takeoff?_](https://www.lesswrong.com/posts/z4FvJigv3c8sZgaKZ/will-we-get-automated-alignment-research-before-an-ai) by JanWehner (Jan 24, 2026)
 - [_pawamoy's website_](https://pawamoy.github.io/showcase/) by pawamoy.github.io (Jan 23, 2026)
+- [_2.1.0-beta.3_](https://github.com/louislam/uptime-kuma/releases/tag/2.1.0-beta.3) by louislam (Jan 22, 2026)
+- [_3-2-1: On comparison, life strategy, and stopping negative thought spirals_](https://jamesclear.com/3-2-1/january-15-2026) by James Clear - 3-2-1 Thursday Newsletter (Jan 16, 2026)
+- [_50 Millionen mit Poker: So habe ich sie ausgetrickst (Fedor Holz)_](https://inv.nadeko.net/watch?v=AVqRBIZcyas) by {ungeskriptet} by Ben | Invidious (Jan 15, 2026)
 - [_Veganes Rührei mit Joghurt_](https://nvsino.com/pages/ruhrei-mit-joghurt) by NVSINO (Jan 15, 2026)
 - [_Vorwort: Behauptung: „Veganismus Ist Ungesund!“_](https://cdn.shopify.com/s/files/1/0696/1001/2902/files/Gesamtbewertung_NVSINO-2.pdf?v=1765973727) by Dr. Med. Raffaela Raab, Die Militante Veganerin (Jan 15, 2026)
 - [_Issue #717: Unit Testing Performance, Cursor, Recursive match, and More (Jan. 13, 2026)_](https://pycoders.com/issues/717) by PyCoder’s Weekly (Jan 13, 2026)
-- [_What makes something a cult? Here is what our data says_](https://www.clearerthinking.org/post/what-makes-something-a-cult) by Travis M. (based on data analysis by Hudson Silvério) (Jan 13, 2026)
-- [_The Method I Used to Reclaim 72 Hours a Week_](https://www.self.com/story/the-method-i-used-to-reclaim-72-hours-a-week) by Amanda Goetz (Jan 13, 2026)
-- [_Release 1.14.3 · alangrainger/immich-public-proxy · GitHub_](https://github.com/alangrainger/immich-public-proxy/releases/tag/v1.14.3) by https://github.com/alangrainger/ (Jan 12, 2026)
-- [_Python lazy imports you can use today_](https://pycoders.com/link/15422/feed) by pythontest.com (Jan 12, 2026)
-- [_Python 3.6-3.14 Performance on M1, M5, Zen2 and Cascade Lake_](https://pycoders.com/link/15790/feed) by crewtech.se (Jan 12, 2026)
-- [_How uv got so fast_](https://pycoders.com/link/15797/feed) by Andrew Nesbitt (Jan 12, 2026)
