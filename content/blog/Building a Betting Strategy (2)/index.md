@@ -10,7 +10,7 @@ It's been a while and the teams are already deep into the Bundesliga season. Nev
 
 ## Our Strategy
 
-The strategy I will be backtesting today will be betting on over 0\.5 goals in the 30th minute if until then no goal has been scored. At the time of writing the odds with these conditions average at around 1\.2\. The odds are crucial to the profitability of this strategy, so keep that in mind. I will walk you through my analysis and thoughts when writing the code for it. You can [download the unfortunately unorganized notebook and the data for this study](https://link.storjshare.io/raw/jxbemnnat5dxvantick4cb35vx7a/public/building-a-profitable-betting-strategy.zip).
+The strategy I will be backtesting today will be betting on over 0\.5 goals in the 30th minute if until then no goal has been scored. At the time of writing the odds with these conditions average at around 1\.2\. The odds are crucial to the profitability of this strategy, so keep that in mind. I will walk you through my analysis and thoughts when writing the code for it. You can [download the unfortunately unorganized notebook and the data for this study](https://share.timonrieger.de/building-a-profitable-betting-strategy.zip).
 
 For the following study, I used a technique called hyperparameter optimization, which is a common method in Machine Learning to systematically adjust the parameters of a model to improve its performance on a specific task, such as enhancing accuracy, reducing error rates, or optimizing computational efficiency. In my case, I tried to optimize the following parameters to achieve the highest chance of being profitable with my betting strategy:
 
