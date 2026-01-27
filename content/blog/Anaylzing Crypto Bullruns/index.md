@@ -2,8 +2,8 @@
 date: '2024-08-13'
 draft: False
 tags: ['crypto']
-title: 'Maximize Crypto Profits with This Bullrun Strategy'
-url: 'blog/maximize-crypto-profits-with-this-bullrun-strategy'
+title: 'Anaylzing Crypto Bullruns'
+url: 'blog/anaylzing-crypto-bullruns'
 ---
 
 This blog post deals with trading the crypto bullruns in the most optimal way to secure profits using the CBB Index. This strategy would have easily outperformed holding bitcoin, as we would have sold at each cycle top and reinvested everything in the bear market. I will use this plan for altcoins as well, as they are highly correlated with bitcoin, making it difficult to predict the exact top for each coin. This approach may limit maximum profits, but it helps to secure them.
