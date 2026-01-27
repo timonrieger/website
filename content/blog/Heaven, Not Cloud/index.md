@@ -6,11 +6,11 @@ title: 'Heaven, Not Cloud'
 url: 'blog/heaven-not-cloud'
 ---
 
-I planned it for a while, finally realized it: a own server. It's more than just a server, it's a cloud. And, it's about freedom, ownership and a philosophy. Explaining the why and how and the stack we are running.
+I planned it for a while, finally realized it: a own server. It's more than just a server, it's heaven. And, it's about freedom, ownership and a philosophy. Explaining the why and how and the stack we are running.
 
 <!--more-->
 
-Yes, I finally built my own server. It feels great. I am quite excited about this because:
+Yes, I finally set up my own server. It feels great. I am quite excited about this because:
 
 1. It solves a long standing family pain point
 2. You actually own your data
@@ -40,11 +40,11 @@ I am a fan of writing things down. It reclaims brain space, makes the stack repr
 
 So I [documented everything](https://docs.fam.timonrieger.de/). I made it public, so anyone can take a look and benefit from the thoughts I put into the setup.
 
-In short, I run a popular base system Linux distribution, configure it declaratively, run free open containerized software and access it with a private VPN from anywhere in the world.
+In short, I run a popular base system Linux distribution, configure it declaratively as code, run open source software and access it with a private VPN from anywhere in the world.
 
 ## How It's Used
 
-We moved all our media to the server and serve it via dedicated software to the "clients", us.
+We moved all our media to the server and serve it via dedicated software to us.
 
 We run [Immich](https://immich.app) for photo and video management,
 [Jellyfin](https://jellyfin.org) for movies and music alongside other software. [^2]

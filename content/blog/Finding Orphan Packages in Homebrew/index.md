@@ -37,4 +37,4 @@ docker is not used by any installed package
 flac is not used by any installed package
 ```
 
-> EDIT: Homebrew ships with this out of the box with [`brew autoremove`](https://docs.brew.sh/Manpage#autoremove---dry-run).
+> EDIT: Homebrew ships this partially with [`brew autoremove`](https://docs.brew.sh/Manpage#autoremove---dry-run).
