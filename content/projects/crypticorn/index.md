@@ -5,7 +5,7 @@ title: 'Crypticorn'
 url: 'projects/crypticorn'
 cover:
   image: "images/cover.png"
-weight: 4
+weight: 2
 ---
 
 Crypticorn is a software as a service (SaaS) that allows you to leverage the power of AI in the crypto space. We offer a range of services from price predictions to a automated crypto trading bot.

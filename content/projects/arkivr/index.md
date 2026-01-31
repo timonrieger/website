@@ -5,7 +5,7 @@ title: 'Arkivr'
 url: 'projects/arkivr'
 cover:
   image: "images/cover.png"
-weight: 1
+weight: 4
 ---
 
 Arkivr is an archiving software as a self-hostable web server that allows you to store and organize resources such as links, files and more for easy retrieval.

@@ -5,7 +5,7 @@ title: 'Blog Boiler Templates'
 url: 'projects/blog-boiler-templates'
 cover:
   image: "images/cover.png"
-weight: 2
+weight: 5
 ---
 Blog Boiler is a set of two templates to get started with a free, easy and predesigned blog template that will help you get started blogging in minutes.
 
