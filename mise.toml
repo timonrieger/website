@@ -31,7 +31,7 @@ run = 'hugo new blog/{{arg(name="title")}}'
 
 [tasks."new:project"]
 description = "Create a new project (usage: mise run new:project NAME)"
-run = 'hugo new project/{{arg(name="title")}}'
+run = 'hugo new projects/{{arg(name="title")}}'
 
 [tasks."new:page"]
 description = "Create a new single page (usage: mise run new:page NAME)"
