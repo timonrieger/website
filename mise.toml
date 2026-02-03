@@ -1,5 +1,6 @@
 [tools]
 uv = "0.9"
+hugo = "0.146.0"
 
 [tasks.lint]
 run = "uvx pre-commit run --all-files"
