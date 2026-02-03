@@ -20,7 +20,7 @@ I’ve been working a lot with OpenAPI-related tooling recently: I added OpenAPI
 
 ## Timeline
 
-The project started in January 2026, after [setting up my Immich server](/blog/heaven-not-cloud/) and [contributing to Immich](https://github.com/immich-app/immich/pulls/timonrieger). 
+The project started in January 2026, after [setting up my Immich server](/blog/heaven-not-cloud/) and [contributing to Immich](https://github.com/immich-app/immich/pulls/timonrieger).
 
 It was first named ~~immich-python-client~~ (too long), then ~~immich-py~~ - but the package and CLI name [`immich`](https://pypi.org/project/immich) shadowed module names and was ambiguous with the official CLI, so I renamed it to **immichpy** with consistent naming.
 
