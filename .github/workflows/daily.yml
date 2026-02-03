@@ -5,8 +5,7 @@ on:
     - cron: '0 11 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: {}
+permissions: {}
 
 jobs:
   publish:
