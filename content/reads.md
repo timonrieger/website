@@ -35,6 +35,9 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ## Latest Articles
 
+- [_The mythical 10x programmer_](https://antirez.com/news/112) by antirez.com (Feb 03, 2026)
+- [_The Ten Rules of a Zen Programmer_](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html) by Christian Grobmeier (Feb 03, 2026)
+- [_10 Things Every Programmer Should Know For Their First Job_](https://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/) by James R. Stoup (Feb 03, 2026)
 - [_36,000 AI Agents Are Now Speedrunning Civilization_](https://www.lesswrong.com/posts/jDeggMA22t3jGbTw6/36-000-ai-agents-are-now-speedrunning-civilization) by Michaël Trazzi (Jan 31, 2026)
 - [_„Angriff auf den Schutz unserer Demokratie“: Bundestag lehnt Abschaffung von Politikerbeleidigung ab_](https://apollo-news.net/angriff-auf-den-schutz-unserer-demokratie-bundestag-lehnt-abschaffung-von-politikerbeleidigung-ab/) by André Hintz (Jan 30, 2026)
 - [_Orwell in Bern: Die Schweiz wird totalitär_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/orwell-in-bern-schweiz-wird-totalitaer/) by Gastautor (Jan 30, 2026)
@@ -42,6 +45,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Building AIs that do human-like philosophy_](https://www.lesswrong.com/posts/zFZHHnLez6k8ykxpu/building-ais-that-do-human-like-philosophy) by Joe Carlsmith (Jan 30, 2026)
 - [_v2.5.0 - 90000 Stars Release_](https://github.com/immich-app/immich/releases/tag/v2.5.0) by alextran1502 (Jan 28, 2026)
 - [_Release 1.15.1 · alangrainger/immich-public-proxy · GitHub_](https://github.com/alangrainger/immich-public-proxy/releases/tag/v1.15.1) by https://github.com/alangrainger/ (Jan 26, 2026)
-- [_Release 1.15.0 · alangrainger/immich-public-proxy · GitHub_](https://github.com/alangrainger/immich-public-proxy/releases/tag/v1.15.0) by https://github.com/alangrainger/ (Jan 26, 2026)
-- [_Der große Mythos - Ein Film von Michael Hüter | erster offizieller Trailer | Ab Herbst 2026!_](https://m.youtube.com/watch?v=LNPOC2va5xs) by Michael Hüter (Jan 25, 2026)
-- [_„Die AfD wird kein Rathaus in Bayern übernehmen“, erklärt Markus Söder_](https://apollo-news.net/die-afd-wird-kein-rathaus-in-bayern-uebernehmen-erklaert-markus-soeder/) by Redaktion (Jan 24, 2026)
