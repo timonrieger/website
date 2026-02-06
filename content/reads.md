@@ -35,6 +35,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ## Latest Articles
 
+- [_What's up Python? Astral's new service, pandas 3 and a new ORM..._](https://www.bitecode.dev/p/whats-up-python-astrals-new-service) by Bite Code! (Feb 06, 2026)
 - [_The mythical 10x programmer_](https://antirez.com/news/112) by antirez.com (Feb 03, 2026)
 - [_The Ten Rules of a Zen Programmer_](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html) by Christian Grobmeier (Feb 03, 2026)
 - [_10 Things Every Programmer Should Know For Their First Job_](https://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/) by James R. Stoup (Feb 03, 2026)
@@ -44,4 +45,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Unnamed Document_](https://deutschlandkurier.de/2026/01/99197/?utm_source=rss&utm_medium=rss&utm_campaign=99197) by r2d2 (Jan 30, 2026)
 - [_Building AIs that do human-like philosophy_](https://www.lesswrong.com/posts/zFZHHnLez6k8ykxpu/building-ais-that-do-human-like-philosophy) by Joe Carlsmith (Jan 30, 2026)
 - [_v2.5.0 - 90000 Stars Release_](https://github.com/immich-app/immich/releases/tag/v2.5.0) by alextran1502 (Jan 28, 2026)
-- [_Release 1.15.1 · alangrainger/immich-public-proxy · GitHub_](https://github.com/alangrainger/immich-public-proxy/releases/tag/v1.15.1) by https://github.com/alangrainger/ (Jan 26, 2026)
