@@ -35,6 +35,9 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ## Latest Articles
 
+- [_Vibe Coding Is Killing Open Source Software, Researchers Argue_](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/?ref=selfh.st) by Matthew Gault · Feb 5 (Feb 11, 2026)
+- [_Waffenverbot für AfD-Mitglieder von Gericht gekippt_](https://apollo-news.net/waffenverbot-fuer-afd-mitglieder-von-gericht-gekippt/) by Redaktion (Feb 11, 2026)
+- [_Improving Your Tests With the Python Mock Object Library_](https://realpython.com/courses/improve-tests-mock-object-library/) by Real Python (Feb 10, 2026)
 - [_Minus sechs Prozentpunkte: Merz so unbeliebt wie noch nie zuvor_](https://apollo-news.net/minus-sechs-prozentpunkte-merz-so-unbeliebt-wie-noch-nie-zuvor/) by Redaktion (Feb 06, 2026)
 - [_What's up Python? Astral's new service, pandas 3 and a new ORM..._](https://www.bitecode.dev/p/whats-up-python-astrals-new-service) by Bite Code! (Feb 06, 2026)
 - [_GitHub Actions Is Slowly Killing Your Engineering Team_](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) by Ian Duncan (Feb 05, 2026)
@@ -42,6 +45,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_The mythical 10x programmer_](https://antirez.com/news/112) by antirez.com (Feb 03, 2026)
 - [_The Ten Rules of a Zen Programmer_](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html) by Christian Grobmeier (Feb 03, 2026)
 - [_10 Things Every Programmer Should Know For Their First Job_](https://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/) by James R. Stoup (Feb 03, 2026)
-- [_36,000 AI Agents Are Now Speedrunning Civilization_](https://www.lesswrong.com/posts/jDeggMA22t3jGbTw6/36-000-ai-agents-are-now-speedrunning-civilization) by Michaël Trazzi (Jan 31, 2026)
-- [_„Angriff auf den Schutz unserer Demokratie“: Bundestag lehnt Abschaffung von Politikerbeleidigung ab_](https://apollo-news.net/angriff-auf-den-schutz-unserer-demokratie-bundestag-lehnt-abschaffung-von-politikerbeleidigung-ab/) by André Hintz (Jan 30, 2026)
-- [_Orwell in Bern: Die Schweiz wird totalitär_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/orwell-in-bern-schweiz-wird-totalitaer/) by Gastautor (Jan 30, 2026)
