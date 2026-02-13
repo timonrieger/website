@@ -35,6 +35,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ## Latest Articles
 
+- [_CCC vs GCC_](https://harshanu.space/en/tech/ccc-vs-gcc/) by Harshanu (Feb 12, 2026)
 - [_Vibe Coding Is Killing Open Source Software, Researchers Argue_](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/?ref=selfh.st) by Matthew Gault · Feb 5 (Feb 11, 2026)
 - [_Waffenverbot für AfD-Mitglieder von Gericht gekippt_](https://apollo-news.net/waffenverbot-fuer-afd-mitglieder-von-gericht-gekippt/) by Redaktion (Feb 11, 2026)
 - [_Improving Your Tests With the Python Mock Object Library_](https://realpython.com/courses/improve-tests-mock-object-library/) by Real Python (Feb 10, 2026)
@@ -44,4 +45,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Why You Should Attend a Python Conference_](https://realpython.com/python-conference-guide/) by Real Python (Feb 04, 2026)
 - [_The mythical 10x programmer_](https://antirez.com/news/112) by antirez.com (Feb 03, 2026)
 - [_The Ten Rules of a Zen Programmer_](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html) by Christian Grobmeier (Feb 03, 2026)
-- [_10 Things Every Programmer Should Know For Their First Job_](https://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/) by James R. Stoup (Feb 03, 2026)
