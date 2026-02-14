@@ -35,6 +35,7 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ## Latest Articles
 
+- [_GitButler CLI Is Really Good_](https://matduggan.com/gitbutler-cli-is-really-good/) by matduggan.com (Feb 14, 2026)
 - [_CCC vs GCC_](https://harshanu.space/en/tech/ccc-vs-gcc/) by Harshanu (Feb 12, 2026)
 - [_Vibe Coding Is Killing Open Source Software, Researchers Argue_](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/?ref=selfh.st) by Matthew Gault · Feb 5 (Feb 11, 2026)
 - [_Waffenverbot für AfD-Mitglieder von Gericht gekippt_](https://apollo-news.net/waffenverbot-fuer-afd-mitglieder-von-gericht-gekippt/) by Redaktion (Feb 11, 2026)
@@ -44,4 +45,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_GitHub Actions Is Slowly Killing Your Engineering Team_](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) by Ian Duncan (Feb 05, 2026)
 - [_Why You Should Attend a Python Conference_](https://realpython.com/python-conference-guide/) by Real Python (Feb 04, 2026)
 - [_The mythical 10x programmer_](https://antirez.com/news/112) by antirez.com (Feb 03, 2026)
-- [_The Ten Rules of a Zen Programmer_](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html) by Christian Grobmeier (Feb 03, 2026)
