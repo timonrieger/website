@@ -41,4 +41,3 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 - [_Vibe Coding Is Killing Open Source Software, Researchers Argue_](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/?ref=selfh.st) by Matthew Gault · Feb 5 (Feb 11, 2026)
 - [_Waffenverbot für AfD-Mitglieder von Gericht gekippt_](https://apollo-news.net/waffenverbot-fuer-afd-mitglieder-von-gericht-gekippt/) by Redaktion (Feb 11, 2026)
 - [_Improving Your Tests With the Python Mock Object Library_](https://realpython.com/courses/improve-tests-mock-object-library/) by Real Python (Feb 10, 2026)
-- [_Minus sechs Prozentpunkte: Merz so unbeliebt wie noch nie zuvor_](https://apollo-news.net/minus-sechs-prozentpunkte-merz-so-unbeliebt-wie-noch-nie-zuvor/) by Redaktion (Feb 06, 2026)
