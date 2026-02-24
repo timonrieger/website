@@ -15,7 +15,7 @@ The other day, I came across a great video podcast that made me think about biol
 
 <hr>
 
-I recently came across [Ben](https://www.ungeskriptet.com/about)'s podcast [{ungeskriptet}](https://www.youtube.com/@ben_ungescripted), which has already changed a lot for me. I really enjoy following and learning from the conversations, especially because I think society - myself included - is craving deeper conversations again. Nowadays, there is either no dialog at all, only superficial one or whataboutism and pseudo-tolerance. In my opinion, that's why this podcast resonates so much.
+I recently came across [Ben](https://www.ungeskriptet.com/about)'s podcast [{ungeskriptet}](https://www.youtube.com/@ben_ungescripted), which has already changed a lot for me. I really enjoy following and learning from the conversations, especially because I think society — myself included — is craving deeper conversations again. Nowadays, there is either no dialog at all, only superficial one or whataboutism and pseudo-tolerance. In my opinion, that's why this podcast resonates so much.
 
 Getting back on topic, the episode I'm referring to is [Men, Women and the Road to Happiness](https://youtu.be/KhkHvW3TEu0). It's in German, so if you have the privilege of understanding German, I highly recommend it.
 

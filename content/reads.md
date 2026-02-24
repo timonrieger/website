@@ -1,7 +1,7 @@
 ---
 title: 'Reads'
 url: 'reads'
-description: 'Here you will find my latest and most valuable reads - updated daily at 11am UTC.'
+description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 ---
 
 ## Favorite Books

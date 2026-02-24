@@ -49,7 +49,7 @@ We moved all our media to the server and serve it via dedicated software to us.
 We run [Immich](https://immich.app) for photo and video management,
 [Jellyfin](https://jellyfin.org) for movies and music alongside other software. [^2]
 
-Amazing, open and free software, built for people instead of profits. They respect the [_File over app_](https://stephango.com/file-over-app) principle, are lightweight, feature rich and don't lock you in - and, you can contribute to their success yourself directly.
+Amazing, open and free software, built for people instead of profits. They respect the [_File over app_](https://stephango.com/file-over-app) principle, are lightweight, feature rich and don't lock you in — and, you can contribute to their success yourself directly.
 
 ## Balancing Maintenance
 

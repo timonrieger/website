@@ -25,7 +25,7 @@ for pkg in (brew list)
 end
 ```
 
-This checks the dependencies between installed programs. It finds "orphan" packages - packages that nothing else needs. You can review it and decide which ones to remove.
+This checks the dependencies between installed programs. It finds "orphan" packages — packages that nothing else needs. You can review it and decide which ones to remove.
 Here's what the output might look like:
 
 ```txt

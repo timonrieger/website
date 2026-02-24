@@ -44,7 +44,7 @@ Interesting. Overinterpretation and overthinking is not a resource-conserving ap
 
 > But if you do not stop attaching importance to a lot of other things, you are not yet a free, independent, dispassionate person, but are always in a position to be envious and jealous and deceitful against those who possess what you value so highly, and suspicious that someone might want to take it from you, and in despair if you lack it, and full of reproach against the gods. But if it is your attitude alone that constitutes your worth and dignity in your eyes, then you will be able to respect yourself, please those around you and praise and glorify the gods.
 
-For me viewing everything with a little smile helps overcome the emotional attachement. Remember you are just a monkey with a plan. Keep your inner strength - Stoism.
+For me viewing everything with a little smile helps overcome the emotional attachement. Remember you are just a monkey with a plan. Keep your inner strength — Stoism.
 
 <hr>
 
