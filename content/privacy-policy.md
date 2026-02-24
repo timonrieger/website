@@ -3,45 +3,8 @@ title: 'Privacy Policy'
 url: 'privacy-policy'
 ---
 
-## Zero Tracking
+This site does not use tracking, analytics, ads, third-party trackers, or user-identifying logs. It is built with [Hugo](https://gohugo.io/) and hosted on [Vercel](https://vercel.com/), which may collect operational logs.
 
-- No cookies
-- No analytics
-- No ads
-- No third-party trackers or embeds
-- No user related logs
-- No IP tracking
+For details on Vercel’s data practices, see [Vercel’s Privacy Policy](https://vercel.com/legal/privacy-policy). Site configuration for privacy can be verified in the [Hugo configuration](https://github.com/timonrieger/website/blob/main/hugo.yaml).
 
-## Embeds
-
-I avoid third‑party embeds. If I ever add one (e.g., a video or social post), I use [Hugo's privacy settings](https://gohugo.io/configuration/privacy/) to reduce or disable tracking.
-
-My current configuration:
-
-```yaml
-privacy:
-
-  x:
-    disabled: false
-    enableDNT: true
-    simple: false
-
-  instagram:
-    disabled: false
-
-  youtube:
-    disabled: false
-    privacyEnhanced: true
-
-services:
-  instagram:
-    disableInlineCSS: true
-  x:
-    disableInlineCSS: true
-```
-
-_[Verify source](https://github.com/timonrieger/website/blob/v2/hugo.yaml)_
-
-## Contact
-
-If you email me, I'll use your message only to reply.
+If you email me, your message will be used solely to reply.
