@@ -28,6 +28,7 @@ def get_readwise_data(category):
         f"{readwise_base_url}/v2/books/",
         params={"category": category, "page_size": 1000, "page": 1},
         headers=readwise_headers,
+        timeout=10,
     )
     response = response.json()["results"]
     item_list = [
@@ -73,7 +74,10 @@ def get_reader_data():
         if next_page_cursor:
             params["pageCursor"] = next_page_cursor
         response = requests.get(
-            f"{readwise_base_url}/v3/list/", params=params, headers=readwise_headers
+            f"{readwise_base_url}/v3/list/",
+            params=params,
+            headers=readwise_headers,
+            timeout=10,
         )
         res = response.json()
         try:
@@ -151,7 +155,7 @@ def update_file(file_path, new_content):
             front_matter_lines[i] = f"lastmod: '{current_time}'"
 
     # Combine the updated front matter with the new content
-    updated_content = f"{'\n'.join(front_matter_lines)}{new_content}"
+    updated_content = "\n".join(front_matter_lines) + new_content
 
     # Write back to the file
     with open(file_path, "w") as f:
