@@ -35,6 +35,8 @@ description: 'Here you will find my latest and most valuable reads - updated dai
 
 ## Latest Articles
 
+- [_The Final Bottleneck_](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) by Armin Ronacher's Thoughts and Writings (Feb 24, 2026)
+- [_Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet._](https://www.reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/?rdt=53246) by exe_CUTOR (Feb 24, 2026)
 - [_Retro Recomendo: Sleep_](https://www.recomendo.com/p/retro-recomendo-sleep) by Kevin Kelly (Feb 15, 2026)
 - [_GitButler CLI Is Really Good_](https://matduggan.com/gitbutler-cli-is-really-good/) by matduggan.com (Feb 14, 2026)
 - [_CCC vs GCC_](https://harshanu.space/en/tech/ccc-vs-gcc/) by Harshanu (Feb 12, 2026)
