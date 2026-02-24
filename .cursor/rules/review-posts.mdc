@@ -1,0 +1,10 @@
+---
+globs: content/blog/**/*.md
+alwaysApply: false
+---
+Use the following guidelines to review the blog posts:
+
+- Only make small edits: fix spelling, grammar, and awkward phrasing without changing the author’s voice.
+- Keep one main idea per paragraph; split or reorder if several claims are crammed together.
+- Define important or unusual terms once in the text so readers don’t have to guess.
+- Make cause–effect clear where it matters (e.g. “Because …”, “So …”).
