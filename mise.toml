@@ -1,5 +1,5 @@
 [tools]
-uv = "0.9"
+uv = "latest"
 hugo = "0.155.2"
 
 [tasks.lint]
