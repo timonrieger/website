@@ -1,12 +1,5 @@
 ---
-date: '{{ .Date }}'
-draft: true
-tags: []
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 url: '{{ replace .File.ContentBaseName "-" " " | urlize }}'
+description: ''
 ---
-your summary goes here
-
-<!--more-->
-
-your content goes here
