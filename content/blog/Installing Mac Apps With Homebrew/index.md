@@ -45,7 +45,7 @@ Some apps aren't available as Casks in Homebrew. For example:
 brew search goodnotes
 ```
 
-...returns no Goodnotes results.
+…returns no Goodnotes results.
 
 Goodnotes' website indicates the Mac app is only available via the Mac App Store. To install App Store apps from the command line, use the `mas` CLI.
 

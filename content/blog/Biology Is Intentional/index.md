@@ -25,7 +25,7 @@ While people talk about equality, what they are really talking about is equaliza
 
 The difference is subtle, but note the little word "right", in the sense of freedom to do something. The first part of the Wikipedia definition suggests that the two biological sexes are effectively the same, which is false. I agree with the second part. But I don't know whether this is objectively the case in reality, so I won't say any more here.
 
-Since this is the general definition of "equality" and I am writing specifically about gender equality, Wikipedia defines gender equality as "(...) the state of having equal access to resources and opportunities regardless of gender (...)", which is definitely invalidates my prior interpretation to some extent and is far from the general definition.
+Since this is the general definition of "equality" and I am writing specifically about gender equality, Wikipedia defines gender equality as "(…) the state of having equal access to resources and opportunities regardless of gender (…)", which is definitely invalidates my prior interpretation to some extent and is far from the general definition.
 
 In my opinion, however, this definition is used as a justification for gender equalization policies, which we see, for example, in the form of quotas for women. The emancipation process of women is the real driver in the background, although this process started hundreds of years ago. Emancipation and equality sound great, but what about when it actually comes to equalization? This is simply not possible, because men and women are not the same, they are biologically different.
 

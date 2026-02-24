@@ -3,11 +3,11 @@ title: 'About'
 url: 'about'
 ---
 
-Hey, I'm Timon. I'm a...
+Hey, I'm Timon. I'm a…
 
-- ...life time learner
-- ...work time developer
-- ...free time rebel
+- …life time learner
+- …work time developer
+- …free time rebel
 
 You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and [tweeting](https://x.com/timonrieger).
 

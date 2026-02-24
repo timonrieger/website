@@ -32,7 +32,7 @@ _You can only lose, what you possess_.  In your opinion, is it worse if a 20-yea
 
 > _Death is the rest from the contradictions of sense perceptions, from the stirrings of our passions, from the developments of our mind and from the service of the flesh_
 
-Death as a form of liberation. Interesting. Have you ever thought about how death feels (if that makes sense...)? Try to feel it if you haven't.
+Death as a form of liberation. Interesting. Have you ever thought about how death feels (if that makes sense…)? Try to feel it if you haven't.
 
 <hr>
 
@@ -44,13 +44,13 @@ I feel this is very liberating and pressuring at the same time. What do you feel
 
 > _Whatever you do, ask yourself if death is so terrible because it robs you of it._
 
-I wonder if you are afraid of death...if so, why? If not, why not?
+I wonder whether you are afraid of death? If so, why? If not, why not?
 
 <hr>
 
 > _Think of the nature of the body and soul in which you must let death take hold of you, as well as the shortness of life, the immeasurable time behind you and in front of you, the frailty of every substance._
 
-...and
+…and
 
 > _Always remind yourself of those who were too sad about something or who caused a great stir through misfortunes, enmities, the greatest positions of honor or other fortunate circumstances. Then present your reflection with the question: “Where is all this now?” It's smoke and ashes, a fairy tale or not even a fairy tale._
 
