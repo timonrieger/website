@@ -37,9 +37,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 - [_The Final Bottleneck_](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) by Armin Ronacher's Thoughts and Writings (Feb 24, 2026)
 - [_Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet._](https://www.reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/?rdt=53246) by exe_CUTOR (Feb 24, 2026)
+- [_2.1.3_](https://github.com/louislam/uptime-kuma/releases/tag/2.1.3) by louislam (Feb 19, 2026)
 - [_Retro Recomendo: Sleep_](https://www.recomendo.com/p/retro-recomendo-sleep) by Kevin Kelly (Feb 15, 2026)
 - [_GitButler CLI Is Really Good_](https://matduggan.com/gitbutler-cli-is-really-good/) by matduggan.com (Feb 14, 2026)
 - [_CCC vs GCC_](https://harshanu.space/en/tech/ccc-vs-gcc/) by Harshanu (Feb 12, 2026)
-- [_Vibe Coding Is Killing Open Source Software, Researchers Argue_](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/?ref=selfh.st) by Matthew Gault · Feb 5 (Feb 11, 2026)
-- [_Waffenverbot für AfD-Mitglieder von Gericht gekippt_](https://apollo-news.net/waffenverbot-fuer-afd-mitglieder-von-gericht-gekippt/) by Redaktion (Feb 11, 2026)
-- [_Improving Your Tests With the Python Mock Object Library_](https://realpython.com/courses/improve-tests-mock-object-library/) by Real Python (Feb 10, 2026)
