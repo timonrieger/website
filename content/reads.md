@@ -40,4 +40,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_2.1.3_](https://github.com/louislam/uptime-kuma/releases/tag/2.1.3) by louislam (Feb 19, 2026)
 - [_Retro Recomendo: Sleep_](https://www.recomendo.com/p/retro-recomendo-sleep) by Kevin Kelly (Feb 15, 2026)
 - [_GitButler CLI Is Really Good_](https://matduggan.com/gitbutler-cli-is-really-good/) by matduggan.com (Feb 14, 2026)
-- [_CCC vs GCC_](https://harshanu.space/en/tech/ccc-vs-gcc/) by Harshanu (Feb 12, 2026)
