@@ -14,7 +14,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Books
 
-- [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Feb 03, 2026)
+- [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Feb 26, 2026)
 - [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Nov 02, 2025)
 - [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
 - [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Apr 09, 2025)
@@ -38,5 +38,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_The Final Bottleneck_](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) by Armin Ronacher's Thoughts and Writings (Feb 24, 2026)
 - [_Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet._](https://www.reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/?rdt=53246) by exe_CUTOR (Feb 24, 2026)
 - [_2.1.3_](https://github.com/louislam/uptime-kuma/releases/tag/2.1.3) by louislam (Feb 19, 2026)
-- [_Retro Recomendo: Sleep_](https://www.recomendo.com/p/retro-recomendo-sleep) by Kevin Kelly (Feb 15, 2026)
-- [_GitButler CLI Is Really Good_](https://matduggan.com/gitbutler-cli-is-really-good/) by matduggan.com (Feb 14, 2026)
