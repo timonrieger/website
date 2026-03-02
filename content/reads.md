@@ -38,5 +38,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_The Final Bottleneck_](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) by Armin Ronacher's Thoughts and Writings (Feb 24, 2026)
 - [_Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet._](https://www.reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/?rdt=53246) by exe_CUTOR (Feb 24, 2026)
 - [_2.1.3_](https://github.com/louislam/uptime-kuma/releases/tag/2.1.3) by louislam (Feb 19, 2026)
-- [_Retro Recomendo: Sleep_](https://www.recomendo.com/p/retro-recomendo-sleep) by Kevin Kelly (Feb 15, 2026)
-- [_GitButler CLI Is Really Good_](https://matduggan.com/gitbutler-cli-is-really-good/) by matduggan.com (Feb 14, 2026)
