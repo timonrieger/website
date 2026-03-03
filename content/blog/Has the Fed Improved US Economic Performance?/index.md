@@ -1,7 +1,7 @@
 ---
 date: "2025-06-24T15:51:03+02:00"
 draft: false
-tags: [Economics]
+tags: [economics]
 title: "Has the Fed Improved US Economic Performance?"
 url: "blog/has-the-fed-improved-us-economic-performance"
 ---
