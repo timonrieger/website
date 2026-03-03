@@ -1,0 +1,103 @@
+/* Theme variables: adjusts dark mode color tokens site-wide. */
+:root[data-theme="dark"] {
+  --tertiary: rgb(28, 29, 33);
+  --content: rgb(218, 218, 219);
+  --theme: rgb(9, 10, 12);
+  --entry: rgb(26, 26, 31);
+  --code-block-bg: rgb(28, 29, 33);
+  --code-bg: rgb(28, 29, 33);
+}
+
+/* Post related links: styles the "related posts" list on single post pages. */
+.post-related {
+  margin: 24px 0;
+}
+
+.post-related h3 {
+  margin-bottom: 10px;
+}
+
+.post-related ul {
+  list-style: none;
+  padding: 0;
+}
+
+.post-related li {
+  margin-top: 5px;
+}
+
+.post-related a {
+  color: var(--content);
+  box-shadow: 0 1px 0;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.post-related a:hover {
+  color: var(--primary);
+}
+
+/* Photos gallery: controls the responsive grid and thumbnails on /photos. */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  list-style: none;
+}
+
+@media (max-width: 640px) {
+  .gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.gallery li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Link previews: formats inline preview cards used in post content links. */
+.linkpreview {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0;
+  text-decoration: none;
+  box-shadow: none;
+}
+
+.post-content a.linkpreview {
+  box-shadow: none;
+}
+
+.post-content a.linkpreview:hover {
+  box-shadow: none;
+}
+
+.linkpreview__thumb img {
+  width: 100%;
+  /* Match the look of photos in assets/css/common/photos.css. */
+  border-radius: 8px;
+  /* Keeps thumbnails visually consistent with photo cards. */
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+}
+
+.linkpreview__body {
+  display: grid;
+  gap: 6px;
+}
+
+.linkpreview__title {
+  font-weight: 600;
+}
+
+.linkpreview__desc,
+.linkpreview__host {
+  display: none;
+}
