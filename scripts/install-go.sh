@@ -6,14 +6,10 @@
 #------------------------------------------------------------------------------
 
 main() {
-
-  GO_VERSION=1.25.4
-
   export TZ=Europe/Zurich
 
   # Install Go
   echo "Installing Go ${GO_VERSION}..."
-  mkdir -p "${HOME}/.local"
   curl -sLJO "https://go.dev/dl/go${GO_VERSION}.linux-amd64.tar.gz"
   tar -C "${HOME}/.local" -xf "go${GO_VERSION}.linux-amd64.tar.gz"
   rm "go${GO_VERSION}.linux-amd64.tar.gz"
