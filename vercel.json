@@ -1,5 +1,5 @@
 {
-  "installCommand": "echo 'Skipping Python installation'",
+  "installCommand": "echo 'Skipping Python installation' && bash scripts/install-go.sh",
   "build": {
     "env": {
       "HUGO_VERSION": "0.155.2"
