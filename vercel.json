@@ -1,9 +1,9 @@
 {
-  "installCommand": "echo 'Skipping Python installation' && bash scripts/install-go.sh",
+  "installCommand": "bash scripts/install-go.sh",
   "build": {
     "env": {
       "HUGO_VERSION": "0.155.2"
     }
   },
-  "buildCommand": "hugo --gc --minify"
+  "buildCommand": "export PATH=\"$HOME/.local/go/bin:$PATH\" && go version && hugo --gc --minify"
 }
