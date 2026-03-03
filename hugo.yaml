@@ -114,6 +114,7 @@ outputs:
     - HTML
     - RSS
     - JSON
+    - Backlinks
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -214,6 +215,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    renderHooks:
+      link:
+        useEmbedded: 'always'
   highlight:
     noClasses: false
     # anchorLineNos: true
@@ -241,3 +245,7 @@ services:
     disableInlineCSS: true
   x:
     disableInlineCSS: true
+
+module:
+  imports:
+    - path: 'github.com/jmooring/hugo-module-backlinks'

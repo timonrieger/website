@@ -1,0 +1,18 @@
+{{- $debug := false }}
+{{- $backlinks := site.Home.Store.Get "backlinks" | uniq  }}
+{{- with (where $backlinks "target" .RelPermalink) }}
+  {{- $visibleBacklinks := where . "source.relPermalink" "ne" "/" }}
+  {{- with $visibleBacklinks }}
+  <div class="post-related">
+    <h3>{{ T "backlinks_title" }}</h3>
+    <ul>
+      {{- range (sort . "source.linkTitle" "asc") }}
+        <li><a href="{{ .source.relPermalink }}">{{ .source.linkTitle }}</a></li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+{{- end }}
+{{- if $debug }}
+  <pre>{{ jsonify (dict "indent" "  ") $backlinks }}</pre>
+{{- end }}
