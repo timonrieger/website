@@ -32,8 +32,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
 - [_Reflecting on Life_](https://lucumr.pocoo.org/2024/12/26/reflecting-on-life/) by Armin Ronacher (Jan 09, 2026)
-
-## Latest Articles
-
-- [_The Final Bottleneck_](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) by Armin Ronacher's Thoughts and Writings (Feb 24, 2026)
-- [_Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet._](https://www.reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/?rdt=53246) by exe_CUTOR (Feb 24, 2026)
