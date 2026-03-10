@@ -32,3 +32,12 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
 - [_Reflecting on Life_](https://lucumr.pocoo.org/2024/12/26/reflecting-on-life/) by Armin Ronacher (Jan 09, 2026)
+
+## Latest Articles
+
+- [_Kommunalwahl in Bayern: Durchwachsene Bilanzen für CSU und SPD_](https://www.tichyseinblick.de/daili-es-sentials/kommunalwahl-in-bayern-durchwachsene-bilanzen-fuer-csu-und-spd/) by Josef Kraus (Mar 10, 2026)
+- [_Spaniens Vize-Regierungschefin beschimpft Merz als „Vasallen“ – Sánchez verweigert Telefonat_](https://apollo-news.net/spaniens-vize-regierungschefin-beschimpft-merz-als-vasallen-snchez-verweigert-telefonat/) by Redaktion (Mar 10, 2026)
+- [_What’s up Python? d-strings, SSE in Pydantic and... a new Python?_](https://www.bitecode.dev/p/whats-up-python-d-strings-sse-in) by Bite Code! (Mar 10, 2026)
+- [_Claude Code, Claude Cowork and Codex #5_](https://www.lesswrong.com/posts/rNes65r9TKegdLowb/claude-code-claude-cowork-and-codex-5) by Zvi (Mar 10, 2026)
+- [_Python Gains frozendict and Other Python News for March 2026_](https://realpython.com/python-news-march-2026/) by Real Python (Mar 09, 2026)
+- [_AI And The Ship of Theseus_](https://lucumr.pocoo.org/2026/3/5/theseus/) by Armin Ronacher's Thoughts and Writings (Mar 05, 2026)
