@@ -43,4 +43,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_What’s up Python? d-strings, SSE in Pydantic and... a new Python?_](https://www.bitecode.dev/p/whats-up-python-d-strings-sse-in) by Bite Code! (Mar 10, 2026)
 - [_Claude Code, Claude Cowork and Codex #5_](https://www.lesswrong.com/posts/rNes65r9TKegdLowb/claude-code-claude-cowork-and-codex-5) by Zvi (Mar 10, 2026)
 - [_Python Gains frozendict and Other Python News for March 2026_](https://realpython.com/python-news-march-2026/) by Real Python (Mar 09, 2026)
-- [_AI And The Ship of Theseus_](https://lucumr.pocoo.org/2026/3/5/theseus/) by Armin Ronacher's Thoughts and Writings (Mar 05, 2026)
