@@ -14,7 +14,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Books
 
-- [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Feb 26, 2026)
+- [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Mar 24, 2026)
 - [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Nov 02, 2025)
 - [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
 - [_1984 (Nineteen Eighty-Four) With Quoates_](https://amazon.com/dp/B08SLS7BZ9) by George Orwell (Apr 09, 2025)
@@ -35,10 +35,10 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_OpenAI bought Astral, will I keep using uv?_](https://www.bitecode.dev/p/openai-bought-astral-will-i-keep) by Bite Code! (Mar 23, 2026)
+- [_Some Things Just Take Time_](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) by Armin Ronacher's Thoughts and Writings (Mar 21, 2026)
+- [_Astral to join OpenAI_](https://astral.sh/blog/openai) by charlie@astral.sh (Charlie Marsh) (Mar 19, 2026)
 - [_Absehbare Bilanz der Regierung Merz: Kein einziges Problem gelöst, nicht einmal ernsthaft versucht_](https://www.tichyseinblick.de/daili-es-sentials/merz-bilanz/) by Fritz Goergen (Mar 19, 2026)
 - [_Wegen Zweckentfremdung des Sondervermögens: Ökonomen warnen vor steigenden Steuern_](https://apollo-news.net/wegen-zweckentfremdung-des-sondervermoegens-oekonomen-warnen-vor-steigenden-steuern/) by Redaktion (Mar 19, 2026)
+- [_Release v3.14.0 · RayLabsHQ/gitea-mirror · GitHub_](https://github.com/RayLabsHQ/gitea-mirror/releases/tag/v3.14.0) by https://github.com/RayLabsHQ/ (Mar 19, 2026)
 - [_Release v3.13.0 · RayLabsHQ/gitea-mirror · GitHub_](https://github.com/RayLabsHQ/gitea-mirror/releases/tag/v3.13.0) by https://github.com/RayLabsHQ/ (Mar 15, 2026)
-- [_Kommunalwahl in Bayern: Durchwachsene Bilanzen für CSU und SPD_](https://www.tichyseinblick.de/daili-es-sentials/kommunalwahl-in-bayern-durchwachsene-bilanzen-fuer-csu-und-spd/) by Josef Kraus (Mar 10, 2026)
-- [_Spaniens Vize-Regierungschefin beschimpft Merz als „Vasallen“ – Sánchez verweigert Telefonat_](https://apollo-news.net/spaniens-vize-regierungschefin-beschimpft-merz-als-vasallen-snchez-verweigert-telefonat/) by Redaktion (Mar 10, 2026)
-- [_What’s up Python? d-strings, SSE in Pydantic and... a new Python?_](https://www.bitecode.dev/p/whats-up-python-d-strings-sse-in) by Bite Code! (Mar 10, 2026)
-- [_Claude Code, Claude Cowork and Codex #5_](https://www.lesswrong.com/posts/rNes65r9TKegdLowb/claude-code-claude-cowork-and-codex-5) by Zvi (Mar 10, 2026)
