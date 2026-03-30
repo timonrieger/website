@@ -41,4 +41,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Absehbare Bilanz der Regierung Merz: Kein einziges Problem gelöst, nicht einmal ernsthaft versucht_](https://www.tichyseinblick.de/daili-es-sentials/merz-bilanz/) by Fritz Goergen (Mar 19, 2026)
 - [_Wegen Zweckentfremdung des Sondervermögens: Ökonomen warnen vor steigenden Steuern_](https://apollo-news.net/wegen-zweckentfremdung-des-sondervermoegens-oekonomen-warnen-vor-steigenden-steuern/) by Redaktion (Mar 19, 2026)
 - [_Release v3.14.0 · RayLabsHQ/gitea-mirror · GitHub_](https://github.com/RayLabsHQ/gitea-mirror/releases/tag/v3.14.0) by https://github.com/RayLabsHQ/ (Mar 19, 2026)
-- [_Release v3.13.0 · RayLabsHQ/gitea-mirror · GitHub_](https://github.com/RayLabsHQ/gitea-mirror/releases/tag/v3.13.0) by https://github.com/RayLabsHQ/ (Mar 15, 2026)
