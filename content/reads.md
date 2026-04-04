@@ -36,4 +36,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 ## Latest Articles
 
 - [_OpenAI bought Astral, will I keep using uv?_](https://www.bitecode.dev/p/openai-bought-astral-will-i-keep) by Bite Code! (Mar 23, 2026)
-- [_Some Things Just Take Time_](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) by Armin Ronacher's Thoughts and Writings (Mar 21, 2026)
