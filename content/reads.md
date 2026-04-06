@@ -32,7 +32,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
 - [_Reflecting on Life_](https://lucumr.pocoo.org/2024/12/26/reflecting-on-life/) by Armin Ronacher (Jan 09, 2026)
-
-## Latest Articles
-
-- [_OpenAI bought Astral, will I keep using uv?_](https://www.bitecode.dev/p/openai-bought-astral-will-i-keep) by Bite Code! (Mar 23, 2026)
