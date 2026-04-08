@@ -1,8 +1,8 @@
 [tools]
 uv = "latest"
 python = "3.14"
-hugo = "0.157.0"
-go = "1.25.4"
+hugo = "0.160.1"
+go = "1.26.1"
 
 [tasks.lint]
 run = "uvx pre-commit run --all-files"

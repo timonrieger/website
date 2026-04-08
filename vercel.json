@@ -2,8 +2,8 @@
   "installCommand": "bash scripts/install-go.sh",
   "build": {
     "env": {
-      "HUGO_VERSION": "0.157.0",
-      "GO_VERSION": "1.25.4"
+      "HUGO_VERSION": "0.160.1",
+      "GO_VERSION": "1.26.1"
     }
   },
   "buildCommand": "export PATH=\"$HOME/.local/go/bin:$PATH\" && hugo --gc --minify"
