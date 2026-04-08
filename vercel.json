@@ -2,7 +2,7 @@
   "installCommand": "bash scripts/install-go.sh",
   "build": {
     "env": {
-      "HUGO_VERSION": "0.155.2",
+      "HUGO_VERSION": "0.157.0",
       "GO_VERSION": "1.25.4"
     }
   },
