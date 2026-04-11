@@ -35,5 +35,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_Open source security at Astral_](https://astral.sh/blog/open-source-security-at-astral) by william@astral.sh (William Woodruff) (Apr 08, 2026)
 - [_Mario and Earendil_](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/) by Armin Ronacher's Thoughts and Writings (Apr 08, 2026)
 - [_Absurd In Production_](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/) by Armin Ronacher's Thoughts and Writings (Apr 04, 2026)
+- [_Iran-Krise: Warum steigt Bitcoin, während Aktien und Gold fallen?_](https://hkcmanagement.de/hkcmnews/iran-krise-warum-steigt-bitcoin-wahrend-aktien-und-gold-fallen) by Simeon Koch (Mar 30, 2026)
