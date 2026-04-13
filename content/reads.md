@@ -35,7 +35,11 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_Das rechteste Parlament der Welt: So sieht die politische Landschaft in Ungarn nach dem Wahlsonntag aus_](https://apollo-news.net/das-rechteste-parlament-der-welt-so-sieht-die-politische-landschaft-in-ungarn-nach-dem-wahlsonntag-aus/) by Matthias Böttger (Apr 13, 2026)
+- [_Talk English, Think Something Else_](https://www.lesswrong.com/posts/ry9bz8aQcxDcu6HjR/talk-english-think-something-else) by J Bostock (Apr 13, 2026)
+- [_The Center Has a Bias_](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) by Armin Ronacher's Thoughts and Writings (Apr 11, 2026)
 - [_Open source security at Astral_](https://astral.sh/blog/open-source-security-at-astral) by william@astral.sh (William Woodruff) (Apr 08, 2026)
 - [_Mario and Earendil_](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/) by Armin Ronacher's Thoughts and Writings (Apr 08, 2026)
 - [_Absurd In Production_](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/) by Armin Ronacher's Thoughts and Writings (Apr 04, 2026)
+- [_What’s up Python? New record type, new JIT perfs, new Python rest lib..._](https://www.bitecode.dev/p/whats-up-python-new-record-type-new) by Bite Code! (Mar 31, 2026)
 - [_Iran-Krise: Warum steigt Bitcoin, während Aktien und Gold fallen?_](https://hkcmanagement.de/hkcmnews/iran-krise-warum-steigt-bitcoin-wahrend-aktien-und-gold-fallen) by Simeon Koch (Mar 30, 2026)
