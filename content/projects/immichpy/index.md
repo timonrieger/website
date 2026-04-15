@@ -16,7 +16,7 @@ You can read the [documentation](https://immichpy.timonrieger.de), install it fr
 
 ## Intention
 
-I’ve been working a lot with OpenAPI-related tooling recently: I added OpenAPI descriptions to Immich in a [massive PR](https://github.com/immich-app/immich/pull/25185), maintain multiple OpenAPI-generated clients in [Python](https://github.com/crypticorn-ai/api-client-python/) and [TypeScript](https://github.com/crypticorn-ai/api-client-typescript), and suggested a [client rewrite for the Lichess API](https://github.com/lichess-org/berserk/issues/153) (berserk).
+I’ve been working a lot with OpenAPI-related tooling recently: I added OpenAPI descriptions to Immich in a [massive PR](https://github.com/immich-app/immich/pull/25185), maintained multiple OpenAPI-generated clients in [Python](https://github.com/crypticorn-ai/api-client-python/) and [TypeScript](https://github.com/crypticorn-ai/api-client-typescript), suggested a [client rewrite for the Lichess API](https://github.com/lichess-org/berserk/issues/153) (berserk) and [migrated the Immich project to zod](https://github.com/immich-app/immich/pull/26597).
 
 ## Timeline
 
@@ -30,4 +30,4 @@ I’m currently working towards ecosystem integration. [^1]
 
 See the [Credits](https://immichpy.timonrieger.de/info/credits) page for more details.
 
-[^1]: [Journiv](https://github.com/journiv/journiv-app/pull/370), Home Assistant, [immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator/pull/259)
+[^1]: [Journiv](https://github.com/journiv/journiv-app/pull/370), [Home Assistant](https://github.com/home-assistant/core/pull/166870), [immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator/pull/259)
