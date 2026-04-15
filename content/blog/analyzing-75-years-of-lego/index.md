@@ -3,7 +3,6 @@ date: '2024-04-05'
 draft: False
 tags: ['data-analysis']
 title: 'Analyzing 75 Years of LEGO'
-url: 'blog/analyzing-75-years-of-lego'
 ---
 
 ## About Lego

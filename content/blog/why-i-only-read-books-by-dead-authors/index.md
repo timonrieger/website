@@ -3,7 +3,6 @@ date: '2026-02-24T11:57:12+01:00'
 draft: false
 tags: ['books', 'philosophy']
 title: 'Why I Only Read Books by Dead Authors'
-url: 'blog/why-i-only-read-books-by-dead-authors'
 ---
 
 I have been reading my whole life. I was a very eager reader all through my childhood, reading fantasy series from _The Magic Tree House_ to _Harry Potter_, and comics like _Donald Duck_, _The Adventures of Tintin_, and _Asterix_. Growing older, I got more interested in action and sci‑fi – _Alex Rider_, _Blackout_, and _The Swarm_ – as well as history with _All Quiet on the Western Front_, _Sapiens: A Brief History of Humankind_, and _War and Peace_.

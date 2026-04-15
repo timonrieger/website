@@ -3,7 +3,6 @@ date: '2024-05-14'
 draft: False
 tags: ['philosophy', 'books']
 title: 'About Life and Death'
-url: 'blog/about-life-and-death'
 ---
 
 While reading the Meditations of Marcus Aurelius, I saved some passages using [Readwise](https://readwise.io/i/timon41) that I would like to share here.

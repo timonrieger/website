@@ -3,7 +3,6 @@ date: '2024-06-26'
 draft: False
 tags: ['data-analysis']
 title: 'Building a Betting Strategy (1)'
-url: 'blog/building-a-betting-strategy-1'
 ---
 
 The European Football Championship is in full swing and, fittingly, I had the idea to develop a betting strategy for the upcoming Bundesliga season. Let´s analyze some historical data and develop a thesis. We will be using data from [OpenLigaDB](https://www.openligadb.de/) from 2009/10 to 2023/24 and explore statistics like the distribution of match outcomes, results by winning team, and scoring times.

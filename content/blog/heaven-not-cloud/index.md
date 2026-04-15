@@ -3,7 +3,6 @@ date: '2025-11-30T23:53:29+01:00'
 draft: false
 tags: ['programming', 'tech']
 title: 'Heaven, Not Cloud'
-url: 'blog/heaven-not-cloud'
 ---
 
 I planned it for a while, finally realized it: a own server. It's more than just a server, it's heaven. And, it's about freedom, ownership and a philosophy. Explaining the why and how and the stack we are running.
