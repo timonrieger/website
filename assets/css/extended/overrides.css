@@ -70,11 +70,11 @@
   box-shadow: none;
 }
 
-.post-content a.linkpreview {
+.md-content a.linkpreview {
   box-shadow: none;
 }
 
-.post-content a.linkpreview:hover {
+.md-content a.linkpreview:hover {
   box-shadow: none;
 }
 
