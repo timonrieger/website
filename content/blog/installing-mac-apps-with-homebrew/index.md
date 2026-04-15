@@ -3,7 +3,6 @@ date: '2025-10-06T13:37:23+02:00'
 draft: false
 tags: ['programming']
 title: 'Installing Mac Apps With Homebrew'
-url: 'blog/installing-mac-apps-with-homebrew'
 ---
 This quick guide shows how to install Mac apps with Homebrew Casks and automate App Store installs using the `mas` CLI.
 

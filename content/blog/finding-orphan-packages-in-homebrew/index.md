@@ -3,7 +3,6 @@ date: '2025-12-11T11:52:07+01:00'
 draft: false
 tags: ['security', 'software']
 title: 'Finding Orphan Packages in Homebrew'
-url: 'blog/finding-orphan-packages-in-homebrew'
 ---
 
 Keeping your software up to date is important to stay safe. I recently watched [Hacker - We get you within 5 minutes!](https://www.youtube.com/watch?v=_Zrqpgbb3n0), which talks about security mistakes people and companies make. So keep your software up to date!

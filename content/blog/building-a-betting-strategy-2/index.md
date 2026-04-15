@@ -3,7 +3,6 @@ date: '2024-12-09'
 draft: False
 tags: ['data-analysis']
 title: 'Building a Betting Strategy (2)'
-url: 'blog/building-a-betting-strategy-2'
 ---
 
 It's been a while and the teams are already deep into the Bundesliga season. Nevertheless, I don't want to deprive you of my findings of simulating the strategy. In the [first post](/blog/building-a-betting-strategy-1), we looked at 14 seasons of Bundesliga data to analyze patterns in match results, goal times and odds trends.

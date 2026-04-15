@@ -3,7 +3,6 @@ date: '2025-02-11T21:39:48+01:00'
 draft: false
 tags: ['programming']
 title: 'Local AI Development for Free'
-url: 'blog/local-ai-development-for-free'
 ---
 
 In this short article, I'll show you how to develop locally with LLMs, making AI development free and private. With the rising costs of AI services, running models locally is becoming an increasingly attractive option for developers who want full control over their AI development process.

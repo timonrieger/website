@@ -3,7 +3,6 @@ date: '2025-12-05T22:40:03+01:00'
 draft: false
 tags: ['tech', 'society']
 title: 'The Internet Is Breaking'
-url: 'blog/the-internet-is-breaking'
 ---
 
 The internet is breaking. And it's happening fast. Your favorite websites are going down, your favorite apps are not working, your favorite services are not available. And it happens all the time, at a rate that is concerning. There is a fix.

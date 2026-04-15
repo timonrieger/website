@@ -3,7 +3,6 @@ date: '2024-06-20'
 draft: False
 tags: ['philosophy', 'books']
 title: 'About Life and Emotions'
-url: 'blog/about-life-and-emotions'
 ---
 
 After the first part [_About Life and Death_](/blog/about-life-and-death) and the second part [_About Life and Ethics_](/blog/about-life-and-ethics) below I'll continue with quotes regarding [_About Life and Emotions_](/blog/about-life-and-emotions). This is the final part of the series about the book "The Meditations of Marcus Aurelius".

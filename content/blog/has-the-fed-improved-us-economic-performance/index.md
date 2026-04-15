@@ -3,7 +3,6 @@ date: "2025-06-24T15:51:03+02:00"
 draft: false
 tags: [economics]
 title: "Has the Fed Improved US Economic Performance?"
-url: "blog/has-the-fed-improved-us-economic-performance"
 ---
 
 The introduction of the Federal Reserve in the US in 1913 marked a turning point in US and global economics, followed by the abondance of the gold standard by the Fed in 1933.
