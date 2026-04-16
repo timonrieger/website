@@ -35,6 +35,8 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_New graphene users first day_](https://discuss.privacyguides.net/t/new-graphene-users-first-day/37143#post_16) by @winteranimal (Apr 16, 2026)
+- [_Do not conquer what you cannot defend_](https://www.lesswrong.com/posts/jinzzbPHshif8nmnw/do-not-conquer-what-you-cannot-defend) by habryka (Apr 16, 2026)
 - [_Das rechteste Parlament der Welt: So sieht die politische Landschaft in Ungarn nach dem Wahlsonntag aus_](https://apollo-news.net/das-rechteste-parlament-der-welt-so-sieht-die-politische-landschaft-in-ungarn-nach-dem-wahlsonntag-aus/) by Matthias Böttger (Apr 13, 2026)
 - [_Talk English, Think Something Else_](https://www.lesswrong.com/posts/ry9bz8aQcxDcu6HjR/talk-english-think-something-else) by J Bostock (Apr 13, 2026)
 - [_The Center Has a Bias_](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) by Armin Ronacher's Thoughts and Writings (Apr 11, 2026)
