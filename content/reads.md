@@ -35,11 +35,13 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_„Dann gewinnt die AfD“: Kubicki rechnet mit dem Brandmauer-Kurs ab_](https://apollo-news.net/dann-gewinnt-die-afd-kubicki-rechnet-mit-dem-brandmauer-kurs-ab/) by Redaktion (Apr 18, 2026)
+- [_If You've Never Bought a Tool You Didn't Need, You're Not Buying Enough Tools_](https://www.lesswrong.com/posts/opXWijs73rqhr7ohS/if-you-ve-never-bought-a-tool-you-didn-t-need-you-re-not) by Drake Morrison (Apr 18, 2026)
+- [_Dobrindt zieht positive Bilanz der Migrationspolitik – bei weiteren Grenzkontrollen zögert er jedoch_](https://apollo-news.net/dobrindt-zieht-positive-bilanz-der-migrationspolitik-bei-weiteren-grenzkontrollen-zgert-er-jedoch/) by Redaktion (Apr 18, 2026)
 - [_New graphene users first day_](https://discuss.privacyguides.net/t/new-graphene-users-first-day/37143#post_16) by @winteranimal (Apr 16, 2026)
 - [_Do not conquer what you cannot defend_](https://www.lesswrong.com/posts/jinzzbPHshif8nmnw/do-not-conquer-what-you-cannot-defend) by habryka (Apr 16, 2026)
+- [_Claude Code, Codex and Agentic Coding #7: Auto Mode_](https://www.lesswrong.com/posts/w8misLX7KCmLxJM2K/claude-code-codex-and-agentic-coding-7-auto-mode) by Zvi (Apr 16, 2026)
 - [_Das rechteste Parlament der Welt: So sieht die politische Landschaft in Ungarn nach dem Wahlsonntag aus_](https://apollo-news.net/das-rechteste-parlament-der-welt-so-sieht-die-politische-landschaft-in-ungarn-nach-dem-wahlsonntag-aus/) by Matthias Böttger (Apr 13, 2026)
 - [_Talk English, Think Something Else_](https://www.lesswrong.com/posts/ry9bz8aQcxDcu6HjR/talk-english-think-something-else) by J Bostock (Apr 13, 2026)
 - [_The Center Has a Bias_](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) by Armin Ronacher's Thoughts and Writings (Apr 11, 2026)
 - [_Open source security at Astral_](https://astral.sh/blog/open-source-security-at-astral) by william@astral.sh (William Woodruff) (Apr 08, 2026)
-- [_Mario and Earendil_](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/) by Armin Ronacher's Thoughts and Writings (Apr 08, 2026)
-- [_Absurd In Production_](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/) by Armin Ronacher's Thoughts and Writings (Apr 04, 2026)
