@@ -10,10 +10,11 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - _Eine Kurze Geschichte Der Menschheit_ by Yuval Noah Harari (Feb 28, 2023)
 - [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr 18, 2024)
 - [_Die Kunst Des Klaren Denkens_](https://amazon.com/dp/B005MPFALW) by Rolf Dobelli (Feb 09, 2024)
-- [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov 14, 2024)
+- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Apr 22, 2026)
 
 ## Latest Books
 
+- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Apr 22, 2026)
 - [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Apr 01, 2026)
 - [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Nov 02, 2025)
 - [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
@@ -23,7 +24,6 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_The Essential Hayek_](https://amazon.com/dp/B00ZGSIJ7M) by Donald J. Boudreaux (Dec 14, 2024)
 - [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov 14, 2024)
 - [_Der Almanach Von Naval Ravikant_](https://amazon.com/dp/B092376RD6) by Eric Jorgenson (Jul 25, 2024)
-- [_Die Gesetze Der Gewinner_](https://amazon.com/dp/B0885SSDDL) by Bodo Schäfer (Jun 28, 2024)
 
 ## Favorite Articles
 
