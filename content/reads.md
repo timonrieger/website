@@ -35,13 +35,13 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_Trump antwortet Merz frontal: „Er hat keine Ahnung!“_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/trump-merz/) by Redaktion (Apr 29, 2026)
+- [_Merz beklagt sich über Anfeindungen: „Kein Bundeskanzler vor mir hat so etwas ertragen müssen!“_](https://deutschlandkurier.de/2026/04/merz-beklagt-sich-ueber-anfeindungen-kein-bundeskanzler-vor-mir-hat-so-etwas-ertragen-muessen/?utm_source=rss&utm_medium=rss&utm_campaign=merz-beklagt-sich-ueber-anfeindungen-kein-bundeskanzler-vor-mir-hat-so-etwas-ertragen-muessen) by r2d2 (Apr 29, 2026)
+- [_FeurStagram_](https://discuss.privacyguides.net/t/feurstagram/37476#post_12) by @Onscreen5341 Onscreen5341 (Apr 29, 2026)
+- [_What’s up Python? Frame pointers, sentinel values, venv discovery, more rust in Python..._](https://www.bitecode.dev/p/whats-up-python-frame-pointers-sentinel) by Bite Code! (Apr 28, 2026)
 - [_Cal.com is going closed source. Here's why._](https://cal.com/blog/cal-com-goes-closed-source-why?ref=selfh.st) by Bailey Pumfleet (Apr 20, 2026)
 - [_„Dann gewinnt die AfD“: Kubicki rechnet mit dem Brandmauer-Kurs ab_](https://apollo-news.net/dann-gewinnt-die-afd-kubicki-rechnet-mit-dem-brandmauer-kurs-ab/) by Redaktion (Apr 18, 2026)
 - [_If You've Never Bought a Tool You Didn't Need, You're Not Buying Enough Tools_](https://www.lesswrong.com/posts/opXWijs73rqhr7ohS/if-you-ve-never-bought-a-tool-you-didn-t-need-you-re-not) by Drake Morrison (Apr 18, 2026)
 - [_Dobrindt zieht positive Bilanz der Migrationspolitik – bei weiteren Grenzkontrollen zögert er jedoch_](https://apollo-news.net/dobrindt-zieht-positive-bilanz-der-migrationspolitik-bei-weiteren-grenzkontrollen-zgert-er-jedoch/) by Redaktion (Apr 18, 2026)
 - [_New graphene users first day_](https://discuss.privacyguides.net/t/new-graphene-users-first-day/37143#post_16) by @winteranimal (Apr 16, 2026)
 - [_Do not conquer what you cannot defend_](https://www.lesswrong.com/posts/jinzzbPHshif8nmnw/do-not-conquer-what-you-cannot-defend) by habryka (Apr 16, 2026)
-- [_Claude Code, Codex and Agentic Coding #7: Auto Mode_](https://www.lesswrong.com/posts/w8misLX7KCmLxJM2K/claude-code-codex-and-agentic-coding-7-auto-mode) by Zvi (Apr 16, 2026)
-- [_Current AIs seem pretty misaligned to me_](https://www.lesswrong.com/posts/WewsByywWNhX9rtwi/current-ais-seem-pretty-misaligned-to-me) by ryan_greenblatt (Apr 15, 2026)
-- [_Das Böse, das Gute, die Politik_](https://www.moritzleuenberger.net/reden/reden-2002/das-boese-das-gute-die-politik/) by moritzleuenberger.net (Apr 15, 2026)
-- [_Everyone Has a Plan Until They Get Social Pressure To the Face_](https://www.lesswrong.com/posts/rBa5YcPeFTwWfu8G7/everyone-has-a-plan-until-they-get-social-pressure-to-the) by Czynski (Apr 15, 2026)
