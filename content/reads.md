@@ -35,6 +35,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_SPD zweifelt Amtsfähigkeit des Kanzlers an: Stellt Friedrich Merz (CDU) die Vertrauensfrage?_](https://deutschlandkurier.de/2026/05/spd-zweifelt-amtsfaehigkeit-des-kanzlers-an-stellt-friedrich-merz-cdu-die-vertrauensfrage/?utm_source=rss&utm_medium=rss&utm_campaign=spd-zweifelt-amtsfaehigkeit-des-kanzlers-an-stellt-friedrich-merz-cdu-die-vertrauensfrage) by r2d2 (May 01, 2026)
 - [_Ghostty Is Leaving GitHub_](https://mitchellh.com/writing/ghostty-leaving-github) by Mitchell Hashimoto (Apr 30, 2026)
 - [_Skin in the Game_](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/) by Armin Ronacher (Apr 30, 2026)
 - [_Trump antwortet Merz frontal: „Er hat keine Ahnung!“_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/trump-merz/) by Redaktion (Apr 29, 2026)
@@ -42,6 +43,5 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_FeurStagram_](https://discuss.privacyguides.net/t/feurstagram/37476#post_12) by @Onscreen5341 Onscreen5341 (Apr 29, 2026)
 - [_Before GitHub_](https://lucumr.pocoo.org/2026/4/28/before-github/) by Armin Ronacher's Thoughts and Writings (Apr 28, 2026)
 - [_What’s up Python? Frame pointers, sentinel values, venv discovery, more rust in Python..._](https://www.bitecode.dev/p/whats-up-python-frame-pointers-sentinel) by Bite Code! (Apr 28, 2026)
-- [_Cal.com is going closed source. Here's why._](https://cal.com/blog/cal-com-goes-closed-source-why?ref=selfh.st) by Bailey Pumfleet (Apr 20, 2026)
-- [_„Dann gewinnt die AfD“: Kubicki rechnet mit dem Brandmauer-Kurs ab_](https://apollo-news.net/dann-gewinnt-die-afd-kubicki-rechnet-mit-dem-brandmauer-kurs-ab/) by Redaktion (Apr 18, 2026)
-- [_If You've Never Bought a Tool You Didn't Need, You're Not Buying Enough Tools_](https://www.lesswrong.com/posts/opXWijs73rqhr7ohS/if-you-ve-never-bought-a-tool-you-didn-t-need-you-re-not) by Drake Morrison (Apr 18, 2026)
+- [_Equity for Europeans_](https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/) by Armin Ronacher's Thoughts and Writings (Apr 23, 2026)
+- [_3-2-1: On finding someone wonderful, emphasizing your strengths, and letting go_](https://jamesclear.com/3-2-1/april-23-2026) by James Clear - 3-2-1 Thursday Newsletter (Apr 23, 2026)
