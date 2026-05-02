@@ -1,7 +1,7 @@
 [tools]
 uv = "latest"
 python = "3.14"
-hugo = "0.160.1"
+hugo = "0.161.1"
 go = "1.26.1"
 
 [tasks.lint]
