@@ -35,6 +35,8 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_The AI industry is where banking was in 2006. (We're hiring)_](https://www.lesswrong.com/posts/gnZyTQFqLhiHdHELC/the-ai-industry-is-where-banking-was-in-2006-we-re-hiring) by felixgaston (May 08, 2026)
+- [_There is no evidence you should reapply sunscreen every 2 hours._](https://www.lesswrong.com/posts/daTGKn3pXzs75nSB7/there-is-no-evidence-you-should-reapply-sunscreen-every-2) by Hide (May 07, 2026)
 - [_Hart aber fair: Die Zuckersteuer rettet das Gesundheitssystem_](https://www.tichyseinblick.de/feuilleton/medien/hart-aber-fair-zuckersteuer-rettung/) by Gastautor (May 05, 2026)
 - [_Jobverlust-Report April_](https://www.tichyseinblick.de/wirtschaft/jobverlust-report-april/) by Alexander Heiden (May 05, 2026)
 - [_Siemens-Chef Busch warnt vor AfD-Regierungsbeteiligung_](https://apollo-news.net/siemens-chef-busch-warnt-vor-afd-regierungsbeteiligung/) by Redaktion (May 05, 2026)
@@ -43,5 +45,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Stopping AI is easier than Regulating it._](https://therealartificialintelligence.substack.com/p/stopping-ai-is-easier-than-regulating) by David Krueger (May 02, 2026)
 - [_SPD zweifelt Amtsfähigkeit des Kanzlers an: Stellt Friedrich Merz (CDU) die Vertrauensfrage?_](https://deutschlandkurier.de/2026/05/spd-zweifelt-amtsfaehigkeit-des-kanzlers-an-stellt-friedrich-merz-cdu-die-vertrauensfrage/?utm_source=rss&utm_medium=rss&utm_campaign=spd-zweifelt-amtsfaehigkeit-des-kanzlers-an-stellt-friedrich-merz-cdu-die-vertrauensfrage) by r2d2 (May 01, 2026)
 - [_Ghostty Is Leaving GitHub_](https://mitchellh.com/writing/ghostty-leaving-github) by Mitchell Hashimoto (Apr 30, 2026)
-- [_Skin in the Game_](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/) by Armin Ronacher (Apr 30, 2026)
-- [_Trump antwortet Merz frontal: „Er hat keine Ahnung!“_](https://www.tichyseinblick.de/kolumnen/aus-aller-welt/trump-merz/) by Redaktion (Apr 29, 2026)
