@@ -14,4 +14,4 @@ You can [visit the website](https://crypticorn.com) to stay up to date with the 
 
 <!--more-->
 
-I am one of the software engineers at Crypticorn and responsible for the development of the trading bot, the Hive AI and the frontend.
+I was one of the software engineers at Crypticorn and responsible for the development of the trading bot, the Hive AI and the frontend.
