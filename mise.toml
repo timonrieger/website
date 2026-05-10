@@ -29,16 +29,19 @@ description = "Update theme submodule to latest version"
 run = "git submodule update --remote --merge"
 
 [tasks."new:blog"]
-description = "Create a new blog post (usage: mise run new:blog TITLE)"
-run = 'hugo new blog/{{arg(name="title")}}'
+description = "Create a new blog post"
+usage = 'arg "<title>" help="Filename for the new blog post"'
+run = 'hugo new blog/$usage_title'
 
 [tasks."new:project"]
-description = "Create a new project (usage: mise run new:project NAME)"
-run = 'hugo new projects/{{arg(name="title")}}'
+description = "Create a new project"
+usage = 'arg "<title>" help="Filename for the new project"'
+run = 'hugo new projects/$usage_title'
 
 [tasks."new:page"]
-description = "Create a new single page (usage: mise run new:page NAME)"
-run = 'hugo new {{arg(name="title")}}.md'
+description = "Create a new single page"
+usage = 'arg "<title>" help="Filename for the new page (without .md)"'
+run = 'hugo new $usage_title.md'
 
 [tasks.reads]
 description = "Run the reads script"
