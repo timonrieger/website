@@ -35,6 +35,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_Who Got Breasts First and How We Got Them_](https://www.lesswrong.com/posts/XTHa5C6SgGKYopH7o/who-got-breasts-first-and-how-we-got-them) by rba (May 11, 2026)
 - [_The AI industry is where banking was in 2006. (We're hiring)_](https://www.lesswrong.com/posts/gnZyTQFqLhiHdHELC/the-ai-industry-is-where-banking-was-in-2006-we-re-hiring) by felixgaston (May 08, 2026)
 - [_There is no evidence you should reapply sunscreen every 2 hours._](https://www.lesswrong.com/posts/daTGKn3pXzs75nSB7/there-is-no-evidence-you-should-reapply-sunscreen-every-2) by Hide (May 07, 2026)
 - [_Hart aber fair: Die Zuckersteuer rettet das Gesundheitssystem_](https://www.tichyseinblick.de/feuilleton/medien/hart-aber-fair-zuckersteuer-rettung/) by Gastautor (May 05, 2026)
@@ -44,4 +45,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Content for Content’s Sake_](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) by Armin Ronacher's Thoughts and Writings (May 04, 2026)
 - [_Stopping AI is easier than Regulating it._](https://therealartificialintelligence.substack.com/p/stopping-ai-is-easier-than-regulating) by David Krueger (May 02, 2026)
 - [_SPD zweifelt Amtsfähigkeit des Kanzlers an: Stellt Friedrich Merz (CDU) die Vertrauensfrage?_](https://deutschlandkurier.de/2026/05/spd-zweifelt-amtsfaehigkeit-des-kanzlers-an-stellt-friedrich-merz-cdu-die-vertrauensfrage/?utm_source=rss&utm_medium=rss&utm_campaign=spd-zweifelt-amtsfaehigkeit-des-kanzlers-an-stellt-friedrich-merz-cdu-die-vertrauensfrage) by r2d2 (May 01, 2026)
-- [_Ghostty Is Leaving GitHub_](https://mitchellh.com/writing/ghostty-leaving-github) by Mitchell Hashimoto (Apr 30, 2026)
