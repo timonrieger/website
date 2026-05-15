@@ -25,6 +25,9 @@ jobs:
         env:
           READWISE_KEY: ${{ secrets.READWISE_KEY }}
 
+      - name: Lint changes
+        run: mise run lint
+
       - name: Get current date
         id: date
         run: echo "date=$(date +'%Y-%m-%d %H:%M')" >> $GITHUB_OUTPUT
