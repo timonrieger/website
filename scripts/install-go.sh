@@ -11,6 +11,7 @@ main() {
   # Install Go
   echo "Installing Go ${GO_VERSION}..."
   curl -sLJO "https://go.dev/dl/go${GO_VERSION}.linux-amd64.tar.gz"
+  mkdir -p "${HOME}/.local"
   tar -C "${HOME}/.local" -xf "go${GO_VERSION}.linux-amd64.tar.gz"
   rm "go${GO_VERSION}.linux-amd64.tar.gz"
   export PATH="${HOME}/.local/go/bin:${PATH}"
