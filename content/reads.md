@@ -35,6 +35,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_Sachsen-Anhalts CDU strebt Bündnis mit den Linken an_](https://www.tichyseinblick.de/meinungen/sachsen-anhalts-cdu-strebt-buendnis-mit-den-linken-an/) by Klaus-Rüdiger Mai (May 14, 2026)
 - [_Who Got Breasts First and How We Got Them_](https://www.lesswrong.com/posts/XTHa5C6SgGKYopH7o/who-got-breasts-first-and-how-we-got-them) by rba (May 11, 2026)
 - [_AfD-Erdrutschsieg in Brandenburg: Die Politikwende hat begonnen – im Osten!_](https://deutschlandkurier.de/2026/05/afd-erdrutschsieg-in-brandenburg-die-politikwende-hat-begonnen-im-osten/?utm_source=rss&utm_medium=rss&utm_campaign=afd-erdrutschsieg-in-brandenburg-die-politikwende-hat-begonnen-im-osten) by r2d2 (May 11, 2026)
 - [_The AI industry is where banking was in 2006. (We're hiring)_](https://www.lesswrong.com/posts/gnZyTQFqLhiHdHELC/the-ai-industry-is-where-banking-was-in-2006-we-re-hiring) by felixgaston (May 08, 2026)
@@ -44,4 +45,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Siemens-Chef Busch warnt vor AfD-Regierungsbeteiligung_](https://apollo-news.net/siemens-chef-busch-warnt-vor-afd-regierungsbeteiligung/) by Redaktion (May 05, 2026)
 - [_It's nice of you to worry about me, but I really do have a life_](https://www.lesswrong.com/posts/qRZLEBmNtT6LBuFsE/it-s-nice-of-you-to-worry-about-me-but-i-really-do-have-a) by Viliam (May 05, 2026)
 - [_Content for Content’s Sake_](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) by Armin Ronacher's Thoughts and Writings (May 04, 2026)
-- [_Stopping AI is easier than Regulating it._](https://therealartificialintelligence.substack.com/p/stopping-ai-is-easier-than-regulating) by David Krueger (May 02, 2026)
