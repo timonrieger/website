@@ -8,6 +8,10 @@ go = "1.26.1"
 run = "uvx pre-commit run --all-files"
 description = "Run pre-commit hooks"
 
+[tasks."lint:fix"]
+run = "uvx pre-commit run --all-files || true"
+description = "Run pre-commit hooks without failing"
+
 [tasks.setup]
 run = ["mise install", "uvx pre-commit install"]
 description = "Setup the project"

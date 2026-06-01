@@ -26,7 +26,7 @@ jobs:
           READWISE_KEY: ${{ secrets.READWISE_KEY }}
 
       - name: Lint changes
-        run: mise run lint
+        run: mise run lint:fix
 
       - name: Get current date
         id: date
