@@ -7,14 +7,14 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 ## Favorite Books
 
 - [_Der Almanach Von Naval Ravikant_](https://amazon.com/dp/B092376RD6) by Eric Jorgenson (Jul 25, 2024)
+- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (May 16, 2026)
 - _Eine Kurze Geschichte Der Menschheit_ by Yuval Noah Harari (Feb 28, 2023)
 - [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr 18, 2024)
 - [_Die Kunst Des Klaren Denkens_](https://amazon.com/dp/B005MPFALW) by Rolf Dobelli (Feb 09, 2024)
-- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Apr 22, 2026)
 
 ## Latest Books
 
-- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Apr 22, 2026)
+- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (May 16, 2026)
 - [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Apr 01, 2026)
 - [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Nov 02, 2025)
 - [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
@@ -35,13 +35,13 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
-- [_Sachsen-Anhalts CDU strebt Bündnis mit den Linken an_](https://www.tichyseinblick.de/meinungen/sachsen-anhalts-cdu-strebt-buendnis-mit-den-linken-an/) by Klaus-Rüdiger Mai (May 14, 2026)
-- [_Who Got Breasts First and How We Got Them_](https://www.lesswrong.com/posts/XTHa5C6SgGKYopH7o/who-got-breasts-first-and-how-we-got-them) by rba (May 11, 2026)
-- [_AfD-Erdrutschsieg in Brandenburg: Die Politikwende hat begonnen – im Osten!_](https://deutschlandkurier.de/2026/05/afd-erdrutschsieg-in-brandenburg-die-politikwende-hat-begonnen-im-osten/?utm_source=rss&utm_medium=rss&utm_campaign=afd-erdrutschsieg-in-brandenburg-die-politikwende-hat-begonnen-im-osten) by r2d2 (May 11, 2026)
-- [_The AI industry is where banking was in 2006. (We're hiring)_](https://www.lesswrong.com/posts/gnZyTQFqLhiHdHELC/the-ai-industry-is-where-banking-was-in-2006-we-re-hiring) by felixgaston (May 08, 2026)
-- [_There is no evidence you should reapply sunscreen every 2 hours._](https://www.lesswrong.com/posts/daTGKn3pXzs75nSB7/there-is-no-evidence-you-should-reapply-sunscreen-every-2) by Hide (May 07, 2026)
-- [_Hart aber fair: Die Zuckersteuer rettet das Gesundheitssystem_](https://www.tichyseinblick.de/feuilleton/medien/hart-aber-fair-zuckersteuer-rettung/) by Gastautor (May 05, 2026)
-- [_Jobverlust-Report April_](https://www.tichyseinblick.de/wirtschaft/jobverlust-report-april/) by Alexander Heiden (May 05, 2026)
-- [_Siemens-Chef Busch warnt vor AfD-Regierungsbeteiligung_](https://apollo-news.net/siemens-chef-busch-warnt-vor-afd-regierungsbeteiligung/) by Redaktion (May 05, 2026)
-- [_It's nice of you to worry about me, but I really do have a life_](https://www.lesswrong.com/posts/qRZLEBmNtT6LBuFsE/it-s-nice-of-you-to-worry-about-me-but-i-really-do-have-a) by Viliam (May 05, 2026)
-- [_Content for Content’s Sake_](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) by Armin Ronacher's Thoughts and Writings (May 04, 2026)
+- [_Die „Deutschen“ – Wo sind sie geblieben?_](https://www.tichyseinblick.de/feuilleton/deutsche/) by Helmut Berschin (Jun 01, 2026)
+- [_Discord will soon require face scans or ID for all users, or restrict access_](https://discuss.privacyguides.net/t/discord-will-soon-require-face-scans-or-id-for-all-users-or-restrict-access/35323?page=3#post_106) by @_TrustyRocinante (Jun 01, 2026)
+- [_BSW auch offen für Minderheitsregierung: AfD „muss natürlich in Sachsen-Anhalt Einfluss haben“, sagt Wagenknecht_](https://apollo-news.net/bsw-auch-offen-fuer-minderheitsregierung-afd-muss-natuerlich-in-sachsen-anhalt-einfluss-haben-sagt-wagenknecht/) by Redaktion (Jun 01, 2026)
+- [_„Mein Austritt aus der Alternative für Deutschland“: CDU irritiert mit vorformuliertem Brief an AfD-Abgeordnete_](https://apollo-news.net/mein-austritt-aus-der-alternative-fr-deutschland-cdu-irritiert-mit-vorformuliertem-brief-an-afd-abgeordnete/) by Redaktion (May 28, 2026)
+- [_Clanker: A Word For The Machine_](https://lucumr.pocoo.org/2026/5/26/clankers/) by Armin Ronacher's Thoughts and Writings (May 26, 2026)
+- [_Free Will In War And Peace_](https://aporia.byu.edu/pdfs/tugushev-free_will_in_war_and_peace.pdf) by Nikolay Tugushev (May 25, 2026)
+- [_The Zen of Tolstoy_](https://www.commonwealmagazine.org/zen-tolstoy) by Commonweal (May 25, 2026)
+- [_The Use Of Knowledge In Society_](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf) by F. A. Hayek (May 25, 2026)
+- [_Bullshit-Bas: Deutschland-Beleidigerin kassiert fast 50.000 Euro vom deutschen Steuerzahler – monatlich!_](https://deutschlandkurier.de/2026/05/bullshit-bas-deutschland-beleidigerin-kassiert-fast-50-000-euro-vom-deutschen-steuerzahler-monatlich/?utm_source=rss&utm_medium=rss&utm_campaign=bullshit-bas-deutschland-beleidigerin-kassiert-fast-50-000-euro-vom-deutschen-steuerzahler-monatlich) by r2d2 (May 25, 2026)
+- [_Building Pi With Pi_](https://lucumr.pocoo.org/2026/5/24/pi-oss/) by Armin Ronacher's Thoughts and Writings (May 24, 2026)
