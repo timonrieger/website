@@ -43,5 +43,5 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Free Will In War And Peace_](https://aporia.byu.edu/pdfs/tugushev-free_will_in_war_and_peace.pdf) by Nikolay Tugushev (May 25, 2026)
 - [_The Zen of Tolstoy_](https://www.commonwealmagazine.org/zen-tolstoy) by Commonweal (May 25, 2026)
 - [_The Use Of Knowledge In Society_](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf) by F. A. Hayek (May 25, 2026)
-- [_Bullshit-Bas: Deutschland-Beleidigerin kassiert fast 50.000 Euro vom deutschen Steuerzahler – monatlich!_](https://deutschlandkurier.de/2026/05/bullshit-bas-deutschland-beleidigerin-kassiert-fast-50-000-euro-vom-deutschen-steuerzahler-monatlich/?utm_source=rss&utm_medium=rss&utm_campaign=bullshit-bas-deutschland-beleidigerin-kassiert-fast-50-000-euro-vom-deutschen-steuerzahler-monatlich) by r2d2 (May 25, 2026)
 - [_Building Pi With Pi_](https://lucumr.pocoo.org/2026/5/24/pi-oss/) by Armin Ronacher's Thoughts and Writings (May 24, 2026)
+- [_Probabilities are not the right concept_](https://www.lesswrong.com/posts/o8PQcgpznf6GKszdA/probabilities-are-not-the-right-concept) by David Matolcsi (May 24, 2026)
