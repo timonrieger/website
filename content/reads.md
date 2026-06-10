@@ -35,6 +35,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_The Distribution Bootstrap for Payments Founders_](https://thecanteenapp.com/analysis/2026/05/28/distribution-bootstrap-payments-founders.html) by Canteen (Jun 09, 2026)
 - [_Die „Deutschen“ – Wo sind sie geblieben?_](https://www.tichyseinblick.de/feuilleton/deutsche/) by Helmut Berschin (Jun 01, 2026)
 - [_Discord will soon require face scans or ID for all users, or restrict access_](https://discuss.privacyguides.net/t/discord-will-soon-require-face-scans-or-id-for-all-users-or-restrict-access/35323?page=3#post_106) by @_TrustyRocinante (Jun 01, 2026)
 - [_BSW auch offen für Minderheitsregierung: AfD „muss natürlich in Sachsen-Anhalt Einfluss haben“, sagt Wagenknecht_](https://apollo-news.net/bsw-auch-offen-fuer-minderheitsregierung-afd-muss-natuerlich-in-sachsen-anhalt-einfluss-haben-sagt-wagenknecht/) by Redaktion (Jun 01, 2026)
@@ -44,4 +45,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_The Zen of Tolstoy_](https://www.commonwealmagazine.org/zen-tolstoy) by Commonweal (May 25, 2026)
 - [_The Use Of Knowledge In Society_](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf) by F. A. Hayek (May 25, 2026)
 - [_Building Pi With Pi_](https://lucumr.pocoo.org/2026/5/24/pi-oss/) by Armin Ronacher's Thoughts and Writings (May 24, 2026)
-- [_Probabilities are not the right concept_](https://www.lesswrong.com/posts/o8PQcgpznf6GKszdA/probabilities-are-not-the-right-concept) by David Matolcsi (May 24, 2026)
