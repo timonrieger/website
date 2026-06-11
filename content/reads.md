@@ -36,6 +36,8 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 ## Latest Articles
 
 - [_The Distribution Bootstrap for Payments Founders_](https://thecanteenapp.com/analysis/2026/05/28/distribution-bootstrap-payments-founders.html) by Canteen (Jun 09, 2026)
+- [_Vulnerability and malware checks in uv_](https://astral.sh/blog/uv-audit) by <william@astral.sh> (William Woodruff) (Jun 08, 2026)
+- [_What’s up Python? Pip supports locking, .pth files deprecated_](https://www.bitecode.dev/p/whats-up-python-pip-supports-locking) by Bite Code! (Jun 08, 2026)
 - [_Die „Deutschen“ – Wo sind sie geblieben?_](https://www.tichyseinblick.de/feuilleton/deutsche/) by Helmut Berschin (Jun 01, 2026)
 - [_Discord will soon require face scans or ID for all users, or restrict access_](https://discuss.privacyguides.net/t/discord-will-soon-require-face-scans-or-id-for-all-users-or-restrict-access/35323?page=3#post_106) by @_TrustyRocinante (Jun 01, 2026)
 - [_BSW auch offen für Minderheitsregierung: AfD „muss natürlich in Sachsen-Anhalt Einfluss haben“, sagt Wagenknecht_](https://apollo-news.net/bsw-auch-offen-fuer-minderheitsregierung-afd-muss-natuerlich-in-sachsen-anhalt-einfluss-haben-sagt-wagenknecht/) by Redaktion (Jun 01, 2026)
@@ -43,5 +45,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Clanker: A Word For The Machine_](https://lucumr.pocoo.org/2026/5/26/clankers/) by Armin Ronacher's Thoughts and Writings (May 26, 2026)
 - [_Free Will In War And Peace_](https://aporia.byu.edu/pdfs/tugushev-free_will_in_war_and_peace.pdf) by Nikolay Tugushev (May 25, 2026)
 - [_The Zen of Tolstoy_](https://www.commonwealmagazine.org/zen-tolstoy) by Commonweal (May 25, 2026)
-- [_The Use Of Knowledge In Society_](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf) by F. A. Hayek (May 25, 2026)
-- [_Building Pi With Pi_](https://lucumr.pocoo.org/2026/5/24/pi-oss/) by Armin Ronacher's Thoughts and Writings (May 24, 2026)
