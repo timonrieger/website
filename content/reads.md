@@ -43,5 +43,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_BSW auch offen für Minderheitsregierung: AfD „muss natürlich in Sachsen-Anhalt Einfluss haben“, sagt Wagenknecht_](https://apollo-news.net/bsw-auch-offen-fuer-minderheitsregierung-afd-muss-natuerlich-in-sachsen-anhalt-einfluss-haben-sagt-wagenknecht/) by Redaktion (Jun 01, 2026)
 - [_„Mein Austritt aus der Alternative für Deutschland“: CDU irritiert mit vorformuliertem Brief an AfD-Abgeordnete_](https://apollo-news.net/mein-austritt-aus-der-alternative-fr-deutschland-cdu-irritiert-mit-vorformuliertem-brief-an-afd-abgeordnete/) by Redaktion (May 28, 2026)
 - [_Clanker: A Word For The Machine_](https://lucumr.pocoo.org/2026/5/26/clankers/) by Armin Ronacher's Thoughts and Writings (May 26, 2026)
-- [_Free Will In War And Peace_](https://aporia.byu.edu/pdfs/tugushev-free_will_in_war_and_peace.pdf) by Nikolay Tugushev (May 25, 2026)
-- [_The Zen of Tolstoy_](https://www.commonwealmagazine.org/zen-tolstoy) by Commonweal (May 25, 2026)
