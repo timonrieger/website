@@ -41,5 +41,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Die „Deutschen“ – Wo sind sie geblieben?_](https://www.tichyseinblick.de/feuilleton/deutsche/) by Helmut Berschin (Jun 01, 2026)
 - [_Discord will soon require face scans or ID for all users, or restrict access_](https://discuss.privacyguides.net/t/discord-will-soon-require-face-scans-or-id-for-all-users-or-restrict-access/35323?page=3#post_106) by @_TrustyRocinante (Jun 01, 2026)
 - [_BSW auch offen für Minderheitsregierung: AfD „muss natürlich in Sachsen-Anhalt Einfluss haben“, sagt Wagenknecht_](https://apollo-news.net/bsw-auch-offen-fuer-minderheitsregierung-afd-muss-natuerlich-in-sachsen-anhalt-einfluss-haben-sagt-wagenknecht/) by Redaktion (Jun 01, 2026)
-- [_„Mein Austritt aus der Alternative für Deutschland“: CDU irritiert mit vorformuliertem Brief an AfD-Abgeordnete_](https://apollo-news.net/mein-austritt-aus-der-alternative-fr-deutschland-cdu-irritiert-mit-vorformuliertem-brief-an-afd-abgeordnete/) by Redaktion (May 28, 2026)
-- [_Clanker: A Word For The Machine_](https://lucumr.pocoo.org/2026/5/26/clankers/) by Armin Ronacher's Thoughts and Writings (May 26, 2026)
