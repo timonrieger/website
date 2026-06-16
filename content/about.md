@@ -9,7 +9,7 @@ Hey, I'm Timon. I'm a…
 - …work time developer
 - …free time rebel
 
-You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads), [photographing](/photos) and [tweeting](https://x.com/timonrieger).
+You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads) or [photographing](/photos).
 
 If you want to get in touch, you can send me an email at contact@ and the domain of this site.
 

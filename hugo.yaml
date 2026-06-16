@@ -166,9 +166,6 @@ params:
     - name: github
       title: View my Github
       url: "https://github.com/timonrieger"
-    - name: X
-      title: Follow on X
-      url: "https://x.com/timonrieger"
 
   footer:
     text: "[Status](https://stats.uptimerobot.com/nrF9tU3KtX) · [Privacy](/privacy-policy) · [AI Transparency](/ai-transparency)"
