@@ -4,7 +4,7 @@ draft: false
 title: 'Immichpy'
 url: 'projects/immichpy'
 cover:
-  image: "images/cover.png"
+  image: "images/cover.svg"
 weight: 1
 ---
 
