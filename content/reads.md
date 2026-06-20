@@ -42,3 +42,6 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Vulnerability and malware checks in uv_](https://astral.sh/blog/uv-audit) by <william@astral.sh> (William Woodruff) (Jun 08, 2026)
 - [_What’s up Python? Pip supports locking, .pth files deprecated_](https://www.bitecode.dev/p/whats-up-python-pip-supports-locking) by Bite Code! (Jun 08, 2026)
 - [_Communities of Not_](https://lucumr.pocoo.org/2026/6/6/communities-of-not/) by Armin Ronacher's Thoughts and Writings (Jun 06, 2026)
+- [_Die „Deutschen“ – Wo sind sie geblieben?_](https://www.tichyseinblick.de/feuilleton/deutsche/) by Helmut Berschin (Jun 01, 2026)
+- [_Discord will soon require face scans or ID for all users, or restrict access_](https://discuss.privacyguides.net/t/discord-will-soon-require-face-scans-or-id-for-all-users-or-restrict-access/35323?page=3#post_106) by @_TrustyRocinante (Jun 01, 2026)
+- [_BSW auch offen für Minderheitsregierung: AfD „muss natürlich in Sachsen-Anhalt Einfluss haben“, sagt Wagenknecht_](https://apollo-news.net/bsw-auch-offen-fuer-minderheitsregierung-afd-muss-natuerlich-in-sachsen-anhalt-einfluss-haben-sagt-wagenknecht/) by Redaktion (Jun 01, 2026)
