@@ -41,4 +41,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_The Distribution Bootstrap for Payments Founders_](https://thecanteenapp.com/analysis/2026/05/28/distribution-bootstrap-payments-founders.html) by Canteen (Jun 09, 2026)
 - [_Vulnerability and malware checks in uv_](https://astral.sh/blog/uv-audit) by <william@astral.sh> (William Woodruff) (Jun 08, 2026)
 - [_What’s up Python? Pip supports locking, .pth files deprecated_](https://www.bitecode.dev/p/whats-up-python-pip-supports-locking) by Bite Code! (Jun 08, 2026)
-- [_Communities of Not_](https://lucumr.pocoo.org/2026/6/6/communities-of-not/) by Armin Ronacher's Thoughts and Writings (Jun 06, 2026)
