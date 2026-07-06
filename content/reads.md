@@ -41,4 +41,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Gehirnfallen, Denkfehler, Verzerrungen: Denkste!_](https://www.e-fellows.net/skills/lernmethoden/haeufige-denkfehler?utm_content=Stipendiat&utm_campaign=nl_stme2626&utm_medium=em&utm_source=nl) by e-fellows.net (Jun 22, 2026)
 - [_Open source won. That is why LGTM stopped being enough_](https://frenck.dev/open-source-won-lgtm-stopped-being-enough/) by Franck Nijhof (Jun 19, 2026)
 - [_Lufthansa stellt mehr und mehr Flüge ein_](https://www.tichyseinblick.de/wirtschaft/lufthansa-stellt-fluege-ein/) by Holger Douglas (Jun 17, 2026)
-- [_Dangerous Technology For Americans Only_](https://lucumr.pocoo.org/2026/6/13/americans-only/) by Armin Ronacher's Thoughts and Writings (Jun 13, 2026)
