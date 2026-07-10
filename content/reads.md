@@ -39,3 +39,4 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Mehrheit der Wähler fordert Ende der Brandmauer – AfD-Parteiverbot stößt überwiegend auf Ablehnung_](https://apollo-news.net/mehrheit-der-waehler-fordert-ende-der-brandmauer-afd-parteiverbot-stoesst-ueberwiegend-auf-ablehnung/) by Jonas Aston (Jun 30, 2026)
 - [_Morning-Briefing: Rekorde in der Krise – ist Ethereum gerade massiv unterschätzt?_](https://hkcmanagement.de/hkcmnews/morning-briefing-rekorde-in-der-krise-warum-ethereum-massiv-unterschatzt) by Simeon Koch (Jun 25, 2026)
 - [_Gehirnfallen, Denkfehler, Verzerrungen: Denkste!_](https://www.e-fellows.net/skills/lernmethoden/haeufige-denkfehler?utm_content=Stipendiat&utm_campaign=nl_stme2626&utm_medium=em&utm_source=nl) by e-fellows.net (Jun 22, 2026)
+- [_Open source won. That is why LGTM stopped being enough_](https://frenck.dev/open-source-won-lgtm-stopped-being-enough/) by Franck Nijhof (Jun 19, 2026)
