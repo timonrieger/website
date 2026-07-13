@@ -37,4 +37,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 - [_Finding Local Privacy Conscious Friends_](https://discuss.privacyguides.net/t/finding-local-privacy-conscious-friends/38700?page=2#post_26) by @beantaco (Jul 01, 2026)
 - [_Mehrheit der Wähler fordert Ende der Brandmauer – AfD-Parteiverbot stößt überwiegend auf Ablehnung_](https://apollo-news.net/mehrheit-der-waehler-fordert-ende-der-brandmauer-afd-parteiverbot-stoesst-ueberwiegend-auf-ablehnung/) by Jonas Aston (Jun 30, 2026)
-- [_Morning-Briefing: Rekorde in der Krise – ist Ethereum gerade massiv unterschätzt?_](https://hkcmanagement.de/hkcmnews/morning-briefing-rekorde-in-der-krise-warum-ethereum-massiv-unterschatzt) by Simeon Koch (Jun 25, 2026)
