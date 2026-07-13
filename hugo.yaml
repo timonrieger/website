@@ -1,5 +1,5 @@
 baseURL: https://timonrieger.de/
-languageCode: en-us
+locale: en-us
 copyright: "© Timon Rieger"
 title: timonrieger.de
 theme: ["PaperMod"]
@@ -37,7 +37,7 @@ minify:
 
 languages:
   en:
-    languageName: "English"
+    label: "English"
     weight: 1
     taxonomies:
       category: categories
@@ -65,7 +65,7 @@ languages:
           weight: 6
 
   # de:
-  #   languageName: "Deutsch"
+  #   label: "Deutsch"
   #   weight: 2
   #   taxonomies:
   #     category: categories
