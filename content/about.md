@@ -3,17 +3,13 @@ title: 'About'
 url: 'about'
 ---
 
-Hey, I'm Timon. I'm a…
+Hey, I'm Timon. I like to share stuff I do and think about on this site.
 
-- …life time learner
-- …work time developer
-- …free time rebel
+You could look at [projects I am working on](/projects), [my writups](/blog), [what I am reading](/reads) or [photo collages](/photos).
 
-You will find me either [working on projects](/projects), [writing](/blog), [reading](/reads) or [photographing](/photos).
+If you want to reach out, you can send me an email at contact@ and the domain of this site.
 
-If you want to get in touch, you can send me an email at contact@ and the domain of this site.
-
-**The principles I live by:**
+**Principles I live by:**
 
 1. learning gives purpose
 2. freedom in any way
