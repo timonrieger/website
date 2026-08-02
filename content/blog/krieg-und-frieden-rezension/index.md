@@ -2,8 +2,8 @@
 date: '2026-05-25T17:11:37+02:00'
 draft: false
 tags: ['philosophy', 'german', 'books']
-title: 'Krieg und Frieden — Rezension'
-url: 'blog/krieg-und-frieden-rezension'
+title: 'Krieg und Frieden'
+url: 'blog/krieg-und-frieden'
 ---
 
 5 Monate hatte ich für die 2000-seitige Lektüre von Leo Tolstoi gebraucht. Es war mehr die schiere Anzahl an Seiten als die Schwierigkeit oder Langatmigkeit der Geschichte, die mich so lange hat brauchen lassen.
