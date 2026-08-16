@@ -14,6 +14,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Books
 
+- _The Book of Secrets_ by Osho (Aug 15, 2026)
 - _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Jun 22, 2026)
 - [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Apr 01, 2026)
 - [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Nov 02, 2025)
@@ -23,7 +24,6 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Komm, Ich Erzähl Dir Eine Geschichte_](https://amazon.com/dp/B005NZHBUE) by Jorge Bucay (Feb 03, 2025)
 - [_The Essential Hayek_](https://amazon.com/dp/B00ZGSIJ7M) by Donald J. Boudreaux (Dec 14, 2024)
 - [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov 14, 2024)
-- [_Der Almanach Von Naval Ravikant_](https://amazon.com/dp/B092376RD6) by Eric Jorgenson (Jul 25, 2024)
 
 ## Favorite Articles
 
