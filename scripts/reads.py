@@ -6,8 +6,9 @@
 # ///
 
 import os
+from datetime import datetime, timedelta, timezone
+
 import requests
-from datetime import datetime, timedelta
 
 readwise_token = os.getenv("READWISE_KEY")
 readwise_headers = {"Authorization": f"Token {readwise_token}"}
@@ -66,7 +67,7 @@ def get_readwise_data(category):
 
 def get_reader_data():
     # Get documents updated in last 30 days
-    thirty_days_ago = (datetime.now() - timedelta(days=30)).isoformat()
+    thirty_days_ago = (datetime.now(timezone.utc) - timedelta(days=30)).isoformat()
     item_list = []
     next_page_cursor = None
     while True:
@@ -135,7 +136,7 @@ def gen_markdown(data):
 
 def update_file(file_path, new_content):
     # Get the current date and time for the lastmod field
-    current_time = datetime.now().isoformat()
+    current_time = datetime.now(timezone.utc).isoformat()
 
     with open(file_path, "r") as f:
         content = f.read()

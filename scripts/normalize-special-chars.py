@@ -23,7 +23,8 @@ def main() -> None:
             continue
         try:
             text = path.read_text(encoding="utf-8")
-        except Exception:  # nosec B112
+        except (OSError, UnicodeDecodeError) as exc:
+            print(f"skipping {path}: {exc}", file=sys.stderr)
             continue
         new = text
         for bad, good in REPLACEMENTS.items():
