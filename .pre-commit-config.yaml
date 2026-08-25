@@ -36,6 +36,6 @@ repos:
     hooks:
       - id: normalize-special-chars
         name: Normalize special characters
-        entry: uv run scripts/normalize-special-chars.py
+        entry: python scripts/normalize-special-chars.py
         language: python
         types: [text]

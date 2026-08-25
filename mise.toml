@@ -5,15 +5,15 @@ hugo = "0.164.0"
 go = "1.26.3"
 
 [tasks.lint]
-run = "uvx pre-commit run --all-files"
+run = "uvx prek run --all-files"
 description = "Run pre-commit hooks"
 
 [tasks."lint:fix"]
-run = "uvx pre-commit run --all-files || true"
+run = "uvx prek run --all-files || true"
 description = "Run pre-commit hooks without failing"
 
 [tasks.setup]
-run = ["mise install", "uvx pre-commit install"]
+run = ["mise install", "uvx prek install -f"]
 description = "Setup the project"
 
 [tasks.dev]
