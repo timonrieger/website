@@ -14,6 +14,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Books
 
+- _Siddhartha_ by Hermann Hesse (Aug 26, 2026)
 - _The Book of Secrets_ by Osho (Aug 15, 2026)
 - _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Jun 22, 2026)
 - [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Apr 01, 2026)
@@ -23,7 +24,6 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - _Volkswirtschaftslehre - Eine praxisorientierte Einführung_ by Andreas Forner (Mar 23, 2025)
 - [_Komm, Ich Erzähl Dir Eine Geschichte_](https://amazon.com/dp/B005NZHBUE) by Jorge Bucay (Feb 03, 2025)
 - [_The Essential Hayek_](https://amazon.com/dp/B00ZGSIJ7M) by Donald J. Boudreaux (Dec 14, 2024)
-- [_Seneca's Letters From a Stoic_](https://amazon.com/dp/B07DXPT5XL) by Lucius Annaeus Seneca (Nov 14, 2024)
 
 ## Favorite Articles
 
@@ -32,3 +32,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
 - [_Reflecting on Life_](https://lucumr.pocoo.org/2024/12/26/reflecting-on-life/) by Armin Ronacher (Jan 09, 2026)
+
+## Latest Articles
+
+- [_What’s up Python? __json__, __export__ and Astral stuff_](https://www.bitecode.dev/p/whats-up-python-__json__-__export__) by Bite Code! (Aug 06, 2026)
