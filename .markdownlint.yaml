@@ -3,4 +3,4 @@ default: true
 MD013: false
 
 MD033:
-  allowed_elements: ["hr", "ul", "li"]
+  allowed_elements: ["hr", "ul", "li", "video", "iframe", "figure", "figcaption", "p", "a"]
