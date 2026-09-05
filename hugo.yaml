@@ -168,7 +168,7 @@ params:
       url: "https://github.com/timonrieger"
 
   footer:
-    text: "[Status](https://stats.uptimerobot.com/nrF9tU3KtX) · [Privacy](/privacy-policy) · [AI Transparency](/ai-transparency)"
+    text: "[Privacy](/privacy-policy) · [AI Transparency](/ai-transparency)"
     hideCopyright: false
 
   # editPost:
