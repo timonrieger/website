@@ -32,3 +32,11 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Has the Fed Improved U.S. Economic Performance?_](https://readwise.io/reader/document_raw_content/324447488) by Thomas L. Hogan (Jun 24, 2025)
 - [_101 Additional Advices_](https://kk.org/thetechnium/101-additional-advices/) by Kevin Kelly (May 19, 2024)
 - [_Reflecting on Life_](https://lucumr.pocoo.org/2024/12/26/reflecting-on-life/) by Armin Ronacher (Jan 09, 2026)
+
+## Latest Articles
+
+- [_Anonymous and open to all: The Home Assistant survey dataset_](https://www.openhomefoundation.org/blog/home-assistant-survey-dataset/?ref=selfh.st) by Annika Schulz, Idil Bostan (Sep 05, 2026)
+- [_What’s up Python? JSFiddle for Python, f-objects, and new built-ins…_](https://www.bitecode.dev/p/whats-up-python-jsfiddle-for-python) by Bite Code! (Sep 02, 2026)
+- [_3-2-1: On thinking long-term, how to attract like-minded people, and one sign of mental toughness_](https://jamesclear.com/3-2-1/august-27-2026) by James Clear - 3-2-1 Thursday Newsletter (Aug 28, 2026)
+- [_Issue #749: Polars vs SQL, Constants, deque, and More (2026-08-25)_](https://pycoders.com/issues/749) by PyCoder’s Weekly (Aug 25, 2026)
+- [_Moving out of Substack and Linkedin_](https://www.bitecode.dev/p/moving-out-of-substack-and-linkedin) by Bite Code! (Aug 25, 2026)
