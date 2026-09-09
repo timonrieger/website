@@ -35,8 +35,13 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_Plugin Architecture Across Service Boundaries: An API Contract with Pydantic & FastAPI - Pt. 1_](https://pycoders.com/link/17023/feed) by Patrick Müller (Sep 09, 2026)
+- [_When to use NotImplemented_](https://pycoders.com/link/17022/feed) by Trey Hunner (Sep 09, 2026)
+- [_Issue #751: Profiling, From pandas to Polars, NotImplemented, and More (2026-09-08)_](https://pycoders.com/issues/751) by PyCoder’s Weekly (Sep 08, 2026)
+- [_Astral joins OpenAI_](https://talkpython.fm/episodes/show/552/astral-joins-openai) by Michael Kennedy (Sep 07, 2026)
+- [_Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers_](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/) by Edward Li's Blog (Sep 07, 2026)
 - [_Anonymous and open to all: The Home Assistant survey dataset_](https://www.openhomefoundation.org/blog/home-assistant-survey-dataset/?ref=selfh.st) by Annika Schulz, Idil Bostan (Sep 05, 2026)
 - [_What’s up Python? JSFiddle for Python, f-objects, and new built-ins…_](https://www.bitecode.dev/p/whats-up-python-jsfiddle-for-python) by Bite Code! (Sep 02, 2026)
+- [_Issue #750: State of Django, PSF Elections, Python 3.15, and More (2026-09-01)_](https://pycoders.com/issues/750) by PyCoder’s Weekly (Sep 02, 2026)
 - [_3-2-1: On thinking long-term, how to attract like-minded people, and one sign of mental toughness_](https://jamesclear.com/3-2-1/august-27-2026) by James Clear - 3-2-1 Thursday Newsletter (Aug 28, 2026)
 - [_Issue #749: Polars vs SQL, Constants, deque, and More (2026-08-25)_](https://pycoders.com/issues/749) by PyCoder’s Weekly (Aug 25, 2026)
-- [_Moving out of Substack and Linkedin_](https://www.bitecode.dev/p/moving-out-of-substack-and-linkedin) by Bite Code! (Aug 25, 2026)
