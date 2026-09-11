@@ -44,4 +44,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_What’s up Python? JSFiddle for Python, f-objects, and new built-ins…_](https://www.bitecode.dev/p/whats-up-python-jsfiddle-for-python) by Bite Code! (Sep 02, 2026)
 - [_Issue #750: State of Django, PSF Elections, Python 3.15, and More (2026-09-01)_](https://pycoders.com/issues/750) by PyCoder’s Weekly (Sep 02, 2026)
 - [_3-2-1: On thinking long-term, how to attract like-minded people, and one sign of mental toughness_](https://jamesclear.com/3-2-1/august-27-2026) by James Clear - 3-2-1 Thursday Newsletter (Aug 28, 2026)
-- [_Issue #749: Polars vs SQL, Constants, deque, and More (2026-08-25)_](https://pycoders.com/issues/749) by PyCoder’s Weekly (Aug 25, 2026)
