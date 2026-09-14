@@ -35,6 +35,8 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_The Problem with pandas Isn’t Performance. It’s Cognitive Overhead._](https://pycoders.com/link/16926/feed) by Neal Hughes (Sep 09, 2026)
+- [_Build Your Own Face Recognition Tool With Python_](https://pycoders.com/link/17021/feed) by Kyle Stratis (Sep 09, 2026)
 - [_Plugin Architecture Across Service Boundaries: An API Contract with Pydantic & FastAPI - Pt. 1_](https://pycoders.com/link/17023/feed) by Patrick Müller (Sep 09, 2026)
 - [_When to use NotImplemented_](https://pycoders.com/link/17022/feed) by Trey Hunner (Sep 09, 2026)
 - [_Issue #751: Profiling, From pandas to Polars, NotImplemented, and More (2026-09-08)_](https://pycoders.com/issues/751) by PyCoder’s Weekly (Sep 08, 2026)
@@ -43,4 +45,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Anonymous and open to all: The Home Assistant survey dataset_](https://www.openhomefoundation.org/blog/home-assistant-survey-dataset/?ref=selfh.st) by Annika Schulz, Idil Bostan (Sep 05, 2026)
 - [_What’s up Python? JSFiddle for Python, f-objects, and new built-ins…_](https://www.bitecode.dev/p/whats-up-python-jsfiddle-for-python) by Bite Code! (Sep 02, 2026)
 - [_Issue #750: State of Django, PSF Elections, Python 3.15, and More (2026-09-01)_](https://pycoders.com/issues/750) by PyCoder’s Weekly (Sep 02, 2026)
-- [_3-2-1: On thinking long-term, how to attract like-minded people, and one sign of mental toughness_](https://jamesclear.com/3-2-1/august-27-2026) by James Clear - 3-2-1 Thursday Newsletter (Aug 28, 2026)
