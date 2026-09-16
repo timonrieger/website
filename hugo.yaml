@@ -118,7 +118,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Hey, I'm Timon. I'm a life time learner, work time developer, free time rebel. On this site, I share my thoughts and projects, write about my experiences and learnings, showcase photos and more."
+  description: "Hey, I'm Timon. I like to share stuff I do and think about on this site. You could look at projects I am working on, my writups, what I am reading or photo collages."
 
   # author:
 
