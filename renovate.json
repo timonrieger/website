@@ -1,8 +1,68 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:best-practices"
+  "extends": ["config:best-practices", "schedule:monthly"],
+  "timezone": "Europe/Berlin",
+  "labels": ["dependencies"],
+  "configMigration": true,
+  "minimumReleaseAge": "3 days",
+  "vulnerabilityAlerts": {
+    "labels": ["dependencies", "security"]
+  },
+  "osvVulnerabilityAlerts": true,
+  "pre-commit": {
+    "enabled": true
+  },
+  "git-submodules": {
+    "enabled": true
+  },
+  "pep723": {
+    "managerFilePatterns": ["/^scripts/.*\\.py$/"]
+  },
+  "customManagers": [
+    {
+      "customType": "regex",
+      "description": "Update HUGO_VERSION in vercel.json build env",
+      "managerFilePatterns": ["/^vercel\\.json$/"],
+      "matchStrings": ["\"HUGO_VERSION\": \"(?<currentValue>[^\"]+)\""],
+      "depNameTemplate": "hugo",
+      "packageNameTemplate": "gohugoio/hugo",
+      "datasourceTemplate": "github-releases",
+      "extractVersionTemplate": "^v(?<version>.*)$"
+    },
+    {
+      "customType": "regex",
+      "description": "Update GO_VERSION in vercel.json build env",
+      "managerFilePatterns": ["/^vercel\\.json$/"],
+      "matchStrings": ["\"GO_VERSION\": \"(?<currentValue>[^\"]+)\""],
+      "depNameTemplate": "go",
+      "datasourceTemplate": "golang-version"
+    }
   ],
-  "schedule": ["* * 1 * *"],
-  "description": "Schedule monthly on the first day of the month"
+  "packageRules": [
+    {
+      "description": "All GitHub Actions updates in one PR",
+      "matchManagers": ["github-actions"],
+      "groupName": "github actions"
+    },
+    {
+      "description": "pre-commit hooks, mise tools and script dependencies",
+      "matchManagers": ["pre-commit", "mise", "pep723"],
+      "groupName": "dev tooling"
+    },
+    {
+      "description": "PaperMod theme submodule and Hugo modules",
+      "matchManagers": ["git-submodules", "gomod"],
+      "groupName": "site theme and modules"
+    },
+    {
+      "description": "Keep go pins in sync (mise, go.mod, vercel.json)",
+      "matchDepNames": ["go"],
+      "groupName": "go"
+    },
+    {
+      "description": "Keep hugo pins in sync (mise, vercel.json)",
+      "matchDepNames": ["hugo"],
+      "groupName": "hugo"
+    }
+  ]
 }
