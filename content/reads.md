@@ -35,6 +35,7 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_Migration strategies for going from pandas to Polars_](https://pola.rs/posts/pandas-to-polars-migration-strategies/) by Thijs Nieuwdorp (Sep 09, 2026)
 - [_The Problem with pandas Isn’t Performance. It’s Cognitive Overhead._](https://pycoders.com/link/16926/feed) by Neal Hughes (Sep 09, 2026)
 - [_Build Your Own Face Recognition Tool With Python_](https://pycoders.com/link/17021/feed) by Kyle Stratis (Sep 09, 2026)
 - [_Plugin Architecture Across Service Boundaries: An API Contract with Pydantic & FastAPI - Pt. 1_](https://pycoders.com/link/17023/feed) by Patrick Müller (Sep 09, 2026)
@@ -44,4 +45,3 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 - [_Astral joins OpenAI_](https://talkpython.fm/episodes/show/552/astral-joins-openai) by Michael Kennedy (Sep 07, 2026)
 - [_Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers_](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/) by Edward Li's Blog (Sep 07, 2026)
 - [_Anonymous and open to all: The Home Assistant survey dataset_](https://www.openhomefoundation.org/blog/home-assistant-survey-dataset/?ref=selfh.st) by Annika Schulz, Idil Bostan (Sep 05, 2026)
-- [_What’s up Python? JSFiddle for Python, f-objects, and new built-ins…_](https://www.bitecode.dev/p/whats-up-python-jsfiddle-for-python) by Bite Code! (Sep 02, 2026)
