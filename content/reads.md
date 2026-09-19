@@ -35,13 +35,13 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_You Should Apply to Inkhaven_](https://www.lesswrong.com/posts/CKkB9MqsBgAobFtPS/you-should-apply-to-inkhaven) by Tomás B. (Sep 19, 2026)
 - [_„Adenauer SRP+“: Eltern protestieren gegen Anti-AfD-Bus im Schulunterricht_](https://apollo-news.net/adenauer-srp-eltern-protestieren-gegen-anti-afd-bus-im-schulunterricht/) by Redaktion (Sep 17, 2026)
 - [_„Dies würde die größte Not sofort lindern“ – Linke fordert 470 Euro Entlastung für alle_](https://www.msn.com/de-de/nachrichten/other/dies-w%C3%BCrde-die-gr%C3%B6%C3%9Fte-not-sofort-lindern-linke-fordert-470-euro-entlastung-f%C3%BCr-alle/ar-AA2cnAK6) by msn.com (Sep 17, 2026)
+- [_Ein komplettes Gehirn als Download: Google macht die Karte aller Nervenzellen einer Fliege frei verfügbar_](https://www.netzwelt.de/news/258626-komplettes-gehirn-download-google-macht-karte-aller-nervenzellen-fliege-frei-verfuegbar.html) by Darya Taghizadeh (Sep 17, 2026)
 - [_Migration strategies for going from pandas to Polars_](https://pola.rs/posts/pandas-to-polars-migration-strategies/) by Thijs Nieuwdorp (Sep 09, 2026)
 - [_The Problem with pandas Isn’t Performance. It’s Cognitive Overhead._](https://pycoders.com/link/16926/feed) by Neal Hughes (Sep 09, 2026)
 - [_Build Your Own Face Recognition Tool With Python_](https://pycoders.com/link/17021/feed) by Kyle Stratis (Sep 09, 2026)
 - [_Plugin Architecture Across Service Boundaries: An API Contract with Pydantic & FastAPI - Pt. 1_](https://pycoders.com/link/17023/feed) by Patrick Müller (Sep 09, 2026)
 - [_When to use NotImplemented_](https://pycoders.com/link/17022/feed) by Trey Hunner (Sep 09, 2026)
 - [_Issue #751: Profiling, From pandas to Polars, NotImplemented, and More (2026-09-08)_](https://pycoders.com/issues/751) by PyCoder’s Weekly (Sep 08, 2026)
-- [_RSS doesn’t have to be boring_](https://www.bitecode.dev/p/rss-doesnt-have-to-be-boring) by Bite Code! (Sep 08, 2026)
-- [_Astral joins OpenAI_](https://talkpython.fm/episodes/show/552/astral-joins-openai) by Michael Kennedy (Sep 07, 2026)
