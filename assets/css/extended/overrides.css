@@ -101,3 +101,8 @@
 .linkpreview__host {
   display: none;
 }
+
+.menu {
+  overflow: visible;
+  flex-wrap: wrap;
+}

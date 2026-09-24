@@ -54,15 +54,29 @@ languages:
         - name: Projects
           url: projects/
           weight: 3
+        - name: More
+          identifier: more
+          weight: 4
         - name: Photos
           url: photos/
-          weight: 4
+          parent: more
+          weight: 1
+        - name: Series
+          url: series/
+          parent: more
+          weight: 2
+        - name: Tags
+          url: tags/
+          parent: more
+          weight: 3
         - name: Search
           url: search/
-          weight: 5
+          parent: more
+          weight: 4
         - name: Archive
           url: archive/
-          weight: 6
+          parent: more
+          weight: 5
 
   # de:
   #   label: "Deutsch"
