@@ -14,4 +14,4 @@ mise tasks ls
 
 ## License
 
-The source code is licensed under the [MIT License](LICENSE). The written content in `content/` (blog posts, pages, and associated images) is licensed under [CC BY 4.0](content/LICENSE).
+The source code is licensed under the [MIT License](LICENSE). The written content is licensed under [CC BY 4.0](content/LICENSE).
