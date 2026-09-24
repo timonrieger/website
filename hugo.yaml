@@ -14,16 +14,21 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-pygmentsUseClasses: true
 mainsections: ["blog"]
 
 imaging:
   bgColor: '#000000'
-  hint: photo
-  quality: 100
   resampleFilter: box
-  exif:
-    includeFields: "Copyright"
+  jpeg:
+    quality: 100
+  webp:
+    hint: photo
+    quality: 100
+  avif:
+    hint: photo
+    quality: 100
+  meta:
+    fields: ["Copyright"]
 
 enableGitInfo: true
 
@@ -154,8 +159,6 @@ params:
 
   DateFormat: 'Jan 02, 2006'
 
-  images: ["images/papermod-cover.png"]
-
   profileMode:
     enabled: true
     title: Hi, I'm Timon
@@ -201,7 +204,6 @@ params:
   #         SiteVerificationTag: "XYZabc"
 
   assets:
-    disableHLJS: true
     favicon: "assets/favicon.ico"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
