@@ -1,3 +1,7 @@
+{{- /* Fork of themes/PaperMod/layouts/single.html @ d376885. Three deltas:
+       - drops the .post-content class (theme colour/margin) in favour of .md-content
+       - tags render .Name, not .LinkTitle, so they keep their frontmatter casing
+       - adds the related.html and backlinks.html partials above the content hook */}}
 {{- define "main" }}
 
 <article class="post-single">
@@ -42,9 +46,12 @@
   </div>
   {{- end }}
 
+  {{- partial "related.html" . }}
+  {{- partial "backlinks.html" . }}
+
+  {{- partial "extend_post_content.html" . }}
+
   <footer class="post-footer">
-    {{- partial "related.html" . }}
-    {{- partial "backlinks.html" . }}
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
