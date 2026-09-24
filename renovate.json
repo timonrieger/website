@@ -21,16 +21,6 @@
   "customManagers": [
     {
       "customType": "regex",
-      "description": "Update HUGO_VERSION in vercel.json build env",
-      "managerFilePatterns": ["/^vercel\\.json$/"],
-      "matchStrings": ["\"HUGO_VERSION\": \"(?<currentValue>[^\"]+)\""],
-      "depNameTemplate": "hugo",
-      "packageNameTemplate": "gohugoio/hugo",
-      "datasourceTemplate": "github-releases",
-      "extractVersionTemplate": "^v(?<version>.*)$"
-    },
-    {
-      "customType": "regex",
       "description": "Update GO_VERSION in vercel.json build env",
       "managerFilePatterns": ["/^vercel\\.json$/"],
       "matchStrings": ["\"GO_VERSION\": \"(?<currentValue>[^\"]+)\""],
@@ -60,9 +50,9 @@
       "groupName": "go"
     },
     {
-      "description": "Keep hugo pins in sync (mise, vercel.json)",
+      "description": "Hugo is upgraded manually",
       "matchDepNames": ["hugo"],
-      "groupName": "hugo"
+      "enabled": false
     }
   ]
 }
