@@ -1,7 +1,7 @@
 ---
 date: '2025-04-19T17:49:23+02:00'
 draft: false
-tags: [Society]
+tags: ['society']
 title: 'Biology Is Intentional'
 ---
 The other day, I came across a great video podcast that made me think about biologoy, relationships and happiness. I want to elaborate a bit on my thoughts about the topics that were part of the conversation.
