@@ -10,8 +10,6 @@ Homebrew makes it easy to search, inspect, and install third‑party apps, while
 
 <!--more-->
 
-<hr>
-
 ## Prerequisites
 
 [Install Homebrew](https://brew.sh) if not already installed.

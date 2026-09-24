@@ -13,12 +13,6 @@ _[Has the Fed Improved U.S. Economic Performance?](https://papers.ssrn.com/sol3/
 
 <!--more-->
 
-## Quote Of The Day
-
-> Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.
-
-<hr>
-
 ## Inflation Rates Increased
 
 The average rate of inflation was only 1% in the state banking period and was actually slightly negative at -1% in the national banking period. Average inflation rose to 1.89% in the early Fed period, then 3.93% in the World War II period and as high as 4.41% in the early postwar Fed period.
