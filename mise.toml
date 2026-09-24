@@ -50,3 +50,10 @@ run = 'hugo new $usage_title.md'
 [tasks.reads]
 description = "Run the reads script"
 run = "uv run scripts/reads.py"
+
+[tasks."new:letter"]
+description = "Create the next letter, numbered automatically"
+run = '''
+last=$(find content/blog -maxdepth 1 -type d -name 'letter-*' | sed 's|.*/letter-||' | grep -E '^[0-9]+$' | sort -n | tail -1)
+hugo new --kind letters "blog/letter-$(( ${last:-0} + 1 ))"
+'''
