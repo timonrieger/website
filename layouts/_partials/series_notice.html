@@ -1,0 +1,9 @@
+{{- /* Links a post to its series term page from the post meta line. */}}
+
+{{- $seriesTax := .Language.Params.Taxonomies.series | default "series" }}
+{{- with ($.GetTerms $seriesTax) }}
+{{- with index . 0 }}
+{{- if not $.Date.IsZero }}{{ printf "&nbsp;·&nbsp;" | safeHTML }}{{ end -}}
+<span>{{ i18n "series_notice" }} <a href="{{ .Permalink }}">{{ .LinkTitle }}</a></span>
+{{- end }}
+{{- end }}

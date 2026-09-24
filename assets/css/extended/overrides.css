@@ -37,6 +37,11 @@
   color: var(--primary);
 }
 
+.post-meta a {
+    color: var(--primary);
+    text-decoration: underline;
+}
+
 /* Photos gallery: controls the responsive grid and thumbnails on /photos. */
 .gallery {
   display: grid;

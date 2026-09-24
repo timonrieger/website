@@ -1,2 +1,4 @@
 - id: backlinks_title
   translation: "Backlinks"
+- id: series_notice
+  translation: "appears in"
