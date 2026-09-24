@@ -1,4 +1,3 @@
-{{- /* - tags render .Name, so they keep their frontmatter casing */}}
 {{- define "main" }}
 
 <article class="post-single">
@@ -53,7 +52,7 @@
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
-      <li><a href="{{ .Permalink }}">{{ .Name }}</a></li>
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
     {{- if (.Param "ShowPostNavLinks") }}

@@ -7,10 +7,7 @@
 {{- with .Params.series }}
 {{- with site.GetPage (printf "/series/%s" (urlize (index . 0))) }}
 {{- $pages := .Pages.ByDate }}
-{{- $idx := -1 }}
-{{- range $i, $p := $pages }}
-{{- if eq $p.Permalink $.Permalink }}{{ $idx = $i }}{{ end }}
-{{- end }}
+{{- $idx := $pages.IndexOf $ }}
 {{- if ge $idx 0 }}
 {{- $in_series = true }}
 {{- if gt $idx 0 }}{{ $prev = index $pages (sub $idx 1) }}{{ end }}
