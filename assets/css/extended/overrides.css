@@ -102,6 +102,10 @@
   display: none;
 }
 
+.md-content.verse p {
+  white-space: pre-wrap;
+}
+
 .menu {
   overflow: visible;
   flex-wrap: wrap;

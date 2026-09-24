@@ -39,7 +39,7 @@
   {{- end }}
 
   {{- if .Content }}
-  <div class="md-content">
+  <div class="md-content{{ if .Param "verse" }} verse{{ end }}">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
