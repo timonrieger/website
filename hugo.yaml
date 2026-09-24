@@ -15,6 +15,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 mainsections: ["blog"]
+capitalizeListTitles: false
 
 imaging:
   bgColor: '#000000'
@@ -155,7 +156,6 @@ params:
   ShowPageNums: false
   ShowToc: true
   comments: false
-  CapitalizeListTitles: false
 
   DateFormat: 'Jan 02, 2006'
 
