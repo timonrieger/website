@@ -1,0 +1,49 @@
+{{- /* Series-aware post navigation.
+       A page in a series steps through that series in reading order: "« Prev" is the
+       earlier entry, "Next »" the later one. Every other page keeps PaperMod's
+       site-wide chronology, where "Next »" means the next older post.
+       Overrides themes/PaperMod/layouts/_partials/post_nav_links.html @ d376885. */}}
+
+{{- $prev := false }}
+{{- $next := false }}
+{{- $in_series := false }}
+
+{{- with .Params.series }}
+{{- with site.GetPage (printf "/series/%s" (urlize (index . 0))) }}
+{{- $pages := .Pages.ByDate }}
+{{- $idx := -1 }}
+{{- range $i, $p := $pages }}
+{{- if eq $p.Permalink $.Permalink }}{{ $idx = $i }}{{ end }}
+{{- end }}
+{{- if ge $idx 0 }}
+{{- $in_series = true }}
+{{- if gt $idx 0 }}{{ $prev = index $pages (sub $idx 1) }}{{ end }}
+{{- if lt $idx (sub (len $pages) 1) }}{{ $next = index $pages (add $idx 1) }}{{ end }}
+{{- end }}
+{{- end }}
+{{- end }}
+
+{{- if not $in_series }}
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+{{- $prev = $pages.Next . }}
+{{- $next = $pages.Prev . }}
+{{- end }}
+{{- end }}
+
+{{- if or $prev $next }}
+<nav class="paginav">
+  {{- with $prev }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ i18n "prev_page" }}</span>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- with $next }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ i18n "next_page" }} »</span>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
