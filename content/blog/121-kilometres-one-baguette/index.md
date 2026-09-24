@@ -108,4 +108,4 @@ Logistics footnote: getting home from Torla was a bus to Sabiñánigo, a bus to 
 
 ## What's next
 
-The break is over. [Project "Revenge"](/blog/submarine-smashed#whats-next-revenge) started in the last week of August: three races across Europe and the goal of a half marathon under 1 hour and 17 minutes. The engine is there, now it needs pace.
+The break is over. [Project "Revenge"](/blog/submarine-smashed#whats-next-revenge) started in the last week of August: three races across Europe and the goal of a half marathon under 1 hour and 20 minutes. The engine is there, now it needs pace.

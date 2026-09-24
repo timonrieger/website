@@ -1,15 +1,16 @@
 ---
 date: '2024-06-20'
 draft: False
+series: ['Meditations of Marcus Aurelius']
 tags: ['philosophy', 'books']
 title: 'About Life and Emotions'
 ---
 
-After the first part [_About Life and Death_](/blog/about-life-and-death) and the second part [_About Life and Ethics_](/blog/about-life-and-ethics) below I'll continue with quotes regarding [_About Life and Emotions_](/blog/about-life-and-emotions). This is the final part of the series about the book "The Meditations of Marcus Aurelius".
-
-<!--more-->
+Below I continue with quotes about life and emotions, the final part of my notes on "The Meditations of Marcus Aurelius".
 
 As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.
+
+<!--more-->
 
 <hr>
 

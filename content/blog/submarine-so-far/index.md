@@ -1,6 +1,7 @@
 ---
 date: '2026-05-15T14:53:15+02:00'
 draft: false
+series: ['Submarine']
 tags: ['sports', 'running']
 title: 'Submarine, So Far'
 url: 'blog/submarine-so-far'

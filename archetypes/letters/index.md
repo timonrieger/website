@@ -1,7 +1,7 @@
 ---
 date: '{{ .Date }}'
 draft: true
-series: ['letters']
+series: ['Letters']
 tags: ['letters']
 verse: true
 title: '{{ replace (path.Base (path.Dir .Path)) "-" " " | title }}'

@@ -1,6 +1,7 @@
 ---
 date: '2026-08-14T20:41:54+02:00'
 draft: false
+series: ['Submarine']
 tags: ['sports', 'running']
 title: 'Submarine Smashed'
 url: 'blog/submarine-smashed'
@@ -63,4 +64,4 @@ Mentally I felt great after each run. Physically I can't say that confidently :)
 
 ## What's next: "Revenge"
 
-In [the first post](/blog/submarine-so-far) I hinted at the next project and it's time to announce it. Remember that half marathon from 2024 — targeted sub 1:45, finished in a catastrophic 1:51? Project "Revenge" is exactly what it sounds like. Starting in September, running three races across Europe. The goal: run a half marathon under 1 hour and 17 minutes (3:39min/km).
+In [the first post](/blog/submarine-so-far) I hinted at the next project and it's time to announce it. Remember that half marathon from 2024 — targeted sub 1:45, finished in a catastrophic 1:51? Project "Revenge" is exactly what it sounds like. Starting in September, running three races across Europe. The goal: run a half marathon under 1 hour and 20 minutes (3:47min/km).

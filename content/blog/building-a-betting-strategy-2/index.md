@@ -1,6 +1,7 @@
 ---
 date: '2024-12-09'
 draft: False
+series: ['Building a Betting Strategy']
 tags: ['data-analysis']
 title: 'Building a Betting Strategy (2)'
 ---

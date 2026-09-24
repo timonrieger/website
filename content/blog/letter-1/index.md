@@ -1,7 +1,7 @@
 ---
 date: '2026-09-24T11:26:24+02:00'
 draft: false
-series: ['letters']
+series: ['Letters']
 tags: ['letters']
 verse: true
 title: 'Letter 1'

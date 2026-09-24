@@ -1,6 +1,7 @@
 ---
 date: '2024-06-26'
 draft: False
+series: ['Building a Betting Strategy']
 tags: ['data-analysis']
 title: 'Building a Betting Strategy (1)'
 ---
@@ -49,6 +50,6 @@ This series of pie charts illustrates the distribution of match outcomes in the 
 
 ## Conclusion
 
-I hope you enjoyed reading this! Stay tuned for the next post, where we'll delve into building our own value betting strategy using these insights and more data. [Read Part 2](/blog/building-a-betting-strategy-2)
+I hope you enjoyed reading this! Stay tuned for the next post, where we'll delve into building our own value betting strategy using these insights and more data.
 
 *All graphics were created by me and are available for non\-commercial use. Please note that the analysis and calculations presented here may contain errors.*

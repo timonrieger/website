@@ -1,17 +1,16 @@
 ---
 date: '2024-05-15'
 draft: False
+series: ['Meditations of Marcus Aurelius']
 tags: ['philosophy', 'books']
 title: 'About Life and Ethics'
 ---
 
-The Meditations of Marcus Aurelius really brought me into the stoic philosophy. After the initial part [_About Life and Death_](/blog/about-life-and-death) below I'll continue with quotes regarding [_About Life and Ethics_](/blog/about-life-and-ethics).
-
-<!--more-->
-
-The next and final post about the book will be about [_About Life and Emotions_](/blog/about-life-and-emotions).
+The Meditations of Marcus Aurelius really brought me into the stoic philosophy. Below I continue with quotes about life and ethics.
 
 As a Roman emperor and Stoic, Marcus Aurelius is known for his thoughts and life wisdom, which still inspire many people today. His reflections on life, death, and human nature are definetely timeless.
+
+<!--more-->
 
 <hr>
 
