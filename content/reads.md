@@ -35,8 +35,13 @@ description: 'My latest and most valuable reads — updated daily at 11:00 UTC.'
 
 ## Latest Articles
 
+- [_Größter Krypto-Hack des Jahres: Nordkorea knackt nächste Top-Börse_](https://hkcm.com/insights/achtung-nordkorea-hackt-nachste-top-kryptoborse) by Author, , Simeon Koch (Sep 25, 2026)
+- [_Deutschlands KI-Sternchen Leopold Aschenbrenner ist zurück! (und setzt auf diese Aktien)_](https://hkcm.com/insights/deutschlands-ki-sternchen-leopold-aschenbrenner-ist-zuruck-und-setzt-auf-diese-aktien) by hkcm.com (Sep 25, 2026)
 - [_There is a channel to 900M weekly users. What goes in it?_](https://www.lesswrong.com/posts/gJJ9YHzuBvwAXrthW/there-is-a-channel-to-900m-weekly-users-what-goes-in-it) by Charbel-Raphaël (Sep 24, 2026)
+- [_„Eigentlich wollte ich Angler werden“: Die unbekannte Geschichte des Philip Hopf_](https://hkcm.com/insights/eigentlich-wollte-ich-angler-werden-die-unbekannte-geschichte-des-philip-hopf) by Author, , Muriel Ayari (Sep 19, 2026)
 - [_You Should Apply to Inkhaven_](https://www.lesswrong.com/posts/CKkB9MqsBgAobFtPS/you-should-apply-to-inkhaven) by Tomás B. (Sep 19, 2026)
 - [_„Adenauer SRP+“: Eltern protestieren gegen Anti-AfD-Bus im Schulunterricht_](https://apollo-news.net/adenauer-srp-eltern-protestieren-gegen-anti-afd-bus-im-schulunterricht/) by Redaktion (Sep 17, 2026)
 - [_„Dies würde die größte Not sofort lindern“ – Linke fordert 470 Euro Entlastung für alle_](https://www.msn.com/de-de/nachrichten/other/dies-w%C3%BCrde-die-gr%C3%B6%C3%9Fte-not-sofort-lindern-linke-fordert-470-euro-entlastung-f%C3%BCr-alle/ar-AA2cnAK6) by msn.com (Sep 17, 2026)
 - [_Ein komplettes Gehirn als Download: Google macht die Karte aller Nervenzellen einer Fliege frei verfügbar_](https://www.netzwelt.de/news/258626-komplettes-gehirn-download-google-macht-karte-aller-nervenzellen-fliege-frei-verfuegbar.html) by Darya Taghizadeh (Sep 17, 2026)
+- [_Migration strategies for going from pandas to Polars_](https://pola.rs/posts/pandas-to-polars-migration-strategies/) by Thijs Nieuwdorp (Sep 09, 2026)
+- [_The Problem with pandas Isn’t Performance. It’s Cognitive Overhead._](https://pycoders.com/link/16926/feed) by Neal Hughes (Sep 09, 2026)
