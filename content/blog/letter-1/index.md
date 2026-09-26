@@ -44,12 +44,9 @@ minding only stops once unconscious.
 In dreamless sleep the head unminds,
 transcending man when he cannot attend.
 
-The part that stops,
-man calls his own.
-The part that lasts,
-man never listens to.
-The head is knowing,
-the heart is feeling,
+The part that stops, man calls his own.
+The part that lasts, man never listens to.
+The head is knowing, the heart is feeling,
 and man's being remains within.
 Let feeling connect knowing back within.
 
