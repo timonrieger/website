@@ -5,7 +5,7 @@ url: 'about'
 
 Hey, I'm Timon. I like to share stuff on this site.
 
-You could look at [projects I am working on](/projects), [my writups](/blog), [what I am reading](/reads) or [photo collages](/photos).
+You could look at [projects I am working on](/projects), [my writups](/blog), [what I am reading](/reading) or [photo collages](/photos).
 
 If you want to reach out, you can send me an email at contact@ and the domain of this site.
 

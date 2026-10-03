@@ -47,9 +47,9 @@ description = "Create a new single page"
 usage = 'arg "<title>" help="Filename for the new page (without .md)"'
 run = 'hugo new $usage_title.md'
 
-[tasks.reads]
-description = "Run the reads script"
-run = "uv run scripts/reads.py"
+[tasks.reading]
+description = "Run the reading script"
+run = "uv run scripts/reading.py"
 
 [tasks."new:letter"]
 description = "Create the next letter, numbered automatically"

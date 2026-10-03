@@ -1,7 +1,7 @@
 ---
-title: 'Reads'
-url: 'reads'
-description: 'My latest and most valuable reads.'
+title: 'Reading'
+url: 'reading'
+description: 'My latest and most valuable reading.'
 ---
 
 ## Favorite Books

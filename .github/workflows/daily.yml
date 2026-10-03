@@ -20,8 +20,8 @@ jobs:
       - name: Install mise
         uses: jdx/mise-action@146a28175021df8ca24f8ee1828cc2a60f980bd5 # v3
 
-      - name: Run reads script
-        run: mise run reads
+      - name: Run reading script
+        run: mise run reading
         env:
           READWISE_KEY: ${{ secrets.READWISE_KEY }}
 
@@ -36,4 +36,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7
         with:
           commit_message: Published on ${{ steps.date.outputs.date }}
-          file_pattern: 'content/reads.md'
+          file_pattern: 'content/reading.md'

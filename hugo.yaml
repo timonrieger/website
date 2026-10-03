@@ -68,7 +68,7 @@ languages:
           parent: more
           weight: 1
         - name: Reading
-          url: reads/
+          url: reading/
           parent: more
           weight: 2
         - name: Series
