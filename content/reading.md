@@ -44,4 +44,4 @@ description: 'My latest and most valuable reading.'
 - [_Tapering vor dem Start: wie du entlastest und in Topform kommst_](https://runraceplanner.com/de/blog/tapering-endurance-peaking) by Ekaterina Gromova (Sep 25, 2026)
 - [_Das Eisbad: Freund der Erholung, Feind des Muskelwachstums_](https://runraceplanner.com/de/blog/cold-water-immersion-recovery) by Dmitry Volkov (Sep 25, 2026)
 - [_„Weniger essen — schneller laufen“: Wie ein Energiedefizit die Knochen von Läufern bricht_](https://runraceplanner.com/de/blog/bone-stress-injuries-red-s) by Olga Marchenko (Sep 25, 2026)
-- [_Protein für die Ausdauer: 1,8 g/kg und warum es dem Läufer nützt, nicht dem Bodybuilder_](https://runraceplanner.com/de/blog/protein-for-endurance-athletes) by Maxim Belyaev (Sep 25, 2026)
+- [_Zone 2: warum „180 minus Alter“ lügt und wie du dein lockeres Tempo findest_](https://runraceplanner.com/de/blog/zone-2-training-heart-rate) by Andrey Leskov (Sep 25, 2026)
