@@ -35,6 +35,7 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_Offset and Cursor Pagination explained_](https://dev.to/jackmarchant/offset-and-cursor-pagination-explained-b89) by Jack Marchant (Oct 08, 2026)
 - [_Search message content in Proton Mail_](https://proton.me/support/search-message-content) by Proton (Oct 06, 2026)
 - [_Padel bringt Bewegung in die Mittagspause_](https://stgallen24.ch/articles/409222-padel-bringt-bewegung-in-die-mittagspause) by stgallen24 (Sep 30, 2026)
 - [_Der vollständige Hydratations-Leitfaden für Läufer: Wie man Wasserverlust berechnet und in Form bleibt_](https://runraceplanner.com/de/blog/main-hydration-guide) by Andrey Leskov (Sep 25, 2026)
@@ -44,4 +45,3 @@ description: 'My latest and most valuable reading.'
 - [_Heißes Bad statt Berge: Wie Wärme die VO₂max steigert_](https://runraceplanner.com/de/blog/hot-baths-heat-acclimation-vo2max) by Anna Severova (Sep 25, 2026)
 - [_Tapering vor dem Start: wie du entlastest und in Topform kommst_](https://runraceplanner.com/de/blog/tapering-endurance-peaking) by Ekaterina Gromova (Sep 25, 2026)
 - [_Das Eisbad: Freund der Erholung, Feind des Muskelwachstums_](https://runraceplanner.com/de/blog/cold-water-immersion-recovery) by Dmitry Volkov (Sep 25, 2026)
-- [_„Weniger essen — schneller laufen“: Wie ein Energiedefizit die Knochen von Läufern bricht_](https://runraceplanner.com/de/blog/bone-stress-injuries-red-s) by Olga Marchenko (Sep 25, 2026)
