@@ -38,4 +38,3 @@ description: 'My latest and most valuable reading.'
 - [_Python 3.15_](https://astral.sh/blog/python-3.15) by <brent@astral.sh> (Brent Westbrook) (Oct 09, 2026)
 - [_Offset and Cursor Pagination explained_](https://dev.to/jackmarchant/offset-and-cursor-pagination-explained-b89) by Jack Marchant (Oct 08, 2026)
 - [_Search message content in Proton Mail_](https://proton.me/support/search-message-content) by Proton (Oct 06, 2026)
-- [_Padel bringt Bewegung in die Mittagspause_](https://stgallen24.ch/articles/409222-padel-bringt-bewegung-in-die-mittagspause) by stgallen24 (Sep 30, 2026)
