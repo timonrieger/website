@@ -35,6 +35,7 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_Issue #756: 3.15 Released For Real This Time, Muse, and More (2026-10-13)_](https://pycoders.com/issues/756) by PyCoder’s Weekly (Oct 13, 2026)
 - [_Python 3.15_](https://astral.sh/blog/python-3.15) by <brent@astral.sh> (Brent Westbrook) (Oct 09, 2026)
 - [_Offset and Cursor Pagination explained_](https://dev.to/jackmarchant/offset-and-cursor-pagination-explained-b89) by Jack Marchant (Oct 08, 2026)
 - [_Search message content in Proton Mail_](https://proton.me/support/search-message-content) by Proton (Oct 06, 2026)
