@@ -8,16 +8,16 @@ description: 'My latest and most valuable reading.'
 
 - _The Book of Secrets_ by Osho (Oct 21, 2026)
 - [_Der Almanach Von Naval Ravikant_](https://amazon.com/dp/B092376RD6) by Eric Jorgenson (Jul 25, 2024)
-- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Jun 22, 2026)
+- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Oct 23, 2026)
 - _Eine Kurze Geschichte Der Menschheit_ by Yuval Noah Harari (Feb 28, 2023)
 - [_Selbstbetrachtungen Von Marcus Aurelius_](https://amazon.com/dp/B07K4Q3DS7) by Marc Aurel (Apr 18, 2024)
 
 ## Latest Books
 
+- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Oct 23, 2026)
 - _The Book of Secrets_ by Osho (Oct 21, 2026)
 - _Essays - Deutsche Ausgabe_ by de Montaigne (Oct 20, 2026)
 - [_Siddhartha_](https://amazon.com/dp/B06XDDL7LT) by Hermann Hesse (Aug 26, 2026)
-- _The Beginning of Infinity - Explanations That Transform the World - David Deutsch_ by David Deutsch (Jun 22, 2026)
 - [_Krieg Und Frieden_](https://amazon.com/dp/B00J21XK5U) by Leo Tolstoi (Apr 01, 2026)
 - [_Tao Te King_](https://amazon.com/dp/B01GGOH2XG) by Laotse (Nov 02, 2025)
 - [_The Wealth of Nations_](https://amazon.com/dp/B08NPXBLYQ) by Adam Smith (Oct 12, 2025)
@@ -41,4 +41,3 @@ description: 'My latest and most valuable reading.'
 - [_2026 Chicago Marathon Results: Amos Kipruto (2:01:09) and Hawi Feysa (2:13:33) Win_](https://www.letsrun.com/news/2026/10/2026-chicago-marathon-results-amos-kipruto-20109-and-hawi-feysa-21333-win/) by Robert Johnson (Oct 11, 2026)
 - [_Python 3.15_](https://astral.sh/blog/python-3.15) by <brent@astral.sh> (Brent Westbrook) (Oct 09, 2026)
 - [_Offset and Cursor Pagination explained_](https://dev.to/jackmarchant/offset-and-cursor-pagination-explained-b89) by Jack Marchant (Oct 08, 2026)
-- [_Search message content in Proton Mail_](https://proton.me/support/search-message-content) by Proton (Oct 06, 2026)
