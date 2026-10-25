@@ -35,6 +35,7 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_eMudhra Intermediate CA Compromise_](https://emudhra.we-have-a-problem.com/) by we-have-a-problem.com (Oct 22, 2026)
 - [_Podcast: Are adidas’ Shoes Too Good? Plus Sawe vs. Kerr and Athing Mu’s Olympic Future_](https://www.letsrun.com/news/2026/10/podcast-are-adidas-shoes-too-good-plus-sawe-vs-kerr-and-athing-mus-olympic-future/) by LetsRun.com (Oct 20, 2026)
 - [_WTW: adidas Dominates the Sub-2:04 Explosion, BYU’s NCAA XC Drama, and Why Athing Mu Doubters Are Dead Wrong_](https://www.letsrun.com/news/2026/10/wtw-adidas-dominates-the-sub-204-explosion-byus-ncaa-xc-drama-and-why-athing-mu-doubters-are-dead-wrong/) by Robert Johnson (Oct 19, 2026)
 - [_Issue #756: 3.15 Released For Real This Time, Muse, and More (2026-10-13)_](https://pycoders.com/issues/756) by PyCoder’s Weekly (Oct 13, 2026)
