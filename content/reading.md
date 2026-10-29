@@ -40,5 +40,3 @@ description: 'My latest and most valuable reading.'
 - [_WTW: adidas Dominates the Sub-2:04 Explosion, BYU’s NCAA XC Drama, and Why Athing Mu Doubters Are Dead Wrong_](https://www.letsrun.com/news/2026/10/wtw-adidas-dominates-the-sub-204-explosion-byus-ncaa-xc-drama-and-why-athing-mu-doubters-are-dead-wrong/) by Robert Johnson (Oct 19, 2026)
 - [_Issue #756: 3.15 Released For Real This Time, Muse, and More (2026-10-13)_](https://pycoders.com/issues/756) by PyCoder’s Weekly (Oct 13, 2026)
 - [_2026 Chicago Marathon Results: Amos Kipruto (2:01:09) and Hawi Feysa (2:13:33) Win_](https://www.letsrun.com/news/2026/10/2026-chicago-marathon-results-amos-kipruto-20109-and-hawi-feysa-21333-win/) by Robert Johnson (Oct 11, 2026)
-- [_Python 3.15_](https://astral.sh/blog/python-3.15) by <brent@astral.sh> (Brent Westbrook) (Oct 09, 2026)
-- [_Offset and Cursor Pagination explained_](https://dev.to/jackmarchant/offset-and-cursor-pagination-explained-b89) by Jack Marchant (Oct 08, 2026)
