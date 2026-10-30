@@ -36,7 +36,10 @@ description: 'My latest and most valuable reading.'
 ## Latest Articles
 
 - [_eMudhra Intermediate CA Compromise_](https://emudhra.we-have-a-problem.com/) by we-have-a-problem.com (Oct 22, 2026)
+- [_Introducing tsrs: a Port of TypeScript to Rust_](https://blog.cloudflare.com/typescript-rust-port#why-rust) by Cloudflare Blog (Oct 20, 2026)
 - [_Podcast: Are adidas’ Shoes Too Good? Plus Sawe vs. Kerr and Athing Mu’s Olympic Future_](https://www.letsrun.com/news/2026/10/podcast-are-adidas-shoes-too-good-plus-sawe-vs-kerr-and-athing-mus-olympic-future/) by LetsRun.com (Oct 20, 2026)
 - [_WTW: adidas Dominates the Sub-2:04 Explosion, BYU’s NCAA XC Drama, and Why Athing Mu Doubters Are Dead Wrong_](https://www.letsrun.com/news/2026/10/wtw-adidas-dominates-the-sub-204-explosion-byus-ncaa-xc-drama-and-why-athing-mu-doubters-are-dead-wrong/) by Robert Johnson (Oct 19, 2026)
 - [_Issue #756: 3.15 Released For Real This Time, Muse, and More (2026-10-13)_](https://pycoders.com/issues/756) by PyCoder’s Weekly (Oct 13, 2026)
+- [_Kejelcha regains world half marathon record with 56:51 in Buenos Aires_](https://worldathletics.org/competitions/world-athletics-label-road-races/news/world-half-marathon-record-buenos-aires-2026-yomif-kejelcha) by worldathletics.org (Oct 30, 2026)
+- [_Die Wand im Marathon: VO₂peak fällt schon vor Kilometer 30 um 6 %_](https://runraceplanner.com/de/blog/hitting-the-wall-durability-marathon) by Maxim Belyaev (Oct 30, 2026)
 - [_2026 Chicago Marathon Results: Amos Kipruto (2:01:09) and Hawi Feysa (2:13:33) Win_](https://www.letsrun.com/news/2026/10/2026-chicago-marathon-results-amos-kipruto-20109-and-hawi-feysa-21333-win/) by Robert Johnson (Oct 11, 2026)
