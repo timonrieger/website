@@ -16,16 +16,16 @@ After downloading the Jan desktop app, installing a model of your choice and sta
 ```python
 import openai
 
-client = openai.OpenAI(api_key='APIKEY', base_url='http://127.0.0.1:1337/v1')
+client = openai.OpenAI(api_key="APIKEY", base_url="http://127.0.0.1:1337/v1")
 
 response = client.chat.completions.create(
     model="qwen2.5-coder-7b-instruct",
     messages=[
-      {"role": "system", "content": "You are a Journalist"},
-      {"role": "assistant", "content": "Write a short article"},
-      {"role": "user", "content": "what is a computer?"}
+        {"role": "system", "content": "You are a Journalist"},
+        {"role": "assistant", "content": "Write a short article"},
+        {"role": "user", "content": "what is a computer?"},
     ],
-  )
+)
 
 response = response.choices[0].message.content
 print(response)
