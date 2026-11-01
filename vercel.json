@@ -3,7 +3,7 @@
   "build": {
     "env": {
       "HUGO_VERSION": "0.166.0",
-      "GO_VERSION": "1.26.3"
+      "GO_VERSION": "1.27.3"
     }
   },
   "buildCommand": "export PATH=\"$HOME/.local/go/bin:$PATH\" && hugo --gc --minify",
