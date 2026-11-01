@@ -8,7 +8,6 @@ pagination:
   pagerSize: 10
   path: page
 
-enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -256,6 +255,9 @@ privacy:
   youtube:
     disabled: false
     privacyEnhanced: true
+
+security:
+  enableInlineShortcodes: true
 
 services:
   instagram:
