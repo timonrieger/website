@@ -2,7 +2,7 @@
 uv = "0.12.17"
 python = "3.14"
 hugo = "0.166.0"
-go = "1.26.3"
+go = "1.27.3"
 
 [tasks.lint]
 run = "uvx prek run --all-files"
