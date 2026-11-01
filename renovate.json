@@ -1,17 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:best-practices", "schedule:monthly"],
-  "timezone": "Europe/Berlin",
-  "labels": ["dependencies"],
-  "configMigration": true,
-  "minimumReleaseAge": "3 days",
-  "vulnerabilityAlerts": {
-    "labels": ["dependencies", "security"]
-  },
-  "osvVulnerabilityAlerts": true,
-  "pre-commit": {
-    "enabled": true
-  },
+  "extends": ["github>timonrieger/dotfiles//.github/renovate-base"],
   "git-submodules": {
     "enabled": true
   },
@@ -30,13 +19,8 @@
   ],
   "packageRules": [
     {
-      "description": "All GitHub Actions updates in one PR",
-      "matchManagers": ["github-actions"],
-      "groupName": "github actions"
-    },
-    {
-      "description": "pre-commit hooks, mise tools and script dependencies",
-      "matchManagers": ["pre-commit", "mise", "pep723"],
+      "description": "Script dependencies join the base dev tooling group",
+      "matchManagers": ["pep723"],
       "groupName": "dev tooling"
     },
     {
