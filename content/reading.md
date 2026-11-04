@@ -35,11 +35,13 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_Midterms-Sensation: Befeuert der Demokraten-Sieg diesen Altcoin-Hype?_](https://hkcm.com/insights/midterms-sensation-befeuert-der-demokraten-sieg-diesen-altcoin-hype) by Author, , Simeon Koch (Nov 04, 2026)
+- [_Do data removal services actually work?_](https://discuss.privacyguides.net/t/do-data-removal-services-actually-work/42015#post_3) by @blibly (Nov 04, 2026)
 - [_Will the recent Proton news (AI hysteria, toxic workplace, perception over security) affect recommendations?_](https://discuss.privacyguides.net/t/will-the-recent-proton-news-ai-hysteria-toxic-workplace-perception-over-security-affect-recommendations/41842?page=2#post_38) by @object2598 (Nov 03, 2026)
 - [_Age-Graded Running Performance Statistics 2026_](https://www.runifyapp.com/blog/age-graded-running-performance-statistics) by Team Runify (Nov 01, 2026)
-- [_tar-codec: a fast and secure tar parser for the Rust ecosystem_](https://astral.sh/blog/tar-codec) by <william@astral.sh> (William Woodruff) (Oct 27, 2026)
+- [_tar-codec: a fast and secure tar parser for the Rust ecosystem_](https://astral.sh/blog/tar-codec) by william@astral.sh (William Woodruff) (Oct 27, 2026)
 - [_eMudhra Intermediate CA Compromise_](https://emudhra.we-have-a-problem.com/) by we-have-a-problem.com (Oct 22, 2026)
 - [_Introducing tsrs: a Port of TypeScript to Rust_](https://blog.cloudflare.com/typescript-rust-port#why-rust) by Cloudflare Blog (Oct 20, 2026)
-- [_Bringing uv and ty together_](https://astral.sh/blog/uv-ty-integration) by <sara@astral.sh> (Sara Sklenka) (Oct 20, 2026)
+- [_Bringing uv and ty together_](https://astral.sh/blog/uv-ty-integration) by sara@astral.sh (Sara Sklenka) (Oct 20, 2026)
 - [_Podcast: Are adidas’ Shoes Too Good? Plus Sawe vs. Kerr and Athing Mu’s Olympic Future_](https://www.letsrun.com/news/2026/10/podcast-are-adidas-shoes-too-good-plus-sawe-vs-kerr-and-athing-mus-olympic-future/) by LetsRun.com (Oct 20, 2026)
 - [_WTW: adidas Dominates the Sub-2:04 Explosion, BYU’s NCAA XC Drama, and Why Athing Mu Doubters Are Dead Wrong_](https://www.letsrun.com/news/2026/10/wtw-adidas-dominates-the-sub-204-explosion-byus-ncaa-xc-drama-and-why-athing-mu-doubters-are-dead-wrong/) by Robert Johnson (Oct 19, 2026)
