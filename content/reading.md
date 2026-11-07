@@ -35,6 +35,7 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_Does This Men’s Tennis Season Suck, Or What?_](https://www.tennisabstract.com/blog/2026/10/22/does-this-mens-tennis-season-suck-or-what/) by tennisabstract.com (Nov 07, 2026)
 - [_Alex de Minaur’s Paris Collapse Exposed Why He’s Not Elite_](https://lastwordonsports.com/tennis/2026/11/05/de-minaurs-paris-collapse/) by Jack Beatnik (Nov 05, 2026)
 - [_Four Match Points, Another Collapse, and the Frances Tiafoe Problem_](https://lastwordonsports.com/tennis/2026/11/05/the-frances-tiafoe-problem/) by Jack Beatnik (Nov 05, 2026)
 - [_Midterms-Sensation: Befeuert der Demokraten-Sieg diesen Altcoin-Hype?_](https://hkcm.com/insights/midterms-sensation-befeuert-der-demokraten-sieg-diesen-altcoin-hype) by Author, , Simeon Koch (Nov 04, 2026)
@@ -44,4 +45,3 @@ description: 'My latest and most valuable reading.'
 - [_tar-codec: a fast and secure tar parser for the Rust ecosystem_](https://astral.sh/blog/tar-codec) by <william@astral.sh> (William Woodruff) (Oct 27, 2026)
 - [_eMudhra Intermediate CA Compromise_](https://emudhra.we-have-a-problem.com/) by we-have-a-problem.com (Oct 22, 2026)
 - [_Morgen, Kinder, wird’s was geben: Elon Musk verschenkt Millionen SpaceX-Aktien_](https://hkcm.com/insights/morgen-kinder-wirds-was-geben-elon-musk-verschenkt-millionen-spacex-aktien) by Author, , Simeon Koch (Oct 21, 2026)
-- [_Introducing tsrs: a Port of TypeScript to Rust_](https://blog.cloudflare.com/typescript-rust-port#why-rust) by Cloudflare Blog (Oct 20, 2026)
