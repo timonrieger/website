@@ -44,4 +44,3 @@ description: 'My latest and most valuable reading.'
 - [_Will the recent Proton news (AI hysteria, toxic workplace, perception over security) affect recommendations?_](https://discuss.privacyguides.net/t/will-the-recent-proton-news-ai-hysteria-toxic-workplace-perception-over-security-affect-recommendations/41842?page=2#post_38) by @object2598 (Nov 03, 2026)
 - [_Age-Graded Running Performance Statistics 2026_](https://www.runifyapp.com/blog/age-graded-running-performance-statistics) by Team Runify (Nov 01, 2026)
 - [_tar-codec: a fast and secure tar parser for the Rust ecosystem_](https://astral.sh/blog/tar-codec) by <william@astral.sh> (William Woodruff) (Oct 27, 2026)
-- [_eMudhra Intermediate CA Compromise_](https://emudhra.we-have-a-problem.com/) by we-have-a-problem.com (Oct 22, 2026)
