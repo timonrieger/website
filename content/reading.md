@@ -35,6 +35,8 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_Josh Kerr on Jakob Ingebrigtsen: “I wouldn’t say we’re buddies!” + No Olympic regrets, WR workouts & marathon ambitions_](https://www.letsrun.com/news/2026/11/josh-kerr-on-jakob-ingebrigtsen-i-wouldnt-say-were-buddies-no-olympic-regrets-wr-workouts-marathon-ambitions/) by LetsRun.com (Nov 10, 2026)
+- [_2026 Boston Half Results_](https://www.letsrun.com/news/2026/11/2026-boston-half-results/) by Robert Johnson (Nov 08, 2026)
 - [_“I’ve been chasing this moment for a long time”: why his first Paris final means so much to Alcaraz_](https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/ive-been-chasing-this-moment-for-a-long-time-why-his-first-paris-final-means-so-much-to-alcaraz-866310.html) by Cédric Rouquette (Nov 08, 2026)
 - [_Does This Men’s Tennis Season Suck, Or What?_](https://www.tennisabstract.com/blog/2026/10/22/does-this-mens-tennis-season-suck-or-what/) by tennisabstract.com (Nov 07, 2026)
 - [_Alex de Minaur’s Paris Collapse Exposed Why He’s Not Elite_](https://lastwordonsports.com/tennis/2026/11/05/de-minaurs-paris-collapse/) by Jack Beatnik (Nov 05, 2026)
@@ -43,4 +45,3 @@ description: 'My latest and most valuable reading.'
 - [_Do data removal services actually work?_](https://discuss.privacyguides.net/t/do-data-removal-services-actually-work/42015#post_3) by @blibly (Nov 04, 2026)
 - [_Will the recent Proton news (AI hysteria, toxic workplace, perception over security) affect recommendations?_](https://discuss.privacyguides.net/t/will-the-recent-proton-news-ai-hysteria-toxic-workplace-perception-over-security-affect-recommendations/41842?page=2#post_38) by @object2598 (Nov 03, 2026)
 - [_Age-Graded Running Performance Statistics 2026_](https://www.runifyapp.com/blog/age-graded-running-performance-statistics) by Team Runify (Nov 01, 2026)
-- [_tar-codec: a fast and secure tar parser for the Rust ecosystem_](https://astral.sh/blog/tar-codec) by <william@astral.sh> (William Woodruff) (Oct 27, 2026)
