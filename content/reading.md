@@ -35,13 +35,13 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_Money Crime$ Nr.5: Amourzon-Gate: Sex, Spionage und die schmutzigen Geheimnisse der Tech-Milliardäre_](https://hkcm.com/insights/money-crime-nr5-amourzon-gate-sex-spionage-und-die-schmutzigen-geheimnisse-der-tech-milliardare) by Author, , Muriel Ayari (Nov 13, 2026)
+- [_2026 Self-Host User Survey Results_](https://selfh.st/survey/2026-results/) by Ethan Sholly (Nov 12, 2026)
+- [_Awesome repositories are no longer awesome_](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/?ref=selfh.st) by erikgahner.github.io (Nov 12, 2026)
+- [_Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap — the bossman makes use of AI tooling himself after issuing clear pro-AI directives_](https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself?ref=selfh.st) by Bruno Ferreira (Nov 12, 2026)
 - [_Josh Kerr on Jakob Ingebrigtsen: “I wouldn’t say we’re buddies!” + No Olympic regrets, WR workouts & marathon ambitions_](https://www.letsrun.com/news/2026/11/josh-kerr-on-jakob-ingebrigtsen-i-wouldnt-say-were-buddies-no-olympic-regrets-wr-workouts-marathon-ambitions/) by LetsRun.com (Nov 10, 2026)
 - [_2026 Boston Half Results_](https://www.letsrun.com/news/2026/11/2026-boston-half-results/) by Robert Johnson (Nov 08, 2026)
 - [_“I’ve been chasing this moment for a long time”: why his first Paris final means so much to Alcaraz_](https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/ive-been-chasing-this-moment-for-a-long-time-why-his-first-paris-final-means-so-much-to-alcaraz-866310.html) by Cédric Rouquette (Nov 08, 2026)
 - [_Does This Men’s Tennis Season Suck, Or What?_](https://www.tennisabstract.com/blog/2026/10/22/does-this-mens-tennis-season-suck-or-what/) by tennisabstract.com (Nov 07, 2026)
 - [_Alex de Minaur’s Paris Collapse Exposed Why He’s Not Elite_](https://lastwordonsports.com/tennis/2026/11/05/de-minaurs-paris-collapse/) by Jack Beatnik (Nov 05, 2026)
 - [_Four Match Points, Another Collapse, and the Frances Tiafoe Problem_](https://lastwordonsports.com/tennis/2026/11/05/the-frances-tiafoe-problem/) by Jack Beatnik (Nov 05, 2026)
-- [_Midterms-Sensation: Befeuert der Demokraten-Sieg diesen Altcoin-Hype?_](https://hkcm.com/insights/midterms-sensation-befeuert-der-demokraten-sieg-diesen-altcoin-hype) by Author, , Simeon Koch (Nov 04, 2026)
-- [_Do data removal services actually work?_](https://discuss.privacyguides.net/t/do-data-removal-services-actually-work/42015#post_3) by @blibly (Nov 04, 2026)
-- [_Will the recent Proton news (AI hysteria, toxic workplace, perception over security) affect recommendations?_](https://discuss.privacyguides.net/t/will-the-recent-proton-news-ai-hysteria-toxic-workplace-perception-over-security-affect-recommendations/41842?page=2#post_38) by @object2598 (Nov 03, 2026)
-- [_Age-Graded Running Performance Statistics 2026_](https://www.runifyapp.com/blog/age-graded-running-performance-statistics) by Team Runify (Nov 01, 2026)
