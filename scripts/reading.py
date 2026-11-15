@@ -23,6 +23,15 @@ ARTICLES = "articles"
 TWEETS = "tweets"
 PODCASTS = "podcasts"
 
+EXCLUDE_TAG = "unlisted"
+
+
+def is_excluded(item):
+    # v2 returns tags as a list of {id, name}, v3 as a dict keyed by tag name
+    tags = item.get("tags") or []
+    names = tags.keys() if isinstance(tags, dict) else [t["name"] for t in tags]
+    return EXCLUDE_TAG in (name.lower() for name in names)
+
 
 def get_readwise_data(category):
     response = requests.get(
@@ -55,6 +64,7 @@ def get_readwise_data(category):
         for item in response
         if item["title"] != "Quick Passages"
         and (item["num_highlights"] > 0 or category != BOOKS)
+        and not is_excluded(item)
     ]
     last = sorted(item_list, key=lambda x: x["date"], reverse=True)[:10]
     favorites = (
@@ -98,6 +108,7 @@ def get_reader_data():
         }
         for item in item_list
         if item["reading_progress"] > 0  # Only include items that have been started
+        and not is_excluded(item)
     ]
     return {"articles": [[], item_list[:10]]}
 
