@@ -165,6 +165,8 @@ def update_file(file_path, new_content):
 
 
 if __name__ == "__main__":
+    if not readwise_token:
+        raise SystemExit("READWISE_KEY environment variable is not set")
     file_path = FILE
     book_dict = get_readwise_data(BOOKS)
     reader_dict = get_reader_data()
