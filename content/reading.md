@@ -35,6 +35,7 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_Bergauf_](https://www.alpenverein.at/portal_wAssets/docs/service/bergauf/pdf_downloads/Bergauf_2026/Bergauf_4.26.pdf) by  (Nov 20, 2026)
 - [_Ah Sh*t, Here We Go Again (Bitcoin)_](https://hkcm.com/insights/ah-sht-here-we-go-again-bitcoin) by hkcm.com (Nov 19, 2026)
 - [_Zehn verrückte Zahlen zu GTA VI: So hat sich die (Finanz-) Welt seit GTA V verändert_](https://hkcm.com/insights/zehn-verruckte-zahlen-zu-gta-vi-so-hat-sich-die-finanz-welt-seit-gta-v-verandert) by Autor, , Simeon Koch (Nov 19, 2026)
 - [_Money Crime$ Nr.5: Amourzon-Gate: Sex, Spionage und die schmutzigen Geheimnisse der Tech-Milliardäre_](https://hkcm.com/insights/money-crime-nr5-amourzon-gate-sex-spionage-und-die-schmutzigen-geheimnisse-der-tech-milliardare) by Author, , Muriel Ayari (Nov 13, 2026)
@@ -44,4 +45,3 @@ description: 'My latest and most valuable reading.'
 - [_Josh Kerr on Jakob Ingebrigtsen: “I wouldn’t say we’re buddies!” + No Olympic regrets, WR workouts & marathon ambitions_](https://www.letsrun.com/news/2026/11/josh-kerr-on-jakob-ingebrigtsen-i-wouldnt-say-were-buddies-no-olympic-regrets-wr-workouts-marathon-ambitions/) by LetsRun.com (Nov 10, 2026)
 - [_2026 Boston Half Results_](https://www.letsrun.com/news/2026/11/2026-boston-half-results/) by Robert Johnson (Nov 08, 2026)
 - [_“I’ve been chasing this moment for a long time”: why his first Paris final means so much to Alcaraz_](https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/ive-been-chasing-this-moment-for-a-long-time-why-his-first-paris-final-means-so-much-to-alcaraz-866310.html) by Cédric Rouquette (Nov 08, 2026)
-- [_Does This Men’s Tennis Season Suck, Or What?_](https://www.tennisabstract.com/blog/2026/10/22/does-this-mens-tennis-season-suck-or-what/) by tennisabstract.com (Nov 07, 2026)
