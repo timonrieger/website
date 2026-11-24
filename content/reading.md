@@ -35,6 +35,7 @@ description: 'My latest and most valuable reading.'
 
 ## Latest Articles
 
+- [_Orang-Utan-Post_](https://readwise.io/reader/document_raw_content/523566413) by Borneo Orangutan Survival (Nov 23, 2026)
 - [_Bergauf_](https://www.alpenverein.at/portal_wAssets/docs/service/bergauf/pdf_downloads/Bergauf_2026/Bergauf_4.26.pdf) by  (Nov 20, 2026)
 - [_Ah Sh*t, Here We Go Again (Bitcoin)_](https://hkcm.com/insights/ah-sht-here-we-go-again-bitcoin) by hkcm.com (Nov 19, 2026)
 - [_Zehn verrückte Zahlen zu GTA VI: So hat sich die (Finanz-) Welt seit GTA V verändert_](https://hkcm.com/insights/zehn-verruckte-zahlen-zu-gta-vi-so-hat-sich-die-finanz-welt-seit-gta-v-verandert) by Autor, , Simeon Koch (Nov 19, 2026)
@@ -42,4 +43,3 @@ description: 'My latest and most valuable reading.'
 - [_2026 Self-Host User Survey Results_](https://selfh.st/survey/2026-results/) by Ethan Sholly (Nov 12, 2026)
 - [_Awesome repositories are no longer awesome_](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/?ref=selfh.st) by erikgahner.github.io (Nov 12, 2026)
 - [_Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap — the bossman makes use of AI tooling himself after issuing clear pro-AI directives_](https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself?ref=selfh.st) by Bruno Ferreira (Nov 12, 2026)
-- [_Josh Kerr on Jakob Ingebrigtsen: “I wouldn’t say we’re buddies!” + No Olympic regrets, WR workouts & marathon ambitions_](https://www.letsrun.com/news/2026/11/josh-kerr-on-jakob-ingebrigtsen-i-wouldnt-say-were-buddies-no-olympic-regrets-wr-workouts-marathon-ambitions/) by LetsRun.com (Nov 10, 2026)
